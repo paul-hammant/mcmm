@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.inria.powerspy
+ artifactId: powerspy-core_2.11
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20150602082337'
+

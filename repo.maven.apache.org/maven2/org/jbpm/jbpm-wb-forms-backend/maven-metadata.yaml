@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.jbpm
+ artifactId: jbpm-wb-forms-backend
+ versioning:
+  latest: 7.0.0.CR1
+  release: 7.0.0.CR1
+  versions:
+   version:
+   - 7.0.0.Beta6
+   - 7.0.0.Beta7
+   - 7.0.0.Beta8
+   - 7.0.0.CR1
+  lastUpdated: '20170407142028'
+

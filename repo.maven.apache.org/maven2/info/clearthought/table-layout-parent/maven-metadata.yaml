@@ -1,0 +1,10 @@
+metadata:
+ groupId: info.clearthought
+ artifactId: table-layout-parent
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20141130171548'
+

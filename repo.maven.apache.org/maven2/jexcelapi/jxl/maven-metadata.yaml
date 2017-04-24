@@ -1,0 +1,8 @@
+metadata:
+ groupId: jexcelapi
+ artifactId: jxl
+ version: 2.4.2
+ versioning:
+  versions:
+   version: 2.4.2
+

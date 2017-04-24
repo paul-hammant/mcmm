@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Jetty :: Jetty JSPC Maven Plugin'
+   prefix: jetty-jspc
+   artifactId: jetty-jspc-maven-plugin
+  - name: 'Jetty :: Jetty Maven Plugin'
+   prefix: jetty
+   artifactId: jetty-maven-plugin
+  - name: Maven Jetty JSPC Plugin
+   prefix: jetty-jspc
+   artifactId: maven-jetty-jspc-plugin
+  - name: Maven Jetty Plugin
+   prefix: jetty
+   artifactId: maven-jetty-plugin
+

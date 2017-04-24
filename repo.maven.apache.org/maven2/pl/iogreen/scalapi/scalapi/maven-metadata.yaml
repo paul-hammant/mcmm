@@ -1,0 +1,10 @@
+metadata:
+ groupId: pl.iogreen.scalapi
+ artifactId: scalapi
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version: 0.3.0
+  lastUpdated: '20111213222733'
+

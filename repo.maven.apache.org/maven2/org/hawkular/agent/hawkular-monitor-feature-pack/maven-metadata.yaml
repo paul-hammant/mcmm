@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.hawkular.agent
+ artifactId: hawkular-monitor-feature-pack
+ versioning:
+  latest: 0.11.2.Final
+  release: 0.11.2.Final
+  versions:
+   version:
+   - 0.11.0.Final
+   - 0.11.1.Final
+   - 0.11.2.Final
+  lastUpdated: '20151022083414'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.bdgenomics.adam
+ artifactId: adam-apis
+ versioning:
+  latest: 0.16.0
+  release: 0.16.0
+  versions:
+   version:
+   - 0.13.0
+   - 0.14.0
+   - 0.15.0
+   - 0.16.0
+  lastUpdated: '20150218214636'
+

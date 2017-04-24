@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.daedafusion
+ artifactId: service-framework-test
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - 1.0.1
+   - '1.1'
+  lastUpdated: '20170222202735'
+

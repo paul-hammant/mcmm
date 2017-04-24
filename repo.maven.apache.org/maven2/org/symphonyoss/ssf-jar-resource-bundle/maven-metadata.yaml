@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.symphonyoss
+ artifactId: ssf-jar-resource-bundle
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20160722200312'
+

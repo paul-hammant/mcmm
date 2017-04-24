@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Providence Tools : Source Generator Maven Plugin'
+   prefix: providence
+   artifactId: providence-maven-plugin
+

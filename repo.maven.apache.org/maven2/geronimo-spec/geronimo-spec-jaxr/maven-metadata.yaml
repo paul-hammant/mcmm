@@ -1,0 +1,12 @@
+metadata:
+ groupId: geronimo-spec
+ artifactId: geronimo-spec-jaxr
+ version: 1.0-rc1
+ versioning:
+  versions:
+   version:
+   - 1.0-rc1
+   - 1.0-rc2
+   - 1.0-rc3
+   - 1.0-rc4
+

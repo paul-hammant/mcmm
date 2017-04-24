@@ -1,0 +1,12 @@
+metadata:
+ groupId: ch.bbv.fsm
+ artifactId: fsm
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.2.0
+   - 2.0.0
+  lastUpdated: '20120208142748'
+

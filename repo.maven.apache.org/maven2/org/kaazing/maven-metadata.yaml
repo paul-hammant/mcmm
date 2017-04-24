@@ -1,0 +1,28 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Bower Dependency Maven Plugin
+   prefix: kzversions
+   artifactId: bower-dependency-maven-plugin
+  - name: Unpack Bower Dependency Maven Plugin
+   prefix: kzversions
+   artifactId: bower-maven-plugin
+  - name: k3po/k3po-maven-plugin
+   prefix: k3po
+   artifactId: k3po-maven-plugin
+  - name: Kaazing License Maven Plugin
+   prefix: license
+   artifactId: license-maven-plugin
+  - name: robot/robot-maven-plugin
+   prefix: robot
+   artifactId: robot-maven-plugin
+  - name: TrustStore Maven Plugin
+   prefix: truststore
+   artifactId: truststore-maven-plugin
+  - name: Unpack Bower Dependency Maven Plugin
+   prefix: kzversions
+   artifactId: unpack-bower-dependency-maven-plugin
+  - name: Maven Versions Plugin
+   prefix: kzversions
+   artifactId: version-properties-maven-plugin
+

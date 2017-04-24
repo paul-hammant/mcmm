@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: kuberam expath plugin
+   prefix: kuberam-expath
+   artifactId: kuberam-expath-plugin
+  - name: kuberam i18n plugin
+   prefix: kuberam-i18n
+   artifactId: kuberam-i18n-plugin
+  - name: kuberam xml plugin
+   prefix: kuberam-xml
+   artifactId: kuberam-xml-plugin
+

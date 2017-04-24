@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.fishwife
+ artifactId: jrugged-httpclient
+ versioning:
+  latest: 3.2.2
+  release: 3.2.2
+  versions:
+   version:
+   - 3.1.1
+   - 3.2.2
+  lastUpdated: '20141028145337'
+

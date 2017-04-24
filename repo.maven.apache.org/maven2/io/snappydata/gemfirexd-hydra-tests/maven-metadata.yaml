@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.snappydata
+ artifactId: gemfirexd-hydra-tests
+ versioning:
+  latest: 1.5.0-BETA.4
+  release: 1.5.0-BETA.4
+  versions:
+   version:
+   - 1.5.0-BETA2
+   - 1.5.0-BETA.3
+   - 1.5.0-BETA.4
+  lastUpdated: '20160526132118'
+

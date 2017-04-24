@@ -1,0 +1,10 @@
+metadata:
+ groupId: me.lorenc.dreadlogs
+ artifactId: dreadlogs
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20140621091341'
+

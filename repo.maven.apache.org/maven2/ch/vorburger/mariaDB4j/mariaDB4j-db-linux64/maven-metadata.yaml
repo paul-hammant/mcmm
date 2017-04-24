@@ -1,0 +1,12 @@
+metadata:
+ groupId: ch.vorburger.mariaDB4j
+ artifactId: mariaDB4j-db-linux64
+ versioning:
+  latest: 10.1.13
+  release: 10.1.13
+  versions:
+   version:
+   - 10.1.8
+   - 10.1.13
+  lastUpdated: '20160724235110'
+

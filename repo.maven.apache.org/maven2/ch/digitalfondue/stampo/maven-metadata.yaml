@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: stampo-maven-plugin
+   prefix: stampo
+   artifactId: stampo-maven-plugin
+

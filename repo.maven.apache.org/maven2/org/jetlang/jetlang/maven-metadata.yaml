@@ -1,0 +1,18 @@
+metadata:
+ groupId: org.jetlang
+ artifactId: jetlang
+ versioning:
+  latest: 0.2.18
+  release: 0.2.18
+  versions:
+   version:
+   - 0.2.9
+   - 0.2.10
+   - 0.2.11
+   - 0.2.12
+   - 0.2.15
+   - 0.2.16
+   - 0.2.17
+   - 0.2.18
+  lastUpdated: '20170222185054'
+

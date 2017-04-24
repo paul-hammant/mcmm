@@ -1,0 +1,10 @@
+metadata:
+ groupId: ca.genovese
+ artifactId: coffee-cats
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20151010011601'
+

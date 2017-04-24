@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.att.ajsc
+ artifactId: sdk-java-jersey-archetype
+ versioning:
+  latest: 6.3.3.8
+  release: 6.3.3.8
+  versions:
+   version: 6.3.3.8
+  lastUpdated: '20170331202307'
+

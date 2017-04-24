@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: MyBatis Generator Maven Plugin
+   prefix: mybatis-generator
+   artifactId: mybatis-generator-maven-plugin
+

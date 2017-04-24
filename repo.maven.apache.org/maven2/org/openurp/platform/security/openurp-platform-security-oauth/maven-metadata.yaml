@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.openurp.platform.security
+ artifactId: openurp-platform-security-oauth
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version: 0.0.2
+  lastUpdated: '20150920165056'
+

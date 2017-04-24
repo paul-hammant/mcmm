@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.sf.javagimmicks
+ artifactId: gimmicks
+ versioning:
+  latest: '0.97'
+  release: '0.97'
+  versions:
+   version:
+   - '0.95'
+   - '0.96'
+   - '0.97'
+  lastUpdated: '20131217194004'
+

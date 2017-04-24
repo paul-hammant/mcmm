@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Aries Maven EBA Plugin
+   prefix: eba
+   artifactId: eba-maven-plugin
+  - name: Aries Maven ESA Plugin
+   prefix: esa
+   artifactId: esa-maven-plugin
+

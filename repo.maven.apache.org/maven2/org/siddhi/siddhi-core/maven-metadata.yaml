@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.siddhi
+ artifactId: siddhi-core
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version:
+   - 0.3.0
+   - 0.4.0
+  lastUpdated: '20120113050507'
+

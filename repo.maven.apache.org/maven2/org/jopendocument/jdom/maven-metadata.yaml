@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jopendocument
+ artifactId: jdom
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version: 1.1.1
+  lastUpdated: '20120430022625'
+

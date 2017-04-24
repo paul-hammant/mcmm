@@ -1,0 +1,9 @@
+metadata:
+ groupId: javax.inject
+ artifactId: javax.inject
+ version: '1'
+ versioning:
+  versions:
+   version: '1'
+  lastUpdated: '20100720032040'
+

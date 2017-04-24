@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.ode4j
+ artifactId: core
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version:
+   - 0.2.6
+   - 0.2.7
+   - 0.2.8
+   - 0.2.9
+   - 0.3.0
+  lastUpdated: '20140824141542'
+

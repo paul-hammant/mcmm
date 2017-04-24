@@ -1,0 +1,8 @@
+metadata:
+ groupId: xdoclet-plugins
+ artifactId: xdoclet-plugin-actionscript
+ version: 1.0.3
+ versioning:
+  versions:
+   version: 1.0.3
+

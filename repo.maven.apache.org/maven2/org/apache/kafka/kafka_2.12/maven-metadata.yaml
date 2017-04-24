@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.kafka
+ artifactId: kafka_2.12
+ versioning:
+  latest: 0.10.2.0
+  release: 0.10.2.0
+  versions:
+   version:
+   - 0.10.1.1
+   - 0.10.2.0
+  lastUpdated: '20170221075240'
+

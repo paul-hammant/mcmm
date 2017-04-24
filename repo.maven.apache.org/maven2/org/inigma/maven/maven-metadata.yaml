@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SCM Version
+   prefix: scm-version
+   artifactId: maven-scm-version-plugin
+

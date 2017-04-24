@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.getlime.security
+ artifactId: powerauth-java-crypto
+ versioning:
+  latest: 0.15.0
+  release: 0.15.0
+  versions:
+   version:
+   - 0.13.2
+   - 0.13.3
+   - 0.14.0
+   - 0.15.0
+  lastUpdated: '20170408173955'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.dmilne
+ artifactId: weka-wrapper
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20120427042602'
+

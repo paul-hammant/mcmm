@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: qunit
+   artifactId: qunit-maven-plugin
+

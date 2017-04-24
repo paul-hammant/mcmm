@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: grunt-maven-plugin
+   prefix: grunt
+   artifactId: grunt-maven-plugin
+

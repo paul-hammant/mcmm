@@ -1,0 +1,10 @@
+metadata:
+ groupId: info.kinumi
+ artifactId: rakuraku-hibernate
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20120911040726'
+

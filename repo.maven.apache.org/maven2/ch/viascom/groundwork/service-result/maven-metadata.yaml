@@ -1,0 +1,14 @@
+metadata:
+ groupId: ch.viascom.groundwork
+ artifactId: service-result
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - 1.2.1
+  lastUpdated: '20170224192941'
+

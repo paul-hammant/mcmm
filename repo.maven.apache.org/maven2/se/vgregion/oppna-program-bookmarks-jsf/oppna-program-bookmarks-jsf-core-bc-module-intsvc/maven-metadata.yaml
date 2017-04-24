@@ -1,0 +1,10 @@
+metadata:
+ groupId: se.vgregion.oppna-program-bookmarks-jsf
+ artifactId: oppna-program-bookmarks-jsf-core-bc-module-intsvc
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20140415105021'
+

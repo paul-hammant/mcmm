@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Embedded GlassFish Web Plugin
+   prefix: glassfish
+   artifactId: embedded-glassfish-web-plugin
+

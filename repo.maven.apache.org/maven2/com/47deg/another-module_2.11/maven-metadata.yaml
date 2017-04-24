@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.47deg
+ artifactId: another-module_2.11
+ versioning:
+  latest: 0.1.19
+  release: 0.1.19
+  versions:
+   version:
+   - 0.1.14
+   - 0.1.15
+   - 0.1.16
+   - 0.1.17
+   - 0.1.18
+   - 0.1.19
+  lastUpdated: '20170418215114'
+

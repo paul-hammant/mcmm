@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.spire-math
+ artifactId: cats-std_2.10
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version:
+   - 0.1.1
+   - 0.1.2
+  lastUpdated: '20150717153036'
+

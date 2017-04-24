@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.charmingoh
+ artifactId: awesome-java-lib
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+  lastUpdated: '20170304133007'
+

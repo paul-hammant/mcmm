@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.audiveris
+ artifactId: proxymusic
+ versioning:
+  latest: 3.0.1
+  release: 3.0.1
+  versions:
+   version: 3.0.1
+  lastUpdated: '20160918175834'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.dkpro.argumentation
+ artifactId: dkpro-argumentation-fastutil
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160701104257'
+

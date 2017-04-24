@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.commercetools.sdk.jvm.reactive-streams
+ artifactId: commercetools-reactive-streams
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 0.1.2
+   - 0.2.0
+   - 0.3.0
+  lastUpdated: '20161116102952'
+

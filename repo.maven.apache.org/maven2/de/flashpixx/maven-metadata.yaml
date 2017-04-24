@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: RRD-ANTLR4
+   prefix: rrd-antlr4
+   artifactId: rrd-antlr4
+

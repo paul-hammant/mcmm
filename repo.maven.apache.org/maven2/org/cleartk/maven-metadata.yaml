@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Consistent Versions Plugin
+   prefix: consistent-versions
+   artifactId: consistent-versions-plugin
+  - name: JCasGen Maven Plugin
+   prefix: jcasgen
+   artifactId: jcasgen-maven-plugin
+

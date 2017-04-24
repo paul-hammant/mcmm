@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: i18nbinder-maven-plugin Maven Mojo
+   prefix: i18nbinder
+   artifactId: i18nbinder-maven-plugin
+

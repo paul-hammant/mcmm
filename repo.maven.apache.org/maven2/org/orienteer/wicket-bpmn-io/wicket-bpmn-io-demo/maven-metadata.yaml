@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.orienteer.wicket-bpmn-io
+ artifactId: wicket-bpmn-io-demo
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20170108050233'
+

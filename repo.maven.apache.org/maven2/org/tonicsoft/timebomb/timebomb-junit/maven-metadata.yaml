@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.tonicsoft.timebomb
+ artifactId: timebomb-junit
+ versioning:
+  latest: 0.0.0
+  release: 0.0.0
+  versions:
+   version: 0.0.0
+  lastUpdated: '20170228210153'
+

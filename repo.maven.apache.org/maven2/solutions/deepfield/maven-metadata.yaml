@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: spark-itcase-maven
+   prefix: spark-itcase
+   artifactId: spark-itcase-maven
+

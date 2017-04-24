@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.i3xx.parent
+ artifactId: parent-web-project
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+  lastUpdated: '20150716095256'
+

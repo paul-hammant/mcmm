@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.afplib
+ artifactId: afplib-JAVA1.6
+ versioning:
+  latest: 0.0.12
+  release: 0.0.12
+  versions:
+   version: 0.0.12
+  lastUpdated: '20170121175705'
+

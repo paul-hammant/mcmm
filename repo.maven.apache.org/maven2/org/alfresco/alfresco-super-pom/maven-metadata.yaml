@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.alfresco
+ artifactId: alfresco-super-pom
+ versioning:
+  latest: '8'
+  release: '8'
+  versions:
+   version:
+   - '6'
+   - '7'
+   - '8'
+  lastUpdated: '20161114175012'
+

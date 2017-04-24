@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.dataone.dspace
+ artifactId: auto-versioning-xmlui
+ versioning:
+  latest: 5.4.2
+  release: 5.4.2
+  versions:
+   version:
+   - 5.4.0
+   - 5.4.1
+   - 5.4.2
+  lastUpdated: '20160408170632'
+

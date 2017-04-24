@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Checkmarx Maven Plugin
+   prefix: checkmarx
+   artifactId: checkmarx-maven-plugin
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.monifu
+ artifactId: minitest_2.10
+ versioning:
+  latest: '0.14'
+  release: '0.14'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - '0.3'
+   - '0.14'
+  lastUpdated: '20150914124139'
+

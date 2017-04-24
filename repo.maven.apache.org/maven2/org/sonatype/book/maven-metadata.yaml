@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: A simple plugin that supports rendering the book HTML
+   prefix: book-sitemesh
+   artifactId: book-sitemesh-plugin
+

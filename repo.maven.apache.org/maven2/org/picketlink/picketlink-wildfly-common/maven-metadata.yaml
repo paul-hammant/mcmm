@@ -1,0 +1,22 @@
+metadata:
+ groupId: org.picketlink
+ artifactId: picketlink-wildfly-common
+ versioning:
+  latest: 2.7.1.Final
+  release: 2.7.1.Final
+  versions:
+   version:
+   - 2.5.5.Final
+   - 2.5.5.SP1
+   - 2.5.5.SP2
+   - 2.5.5.SP3
+   - 2.5.5.SP4
+   - 2.5.5.SP5
+   - 2.5.5.SP6
+   - 2.5.5.SP7
+   - 2.7.0.CR2
+   - 2.7.0.CR3
+   - 2.7.0.Final
+   - 2.7.1.Final
+  lastUpdated: '20170324142913'
+

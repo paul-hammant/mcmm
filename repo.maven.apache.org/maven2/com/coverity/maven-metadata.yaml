@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Coverity On Demand Maven Plugin
+   prefix: ondemand
+   artifactId: ondemand-maven-plugin
+

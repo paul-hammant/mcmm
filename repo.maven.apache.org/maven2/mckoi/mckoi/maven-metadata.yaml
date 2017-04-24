@@ -1,0 +1,10 @@
+metadata:
+ groupId: mckoi
+ artifactId: mckoi
+ version: '0.93'
+ versioning:
+  versions:
+   version:
+   - '0.93'
+   - 1.0.2
+

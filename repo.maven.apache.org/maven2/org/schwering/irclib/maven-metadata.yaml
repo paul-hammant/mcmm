@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.schwering
+ artifactId: irclib
+ versioning:
+  latest: 2.0.0.Alpha3
+  release: 2.0.0.Alpha3
+  versions:
+   version:
+   - 2.0.0.Alpha2
+   - 2.0.0.Alpha3
+  lastUpdated: '20150423194504'
+

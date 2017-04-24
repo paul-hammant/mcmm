@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.gridkit
+ artifactId: jorka
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+  lastUpdated: '20140528171657'
+

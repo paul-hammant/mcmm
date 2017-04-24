@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.code-story
+ artifactId: fluent-http-appengine-adapter
+ versioning:
+  latest: '2.31'
+  release: '2.31'
+  versions:
+   version:
+   - '2.30'
+   - 2.30.2
+   - 2.30.3
+   - 2.30.4
+   - '2.31'
+  lastUpdated: '20141127224755'
+

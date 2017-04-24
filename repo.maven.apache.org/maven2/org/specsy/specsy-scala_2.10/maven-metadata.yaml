@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.specsy
+ artifactId: specsy-scala_2.10
+ versioning:
+  latest: 2.3.2
+  release: 2.3.2
+  versions:
+   version:
+   - 2.1.0
+   - 2.1.1
+   - 2.2.0
+   - 2.3.0
+   - 2.3.1
+   - 2.3.2
+  lastUpdated: '20170126141350'
+

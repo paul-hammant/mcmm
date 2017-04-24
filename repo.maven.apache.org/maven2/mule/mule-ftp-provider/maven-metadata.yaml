@@ -1,0 +1,15 @@
+metadata:
+ groupId: mule
+ artifactId: mule-ftp-provider
+ version: '1.1'
+ versioning:
+  versions:
+   version:
+   - '1.1'
+   - 1.1-rc1
+   - 1.1.1
+   - '1.2'
+   - 1.3-rc1
+   - 1.3-rc2
+   - 1.3-rc3
+

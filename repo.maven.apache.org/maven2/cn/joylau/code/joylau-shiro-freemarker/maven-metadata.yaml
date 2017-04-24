@@ -1,0 +1,12 @@
+metadata:
+ groupId: cn.joylau.code
+ artifactId: joylau-shiro-freemarker
+ versioning:
+  latest: 1.1.2.RELEASE
+  release: 1.1.2.RELEASE
+  versions:
+   version:
+   - 1.1.RELEASE
+   - 1.1.2.RELEASE
+  lastUpdated: '20170411081521'
+

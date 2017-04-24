@@ -1,0 +1,13 @@
+metadata:
+ groupId: fr.iscpif.gridscale
+ artifactId: egisrmexample_2.11
+ versioning:
+  latest: 1.87.0
+  release: 1.87.0
+  versions:
+   version:
+   - '1.85'
+   - '1.86'
+   - 1.87.0
+  lastUpdated: '20160830123342'
+

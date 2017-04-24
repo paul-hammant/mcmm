@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jbundle.util.osgi
+ artifactId: org.jbundle.util.osgi.webstart.sign
+ versioning:
+  latest: 1.6.9
+  release: 1.6.9
+  versions:
+   version: 1.6.9
+  lastUpdated: '20150103013910'
+

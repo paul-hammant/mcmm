@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.m-m-m
+ artifactId: mmm-transaction-impl-spring
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20140615153833'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: fi.pelam
+ artifactId: pelam-scala-csv
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - '0.9'
+   - 1.0.0
+   - 1.1.0
+  lastUpdated: '20160213114627'
+

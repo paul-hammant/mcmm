@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Petals ESB - Tools - Maven tools - Maven Petals Plugin
+   prefix: petals
+   artifactId: maven-petals-plugin
+  - name: Petals ESB - Tools - Maven tools - Maven Petals Plugin
+   prefix: petals
+   artifactId: petals-maven-plugin
+

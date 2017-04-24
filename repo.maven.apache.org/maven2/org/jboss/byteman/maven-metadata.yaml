@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: byteman-rulecheck maven plugin
+   prefix: byteman-rulecheck
+   artifactId: byteman-rulecheck-maven-plugin
+

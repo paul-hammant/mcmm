@@ -1,0 +1,10 @@
+metadata:
+ groupId: ch.epfl.lamp
+ artifactId: dotty-core_2.11
+ versioning:
+  latest: 0.1-SNAPSHOT-20160609-8fe3e37
+  release: 0.1-SNAPSHOT-20160609-8fe3e37
+  versions:
+   version: 0.1-SNAPSHOT-20160609-8fe3e37
+  lastUpdated: '20160609112136'
+

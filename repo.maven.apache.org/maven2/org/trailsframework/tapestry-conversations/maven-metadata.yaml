@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.trailsframework
+ artifactId: tapestry-conversations
+ version: 0.0.2
+ versioning:
+  release: 0.0.3
+  versions:
+   version:
+   - 0.0.2
+   - 0.0.3
+  lastUpdated: '20090420062646'
+

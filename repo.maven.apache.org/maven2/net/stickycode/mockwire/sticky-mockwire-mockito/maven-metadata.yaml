@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.stickycode.mockwire
+ artifactId: sticky-mockwire-mockito
+ versioning:
+  latest: '7.2'
+  release: '7.2'
+  versions:
+   version:
+   - '3.2'
+   - '4.3'
+   - '5.1'
+   - '7.1'
+   - '7.2'
+  lastUpdated: '20161128205009'
+

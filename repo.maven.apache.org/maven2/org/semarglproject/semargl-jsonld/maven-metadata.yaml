@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.semarglproject
+ artifactId: semargl-jsonld
+ versioning:
+  latest: '0.7'
+  release: '0.7'
+  versions:
+   version:
+   - '0.6'
+   - 0.6.1
+   - '0.7'
+  lastUpdated: '20161209004557'
+

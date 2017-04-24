@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scalacheck
+ artifactId: scalacheck_2.10.0
+ versioning:
+  latest: 1.10.0
+  release: 1.10.0
+  versions:
+   version: 1.10.0
+  lastUpdated: '20121220122605'
+

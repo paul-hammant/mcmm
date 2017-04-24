@@ -1,0 +1,8 @@
+metadata:
+ groupId: activemq
+ artifactId: jmdns
+ version: 1.0-RC2
+ versioning:
+  versions:
+   version: 1.0-RC2
+

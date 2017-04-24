@@ -1,0 +1,7 @@
+metadata:
+ groupId: john-test
+ artifactId: batik-1.5-fop
+ versioning:
+  versions:
+   version: 0.20-5
+

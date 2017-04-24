@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Google Code Upload Maven Plugin
+   prefix: gcupload
+   artifactId: gcupload-maven-plugin
+  - name: no-annotations-maven-plugin Maven Plugin
+   prefix: no-annotations
+   artifactId: no-annotations-maven-plugin
+

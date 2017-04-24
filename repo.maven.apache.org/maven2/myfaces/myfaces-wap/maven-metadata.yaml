@@ -1,0 +1,10 @@
+metadata:
+ groupId: myfaces
+ artifactId: myfaces-wap
+ version: 1.0.9rc3
+ versioning:
+  versions:
+   version:
+   - 1.0.9rc3
+   - 1.0.9
+

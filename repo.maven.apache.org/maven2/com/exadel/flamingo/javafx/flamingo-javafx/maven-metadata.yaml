@@ -1,0 +1,9 @@
+metadata:
+ groupId: com.exadel.flamingo.javafx
+ artifactId: flamingo-javafx
+ version: 1.5.0
+ versioning:
+  versions:
+   version: 1.5.0
+  lastUpdated: '20080502165714'
+

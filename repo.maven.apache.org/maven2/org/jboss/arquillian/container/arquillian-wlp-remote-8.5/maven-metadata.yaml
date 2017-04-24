@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.arquillian.container
+ artifactId: arquillian-wlp-remote-8.5
+ versioning:
+  latest: 1.0.0.Beta2
+  release: 1.0.0.Beta2
+  versions:
+   version: 1.0.0.Beta2
+  lastUpdated: '20150130113221'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.smolok
+ artifactId: smolok-service-binding-client
+ versioning:
+  latest: 0.0.11
+  release: 0.0.11
+  versions:
+   version:
+   - 0.0.10
+   - 0.0.11
+  lastUpdated: '20161122091610'
+

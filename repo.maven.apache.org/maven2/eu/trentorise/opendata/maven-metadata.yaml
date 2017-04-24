@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Josman Maven Plugin
+   prefix: josman
+   artifactId: josman-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.effectus
+ artifactId: effectus-parent
+ versioning:
+  latest: 0.0.10
+  release: 0.0.10
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.10
+  lastUpdated: '20170217125232'
+

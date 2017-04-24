@@ -1,0 +1,10 @@
+metadata:
+ groupId: milyn
+ artifactId: milyn-commons
+ version: '0.6'
+ versioning:
+  versions:
+   version:
+   - '0.6'
+   - 0.6.2
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.fehmicansaglam
+ artifactId: reactivemongo-extensions-core_2.10
+ versioning:
+  latest: 0.10.0.4
+  release: 0.10.0.4
+  versions:
+   version:
+   - 0.10.0.3
+   - 0.10.0.4
+  lastUpdated: '20140718082156'
+

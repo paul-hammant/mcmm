@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.hawkular.btm
+ artifactId: hawkular-btm-tests-client-java
+ versioning:
+  latest: 0.3.0.Final
+  release: 0.3.0.Final
+  versions:
+   version: 0.3.0.Final
+  lastUpdated: '20150814075431'
+

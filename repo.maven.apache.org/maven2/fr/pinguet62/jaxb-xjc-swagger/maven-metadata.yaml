@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.pinguet62
+ artifactId: jaxb-xjc-swagger
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20170116221620'
+

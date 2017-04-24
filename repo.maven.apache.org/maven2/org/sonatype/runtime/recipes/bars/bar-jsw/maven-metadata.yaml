@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sonatype.runtime.recipes.bars
+ artifactId: bar-jsw
+ versioning:
+  latest: 3.2.3-v0001
+  release: 3.2.3-v0001
+  versions:
+   version: 3.2.3-v0001
+  lastUpdated: '20100929011901'
+

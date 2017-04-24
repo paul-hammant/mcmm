@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.coherentlogic.coherent.data.adapter.openfigi
+ artifactId: openfigi-client-core
+ versioning:
+  latest: 0.8.5-RELEASE
+  release: 0.8.5-RELEASE
+  versions:
+   version: 0.8.5-RELEASE
+  lastUpdated: '20160628035216'
+

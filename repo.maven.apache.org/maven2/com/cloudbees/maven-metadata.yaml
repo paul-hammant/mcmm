@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-license-plugin Maven Plugin
+   prefix: maven-license-plugin
+   artifactId: maven-license-plugin
+

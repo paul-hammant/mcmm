@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.java
+ artifactId: jtoolbox
+ version: 0.0.1-SNAPSHOT
+ versioning:
+  versions:
+   version: 0.0.1-SNAPSHOT
+  lastUpdated: '20090105161817'
+

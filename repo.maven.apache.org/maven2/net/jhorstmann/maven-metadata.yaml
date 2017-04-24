@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: i18n
+   artifactId: i18n-maven-plugin
+

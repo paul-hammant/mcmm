@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Coffee Script Maven Plugin
+   prefix: coffeescript
+   artifactId: coffeescript-maven-plugin
+  - name: flyway-maven-plugin
+   prefix: flyway
+   artifactId: flyway-maven-plugin
+  - name: Coffee Script Maven Plugin
+   prefix: lesscss
+   artifactId: lesscss-maven-plugin
+  - name: Minify Script Maven Plugin
+   prefix: minify
+   artifactId: minify-maven-plugin
+

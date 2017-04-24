@@ -1,0 +1,8 @@
+metadata:
+ groupId: directory-naming
+ artifactId: naming-config
+ version: '0.8'
+ versioning:
+  versions:
+   version: '0.8'
+

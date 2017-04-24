@@ -1,0 +1,7 @@
+metadata:
+ groupId: net.sf.kxml
+ artifactId: kxml2
+ versioning:
+  versions:
+   version: 2.2.2
+

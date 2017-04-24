@@ -1,0 +1,19 @@
+metadata:
+ groupId: de.devsurf.injection.guice
+ artifactId: de.devsurf.injection.guice.aop
+ versioning:
+  latest: 0.8.7
+  release: 0.8.7
+  versions:
+   version:
+   - 0.6.4
+   - 0.7.0
+   - 0.8.0
+   - 0.8.1
+   - 0.8.2
+   - 0.8.3
+   - 0.8.5
+   - 0.8.6
+   - 0.8.7
+  lastUpdated: '20110113161921'
+

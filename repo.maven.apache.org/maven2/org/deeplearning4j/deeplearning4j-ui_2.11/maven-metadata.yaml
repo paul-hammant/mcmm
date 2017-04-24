@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.deeplearning4j
+ artifactId: deeplearning4j-ui_2.11
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version:
+   - 0.7.0
+   - 0.7.1
+   - 0.7.2
+   - 0.8.0
+  lastUpdated: '20170313051437'
+

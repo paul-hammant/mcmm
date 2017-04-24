@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.sonatype.plexus
+ artifactId: plexus-bundle-publisher
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20090316230212'
+

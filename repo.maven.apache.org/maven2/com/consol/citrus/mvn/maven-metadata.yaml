@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: citrus-maven-plugin
+   prefix: citrus
+   artifactId: citrus-maven-plugin
+

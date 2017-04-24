@@ -1,0 +1,21 @@
+metadata:
+ groupId: net.sf.click
+ artifactId: click-extras
+ version: 1.4.1
+ versioning:
+  versions:
+   version:
+   - 1.4.1
+   - 1.4.2
+   - 1.5-M1
+   - 1.5-M2
+   - 1.5-M3
+   - 1.5-RC1
+   - 1.5-RC2
+   - 1.5-RC3
+   - '1.5'
+   - 1.5.1
+   - 1.5.2
+   - 1.5.3
+  lastUpdated: '20090718155850'
+

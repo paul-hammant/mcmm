@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.advanced-gwt
+ artifactId: advanced-gwt-demo
+ versioning:
+  latest: 2.0.9
+  release: 2.0.9
+  versions:
+   version:
+   - 2.0.8
+   - 2.0.9
+  lastUpdated: '20130926204220'
+

@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.vectomatic
+ artifactId: lib-gwt-file-test
+ versioning:
+  latest: 0.4.8
+  release: 0.4.8
+  versions:
+   version:
+   - 0.4.2
+   - 0.4.3
+   - 0.4.4
+   - 0.4.5
+   - 0.4.6
+   - 0.4.7
+   - 0.4.8
+  lastUpdated: '20161103175951'
+

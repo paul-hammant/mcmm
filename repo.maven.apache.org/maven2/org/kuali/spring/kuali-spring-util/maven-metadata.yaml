@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.kuali.spring
+ artifactId: kuali-spring-util
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version: 1.1.1
+  lastUpdated: '20110421191413'
+

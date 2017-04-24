@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.openwfe
+ artifactId: openwfe-ws
+ versioning:
+  versions:
+   version: 1.7.2
+

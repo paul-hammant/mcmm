@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.atmosphere.samples
+ artifactId: lpchat
+ version: 0.5-SNAPSHOT
+ versioning:
+  versions:
+   version: 0.5-SNAPSHOT
+  lastUpdated: '20091211230838'
+

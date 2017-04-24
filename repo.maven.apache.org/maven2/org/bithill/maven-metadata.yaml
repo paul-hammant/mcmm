@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: classycle-maven-plugin
+   prefix: classycle
+   artifactId: classycle-maven-plugin
+

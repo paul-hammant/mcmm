@@ -1,0 +1,21 @@
+metadata:
+ groupId: org.xbean
+ artifactId: xbean
+ version: 2.0-SNAPSHOT
+ versioning:
+  release: '2.0'
+  snapshot:
+   buildNumber: '21'
+  versions:
+   version:
+   - 2.0-SNAPSHOT
+   - 2.0-20051102.005820-1
+   - 2.0-20051102.013906-1
+   - 2.0-20051107.102720-2
+   - '2.0'
+   - 2.0-20051107.181543-3
+   - 2.0-20051110.001057-3
+   - 2.0-20051110.003959-4
+   - 2.1-SNAPSHOT
+   - 2.1-20051110.015451-1
+

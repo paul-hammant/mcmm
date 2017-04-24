@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.twentyeleven.skysail
+ artifactId: skysail.fragment.commons.dbcp
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20130110071419'
+

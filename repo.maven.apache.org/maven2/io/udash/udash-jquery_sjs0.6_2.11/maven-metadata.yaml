@@ -1,0 +1,16 @@
+metadata:
+ groupId: io.udash
+ artifactId: udash-jquery_sjs0.6_2.11
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+   - 1.0.0-rc.1
+   - 1.0.0-rc.2
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20161219125039'
+

@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.gamio
+ artifactId: gamio-api
+ version: 1.0.0
+ versioning:
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20080705065202'
+

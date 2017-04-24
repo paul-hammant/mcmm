@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.rcfaces
+ artifactId: org.rcfaces.html
+ versioning:
+  versions:
+   version: 1.0Beta3
+

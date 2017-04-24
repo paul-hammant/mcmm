@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.realityforge.jsyslog-message
+ artifactId: jsyslog-message
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version: '1.2'
+  lastUpdated: '20140118110701'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: de.kaufhof
+ artifactId: json-home-client_2.10
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.0.0-RC1
+   - 1.0.0
+   - 2.0.0
+  lastUpdated: '20150707134908'
+

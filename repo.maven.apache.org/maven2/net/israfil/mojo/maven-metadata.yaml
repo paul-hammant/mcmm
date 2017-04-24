@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Flex 2.0 maven plugin
+   prefix: flex2
+   artifactId: maven-flex2-plugin
+  - name: Flex 2.0 maven plugin support classes
+   prefix: flex2support
+   artifactId: maven-flex2-plugin-support
+

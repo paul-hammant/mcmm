@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.recommenders.rival
+ artifactId: rival
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+  lastUpdated: '20150807093101'
+

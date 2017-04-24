@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Site Indexer
+   prefix: index
+   artifactId: index
+

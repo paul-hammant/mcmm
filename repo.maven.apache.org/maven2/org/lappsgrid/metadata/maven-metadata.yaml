@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.lappsgrid
+ artifactId: metadata
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - 1.0.5
+   - 1.1.0
+   - 1.1.1
+  lastUpdated: '20170126192231'
+

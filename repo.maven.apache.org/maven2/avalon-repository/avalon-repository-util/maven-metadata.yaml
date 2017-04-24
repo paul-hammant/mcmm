@@ -1,0 +1,11 @@
+metadata:
+ groupId: avalon-repository
+ artifactId: avalon-repository-util
+ version: '1.2'
+ versioning:
+  versions:
+   version:
+   - '1.2'
+   - 1.2-dev
+   - 2.0.0
+

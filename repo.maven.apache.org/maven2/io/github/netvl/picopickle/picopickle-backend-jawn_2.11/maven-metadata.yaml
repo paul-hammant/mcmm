@@ -1,0 +1,19 @@
+metadata:
+ groupId: io.github.netvl.picopickle
+ artifactId: picopickle-backend-jawn_2.11
+ versioning:
+  latest: 0.3.1
+  release: 0.3.1
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+   - 0.1.0
+   - 0.1.1
+   - 0.1.2
+   - 0.2.0
+   - 0.2.1
+   - 0.3.0
+   - 0.3.1
+  lastUpdated: '20161031140024'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: easyb Maven Plugin
+   prefix: easyb
+   artifactId: maven-easyb-plugin
+

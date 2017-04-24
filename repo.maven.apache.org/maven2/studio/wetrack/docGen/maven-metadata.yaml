@@ -1,0 +1,10 @@
+metadata:
+ groupId: studio.wetrack
+ artifactId: docGen
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20170419034435'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: CodeLicenseManager-maven-plugin
+   prefix: CodeLicenseManager
+   artifactId: CodeLicenseManager-maven-plugin
+

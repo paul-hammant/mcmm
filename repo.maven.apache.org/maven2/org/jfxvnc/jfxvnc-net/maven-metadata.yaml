@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.jfxvnc
+ artifactId: jfxvnc-net
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version:
+   - 0.0.2
+   - 1.0.0
+   - 1.0.1
+   - 1.2.0
+  lastUpdated: '20170208010823'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: maven-plugins
+ artifactId: maven-macker-plugin
+ version: 0.4.2
+ versioning:
+  versions:
+   version: 0.4.2
+

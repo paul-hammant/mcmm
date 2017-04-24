@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: API Signature Test Plugin
+   prefix: sigtest
+   artifactId: sigtest-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.covisint.core
+ artifactId: metrics-bom
+ versioning:
+  latest: 3.0.2
+  release: 3.0.2
+  versions:
+   version: 3.0.2
+  lastUpdated: '20150422193224'
+

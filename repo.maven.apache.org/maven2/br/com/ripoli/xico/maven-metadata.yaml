@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: RELEASE Properties Plugin
+   prefix: release-properties
+   artifactId: release-properties
+

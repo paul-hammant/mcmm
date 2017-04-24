@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: External Generator ${project.version}
+   prefix: external
+   artifactId: external
+  - name: Frontend generator ${project.version}
+   prefix: frontend
+   artifactId: frontend
+  - name: Meta generator ${project.version}
+   prefix: metagenerator
+   artifactId: metagenerator
+  - name: Process Generator ${project.version}
+   prefix: process
+   artifactId: process
+  - name: Storage Generator ${project.version}
+   prefix: storage
+   artifactId: storage
+

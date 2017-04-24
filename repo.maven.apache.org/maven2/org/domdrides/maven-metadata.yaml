@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: domdrides-maven-plugin
+   prefix: domdrides
+   artifactId: domdrides-maven-plugin
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.cassite
+ artifactId: pure.ioc
+ versioning:
+  latest: 0.3.2
+  release: 0.3.2
+  versions:
+   version:
+   - 0.1.3
+   - 0.2.1
+   - 0.2.2
+   - 0.3.1
+   - 0.3.2
+  lastUpdated: '20160131084210'
+

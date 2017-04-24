@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.fsq
+ artifactId: spindle_2.10
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 0.0.1
+   - 1.0.0
+   - 1.1.0
+  lastUpdated: '20160430223741'
+

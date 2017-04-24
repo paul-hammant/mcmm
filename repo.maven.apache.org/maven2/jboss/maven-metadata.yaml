@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Mobicents Sbb Plugin
+   prefix: mobicents-sbb
+   artifactId: mobicents-sbb-plugin
+  - name: Mobicents RA Plugin
+   prefix: mobicents-ra
+   artifactId: mobicents-ra-plugin
+  - name: Mobicents Sbb Plugin
+   prefix: mobicents
+   artifactId: mobicents-sbb-plugin
+  - name: Mobicents RA Archetype
+   prefix: mobicents-ra-archetype
+   artifactId: mobicents-ra-archetype
+

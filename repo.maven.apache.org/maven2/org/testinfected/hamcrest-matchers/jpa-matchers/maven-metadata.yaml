@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.testinfected.hamcrest-matchers
+ artifactId: jpa-matchers
+ versioning:
+  latest: '1.8'
+  release: '1.8'
+  versions:
+   version:
+   - '1.5'
+   - '1.6'
+   - '1.7'
+   - '1.8'
+  lastUpdated: '20150321010015'
+

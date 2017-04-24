@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.rouz
+ artifactId: flo-api-generator
+ versioning:
+  latest: 0.0.9
+  release: 0.0.9
+  versions:
+   version:
+   - 0.0.6
+   - 0.0.7
+   - 0.0.8
+   - 0.0.9
+  lastUpdated: '20170415032357'
+

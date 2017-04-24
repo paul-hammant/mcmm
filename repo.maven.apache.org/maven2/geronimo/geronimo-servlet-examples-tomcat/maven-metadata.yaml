@@ -1,0 +1,8 @@
+metadata:
+ groupId: geronimo
+ artifactId: geronimo-servlet-examples-tomcat
+ version: 5.5.12
+ versioning:
+  versions:
+   version: 5.5.12
+

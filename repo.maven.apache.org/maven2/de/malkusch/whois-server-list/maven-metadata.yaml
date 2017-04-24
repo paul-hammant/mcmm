@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Whois server list compiler
+   prefix: whois-server-list
+   artifactId: whois-server-list-maven-plugin
+

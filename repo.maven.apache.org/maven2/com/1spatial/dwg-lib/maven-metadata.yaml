@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.1spatial
+ artifactId: dwg-lib
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version: '0.8'
+  lastUpdated: '20170216164231'
+

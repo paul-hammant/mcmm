@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: technology-timeline Maven Mojo
+   prefix: technology-timeline
+   artifactId: maven-technology-timeline-plugin
+

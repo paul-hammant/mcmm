@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.actframework
+ artifactId: act-storage
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version:
+   - 0.8.0
+   - 0.9.0
+  lastUpdated: '20170418072535'
+

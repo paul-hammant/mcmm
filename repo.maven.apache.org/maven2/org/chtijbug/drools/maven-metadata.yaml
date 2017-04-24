@@ -1,0 +1,8 @@
+metadata:
+ plugins:
+  plugin:
+   name: ChtiJBug Maven plugin for installing the pojo model available at guvnor
+    instance
+   prefix: guvnor-install-pojo
+   artifactId: maven-guvnor-install-pojo-plugin
+

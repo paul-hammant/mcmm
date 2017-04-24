@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven JSTools Plugin
+   prefix: jstools
+   artifactId: maven-jstools-plugin
+

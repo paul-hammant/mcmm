@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: wcm.io DevOps Maven Eclipse Plugin
+   prefix: eclipse
+   artifactId: eclipse-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: at.iem
+ artifactId: scalacollider-trace_2.12
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version: 0.2.1
+  lastUpdated: '20170224114604'
+

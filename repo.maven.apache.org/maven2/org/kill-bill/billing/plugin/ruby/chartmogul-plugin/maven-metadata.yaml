@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.kill-bill.billing.plugin.ruby
+ artifactId: chartmogul-plugin
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20161205102932'
+

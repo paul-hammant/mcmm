@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: HPPC Template Processor
+   prefix: hppc-template-processor
+   artifactId: hppc-template-processor
+

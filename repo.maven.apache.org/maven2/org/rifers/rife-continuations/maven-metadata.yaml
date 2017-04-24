@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.rifers
+ artifactId: rife-continuations
+ version: 0.0.1
+ versioning:
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+

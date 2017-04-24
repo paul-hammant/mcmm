@@ -1,0 +1,8 @@
+metadata:
+ groupId: nanocontainer
+ artifactId: nanocontainer-sample-webwork
+ version: 1.0-beta-1.pico-1.0
+ versioning:
+  versions:
+   version: 1.0-beta-1.pico-1.0
+

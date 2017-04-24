@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: FOP Maven PlugIn
+   prefix: fop
+   artifactId: fop-maven-plugin
+

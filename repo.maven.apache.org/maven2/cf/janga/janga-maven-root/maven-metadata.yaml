@@ -1,0 +1,10 @@
+metadata:
+ groupId: cf.janga
+ artifactId: janga-maven-root
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20140404205149'
+

@@ -1,0 +1,18 @@
+metadata:
+ groupId: de.swm
+ artifactId: swm-mobile-kitchensink
+ versioning:
+  latest: '3.1'
+  release: '3.1'
+  versions:
+   version:
+   - '2.1'
+   - '2.2'
+   - '2.4'
+   - '2.5'
+   - '2.6'
+   - '2.7'
+   - '3.0'
+   - '3.1'
+  lastUpdated: '20151118133641'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.aksw.rdfunit
+ artifactId: rdfunit-manual-tests
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version:
+   - 0.7.20
+   - '0.8'
+  lastUpdated: '20160425091106'
+

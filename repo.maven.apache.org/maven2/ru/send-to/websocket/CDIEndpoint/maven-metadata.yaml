@@ -1,0 +1,13 @@
+metadata:
+ groupId: ru.send-to.websocket
+ artifactId: CDIEndpoint
+ versioning:
+  latest: 0.0.3.1
+  release: 0.0.3.1
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.3
+   - 0.0.3.1
+  lastUpdated: '20170326151836'
+

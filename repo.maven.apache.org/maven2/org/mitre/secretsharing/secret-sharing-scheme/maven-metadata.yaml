@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.mitre.secretsharing
+ artifactId: secret-sharing-scheme
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+   - 1.1.3
+   - 1.2.0
+  lastUpdated: '20170414040504'
+

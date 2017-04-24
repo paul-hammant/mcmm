@@ -1,0 +1,8 @@
+metadata:
+ groupId: axis2
+ artifactId: soapmonitor
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

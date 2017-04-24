@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Pony Maven Plugin
+   prefix: pony
+   artifactId: pony-maven-plugin
+

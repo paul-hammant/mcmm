@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: ninja
+   artifactId: ninja-maven-plugin
+

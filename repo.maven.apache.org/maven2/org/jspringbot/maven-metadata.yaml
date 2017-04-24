@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jspringbot-maven-plugin
+   prefix: jspringbot
+   artifactId: jspringbot-maven-plugin
+

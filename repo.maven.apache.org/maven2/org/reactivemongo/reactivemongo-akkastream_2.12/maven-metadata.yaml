@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.reactivemongo
+ artifactId: reactivemongo-akkastream_2.12
+ versioning:
+  latest: 0.12.2
+  release: 0.12.2
+  versions:
+   version:
+   - 0.12.1
+   - 0.12.2
+  lastUpdated: '20170418210302'
+

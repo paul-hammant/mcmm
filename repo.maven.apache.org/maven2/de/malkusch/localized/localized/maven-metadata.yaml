@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.malkusch.localized
+ artifactId: localized
+ versioning:
+  latest: 0.2.9
+  release: 0.2.9
+  versions:
+   version:
+   - 0.2.8
+   - 0.2.9
+  lastUpdated: '20131211070642'
+

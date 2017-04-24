@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: External Build Dir Maven Mojo
+   prefix: external-build
+   artifactId: external-build-maven-plugin
+

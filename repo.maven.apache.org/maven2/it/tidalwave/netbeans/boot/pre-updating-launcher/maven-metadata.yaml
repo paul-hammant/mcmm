@@ -1,0 +1,12 @@
+metadata:
+ groupId: it.tidalwave.netbeans.boot
+ artifactId: pre-updating-launcher
+ versioning:
+  latest: 2.0-ALPHA-1
+  release: 2.0-ALPHA-1
+  versions:
+   version:
+   - 1.0-ALPHA-1
+   - 2.0-ALPHA-1
+  lastUpdated: '20120915110438'
+

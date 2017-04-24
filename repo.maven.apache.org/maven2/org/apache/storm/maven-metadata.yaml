@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: storm-maven-plugins
+   prefix: storms
+   artifactId: storm-maven-plugins
+

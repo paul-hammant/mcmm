@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.jupyter-scala
+ artifactId: scala-api_2.12.1
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version:
+   - 0.4.0-RC4
+   - 0.4.0-RC5
+   - 0.4.0-RC6
+   - 0.4.0
+  lastUpdated: '20170308131827'
+

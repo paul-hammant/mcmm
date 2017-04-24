@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.pojava
+ artifactId: org.pojava.datetime
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version: 3.0.0
+  lastUpdated: '20140311041529'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.cesarferreira.jsonify
+ artifactId: jsonify
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+  lastUpdated: '20150902144602'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.objectledge.maven.connectors
+ artifactId: parent
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20110709174708'
+

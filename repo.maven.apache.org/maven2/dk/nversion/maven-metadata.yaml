@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: copybook4java-codegen-maven-plugin Maven Mojo
+   prefix: copybook4java-codegen
+   artifactId: copybook4java-codegen-maven-plugin
+

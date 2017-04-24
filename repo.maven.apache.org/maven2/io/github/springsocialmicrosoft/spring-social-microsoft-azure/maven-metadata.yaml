@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.springsocialmicrosoft
+ artifactId: spring-social-microsoft-azure
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version: 0.1.2
+  lastUpdated: '20170315051211'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Seedy Maven Plugin
+   prefix: seedy
+   artifactId: seedy-maven-plugin
+

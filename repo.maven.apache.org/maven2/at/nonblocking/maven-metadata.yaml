@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Nonsnapshot Plugin
+   prefix: nonsnapshot
+   artifactId: nonsnapshot-maven-plugin
+

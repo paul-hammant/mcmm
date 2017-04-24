@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.tinyj.web
+ artifactId: tinyj-web-mvc
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160409095939'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Schema Repository Maven Client Plugin
+   prefix: schema-repo
+   artifactId: schema-repo-maven-plugin
+

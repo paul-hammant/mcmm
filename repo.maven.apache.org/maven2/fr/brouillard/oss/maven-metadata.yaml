@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jgitver Maven Plugin
+   prefix: jgitver
+   artifactId: jgitver-maven-plugin
+

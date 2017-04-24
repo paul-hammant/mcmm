@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: flyway-extension
+   artifactId: flyway-extension-maven-plugin
+

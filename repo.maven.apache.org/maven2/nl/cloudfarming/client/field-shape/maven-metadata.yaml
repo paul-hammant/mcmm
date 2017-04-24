@@ -1,0 +1,10 @@
+metadata:
+ groupId: nl.cloudfarming.client
+ artifactId: field-shape
+ versioning:
+  latest: 1.0.17
+  release: 1.0.17
+  versions:
+   version: 1.0.17
+  lastUpdated: '20111220123152'
+

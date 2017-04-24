@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.docx4j
+ artifactId: xhtmlrenderer
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version:
+   - 1.0.0
+   - 3.0.0
+  lastUpdated: '20131126000754'
+

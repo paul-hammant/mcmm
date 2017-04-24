@@ -1,0 +1,20 @@
+metadata:
+ groupId: org.jboss.shrinkwrap
+ artifactId: shrinkwrap-extension-vdf
+ versioning:
+  latest: 1.0.0-beta-6
+  release: 1.0.0-beta-6
+  versions:
+   version:
+   - 1.0.0-alpha-10
+   - 1.0.0-alpha-11
+   - 1.0.0-alpha-12
+   - 1.0.0-alpha-13
+   - 1.0.0-beta-1
+   - 1.0.0-beta-2
+   - 1.0.0-beta-3
+   - 1.0.0-beta-4
+   - 1.0.0-beta-5
+   - 1.0.0-beta-6
+  lastUpdated: '20110922070004'
+

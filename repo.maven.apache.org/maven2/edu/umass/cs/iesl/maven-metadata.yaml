@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: JFlex Scala Maven Plugin
+   prefix: jflex-scala
+   artifactId: jflex-scala-maven-plugin
+  - name: JFlex Test Suite Maven Plugin
+   prefix: jflex-testsuite
+   artifactId: jflex-testsuite-maven-plugin
+  - name: JFlex Unicode Maven Plugin
+   prefix: jflex-unicode
+   artifactId: jflex-unicode-maven-plugin
+

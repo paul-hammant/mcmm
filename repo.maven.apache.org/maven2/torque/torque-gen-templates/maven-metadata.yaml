@@ -1,0 +1,12 @@
+metadata:
+ groupId: torque
+ artifactId: torque-gen-templates
+ version: 3.2-rc1
+ versioning:
+  versions:
+   version:
+   - 3.2-rc1
+   - 3.2-rc2
+   - 3.2-rc3
+   - '3.2'
+

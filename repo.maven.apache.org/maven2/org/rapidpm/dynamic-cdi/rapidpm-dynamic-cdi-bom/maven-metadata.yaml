@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.rapidpm.dynamic-cdi
+ artifactId: rapidpm-dynamic-cdi-bom
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version:
+   - 0.7.0
+   - 0.8.0
+  lastUpdated: '20170421202125'
+

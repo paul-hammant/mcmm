@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: FileWeaver
+   prefix: fileweaver
+   artifactId: fileweaver
+

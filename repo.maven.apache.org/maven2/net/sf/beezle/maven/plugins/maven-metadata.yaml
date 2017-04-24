@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Application Plugin
+   prefix: application
+   artifactId: application
+

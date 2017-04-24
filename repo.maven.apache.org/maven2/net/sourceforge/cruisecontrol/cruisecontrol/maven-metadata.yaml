@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.sourceforge.cruisecontrol
+ artifactId: cruisecontrol
+ versioning:
+  versions:
+   version:
+   - 2.2.1
+   - 2.3.0.1
+

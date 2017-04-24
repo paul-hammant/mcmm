@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Spoon Maven Plugin
+   prefix: spoon
+   artifactId: spoon-maven-plugin
+  - name: winstone-maven-plugin Maven Mojo
+   prefix: winstone
+   artifactId: winstone-maven-plugin
+  - name: YUI Compressor Maven Mojo
+   prefix: yuicompressor
+   artifactId: yuicompressor-maven-plugin
+  - name: Lift Maven Plugin
+   prefix: lift
+   artifactId: maven-lift-plugin
+

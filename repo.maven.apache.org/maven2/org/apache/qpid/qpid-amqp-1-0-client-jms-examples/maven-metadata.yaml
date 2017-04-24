@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.qpid
+ artifactId: qpid-amqp-1-0-client-jms-examples
+ versioning:
+  latest: '0.32'
+  release: '0.32'
+  versions:
+   version:
+   - '0.30'
+   - '0.32'
+  lastUpdated: '20150319110410'
+

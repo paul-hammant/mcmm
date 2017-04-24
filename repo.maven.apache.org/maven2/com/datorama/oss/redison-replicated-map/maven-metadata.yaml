@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.datorama.oss
+ artifactId: redison-replicated-map
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20160803132812'
+

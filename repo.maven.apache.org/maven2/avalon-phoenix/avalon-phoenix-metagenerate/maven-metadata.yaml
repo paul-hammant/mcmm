@@ -1,0 +1,8 @@
+metadata:
+ groupId: avalon-phoenix
+ artifactId: avalon-phoenix-metagenerate
+ version: '4.0'
+ versioning:
+  versions:
+   version: '4.0'
+

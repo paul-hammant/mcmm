@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.univ-nantes.julestar
+ artifactId: uima-contextualizer
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20160127133533'
+

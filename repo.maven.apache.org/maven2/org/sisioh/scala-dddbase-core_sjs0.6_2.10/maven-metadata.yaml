@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sisioh
+ artifactId: scala-dddbase-core_sjs0.6_2.10
+ versioning:
+  latest: 0.2.9
+  release: 0.2.9
+  versions:
+   version: 0.2.9
+  lastUpdated: '20151218154809'
+

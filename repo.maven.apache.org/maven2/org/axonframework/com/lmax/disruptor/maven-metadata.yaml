@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.axonframework.com.lmax
+ artifactId: disruptor
+ versioning:
+  latest: '2.7'
+  release: '2.7'
+  versions:
+   version:
+   - '2.0'
+   - '2.7'
+  lastUpdated: '20111212155335'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.excalibur
+ artifactId: excalibur
+ version: '3'
+ versioning:
+  release: '3'
+  versions:
+   version: '3'
+  lastUpdated: '20070903084554'
+

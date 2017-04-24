@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.aksw.rdfunit
+ artifactId: rdfunit-model
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version: '0.8'
+  lastUpdated: '20160425091106'
+

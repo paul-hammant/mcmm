@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.sf.seideframework
+ artifactId: seide-spring3
+ versioning:
+  latest: r02
+  release: r02
+  versions:
+   version:
+   - r01
+   - r01.1
+   - r02
+  lastUpdated: '20111205200353'
+

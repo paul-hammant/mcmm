@@ -1,0 +1,14 @@
+metadata:
+ groupId: bz.tsung.android
+ artifactId: objectify
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.1.0
+   - 1.1.1
+  lastUpdated: '20160124112543'
+

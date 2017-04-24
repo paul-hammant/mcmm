@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.hawkular.titan
+ artifactId: titan-core
+ versioning:
+  latest: 0.5.4-jboss-1
+  release: 0.5.4-jboss-1
+  versions:
+   version: 0.5.4-jboss-1
+  lastUpdated: '20160407185932'
+

@@ -1,0 +1,11 @@
+metadata:
+ groupId: geronimo
+ artifactId: geronimo-tomcat-builder
+ version: 1.0-M4
+ versioning:
+  versions:
+   version:
+   - 1.0-M4
+   - 1.0-M5
+   - '1.0'
+

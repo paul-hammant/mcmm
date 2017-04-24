@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.cloudiator.visor
+ artifactId: visor-telnet
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20151208102304'
+

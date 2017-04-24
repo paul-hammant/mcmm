@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: cjoop-proguard
+   artifactId: cjoop-proguard-plugin
+

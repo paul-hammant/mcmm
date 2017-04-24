@@ -1,0 +1,12 @@
+metadata:
+ groupId: br.com.caelum.stella
+ artifactId: faces-example
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20090118010743'
+

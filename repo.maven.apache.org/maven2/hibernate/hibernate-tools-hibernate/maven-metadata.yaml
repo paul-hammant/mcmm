@@ -1,0 +1,8 @@
+metadata:
+ groupId: hibernate
+ artifactId: hibernate-tools-hibernate
+ version: 3.0.0.alpha4a
+ versioning:
+  versions:
+   version: 3.0.0.alpha4a
+

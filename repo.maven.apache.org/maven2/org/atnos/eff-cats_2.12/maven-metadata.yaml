@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.atnos
+ artifactId: eff-cats_2.12
+ versioning:
+  latest: 2.0.0-RC26
+  release: 2.0.0-RC26
+  versions:
+   version:
+   - 2.0.0-RC18
+   - 2.0.0-RC25
+   - 2.0.0-RC26
+  lastUpdated: '20161113225401'
+

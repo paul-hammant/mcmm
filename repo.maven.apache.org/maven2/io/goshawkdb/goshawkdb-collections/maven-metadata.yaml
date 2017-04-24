@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.goshawkdb
+ artifactId: goshawkdb-collections
+ versioning:
+  latest: 0.3.1
+  release: 0.3.1
+  versions:
+   version:
+   - '0.3'
+   - 0.3.1
+  lastUpdated: '20161124212107'
+

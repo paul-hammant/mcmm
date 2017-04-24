@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: p2-maven-plugin
+   prefix: p2
+   artifactId: p2-maven-plugin
+

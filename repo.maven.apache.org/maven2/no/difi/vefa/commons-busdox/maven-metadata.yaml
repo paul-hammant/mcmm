@@ -1,0 +1,10 @@
+metadata:
+ groupId: no.difi.vefa
+ artifactId: commons-busdox
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version: 0.9.0
+  lastUpdated: '20150916125101'
+

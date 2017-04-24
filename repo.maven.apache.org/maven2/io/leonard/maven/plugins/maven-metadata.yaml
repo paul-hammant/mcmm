@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JSPC Maven Plugin
+   prefix: jspc
+   artifactId: jspc-maven-plugin
+

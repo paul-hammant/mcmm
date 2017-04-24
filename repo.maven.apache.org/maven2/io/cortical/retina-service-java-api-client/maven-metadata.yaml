@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.cortical
+ artifactId: retina-service-java-api-client
+ versioning:
+  latest: 2.2.1
+  release: 2.2.1
+  versions:
+   version:
+   - 2.1.0
+   - 2.2.0
+   - 2.2.1
+  lastUpdated: '20150609094157'
+

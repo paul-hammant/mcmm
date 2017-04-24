@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Bouncy Castle Maven Plugin
+   prefix: bouncycastle
+   artifactId: bouncycastle-maven-plugin
+  - name: Vault Maven Plugin
+   prefix: vault
+   artifactId: vault-maven-plugin
+

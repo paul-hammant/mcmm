@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.everit.osgi.bundles
+ artifactId: org.everit.osgi.bundles.javax.sql
+ versioning:
+  latest: 4.1.0
+  release: 4.1.0
+  versions:
+   version:
+   - 4.0.0
+   - 4.1.0
+  lastUpdated: '20140401214841'
+

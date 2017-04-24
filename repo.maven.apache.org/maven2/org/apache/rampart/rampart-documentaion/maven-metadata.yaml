@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.rampart
+ artifactId: rampart-documentaion
+ versioning:
+  latest: 1.6.0
+  release: 1.6.0
+  versions:
+   version:
+   - 1.5.1
+   - 1.6.0
+  lastUpdated: '20110609170024'
+

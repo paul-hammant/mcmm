@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JBoss patch-gen Maven Plugin
+   prefix: patch-gen-maven-plugin
+   artifactId: patch-gen-maven-plugin
+

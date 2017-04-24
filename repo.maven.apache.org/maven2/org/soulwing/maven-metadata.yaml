@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: uuid
+   artifactId: uuid-maven-plugin
+

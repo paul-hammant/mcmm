@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.bluestemsoftware.open.eoa.ext
+ artifactId: extensions-trunk
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version:
+   - '1'
+   - '2'
+  lastUpdated: '20100105043501'
+

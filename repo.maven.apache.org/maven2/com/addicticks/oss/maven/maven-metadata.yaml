@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: HTTPS Upload Maven Plugin
+   prefix: httpsupload
+   artifactId: httpsupload-maven-plugin
+

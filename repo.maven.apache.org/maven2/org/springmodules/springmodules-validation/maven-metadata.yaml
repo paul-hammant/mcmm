@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.springmodules
+ artifactId: springmodules-validation
+ versioning:
+  versions:
+   version: '0.6'
+

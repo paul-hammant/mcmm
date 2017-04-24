@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: sass-java
+   artifactId: sass-java-maven-plugin
+

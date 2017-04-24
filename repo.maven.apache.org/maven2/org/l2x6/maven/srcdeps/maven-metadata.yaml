@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Source Dependencies Plugin
+   prefix: srcdeps
+   artifactId: srcdeps-maven-plugin
+

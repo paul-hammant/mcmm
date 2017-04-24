@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Anteros Generator Maven Plugin
+   prefix: Anteros-Generator-Maven-Plugin
+   artifactId: Anteros-Generator-Maven-Plugin
+  - name: Anteros Rest Documentation Maven Plugin
+   prefix: Anteros-RestDoc-Maven-Plugin
+   artifactId: Anteros-RestDoc-Maven-Plugin
+

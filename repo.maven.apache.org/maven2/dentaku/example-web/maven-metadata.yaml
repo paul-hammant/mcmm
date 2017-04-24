@@ -1,0 +1,10 @@
+metadata:
+ groupId: dentaku
+ artifactId: example-web
+ version: '20050208.175957'
+ versioning:
+  versions:
+   version:
+   - '20050208.175957'
+   - '0.7'
+

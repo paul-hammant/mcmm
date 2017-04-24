@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.iteratee
+ artifactId: iteratee-fs2_2.11
+ versioning:
+  latest: 0.10.0
+  release: 0.10.0
+  versions:
+   version:
+   - 0.9.0
+   - 0.10.0
+  lastUpdated: '20170324184124'
+

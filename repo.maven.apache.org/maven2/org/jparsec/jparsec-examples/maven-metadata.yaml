@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.jparsec
+ artifactId: jparsec-examples
+ versioning:
+  latest: '3.0'
+  release: '3.0'
+  versions:
+   version:
+   - 2.2.1
+   - '2.3'
+   - 3.0-rc1
+   - '3.0'
+  lastUpdated: '20161227074211'
+

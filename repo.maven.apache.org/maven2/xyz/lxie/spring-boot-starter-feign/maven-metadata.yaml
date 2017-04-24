@@ -1,0 +1,10 @@
+metadata:
+ groupId: xyz.lxie
+ artifactId: spring-boot-starter-feign
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20161104125841'
+

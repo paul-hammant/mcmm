@@ -1,0 +1,18 @@
+metadata:
+ groupId: org.scala-miniboxing.plugins
+ artifactId: miniboxing-runtime_2.11
+ versioning:
+  latest: 0.4-M8
+  release: 0.4-M8
+  versions:
+   version:
+   - 0.4-M1
+   - 0.4-M2
+   - 0.4-M3
+   - 0.4-M4
+   - 0.4-M5
+   - 0.4-M6
+   - 0.4-M7
+   - 0.4-M8
+  lastUpdated: '20160227174356'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.capgemini.oss.maven.master
+ artifactId: all
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version:
+   - '1'
+   - '2'
+  lastUpdated: '20140211220311'
+

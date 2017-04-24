@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.thucydides.kendoui
+ artifactId: kendoui-support
+ versioning:
+  latest: 0.9.231
+  release: 0.9.231
+  versions:
+   version:
+   - 0.9.230
+   - 0.9.231
+  lastUpdated: '20140121113544'
+

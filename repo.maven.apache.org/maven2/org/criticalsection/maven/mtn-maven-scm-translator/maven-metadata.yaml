@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.criticalsection.maven
+ artifactId: mtn-maven-scm-translator
+ versioning:
+  latest: 1.0-alpha-01
+  release: 1.0-alpha-01
+  versions:
+   version: 1.0-alpha-01
+  lastUpdated: '20080617133355'
+

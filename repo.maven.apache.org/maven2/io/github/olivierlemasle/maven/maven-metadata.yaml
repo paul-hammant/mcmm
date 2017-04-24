@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: plaintext-maven-plugin Maven Plugin
+   prefix: plaintext
+   artifactId: plaintext-maven-plugin
+

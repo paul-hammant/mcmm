@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.app3
+ artifactId: jooq-jhipster-generator
+ versioning:
+  latest: 0.3-RELEASE
+  release: 0.3-RELEASE
+  versions:
+   version:
+   - 0.2-RELEASE
+   - 0.3-RELEASE
+  lastUpdated: '20150319200335'
+

@@ -1,0 +1,9 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ebean-maven-plugin
+   prefix: ebean
+   artifactId: ebean-maven-plugin
+  - prefix: querybean
+   artifactId: querybean-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: hawt-app
+   artifactId: hawt-app-maven-plugin
+

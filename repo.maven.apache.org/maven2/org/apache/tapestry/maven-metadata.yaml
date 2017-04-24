@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Tapestry 5 Quickstart Archetype
+   prefix: quickstart
+   artifactId: quickstart
+  - name: Simple Tapestry Archetype
+   prefix: tapestry-archetype
+   artifactId: tapestry-archetype
+  - name: Tapestry Component Parameters Report
+   prefix: tapestry-component-report
+   artifactId: tapestry-component-report
+  - name: Tapestry 5 Simple Archetype
+   prefix: tapestry-simple
+   artifactId: tapestry-simple
+

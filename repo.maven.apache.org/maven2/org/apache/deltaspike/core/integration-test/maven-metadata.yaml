@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.deltaspike.core
+ artifactId: integration-test
+ versioning:
+  latest: 0.1-incubating
+  release: 0.1-incubating
+  versions:
+   version: 0.1-incubating
+  lastUpdated: '20120210193710'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: info.cukes
+ artifactId: gherkin3
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version: 3.0.0
+  lastUpdated: '20150716225047'
+

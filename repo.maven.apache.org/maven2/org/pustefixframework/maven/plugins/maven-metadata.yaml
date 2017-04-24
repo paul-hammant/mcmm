@@ -1,0 +1,37 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Pustefix LiveAgent Plugin
+   prefix: pustefix-agent
+   artifactId: pustefix-agent-plugin
+  - name: Pustefix Generate Plugin
+   prefix: pustefix-generate
+   artifactId: pustefix-generate-plugin
+  - name: Pustefix IWrapper Class Generation Plugin
+   prefix: pustefix-iwrapper
+   artifactId: pustefix-iwrapper-plugin
+  - name: Pustefix Pagelist Plugin
+   prefix: pustefix-pagelist
+   artifactId: pustefix-pagelist-plugin
+  - name: Pustefix Pagelist Plugin
+   prefix: pustefix-patch
+   artifactId: pustefix-patch-plugin
+  - name: Pustefix resource indexing plugin
+   prefix: pustefix-resourceindex
+   artifactId: pustefix-resourceindex-plugin
+  - name: Pustefix StatusCode Constants Class Generation Plugin
+   prefix: pustefix-statuscode
+   artifactId: pustefix-statuscode-plugin
+  - name: Pustefix Validator Plugin
+   prefix: pustefix-validator
+   artifactId: pustefix-validator-plugin
+  - name: Pustefix Webapp Plugin
+   prefix: pustefix-webapp
+   artifactId: pustefix-webapp-plugin
+  - name: Pustefix AJAX webservices Plugin (for JAXWS service stub generation)
+   prefix: pustefix-webservice
+   artifactId: pustefix-webservice-plugin
+  - name: Pustefix XSLT Plugin
+   prefix: pustefix-xslt
+   artifactId: pustefix-xslt-plugin
+

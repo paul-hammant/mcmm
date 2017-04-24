@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.getquill
+ artifactId: quill-finagle-postgres_2.11
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.1.0
+  lastUpdated: '20170202010845'
+

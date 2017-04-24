@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.culturegraph
+ artifactId: metafacture-runner
+ versioning:
+  latest: 4.0.0
+  release: 4.0.0
+  versions:
+   version:
+   - 2.0.0
+   - 3.0.0
+   - 3.1.0
+   - 3.1.1
+   - 4.0.0
+  lastUpdated: '20170111205822'
+

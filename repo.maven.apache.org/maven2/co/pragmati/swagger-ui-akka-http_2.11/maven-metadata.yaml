@@ -1,0 +1,12 @@
+metadata:
+ groupId: co.pragmati
+ artifactId: swagger-ui-akka-http_2.11
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version:
+   - 0.1.0
+   - 1.0.0
+  lastUpdated: '20161111111505'
+

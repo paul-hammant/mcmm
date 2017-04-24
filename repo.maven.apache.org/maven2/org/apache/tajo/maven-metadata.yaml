@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Tajo Maven Plugins
+   prefix: tajos
+   artifactId: tajo-maven-plugins
+

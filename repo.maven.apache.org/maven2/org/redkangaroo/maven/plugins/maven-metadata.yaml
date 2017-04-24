@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Properties Files Mojos
+   prefix: properties-files-mojos
+   artifactId: properties-files-mojos
+  - name: Resource Bundle Generator Maven Plugin
+   prefix: rb-generator
+   artifactId: rb-generator-plugin
+

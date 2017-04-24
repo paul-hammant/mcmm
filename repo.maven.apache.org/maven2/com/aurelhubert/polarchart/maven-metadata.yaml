@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.aurelhubert
+ artifactId: polarchart
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.2
+  lastUpdated: '20161028121438'
+

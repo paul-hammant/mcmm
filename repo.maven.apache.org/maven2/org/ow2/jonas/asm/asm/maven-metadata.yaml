@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.jonas.asm
+ artifactId: asm
+ version: '3.1'
+ versioning:
+  versions:
+   version: '3.1'
+  lastUpdated: '20080319183927'
+

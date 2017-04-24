@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.foundweekends
+ artifactId: bintry_2.10
+ versioning:
+  latest: 0.5.0
+  release: 0.5.0
+  versions:
+   version: 0.5.0
+  lastUpdated: '20170419055553'
+

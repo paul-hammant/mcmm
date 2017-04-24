@@ -1,0 +1,8 @@
+metadata:
+ groupId: maxq
+ artifactId: maxq
+ version: '0.94'
+ versioning:
+  versions:
+   version: '0.94'
+

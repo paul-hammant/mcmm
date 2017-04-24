@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.bitmoving.util
+ artifactId: flowdock-appender
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version:
+   - 0.1.2
+   - '0.2'
+  lastUpdated: '20150413113627'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: vert.x-hot maven plugin
+   prefix: vertx-hot
+   artifactId: vertx-hot-maven-plugin
+

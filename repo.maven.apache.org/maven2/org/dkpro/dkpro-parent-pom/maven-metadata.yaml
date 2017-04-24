@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.dkpro
+ artifactId: dkpro-parent-pom
+ versioning:
+  latest: '15'
+  release: '15'
+  versions:
+   version:
+   - '12'
+   - '13'
+   - '14'
+   - '15'
+  lastUpdated: '20160810093028'
+

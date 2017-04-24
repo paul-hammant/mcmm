@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.edzard
+ artifactId: kineticgwt
+ versioning:
+  latest: 0.9.2
+  release: 0.9.2
+  versions:
+   version:
+   - 0.9.1
+   - 0.9.2
+  lastUpdated: '20130716123136'
+

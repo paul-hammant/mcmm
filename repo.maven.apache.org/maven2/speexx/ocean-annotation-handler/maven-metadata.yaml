@@ -1,0 +1,10 @@
+metadata:
+ groupId: speexx
+ artifactId: ocean-annotation-handler
+ version: 1.1.0
+ versioning:
+  versions:
+   version:
+   - 1.1.0
+   - 1.1.1
+

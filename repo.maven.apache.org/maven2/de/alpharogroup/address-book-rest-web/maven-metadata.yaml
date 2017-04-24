@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.alpharogroup
+ artifactId: address-book-rest-web
+ versioning:
+  latest: 3.11.0
+  release: 3.11.0
+  versions:
+   version:
+   - 3.6.0
+   - 3.11.0
+  lastUpdated: '20170419175900'
+

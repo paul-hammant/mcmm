@@ -1,0 +1,10 @@
+metadata:
+ groupId: jp.dodododo
+ artifactId: head-elasticsearch5
+ versioning:
+  latest: 5.1.1.0
+  release: 5.1.1.0
+  versions:
+   version: 5.1.1.0
+  lastUpdated: '20170119035422'
+

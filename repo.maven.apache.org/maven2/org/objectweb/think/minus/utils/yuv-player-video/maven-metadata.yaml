@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.think.minus.utils
+ artifactId: yuv-player-video
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20080704160638'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: pl.org.miki
+ artifactId: scala-quickstart-archetype
+ versioning:
+  latest: 0.8.2
+  release: 0.8.2
+  versions:
+   version: 0.8.2
+  lastUpdated: '20140726174510'
+

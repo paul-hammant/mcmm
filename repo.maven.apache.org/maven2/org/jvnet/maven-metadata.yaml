@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Checks the class file format version
+   prefix: animal-sniffer
+   artifactId: animal-sniffer
+

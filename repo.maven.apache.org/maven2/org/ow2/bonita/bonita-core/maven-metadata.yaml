@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.ow2.bonita
+ artifactId: bonita-core
+ version: 4.0.RC3
+ versioning:
+  versions:
+   version:
+   - 4.0.RC3
+   - '4.0'
+  lastUpdated: '20080926130212'
+

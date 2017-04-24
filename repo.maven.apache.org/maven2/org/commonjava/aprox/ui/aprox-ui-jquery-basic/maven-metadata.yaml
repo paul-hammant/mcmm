@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.commonjava.aprox.ui
+ artifactId: aprox-ui-jquery-basic
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version: '0.2'
+  lastUpdated: '20120615025503'
+

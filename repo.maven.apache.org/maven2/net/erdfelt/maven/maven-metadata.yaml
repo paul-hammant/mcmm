@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Project Graphing Maven Plugin
+   prefix: graphing
+   artifactId: graphing-maven-plugin
+  - name: 'XmlFresh :: Maven Plugin'
+   prefix: xmlfresh
+   artifactId: xmlfresh-maven-plugin
+

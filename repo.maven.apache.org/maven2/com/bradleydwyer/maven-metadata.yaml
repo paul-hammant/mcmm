@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: springmvc-router-ide Maven Mojo
+   prefix: springmvc-router-ide
+   artifactId: springmvc-router-ide
+

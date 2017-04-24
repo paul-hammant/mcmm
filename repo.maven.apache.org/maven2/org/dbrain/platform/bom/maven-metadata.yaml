@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.dbrain.platform
+ artifactId: bom
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20150910032500'
+

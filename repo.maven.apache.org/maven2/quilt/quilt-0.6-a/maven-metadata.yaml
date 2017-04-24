@@ -1,0 +1,8 @@
+metadata:
+ groupId: quilt
+ artifactId: quilt-0.6-a
+ version: '5'
+ versioning:
+  versions:
+   version: '5'
+

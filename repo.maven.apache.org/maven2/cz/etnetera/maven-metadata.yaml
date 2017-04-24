@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SmartMeter Maven plugin
+   prefix: smartmeter
+   artifactId: smartmeter-maven-plugin
+

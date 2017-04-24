@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.appyads.services
+ artifactId: appyads
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.20
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20150920003315'
+

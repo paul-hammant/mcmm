@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.hawkular.btm
+ artifactId: hawkular-btm-config-manager-rest-client
+ versioning:
+  latest: 0.1.0.Final
+  release: 0.1.0.Final
+  versions:
+   version:
+   - 0.0.2
+   - 0.1.0.Final
+  lastUpdated: '20150630144537'
+

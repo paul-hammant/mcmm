@@ -1,0 +1,12 @@
+metadata:
+ groupId: uk.co.firstzero
+ artifactId: anttasks
+ versioning:
+  latest: '2.5'
+  release: '2.5'
+  versions:
+   version:
+   - '2.4'
+   - '2.5'
+  lastUpdated: '20140112134536'
+

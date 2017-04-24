@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.trygvis.appsh.apps
+ artifactId: jenkins
+ versioning:
+  latest: 1.486+1
+  release: 1.486+1
+  versions:
+   version: 1.486+1
+  lastUpdated: '20121024131502'
+

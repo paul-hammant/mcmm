@@ -1,0 +1,15 @@
+metadata:
+ groupId: biz.cgta
+ artifactId: otest_sjs0.6_2.11
+ versioning:
+  latest: 0.2.6
+  release: 0.2.6
+  versions:
+   version:
+   - 0.2.2
+   - 0.2.3
+   - 0.2.4
+   - 0.2.5
+   - 0.2.6
+  lastUpdated: '20161103150629'
+

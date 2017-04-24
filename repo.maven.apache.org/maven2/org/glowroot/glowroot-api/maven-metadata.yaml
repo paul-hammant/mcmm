@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.glowroot
+ artifactId: glowroot-api
+ versioning:
+  latest: 0.8.4
+  release: 0.8.4
+  versions:
+   version: 0.8.4
+  lastUpdated: '20150811101930'
+

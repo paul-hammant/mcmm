@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.improving
+ artifactId: scala-improving_2.9.1
+ versioning:
+  latest: 0.9.8
+  release: 0.9.8
+  versions:
+   version: 0.9.8
+  lastUpdated: '20120124191850'
+

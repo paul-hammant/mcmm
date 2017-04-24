@@ -1,0 +1,12 @@
+metadata:
+ groupId: jetty
+ artifactId: jetty-management
+ version: 6.0.0beta11
+ versioning:
+  versions:
+   version:
+   - 6.0.0beta11
+   - 6.0.0beta14
+   - 6.0.0beta15
+   - 6.0.0beta16
+

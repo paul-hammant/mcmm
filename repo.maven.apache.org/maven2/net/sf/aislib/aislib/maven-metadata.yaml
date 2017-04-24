@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.aislib
+ artifactId: aislib
+ versioning:
+  latest: 0.6.1
+  release: 0.6.1
+  versions:
+   version:
+   - '0.6'
+   - 0.6.1
+  lastUpdated: '20150419005228'
+

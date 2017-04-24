@@ -1,0 +1,10 @@
+metadata:
+ groupId: ms.safi.btsync
+ artifactId: btsync-java
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20140715030218'
+

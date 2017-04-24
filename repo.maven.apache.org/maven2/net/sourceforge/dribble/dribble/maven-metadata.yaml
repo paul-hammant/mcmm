@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sourceforge.dribble
+ artifactId: dribble
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+  lastUpdated: '20161118213642'
+

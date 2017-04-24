@@ -1,0 +1,12 @@
+metadata:
+ groupId: nz.ac.auckland.scriptella.driver
+ artifactId: scriptella-http
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20150227014654'
+

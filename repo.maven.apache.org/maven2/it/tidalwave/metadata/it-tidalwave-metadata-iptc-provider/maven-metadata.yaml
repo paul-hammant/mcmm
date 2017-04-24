@@ -1,0 +1,15 @@
+metadata:
+ groupId: it.tidalwave.metadata
+ artifactId: it-tidalwave-metadata-iptc-provider
+ versioning:
+  latest: 1.0.44
+  release: 1.0.44
+  versions:
+   version:
+   - 1.0.40
+   - 1.0.41
+   - 1.0.42
+   - 1.0.43
+   - 1.0.44
+  lastUpdated: '20120925131050'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sakaiproject.nakamura
+ artifactId: org.sakaiproject.nakamura.mysql-driver
+ versioning:
+  latest: 5.1.13-1.4
+  release: 5.1.13-1.4
+  versions:
+   version: 5.1.13-1.4
+  lastUpdated: '20111214033617'
+

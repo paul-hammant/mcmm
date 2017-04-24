@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.stickycode.component
+ artifactId: sticky-component-cxf-spring30
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version: '2.1'
+  lastUpdated: '20111113200934'
+

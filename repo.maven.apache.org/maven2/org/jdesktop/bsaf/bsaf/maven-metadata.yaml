@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jdesktop.bsaf
+ artifactId: bsaf
+ versioning:
+  latest: 1.9.2
+  release: 1.9.2
+  versions:
+   version: 1.9.2
+  lastUpdated: '20110706094403'
+

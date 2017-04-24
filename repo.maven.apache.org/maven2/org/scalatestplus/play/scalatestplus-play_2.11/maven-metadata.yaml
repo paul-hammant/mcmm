@@ -1,0 +1,20 @@
+metadata:
+ groupId: org.scalatestplus.play
+ artifactId: scalatestplus-play_2.11
+ versioning:
+  latest: 3.0.0-M3
+  release: 3.0.0-M3
+  versions:
+   version:
+   - 1.5.0-RC1
+   - 1.5.0
+   - 1.5.0-SNAP1
+   - 1.5.1
+   - 2.0.0-M1
+   - 2.0.0-M2
+   - 2.0.0
+   - 3.0.0-M1
+   - 3.0.0-M2
+   - 3.0.0-M3
+  lastUpdated: '20170413211609'
+

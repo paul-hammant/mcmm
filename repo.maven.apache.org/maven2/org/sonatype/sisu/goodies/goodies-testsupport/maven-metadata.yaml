@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.sonatype.sisu.goodies
+ artifactId: goodies-testsupport
+ versioning:
+  latest: '1.14'
+  release: '1.14'
+  versions:
+   version:
+   - '1.10'
+   - '1.11'
+   - '1.12'
+   - '1.13'
+   - '1.14'
+  lastUpdated: '20150917193818'
+

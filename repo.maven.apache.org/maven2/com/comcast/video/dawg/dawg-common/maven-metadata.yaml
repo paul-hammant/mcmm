@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.comcast.video.dawg
+ artifactId: dawg-common
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version: 2.0.1
+  lastUpdated: '20160106231428'
+

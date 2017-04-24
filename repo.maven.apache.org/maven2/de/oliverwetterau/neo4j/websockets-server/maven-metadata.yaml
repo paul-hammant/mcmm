@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.oliverwetterau.neo4j
+ artifactId: websockets-server
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version: 0.9.0
+  lastUpdated: '20151008124246'
+

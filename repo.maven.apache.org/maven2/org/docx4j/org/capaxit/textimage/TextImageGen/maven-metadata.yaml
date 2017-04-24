@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.docx4j.org.capaxit.textimage
+ artifactId: TextImageGen
+ versioning:
+  latest: '1.9'
+  release: '1.9'
+  versions:
+   version: '1.9'
+  lastUpdated: '20160427053543'
+

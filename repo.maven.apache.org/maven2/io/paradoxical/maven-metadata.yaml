@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: resolved-pom-maven-plugin Maven Plugin
+   prefix: resolved-pom
+   artifactId: resolved-pom-maven-plugin
+

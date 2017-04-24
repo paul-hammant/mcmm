@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Glassfish Console - Maven Plugin
+   prefix: glassfish-console
+   artifactId: glassfish-console-maven-plugin
+

@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Drools 4 Integration Helper Maven Plugin
+   prefix: drools4-integration-helper
+   artifactId: drools4-integration-helper-maven-plugin
+  - name: Drools 4 Integration Helper Maven Plugin
+   prefix: drools4
+   artifactId: drools4-integration-helper-maven-plugin
+  - name: Drools 5 Integration Helper Maven Plugin
+   prefix: drools5
+   artifactId: drools5-integration-helper-maven-plugin
+  - name: Drools 5 Integration helper Archetype
+   prefix: drools5-integration-helper-archetype
+   artifactId: drools5-integration-helper-archetype
+

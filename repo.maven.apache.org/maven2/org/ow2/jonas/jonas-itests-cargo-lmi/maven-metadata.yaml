@@ -1,0 +1,13 @@
+metadata:
+ '@xsi:schemaLocation': http://maven.apache.org/METADATA/1.0.0 http://maven.apache.org/xsd/metadata-1.0.0.xsd
+ '@xmlns': http://maven.apache.org/METADATA/1.0.0
+ '@xmlns:xsi': http://www.w3.org/2001/XMLSchema-instance
+ groupId: org.ow2.jonas
+ artifactId: jonas-itests-cargo-lmi
+ version: 5.2.0-M1
+ versioning:
+  release: 5.2.0-M1
+  versions:
+   version: 5.2.0-M1
+  lastUpdated: '20100329163953'
+

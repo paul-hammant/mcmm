@@ -1,0 +1,12 @@
+metadata:
+ groupId: no.shiplog
+ artifactId: directives2_2.12
+ versioning:
+  latest: 0.10.1a
+  release: 0.10.1a
+  versions:
+   version:
+   - 0.10.1
+   - 0.10.1a
+  lastUpdated: '20170110094936'
+

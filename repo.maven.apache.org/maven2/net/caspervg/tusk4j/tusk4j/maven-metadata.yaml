@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.caspervg.tusk4j
+ artifactId: tusk4j
+ versioning:
+  latest: 0.2-RELEASE
+  release: 0.2-RELEASE
+  versions:
+   version:
+   - 0.1-RELEASE
+   - 0.2-RELEASE
+  lastUpdated: '20150426132318'
+

@@ -1,0 +1,7 @@
+metadata:
+ groupId: com.caucho
+ artifactId: resin
+ versioning:
+  versions:
+   version: 3.0.9
+

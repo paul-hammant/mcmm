@@ -1,0 +1,12 @@
+metadata:
+ groupId: nz.net.ultraq.preferences
+ artifactId: preferences
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.2.1
+   - 2.0.0
+  lastUpdated: '20161203035655'
+

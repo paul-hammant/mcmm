@@ -1,0 +1,43 @@
+metadata:
+ plugins:
+  plugin:
+  - name: AndroMDA Beautifier Plugin
+   prefix: andromda-beautifier
+   artifactId: andromda-beautifier-plugin
+  - name: AndroMDA Bootstrap Install Plugin
+   prefix: andromda-bootstrap-install
+   artifactId: andromda-bootstrap-install-plugin
+  - name: AndroMDA Bootstrap Plugin
+   prefix: andromda-bootstrap
+   artifactId: andromda-bootstrap-plugin
+  - name: AndroMDA Cartridge Maven Plugin
+   prefix: andromda-cartridge
+   artifactId: andromda-cartridge-plugin
+  - name: AndroMDA Distribution Plugin
+   prefix: andromda-distribution
+   artifactId: andromda-distribution-plugin
+  - name: AndroMDA Initialize Plugin
+   prefix: andromda-initialize
+   artifactId: andromda-initialize-plugin
+  - name: AndroMDA Maven Plugin
+   prefix: andromda
+   artifactId: andromda-maven-plugin
+  - name: AndroMDA Model Archiver Plugin
+   prefix: andromda-model-archiver
+   artifactId: andromda-model-archiver-plugin
+  - name: AndroMDA Maven Multi-Source Plugin
+   prefix: andromda-multi-source
+   artifactId: andromda-multi-source-plugin
+  - name: AndroMDA SableCC Maven Plugin
+   prefix: andromda-sablecc
+   artifactId: andromda-sablecc-plugin
+  - name: AndroMDA Translation Library Maven Plugin
+   prefix: andromda-translation-library
+   artifactId: andromda-translation-library-plugin
+  - name: AndroMDA .NET Application Generator Maven Plugin
+   prefix: andromdanetapp
+   artifactId: andromdanetapp-maven-plugin
+  - name: AndroMDA Application Generator Maven Plugin
+   prefix: andromdapp
+   artifactId: andromdapp-maven-plugin
+

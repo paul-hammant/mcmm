@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.hu_berlin.german.korpling.saltnpepper
+ artifactId: salt-saltCommon
+ versioning:
+  latest: 2.1.2
+  release: 2.1.2
+  versions:
+   version: 2.1.2
+  lastUpdated: '20150629125428'
+

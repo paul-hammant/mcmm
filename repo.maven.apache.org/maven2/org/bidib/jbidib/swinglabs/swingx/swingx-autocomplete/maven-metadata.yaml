@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bidib.jbidib.swinglabs.swingx
+ artifactId: swingx-autocomplete
+ versioning:
+  latest: 1.6.5-1
+  release: 1.6.5-1
+  versions:
+   version: 1.6.5-1
+  lastUpdated: '20131014195608'
+

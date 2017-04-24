@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'OW2 FraSCAti: Compiler Maven Plugin'
+   prefix: frascati-compiler
+   artifactId: frascati-compiler-plugin
+  - name: 'OW2 FraSCAti: Contribution Maven Plugin'
+   prefix: frascati-contribution
+   artifactId: frascati-contribution-plugin
+  - name: 'OW2 FraSCAti: Launcher Maven Plugin'
+   prefix: frascati-launcher
+   artifactId: frascati-launcher-plugin
+

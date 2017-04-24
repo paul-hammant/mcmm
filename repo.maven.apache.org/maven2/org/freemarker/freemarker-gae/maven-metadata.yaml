@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.freemarker
+ artifactId: freemarker-gae
+ versioning:
+  latest: 2.3.26-incubating
+  release: 2.3.26-incubating
+  versions:
+   version:
+   - 2.3.24-incubating
+   - 2.3.25-incubating
+   - 2.3.26-incubating
+  lastUpdated: '20170325094113'
+

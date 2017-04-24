@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.elasticsearch
+ artifactId: elasticsearch-analysis-mmseg
+ versioning:
+  latest: 5.2.2
+  release: 5.2.2
+  versions:
+   version:
+   - 5.0.0
+   - 5.0.2
+   - 5.1.1
+   - 5.1.2
+   - 5.2.0
+   - 5.2.1
+   - 5.2.2
+  lastUpdated: '20170302152042'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.ltgt.dagger
+ artifactId: bullet
+ versioning:
+  latest: '0.20'
+  release: '0.20'
+  versions:
+   version:
+   - '0.1'
+   - '0.20'
+  lastUpdated: '20150510084208'
+

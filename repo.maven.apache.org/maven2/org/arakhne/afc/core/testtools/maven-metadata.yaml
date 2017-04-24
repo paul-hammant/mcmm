@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.arakhne.afc.core
+ artifactId: testtools
+ versioning:
+  latest: '13.0'
+  release: '13.0'
+  versions:
+   version: '13.0'
+  lastUpdated: '20160612100327'
+

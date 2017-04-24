@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.jbpm.jbpm4
+ artifactId: jbpm-enterprise
+ versioning:
+  latest: '4.4'
+  release: '4.4'
+  versions:
+   version:
+   - 4.0.CR1
+   - '4.0'
+   - '4.1'
+   - '4.2'
+   - '4.3'
+   - '4.4'
+  lastUpdated: '20100719065349'
+

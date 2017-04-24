@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Javac2 Maven Plugin
+   prefix: org.solovyev.external.javac2
+   artifactId: org.solovyev.external.javac2-maven-plugin
+

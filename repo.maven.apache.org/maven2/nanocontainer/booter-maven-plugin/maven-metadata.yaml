@@ -1,0 +1,10 @@
+metadata:
+ groupId: nanocontainer
+ artifactId: booter-maven-plugin
+ version: 1.0.1
+ versioning:
+  versions:
+   version:
+   - 1.0.1
+   - '1.0'
+

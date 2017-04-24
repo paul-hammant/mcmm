@@ -1,0 +1,10 @@
+metadata:
+ groupId: batik
+ artifactId: batik-svg-dom
+ version: '1.5'
+ versioning:
+  versions:
+   version:
+   - '1.5'
+   - '1.6'
+

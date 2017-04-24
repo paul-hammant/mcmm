@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.meeuw
+ artifactId: mihxil-json-parent
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version:
+   - '0.7'
+   - '0.8'
+  lastUpdated: '20150815211002'
+

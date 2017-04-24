@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.drinkwater
+ artifactId: drinkwater-datasource
+ versioning:
+  latest: 0.0.9
+  release: 0.0.9
+  versions:
+   version:
+   - 0.0.7
+   - 0.0.8
+   - 0.0.9
+  lastUpdated: '20170210135905'
+

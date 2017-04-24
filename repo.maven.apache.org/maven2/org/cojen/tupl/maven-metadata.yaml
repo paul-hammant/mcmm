@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.cojen
+ artifactId: tupl
+ versioning:
+  latest: 1.3.11
+  release: 1.3.11
+  versions:
+   version: 1.3.11
+  lastUpdated: '20170218052812'
+

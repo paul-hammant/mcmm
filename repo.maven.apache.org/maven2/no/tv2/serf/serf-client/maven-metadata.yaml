@@ -1,0 +1,10 @@
+metadata:
+ groupId: no.tv2.serf
+ artifactId: serf-client
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20160229122652'
+

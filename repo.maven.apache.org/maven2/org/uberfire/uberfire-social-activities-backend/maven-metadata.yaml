@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.uberfire
+ artifactId: uberfire-social-activities-backend
+ versioning:
+  latest: 1.0.0.CR1
+  release: 1.0.0.CR1
+  versions:
+   version:
+   - 1.0.0.Beta6
+   - 1.0.0.Beta7
+   - 1.0.0.Beta8
+   - 1.0.0.CR1
+  lastUpdated: '20170407140619'
+

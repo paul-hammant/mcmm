@@ -1,0 +1,10 @@
+metadata:
+ groupId: me.actv8
+ artifactId: actv8-sdk
+ versioning:
+  latest: '2.2'
+  release: '2.2'
+  versions:
+   version: '2.2'
+  lastUpdated: '20161027001322'
+

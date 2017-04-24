@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.as-development.asdk
+ artifactId: tools-common
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version: 1.2.0
+  lastUpdated: '20160401110127'
+

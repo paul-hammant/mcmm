@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.code-house.eaio-uuid
+ artifactId: jackson
+ versioning:
+  latest: 2.8.7
+  release: 2.8.7
+  versions:
+   version: 2.8.7
+  lastUpdated: '20170322112701'
+

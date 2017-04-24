@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ApacheDS Bootstrap Plugin
+   prefix: apacheds-bootstrap
+   artifactId: apacheds-bootstrap-plugin
+  - name: ApacheDS Core Plugin (Maven 2)
+   prefix: apacheds-core
+   artifactId: apacheds-core-plugin
+  - name: ApacheDS Installers Maven Plugin
+   prefix: apacheds-installers
+   artifactId: apacheds-installers-maven-plugin
+  - name: ApacheDS Server Sar Maven Plugin
+   prefix: apacheds-sar
+   artifactId: apacheds-sar-plugin
+  - name: ApacheDS Schema Archetype
+   prefix: apacheds-schema-archetype
+   artifactId: apacheds-schema-archetype
+  - name: ApacheDS Testcase Archetype
+   prefix: apacheds-testcase-archetype
+   artifactId: apacheds-testcase-archetype
+

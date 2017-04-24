@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.frascati
+ artifactId: frascati-implementation-script-groovy
+ versioning:
+  release: '1.4'
+  versions:
+   version: '1.4'
+  lastUpdated: '20110603112331'
+

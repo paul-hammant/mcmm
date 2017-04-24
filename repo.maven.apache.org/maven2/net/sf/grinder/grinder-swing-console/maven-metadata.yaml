@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.grinder
+ artifactId: grinder-swing-console
+ versioning:
+  latest: '3.11'
+  release: '3.11'
+  versions:
+   version: '3.11'
+  lastUpdated: '20121025055430'
+

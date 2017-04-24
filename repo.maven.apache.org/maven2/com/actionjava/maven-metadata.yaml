@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ActionJava Assets
+   prefix: aj-assets
+   artifactId: aj-assets
+

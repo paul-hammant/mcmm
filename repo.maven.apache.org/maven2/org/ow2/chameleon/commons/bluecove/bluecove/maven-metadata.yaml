@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.chameleon.commons.bluecove
+ artifactId: bluecove
+ versioning:
+  latest: 2.1.1-63
+  release: 2.1.1-63
+  versions:
+   version: 2.1.1-63
+  lastUpdated: '20120206100735'
+

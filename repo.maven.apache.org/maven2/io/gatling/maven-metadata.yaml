@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: gatling-maven-plugin
+   prefix: gatling
+   artifactId: gatling-maven-plugin
+  - name: Apache Maven Shade Plugin
+   prefix: shade
+   artifactId: maven-shade-plugin
+

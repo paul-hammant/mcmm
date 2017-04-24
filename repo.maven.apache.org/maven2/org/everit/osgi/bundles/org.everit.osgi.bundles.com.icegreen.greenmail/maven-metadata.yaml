@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.everit.osgi.bundles
+ artifactId: org.everit.osgi.bundles.com.icegreen.greenmail
+ versioning:
+  latest: 1.4.0
+  release: 1.4.0
+  versions:
+   version: 1.4.0
+  lastUpdated: '20150414111723'
+

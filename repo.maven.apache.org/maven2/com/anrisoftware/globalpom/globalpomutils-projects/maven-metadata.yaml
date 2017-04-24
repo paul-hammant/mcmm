@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.anrisoftware.globalpom
+ artifactId: globalpomutils-projects
+ versioning:
+  latest: '3.0'
+  release: '3.0'
+  versions:
+   version: '3.0'
+  lastUpdated: '20160120215913'
+

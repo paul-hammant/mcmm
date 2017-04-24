@@ -1,0 +1,13 @@
+metadata:
+ groupId: cocoon
+ artifactId: cocoon-forms
+ version: 2.1.5.1
+ versioning:
+  versions:
+   version:
+   - 2.1.5.1
+   - 2.1.6
+   - 2.1.7
+   - 2.1.8
+   - 2.1.9
+

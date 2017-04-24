@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Joda-Beans Maven plugin
+   prefix: joda-beans
+   artifactId: joda-beans-maven-plugin
+  - name: Joda Beans Maven plugin
+   prefix: joda-beans
+   artifactId: maven-joda-beans-plugin
+

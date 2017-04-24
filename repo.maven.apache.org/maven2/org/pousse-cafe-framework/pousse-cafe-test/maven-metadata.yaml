@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.pousse-cafe-framework
+ artifactId: pousse-cafe-test
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version:
+   - 0.0.1
+   - 0.1.0
+  lastUpdated: '20170209141154'
+

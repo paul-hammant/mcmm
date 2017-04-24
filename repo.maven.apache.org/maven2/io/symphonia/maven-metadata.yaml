@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: lambda-metrics-maven-plugin
+   prefix: lambda-metrics
+   artifactId: lambda-metrics-maven-plugin
+

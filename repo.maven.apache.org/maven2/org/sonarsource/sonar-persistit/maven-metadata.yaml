@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sonarsource
+ artifactId: sonar-persistit
+ versioning:
+  latest: 3.3.2
+  release: 3.3.2
+  versions:
+   version: 3.3.2
+  lastUpdated: '20150622141930'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: cd-versions-maven-plugin Maven Plugin
+   prefix: cd-versions
+   artifactId: cd-versions-maven-plugin
+

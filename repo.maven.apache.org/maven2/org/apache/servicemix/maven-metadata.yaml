@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Servicemix :: Build'
+   prefix: build
+   artifactId: build
+  - name: 'Servicemix :: Build'
+   prefix: servicemix-build
+   artifactId: servicemix-build
+

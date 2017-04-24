@@ -1,0 +1,12 @@
+metadata:
+ groupId: hu.inbuss
+ artifactId: thymeleaf-mvc
+ versioning:
+  latest: 0.0.9
+  release: 0.0.9
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.9
+  lastUpdated: '20161005131815'
+

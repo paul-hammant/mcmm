@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: cortx-maven-plugin
+   prefix: cortx
+   artifactId: cortx-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: ch.epfl.lamp
+ artifactId: scala-records_sjs0.6_2.11
+ versioning:
+  latest: '0.4'
+  release: '0.4'
+  versions:
+   version: '0.4'
+  lastUpdated: '20150617160927'
+

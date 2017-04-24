@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.jbasics
+ artifactId: jbasics
+ versioning:
+  latest: 0.86.0
+  release: 0.86.0
+  versions:
+   version:
+   - 0.7.0
+   - 0.7.1
+   - 0.80.0
+   - 0.81.0
+   - 0.82.0
+   - 0.83.0
+   - 0.84.0
+   - 0.85.0
+   - 0.86.0
+  lastUpdated: '20170306091706'
+

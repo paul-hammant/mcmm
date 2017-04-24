@@ -1,0 +1,12 @@
+metadata:
+ groupId: cc.concurrent
+ artifactId: kid
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version:
+   - '0.2'
+   - '1.0'
+  lastUpdated: '20131109104826'
+

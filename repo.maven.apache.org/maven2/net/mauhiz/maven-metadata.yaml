@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JSPC Compiler for Tomcat 7
+   prefix: jspc
+   artifactId: jspc-maven-plugin
+

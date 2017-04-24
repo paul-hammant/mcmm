@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.groupId}:${project.artifactId}
+   prefix: layer-dependency-check
+   artifactId: layer-dependency-check-maven-plugin
+

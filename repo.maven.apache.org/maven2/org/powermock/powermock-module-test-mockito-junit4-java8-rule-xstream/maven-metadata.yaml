@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.powermock
+ artifactId: powermock-module-test-mockito-junit4-java8-rule-xstream
+ versioning:
+  latest: 1.6.6
+  release: 1.6.6
+  versions:
+   version:
+   - 1.6.5
+   - 1.6.6
+  lastUpdated: '20161104085217'
+

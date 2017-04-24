@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Sitebricks API Documentation Generator
+   prefix: sitebricks-doc-generator
+   artifactId: sitebricks-doc-generator
+

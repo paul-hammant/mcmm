@@ -1,0 +1,10 @@
+metadata:
+ groupId: il.ac.technion.cs.ssdl
+ artifactId: command-line-processing
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20120313000725'
+

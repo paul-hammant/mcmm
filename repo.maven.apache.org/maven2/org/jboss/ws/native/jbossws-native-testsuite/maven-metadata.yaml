@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.ws.native
+ artifactId: jbossws-native-testsuite
+ versioning:
+  latest: 4.1.0.Beta1
+  release: 4.1.0.Beta1
+  versions:
+   version: 4.1.0.Beta1
+  lastUpdated: '20120605164837'
+

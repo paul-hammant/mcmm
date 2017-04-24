@@ -1,0 +1,9 @@
+metadata:
+ groupId: com.capgemini.platina
+ artifactId: platina-tests
+ version: '1'
+ versioning:
+  versions:
+   version: '1'
+  lastUpdated: '20080822134241'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.eclipse.equinox
+ artifactId: launcher
+ version: 1.0.0-v20070606
+ versioning:
+  versions:
+   version: 1.0.0-v20070606
+  lastUpdated: '20071127071547'
+

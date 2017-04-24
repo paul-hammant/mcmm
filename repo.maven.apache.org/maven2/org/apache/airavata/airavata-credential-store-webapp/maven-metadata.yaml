@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.airavata
+ artifactId: airavata-credential-store-webapp
+ versioning:
+  latest: '0.14'
+  release: '0.14'
+  versions:
+   version:
+   - '0.13'
+   - '0.14'
+  lastUpdated: '20150109023651'
+

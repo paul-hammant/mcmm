@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.defmacro
+ artifactId: eclipse-astparser
+ versioning:
+  latest: '8.1'
+  release: '8.1'
+  versions:
+   version: '8.1'
+  lastUpdated: '20151208061857'
+

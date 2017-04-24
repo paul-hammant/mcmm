@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: mustache-maven-plugin Maven Plugin
+   prefix: mustache
+   artifactId: mustache-maven-plugin
+

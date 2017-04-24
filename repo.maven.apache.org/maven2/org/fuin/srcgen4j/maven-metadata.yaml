@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SrcGen4J Maven Plugin
+   prefix: srcgen4j
+   artifactId: srcgen4j-maven-plugin
+

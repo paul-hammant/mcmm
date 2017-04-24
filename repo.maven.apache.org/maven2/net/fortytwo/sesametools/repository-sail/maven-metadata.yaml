@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.fortytwo.sesametools
+ artifactId: repository-sail
+ versioning:
+  latest: '1.10'
+  release: '1.10'
+  versions:
+   version:
+   - '1.7'
+   - '1.8'
+   - '1.9'
+   - '1.10'
+  lastUpdated: '20160724032250'
+

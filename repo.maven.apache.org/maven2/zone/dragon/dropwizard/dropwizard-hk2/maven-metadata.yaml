@@ -1,0 +1,15 @@
+metadata:
+ groupId: zone.dragon.dropwizard
+ artifactId: dropwizard-hk2
+ versioning:
+  latest: 1.1.16-97d2fb
+  release: 1.1.16-97d2fb
+  versions:
+   version:
+   - 1.1.6-f1993a
+   - 1.1.8-93ddea
+   - 1.1.14-05ab08
+   - 1.1.15-b2a026
+   - 1.1.16-97d2fb
+  lastUpdated: '20170423195239'
+

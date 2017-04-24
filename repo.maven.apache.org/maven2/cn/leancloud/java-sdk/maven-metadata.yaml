@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.leancloud
+ artifactId: java-sdk
+ versioning:
+  latest: 0.1.6
+  release: 0.1.6
+  versions:
+   version: 0.1.6
+  lastUpdated: '20160929043909'
+

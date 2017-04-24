@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.humanistika.exist.module
+ artifactId: cql-module
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - 1.2.1
+  lastUpdated: '20170223124712'
+

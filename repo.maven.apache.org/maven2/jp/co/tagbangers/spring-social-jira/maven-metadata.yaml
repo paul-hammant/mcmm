@@ -1,0 +1,12 @@
+metadata:
+ groupId: jp.co.tagbangers
+ artifactId: spring-social-jira
+ versioning:
+  latest: 1.0.0.BUILD-SNAPSHOT-201610221550
+  release: 1.0.0.BUILD-SNAPSHOT-201610221550
+  versions:
+   version:
+   - 1.0.0.M1
+   - 1.0.0.BUILD-SNAPSHOT-201610221550
+  lastUpdated: '20161022090425'
+

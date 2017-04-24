@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: typescript-generator-maven-plugin
+   prefix: typescript-generator
+   artifactId: typescript-generator-maven-plugin
+

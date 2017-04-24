@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sourceforge.owlapi
+ artifactId: owlapi-gwt-supersource
+ versioning:
+  latest: 3.4.9
+  release: 3.4.9
+  versions:
+   version:
+   - 3.4.8
+   - 3.4.9
+  lastUpdated: '20131127021744'
+

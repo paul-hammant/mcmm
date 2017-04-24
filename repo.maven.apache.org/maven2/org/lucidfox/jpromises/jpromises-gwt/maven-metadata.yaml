@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.lucidfox.jpromises
+ artifactId: jpromises-gwt
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20160404211949'
+

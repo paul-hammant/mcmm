@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: excelebration-maven-plugin
+   prefix: excelebration
+   artifactId: excelebration-maven-plugin
+

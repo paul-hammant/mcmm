@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: user-id-maven-plugin Maven Plugin
+   prefix: user-id
+   artifactId: user-id-maven-plugin
+

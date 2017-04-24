@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.anzix.android
+ artifactId: callcosts
+ versioning:
+  latest: '1.5'
+  release: '1.5'
+  versions:
+   version: '1.5'
+  lastUpdated: '20101103220236'
+

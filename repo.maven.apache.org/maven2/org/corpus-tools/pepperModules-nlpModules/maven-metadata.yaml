@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.corpus-tools
+ artifactId: pepperModules-nlpModules
+ versioning:
+  latest: 1.1.7
+  release: 1.1.7
+  versions:
+   version:
+   - 1.1.6
+   - 1.1.7
+  lastUpdated: '20170227202303'
+

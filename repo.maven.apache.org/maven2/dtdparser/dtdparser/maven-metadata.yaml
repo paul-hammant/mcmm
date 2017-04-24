@@ -1,0 +1,8 @@
+metadata:
+ groupId: dtdparser
+ artifactId: dtdparser
+ version: '1.21'
+ versioning:
+  versions:
+   version: '1.21'
+

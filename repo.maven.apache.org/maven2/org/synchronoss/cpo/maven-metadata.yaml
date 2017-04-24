@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: cpo-plugin
+   prefix: cpo
+   artifactId: cpo-plugin
+

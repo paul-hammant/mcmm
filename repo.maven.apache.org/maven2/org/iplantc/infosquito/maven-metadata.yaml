@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.iplantc
+ artifactId: infosquito
+ versioning:
+  latest: 1.8.7
+  release: 1.8.7
+  versions:
+   version:
+   - 1.8.6
+   - 1.8.7
+  lastUpdated: '20140318024544'
+

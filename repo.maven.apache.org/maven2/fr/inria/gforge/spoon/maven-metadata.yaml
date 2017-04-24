@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Spoon maven plugin
+   prefix: spoon
+   artifactId: spoon-maven-plugin
+

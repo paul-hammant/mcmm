@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.mule.mvel
+ artifactId: mule-mvel2
+ versioning:
+  latest: 2.1.9-MULE-011
+  release: 2.1.9-MULE-011
+  versions:
+   version:
+   - 2.1.9-MULE-008
+   - 2.1.9-MULE-009
+   - 2.1.9-MULE-010
+   - 2.1.9-MULE-011
+  lastUpdated: '20170314041024'
+

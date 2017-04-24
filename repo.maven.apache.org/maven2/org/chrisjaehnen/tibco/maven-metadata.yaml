@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: TIBCO BW Profiles Maven Plugin
+   prefix: tibco-bw-profiles
+   artifactId: tibco-bw-profiles-maven-plugin
+  - name: TIBCO BW Properties Maven Plugin
+   prefix: tibco-bw-properties
+   artifactId: tibco-bw-properties-maven-plugin
+  - name: TIBCO BW Versioning Maven Plugin
+   prefix: tibco-bw-versioning
+   artifactId: tibco-bw-versioning-maven-plugin
+

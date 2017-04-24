@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: OSGi Deployment Maven Plugin
+   prefix: osgi-deployment
+   artifactId: osgi-deployment-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.ant
+ artifactId: ant-xz
+ versioning:
+  latest: 1.10.1
+  release: 1.10.1
+  versions:
+   version: 1.10.1
+  lastUpdated: '20170206135909'
+

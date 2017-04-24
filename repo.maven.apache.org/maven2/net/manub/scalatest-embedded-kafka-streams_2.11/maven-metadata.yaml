@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.manub
+ artifactId: scalatest-embedded-kafka-streams_2.11
+ versioning:
+  latest: 0.12.0
+  release: 0.12.0
+  versions:
+   version:
+   - 0.9.0
+   - 0.10.0
+   - 0.11.0
+   - 0.11.1
+   - 0.12.0
+  lastUpdated: '20170226185414'
+

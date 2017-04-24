@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.shrinkwrap
+ artifactId: shrinkwrap-extension-classloader
+ versioning:
+  latest: 1.0.0-alpha-11
+  release: 1.0.0-alpha-11
+  versions:
+   version: 1.0.0-alpha-11
+  lastUpdated: '20100718031145'
+

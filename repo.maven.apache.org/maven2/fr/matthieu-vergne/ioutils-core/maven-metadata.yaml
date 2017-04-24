@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.matthieu-vergne
+ artifactId: ioutils-core
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20150824224810'
+

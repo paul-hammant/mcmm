@@ -1,0 +1,7 @@
+metadata:
+ groupId: net.sf.falcon
+ artifactId: falconcore
+ versioning:
+  versions:
+   version: 0.0.7
+

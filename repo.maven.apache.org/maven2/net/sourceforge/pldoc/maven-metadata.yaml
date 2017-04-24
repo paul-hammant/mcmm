@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven PLDoc CPD Plugin - ${project.version}
+   prefix: pldoccpd
+   artifactId: maven-cpd-plugin
+  - name: Maven PLDoc CPD Plugin - ${project.version}
+   prefix: pldoc
+   artifactId: maven-cpd-plugin
+  - name: Maven PLDoc Plugin - ${project.version}
+   prefix: pldoc
+   artifactId: maven-pldoc-plugin
+  - name: Apache Maven PMD Plugin for PLSQL
+   prefix: pldoc-pmd
+   artifactId: pldoc-pmd-plugin
+

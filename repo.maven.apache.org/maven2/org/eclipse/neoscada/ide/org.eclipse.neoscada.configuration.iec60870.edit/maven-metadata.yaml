@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eclipse.neoscada.ide
+ artifactId: org.eclipse.neoscada.configuration.iec60870.edit
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version: 0.4.0
+  lastUpdated: '20170216111147'
+

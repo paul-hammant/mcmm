@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.openejb
+ artifactId: openejb-tomcat-plus-webapp
+ versioning:
+  latest: 4.0.0-beta-1
+  release: 4.0.0-beta-1
+  versions:
+   version: 4.0.0-beta-1
+  lastUpdated: '20111004185113'
+

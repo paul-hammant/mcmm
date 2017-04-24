@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Discursive Maven Skin
+   prefix: discskin
+   artifactId: disc-maven-skin
+

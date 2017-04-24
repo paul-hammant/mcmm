@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.neo4j
+ artifactId: neo4j-tinkerpop-api
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20150609095153'
+

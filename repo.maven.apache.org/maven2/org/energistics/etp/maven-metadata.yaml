@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.energistics
+ artifactId: etp
+ versioning:
+  latest: 1.4.1
+  release: 1.4.1
+  versions:
+   version: 1.4.1
+  lastUpdated: '20160904020422'
+

@@ -1,0 +1,13 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.eclipse.scalamodules
+ artifactId: examples
+ versioning:
+  latest: 2.0-M2
+  release: 2.0-M2
+  versions:
+   version:
+   - 2.0-M1
+   - 2.0-M2
+  lastUpdated: '20120928142756'
+

@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.kantega.jexmec
+ artifactId: jexmec-manager
+ versioning:
+  latest: 2.0.0rc8
+  release: 2.0.0rc8
+  versions:
+   version:
+   - 2.0.0rc3
+   - 2.0.0rc4
+   - 2.0.0rc5
+   - 2.0.0rc6
+   - 2.0.0rc7
+   - 2.0.0rc8
+  lastUpdated: '20121117133136'
+

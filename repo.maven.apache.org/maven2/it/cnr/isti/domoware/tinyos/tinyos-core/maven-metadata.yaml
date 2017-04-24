@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.cnr.isti.domoware.tinyos
+ artifactId: tinyos-core
+ version: 1.1.14
+ versioning:
+  release: 1.1.14
+  versions:
+   version: 1.1.14
+  lastUpdated: '20080313185542'
+

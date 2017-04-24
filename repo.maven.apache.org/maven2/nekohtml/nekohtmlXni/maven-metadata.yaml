@@ -1,0 +1,13 @@
+metadata:
+ groupId: nekohtml
+ artifactId: nekohtmlXni
+ version: 0.7.1
+ versioning:
+  versions:
+   version:
+   - 0.7.1
+   - 0.7.6
+   - 0.7.7
+   - 0.8.1
+   - 0.9.3
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: cactus
+ artifactId: jakarta-cactus
+ versioning:
+  versions:
+   version:
+   - 13-1.5-beta1
+   - 12-1.5-beta1
+   - 1.5-beta1
+

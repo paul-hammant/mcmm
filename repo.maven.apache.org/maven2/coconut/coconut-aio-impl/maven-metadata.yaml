@@ -1,0 +1,8 @@
+metadata:
+ groupId: coconut
+ artifactId: coconut-aio-impl
+ version: 5.0-alpha-1
+ versioning:
+  versions:
+   version: 5.0-alpha-1
+

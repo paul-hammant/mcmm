@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eclipse.birt.runtime
+ artifactId: org.mozilla.javascript
+ versioning:
+  latest: 1.7.5.v201504281450
+  release: 1.7.5.v201504281450
+  versions:
+   version: 1.7.5.v201504281450
+  lastUpdated: '20150921230626'
+

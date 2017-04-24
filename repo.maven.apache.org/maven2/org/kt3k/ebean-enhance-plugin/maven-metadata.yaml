@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.kt3k
+ artifactId: ebean-enhance-plugin
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.2
+   - 2.0.0
+   - 2.0.4
+   - 2.0.5
+   - 3.0.0
+  lastUpdated: '20161219114620'
+

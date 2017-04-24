@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.jasypt
+ artifactId: jasypt-springsecurity3
+ versioning:
+  latest: 1.9.2
+  release: 1.9.2
+  versions:
+   version:
+   - 1.9.0
+   - 1.9.1
+   - 1.9.2
+  lastUpdated: '20140225225725'
+

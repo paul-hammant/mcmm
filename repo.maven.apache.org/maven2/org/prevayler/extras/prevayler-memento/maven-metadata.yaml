@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.prevayler.extras
+ artifactId: prevayler-memento
+ versioning:
+  latest: '2.5'
+  release: '2.5'
+  versions:
+   version: '2.5'
+  lastUpdated: '20111002184311'
+

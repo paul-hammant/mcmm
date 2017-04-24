@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.cvogt
+ artifactId: slick-mongo-light_2.11
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - 0.2.1
+  lastUpdated: '20150629195455'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.chrisomeara
+ artifactId: pillar-core_2.10
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version: 3.0.0
+  lastUpdated: '20170227035551'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: emma
+ artifactId: maven-emma-plugin
+ version: '0.5'
+ versioning:
+  versions:
+   version: '0.5'
+

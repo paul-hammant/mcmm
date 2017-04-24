@@ -1,0 +1,8 @@
+metadata:
+ groupId: net.sf.a2j
+ artifactId: a2j
+ version: beta2
+ versioning:
+  versions:
+   version: beta2
+

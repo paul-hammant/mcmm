@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.mongodb.morphia
+ artifactId: morphia-jrebel-plug
+ versioning:
+  latest: '0.106'
+  release: '0.106'
+  versions:
+   version:
+   - '0.105'
+   - '0.106'
+  lastUpdated: '20140131200412'
+

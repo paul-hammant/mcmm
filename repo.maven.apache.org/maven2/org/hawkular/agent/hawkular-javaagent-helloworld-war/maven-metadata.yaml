@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.hawkular.agent
+ artifactId: hawkular-javaagent-helloworld-war
+ versioning:
+  latest: 0.29.4.Final
+  release: 0.29.4.Final
+  versions:
+   version:
+   - 0.29.0.Final
+   - 0.29.1.Final
+   - 0.29.2.Final
+   - 0.29.3.Final
+   - 0.29.4.Final
+  lastUpdated: '20170405020953'
+

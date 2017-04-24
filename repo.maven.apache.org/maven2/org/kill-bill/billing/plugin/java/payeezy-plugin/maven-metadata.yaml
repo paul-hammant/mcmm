@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.kill-bill.billing.plugin.java
+ artifactId: payeezy-plugin
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160909030943'
+

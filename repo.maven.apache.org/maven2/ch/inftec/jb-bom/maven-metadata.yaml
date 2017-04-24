@@ -1,0 +1,16 @@
+metadata:
+ groupId: ch.inftec
+ artifactId: jb-bom
+ versioning:
+  latest: 2-8
+  release: 2-8
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - 2-1
+   - 2-6
+   - 2-7
+   - 2-8
+  lastUpdated: '20141002193737'
+

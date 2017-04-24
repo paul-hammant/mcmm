@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.tamaya.examples
+ artifactId: tamaya-example-remote-server
+ versioning:
+  latest: 0.2-incubating
+  release: 0.2-incubating
+  versions:
+   version: 0.2-incubating
+  lastUpdated: '20160414001715'
+

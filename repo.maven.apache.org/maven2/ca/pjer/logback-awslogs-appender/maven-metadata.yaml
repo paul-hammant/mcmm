@@ -1,0 +1,12 @@
+metadata:
+ groupId: ca.pjer
+ artifactId: logback-awslogs-appender
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version:
+   - 0.0.1
+   - 0.1.0
+  lastUpdated: '20160809190116'
+

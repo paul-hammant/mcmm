@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: MockServer Maven Plugin
+   prefix: mockserver
+   artifactId: mockserver-maven-plugin
+

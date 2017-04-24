@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.sirocco.vmm
+ artifactId: sirocco-vmm-agent-monitoring-driver-dummy
+ versioning:
+  latest: 0.7.1
+  release: 0.7.1
+  versions:
+   version: 0.7.1
+  lastUpdated: '20120114000744'
+

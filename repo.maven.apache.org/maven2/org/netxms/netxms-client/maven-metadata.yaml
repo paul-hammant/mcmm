@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.netxms
+ artifactId: netxms-client
+ versioning:
+  latest: 2.1-M3
+  release: 2.1-M3
+  versions:
+   version:
+   - 2.0-RC1
+   - 2.0.3
+   - 2.0.4
+   - 2.0.6
+   - 2.1-M2
+   - 2.1-M3
+  lastUpdated: '20170417113446'
+

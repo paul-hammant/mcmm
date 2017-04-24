@@ -1,0 +1,13 @@
+metadata:
+ groupId: pl.matsuo
+ artifactId: matsuo-model
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 0.1.2
+  lastUpdated: '20151011142433'
+

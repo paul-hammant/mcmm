@@ -1,0 +1,8 @@
+metadata:
+ groupId: groovy
+ artifactId: jam
+ version: dev
+ versioning:
+  versions:
+   version: dev
+

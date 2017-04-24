@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.dossot
+ artifactId: rx-mule
+ versioning:
+  latest: 3.6.1
+  release: 3.6.1
+  versions:
+   version:
+   - 3.6.0
+   - 3.6.1
+  lastUpdated: '20150313233852'
+

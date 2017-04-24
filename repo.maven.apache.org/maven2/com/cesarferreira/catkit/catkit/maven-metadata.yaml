@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.cesarferreira.catkit
+ artifactId: catkit
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version: 0.3.0
+  lastUpdated: '20150709013032'
+

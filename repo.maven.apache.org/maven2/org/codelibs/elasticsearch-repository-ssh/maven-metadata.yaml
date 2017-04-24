@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.codelibs
+ artifactId: elasticsearch-repository-ssh
+ versioning:
+  latest: 2.4.0
+  release: 2.4.0
+  versions:
+   version:
+   - 1.4.0
+   - 2.2.0
+   - 2.2.1
+   - 2.4.0
+  lastUpdated: '20160926214119'
+

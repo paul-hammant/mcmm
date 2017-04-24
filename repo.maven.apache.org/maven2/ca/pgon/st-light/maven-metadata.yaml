@@ -1,0 +1,13 @@
+metadata:
+ groupId: ca.pgon
+ artifactId: st-light
+ versioning:
+  latest: '3.0'
+  release: '3.0'
+  versions:
+   version:
+   - '1.0'
+   - '2.0'
+   - '3.0'
+  lastUpdated: '20140107005814'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: amagicman-maven-plugin
+   prefix: amagicman
+   artifactId: amagicman-maven-plugin
+

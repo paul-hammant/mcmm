@@ -1,0 +1,400 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Animal Sniffer Maven Plugin
+   prefix: animal-sniffer
+   artifactId: animal-sniffer-maven-plugin
+  - name: Maven ANTLR Plugin
+   prefix: antlr
+   artifactId: antlr-maven-plugin
+  - name: ANTLR-v3 Maven Plugin
+   prefix: antlr3
+   artifactId: antlr3-maven-plugin
+  - name: 'Appassembler :: Maven Plug-In'
+   prefix: appassembler
+   artifactId: appassembler-maven-plugin
+  - name: Appfuse Maven Plugin
+   prefix: appfuse
+   artifactId: appfuse-maven-plugin
+  - name: Apt Maven Plugin
+   prefix: apt
+   artifactId: apt-maven-plugin
+  - name: Mojo's AspectJ Maven Plugin
+   prefix: aspectj
+   artifactId: aspectj-maven-plugin
+  - name: Axis Tools Maven Plugin
+   prefix: axistools
+   artifactId: axistools-maven-plugin
+  - name: Batik Maven Plugin
+   prefix: batik
+   artifactId: batik-maven-plugin
+  - name: Build Helper Maven Plugin
+   prefix: build-helper
+   artifactId: build-helper-maven-plugin
+  - name: Dependency Builder Plugin
+   prefix: build-on-demand
+   artifactId: build-on-demand-maven-plugin
+  - name: Build Number Maven Plugin
+   prefix: buildnumber
+   artifactId: buildnumber-maven-plugin
+  - name: Mojo's Cassandra Maven Plugin
+   prefix: cassandra
+   artifactId: cassandra-maven-plugin
+  - name: Castor Maven Plugin
+   prefix: castor
+   artifactId: castor-maven-plugin
+  - name: Maven C-Build Lifecycle Mappings
+   prefix: cbuild-lifecycles
+   artifactId: cbuild-lifecycles
+  - name: Maven Changelog Plug-in
+   prefix: changelog
+   artifactId: changelog-maven-plugin
+  - name: Maven Changes Report Plugin
+   prefix: changes
+   artifactId: changes-maven-plugin
+  - name: Chronos JMeter
+   prefix: chronos-jmeter
+   artifactId: chronos-jmeter-maven-plugin
+  - name: Chronos Report
+   prefix: chronos-report
+   artifactId: chronos-report-maven-plugin
+  - name: Chronos Surefire
+   prefix: chronos-surefire
+   artifactId: chronos-surefire-maven-plugin
+  - name: Clirr Maven Plugin
+   prefix: clirr
+   artifactId: clirr-maven-plugin
+  - name: Mojo's Maven plugin for Cobertura
+   prefix: cobertura
+   artifactId: cobertura-maven-plugin
+  - name: CodeNarc Maven Plugin
+   prefix: codenarc
+   artifactId: codenarc-maven-plugin
+  - name: Maven Commons Attributes Plugin
+   prefix: commons-attributes
+   artifactId: commons-attributes-maven-plugin
+  - name: Maven Dashboard Report Plugin
+   prefix: dashboard
+   artifactId: dashboard-maven-plugin
+  - name: DbUnit Plugin
+   prefix: dbunit
+   artifactId: dbunit-maven-plugin
+  - name: Maven Database Upgrade Plugin
+   prefix: dbupgrade
+   artifactId: dbupgrade-maven-plugin
+  - name: Dependency Maven Plugin
+   prefix: dependency
+   artifactId: dependency-maven-plugin
+  - name: Deploy All Plugin for Maven
+   prefix: deploy-all
+   artifactId: deploy-all-maven-plugin
+  - name: DITA Open Toolkit Maven Plugin
+   prefix: dita
+   artifactId: dita-maven-plugin
+  - name: DITA Open Toolkit Maven Plugin
+   prefix: ditaot
+   artifactId: ditaot-maven-plugin
+  - name: Maven Docbook plugin
+   prefix: docbook
+   artifactId: docbook-maven-plugin
+  - name: Emma Maven Plugin
+   prefix: emma
+   artifactId: emma-maven-plugin
+  - name: Enchanter Maven Plugin
+   prefix: enchanter
+   artifactId: enchanter-maven-plugin
+  - name: Exec Maven Plugin
+   prefix: exec
+   artifactId: exec-maven-plugin
+  - name: Failsafe Maven Plugin
+   prefix: failsafe
+   artifactId: failsafe-maven-plugin
+  - name: FindBugs Maven Plugin
+   prefix: findbugs
+   artifactId: findbugs-maven-plugin
+  - name: Fit Maven Plugin
+   prefix: fit
+   artifactId: fit-maven-plugin
+  - name: Maven Fitnesse plugin.
+   prefix: fitnesse
+   artifactId: fitnesse-maven-plugin
+  - name: Maven Flatten Plugin
+   prefix: flatten
+   artifactId: flatten-maven-plugin
+  - name: Groovy Maven Plugin
+   prefix: groovy
+   artifactId: groovy-maven-plugin
+  - name: Mojo's Maven Plugin for GWT
+   prefix: gwt
+   artifactId: gwt-maven-plugin
+  - name: Hibernate3 Maven Plugin
+   prefix: hibernate3
+   artifactId: hibernate3-maven-plugin
+  - name: IANAL Maven Plugin
+   prefix: ianal
+   artifactId: ianal-maven-plugin
+  - name: Maven IDEA UI Designer Plugin
+   prefix: ideauidesigner
+   artifactId: ideauidesigner-maven-plugin
+  - name: CORBA IDL Compiler Maven Plugin
+   prefix: idlj
+   artifactId: idlj-maven-plugin
+  - name: Jalopy Maven Plugin
+   prefix: jalopy
+   artifactId: jalopy-maven-plugin
+  - name: Maven JasperReports Plugin
+   prefix: jasperreports
+   artifactId: jasperreports-maven-plugin
+  - name: JavaCC Maven Plugin
+   prefix: javacc
+   artifactId: javacc-maven-plugin
+  - name: JavaNCSS Maven Plugin
+   prefix: javancss
+   artifactId: javancss-maven-plugin
+  - name: JAXB-2 Maven Plugin
+   prefix: jaxb2
+   artifactId: jaxb2-maven-plugin
+  - name: JAX-WS Maven Plugin
+   prefix: jaxws
+   artifactId: jaxws-maven-plugin
+  - name: JBoss Maven Plugin
+   prefix: jboss
+   artifactId: jboss-maven-plugin
+  - name: JBoss Packaging Maven Plugin
+   prefix: jboss-packaging
+   artifactId: jboss-packaging-maven-plugin
+  - name: JDepend Maven Plugin
+   prefix: jdepend
+   artifactId: jdepend-maven-plugin
+  - name: JPox Maven Plugin
+   prefix: jpox
+   artifactId: jpox-maven-plugin
+  - name: JRuby Mojo Support
+   prefix: jruby
+   artifactId: jruby-maven-plugin
+  - name: JavaScript Import Maven Plugin
+   prefix: js-import
+   artifactId: js-import-maven-plugin
+  - name: JSLint Maven Plugin
+   prefix: jslint
+   artifactId: jslint-maven-plugin
+  - name: Maven Jspc plugin
+   prefix: jspc
+   artifactId: jspc-maven-plugin
+  - name: Maven JXR Plugin
+   prefix: jxr
+   artifactId: jxr-maven-plugin
+  - name: 'Keytool: Maven Plugin'
+   prefix: keytool
+   artifactId: keytool-maven-plugin
+  - name: Localization Tools Maven Plugin
+   prefix: l10n
+   artifactId: l10n-maven-plugin
+  - name: LaTeX Maven Plugin
+   prefix: latex
+   artifactId: latex-maven-plugin
+  - name: LESS CSS Maven Plugin
+   prefix: lesscss
+   artifactId: lesscss-maven-plugin
+  - name: License Maven Plugin
+   prefix: license
+   artifactId: license-maven-plugin
+  - name: Local Configuration Plugin
+   prefix: local-config
+   artifactId: local-config-maven-plugin
+  - name: Makefile Orchestration Plugin
+   prefix: make
+   artifactId: make-maven-plugin
+  - name: Maven JPox Plugin
+   prefix: jpox
+   artifactId: maven-jpox-plugin
+  - name: Maven MiniJar Plugin
+   prefix: minijar
+   artifactId: minijar-maven-plugin
+  - name: 'Mock Repository Manager: Maven Plugin'
+   prefix: mrm
+   artifactId: mrm-maven-plugin
+  - name: Multimodule Build Optimizer Plugin
+   prefix: multibuild-optimizer
+   artifactId: multibuild-optimizer-maven-plugin
+  - name: Maven Native Plugin
+   prefix: native
+   artifactId: native-maven-plugin
+  - name: Maven Native2ascii Plugin
+   prefix: native2ascii
+   artifactId: native2ascii-maven-plugin
+  - name: NB Repository Plugin
+   prefix: nb-repository
+   artifactId: nb-repository-plugin
+  - name: NBM Maven Plugin
+   prefix: nbm
+   artifactId: nbm-maven-plugin
+  - name: Netbeans Freeform Maven Plugin
+   prefix: netbeans-freeform
+   artifactId: netbeans-freeform-maven-plugin
+  - name: Mojo's Maven Plugin for NSIS
+   prefix: nsis
+   artifactId: nsis-maven-plugin
+  - name: OpenJPA Maven Plugin
+   prefix: openjpa
+   artifactId: openjpa-maven-plugin
+  - name: Maven OS X Application Bundle Plugin
+   prefix: osxappbundle
+   artifactId: osxappbundle-maven-plugin
+  - name: Ounce Maven Plugin
+   prefix: ounce
+   artifactId: ounce-maven-plugin
+  - name: Patch Plugin
+   prefix: patch
+   artifactId: patch-maven-plugin
+  - name: Eclipse PDE Maven Plugin
+   prefix: pde
+   artifactId: pde-maven-plugin
+  - name: Platform Attribute Detector Plugin for Maven
+   prefix: platform-detector
+   artifactId: platform-detector-maven-plugin
+  - name: Project Archive Plugin
+   prefix: project-archive
+   artifactId: project-archive-maven-plugin
+  - name: Project Sources Plugin
+   prefix: project-sources
+   artifactId: project-sources-maven-plugin
+  - name: Properties Maven Plugin
+   prefix: properties
+   artifactId: properties-maven-plugin
+  - name: RAT Maven Plugin
+   prefix: rat
+   artifactId: rat-maven-plugin
+  - name: Remote-Source Plugin
+   prefix: remote-source
+   artifactId: remote-source-maven-plugin
+  - name: Retrotranslator MAven Plugin
+   prefix: retrotranslator
+   artifactId: retrotranslator-maven-plugin
+  - name: RMI Compiler Maven Plugin
+   prefix: rmic
+   artifactId: rmic-maven-plugin
+  - name: RPM Plugin
+   prefix: rpm-cbuild
+   artifactId: rpm-cbuild-maven-plugin
+  - name: RPM Maven Plugin
+   prefix: rpm
+   artifactId: rpm-maven-plugin
+  - name: RSpec Maven Plugin
+   prefix: rspec
+   artifactId: rspec-maven-plugin
+  - name: Maven 2 SableCC Plugin
+   prefix: sablecc
+   artifactId: sablecc-maven-plugin
+  - name: Maven SCM Changelog Reporter
+   prefix: scmchangelog
+   artifactId: scmchangelog-maven-plugin
+  - name: Maven Selenium Plugin
+   prefix: selenium
+   artifactId: selenium-maven-plugin
+  - name: Maven Service Documentation Generator Plugin
+   prefix: servicedocgen
+   artifactId: servicedocgen-maven-plugin
+  - name: Settings Management Plugin
+   prefix: settings
+   artifactId: settings-maven-plugin
+  - name: shade-maven-plugin
+   prefix: shade
+   artifactId: shade-maven-plugin
+  - name: Shell Script Executor Plugin
+   prefix: shell
+   artifactId: shell-maven-plugin
+  - name: Ship Maven Plugin
+   prefix: ship
+   artifactId: ship-maven-plugin
+  - name: Super Helpful Integration Testing ThingY (SHITTY) Maven Plugin
+   prefix: shitty
+   artifactId: shitty-maven-plugin
+  - name: SiteSkinner Maven Plugin
+   prefix: siteskinner
+   artifactId: siteskinner-maven-plugin
+  - name: State Machine Compiler (SMC) Maven Plugin
+   prefix: smc
+   artifactId: smc-maven-plugin
+  - name: Maven Solaris Plugin
+   prefix: solaris
+   artifactId: solaris-maven-plugin
+  - name: SonarQube Maven Plugin
+   prefix: sonar
+   artifactId: sonar-maven-plugin
+  - name: springdoclet
+   prefix: springdoclet
+   artifactId: springdoclet-maven-plugin
+  - name: springws-maven-plugin
+   prefix: springws
+   artifactId: springws-maven-plugin
+  - name: SQL Plugin for Maven
+   prefix: sql
+   artifactId: sql-maven-plugin
+  - name: SQLJ Maven Plugin
+   prefix: sqlj
+   artifactId: sqlj-maven-plugin
+  - name: Maven Surefire Report Plugin
+   prefix: surefire-report
+   artifactId: surefire-report-maven-plugin
+  - name: Sysdeo Tomcat Maven Plugin
+   prefix: sysdeo-tomcat
+   artifactId: sysdeo-tomcat-maven-plugin
+  - name: Taglist Maven Plugin
+   prefix: taglist
+   artifactId: taglist-maven-plugin
+  - name: Templating Maven Plugin
+   prefix: templating
+   artifactId: templating-maven-plugin
+  - name: Tidy Maven Plugin
+   prefix: tidy
+   artifactId: tidy-maven-plugin
+  - name: Tomcat Maven Plugin
+   prefix: tomcat
+   artifactId: tomcat-maven-plugin
+  - name: Maven Plugin for TrueZIP
+   prefix: truezip
+   artifactId: truezip-maven-plugin
+  - name: Maven Unix Plug-In
+   prefix: unix
+   artifactId: unix-maven-plugin
+  - name: Versions Maven Plugin
+   prefix: versions
+   artifactId: versions-maven-plugin
+  - name: Maven VFS plugin
+   prefix: vfs
+   artifactId: vfs-maven-plugin
+  - name: Maven Wagon plugin
+   prefix: wagon
+   artifactId: wagon-maven-plugin
+  - name: WAS6 Maven Plugin
+   prefix: was6
+   artifactId: was6-maven-plugin
+  - name: webdoclet
+   prefix: webdoclet
+   artifactId: webdoclet-maven-plugin
+  - name: Weblogic Maven Plugin
+   prefix: weblogic
+   artifactId: weblogic-maven-plugin
+  - name: Web Minifier Maven Plugin
+   prefix: webminifier
+   artifactId: webminifier-maven-plugin
+  - name: 'MWEBSTART :: Webstart Maven Plugin'
+   prefix: webstart
+   artifactId: webstart-maven-plugin
+  - name: Canoo WebTest Maven Plugin
+   prefix: webtest
+   artifactId: webtest-maven-plugin
+  - name: XDoclet Maven Plugin
+   prefix: xdoclet
+   artifactId: xdoclet-maven-plugin
+  - name: XML Maven Plugin
+   prefix: xml
+   artifactId: xml-maven-plugin
+  - name: Maven XML Beans Plugin
+   prefix: xmlbeans
+   artifactId: xmlbeans-maven-plugin
+  - name: Maven XSLT Plugin
+   prefix: xslt
+   artifactId: xslt-maven-plugin
+

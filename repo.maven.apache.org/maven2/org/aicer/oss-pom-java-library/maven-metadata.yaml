@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.aicer
+ artifactId: oss-pom-java-library
+ versioning:
+  latest: '4'
+  release: '4'
+  versions:
+   version:
+   - '1'
+   - '4'
+  lastUpdated: '20140217050205'
+

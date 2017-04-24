@@ -1,0 +1,10 @@
+metadata:
+ groupId: maven-proxy
+ artifactId: maven-proxy-core
+ version: '0.1'
+ versioning:
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+

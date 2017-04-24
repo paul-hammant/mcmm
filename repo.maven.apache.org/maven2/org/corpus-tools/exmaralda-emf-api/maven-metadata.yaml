@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.corpus-tools
+ artifactId: exmaralda-emf-api
+ versioning:
+  latest: 1.1.8
+  release: 1.1.8
+  versions:
+   version: 1.1.8
+  lastUpdated: '20151222184804'
+

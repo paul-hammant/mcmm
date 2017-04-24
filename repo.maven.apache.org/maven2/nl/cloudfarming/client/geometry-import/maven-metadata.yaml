@@ -1,0 +1,12 @@
+metadata:
+ groupId: nl.cloudfarming.client
+ artifactId: geometry-import
+ versioning:
+  latest: 1.0.24
+  release: 1.0.24
+  versions:
+   version:
+   - 1.0.23
+   - 1.0.24
+  lastUpdated: '20120408185456'
+

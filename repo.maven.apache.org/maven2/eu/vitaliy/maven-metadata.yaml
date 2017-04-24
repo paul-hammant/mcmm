@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-clip-plugin Maven Plugin
+   prefix: clip
+   artifactId: maven-clip-plugin
+

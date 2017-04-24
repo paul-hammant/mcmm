@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JOPA - maven plugin
+   prefix: jopa
+   artifactId: jopa-maven-plugin
+

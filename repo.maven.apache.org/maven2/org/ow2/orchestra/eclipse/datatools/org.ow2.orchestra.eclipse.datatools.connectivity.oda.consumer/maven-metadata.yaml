@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.orchestra.eclipse.datatools
+ artifactId: org.ow2.orchestra.eclipse.datatools.connectivity.oda.consumer
+ versioning:
+  release: 3.2.4
+  versions:
+   version: 3.2.4
+  lastUpdated: '20110921133639'
+

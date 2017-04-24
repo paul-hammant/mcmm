@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Configurator Maven-Plugin
+   prefix: configurator
+   artifactId: configurator-maven-plugin
+

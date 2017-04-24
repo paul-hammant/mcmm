@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.basho.riak
+ artifactId: spark-riak-connector-test-utils_2.11
+ versioning:
+  latest: 1.6.0
+  release: 1.6.0
+  versions:
+   version: 1.6.0
+  lastUpdated: '20160824021020'
+

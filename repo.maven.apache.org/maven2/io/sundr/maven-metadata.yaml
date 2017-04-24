@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Sundrio :: Maven Plugin'
+   prefix: sundr
+   artifactId: sundr-maven-plugin
+

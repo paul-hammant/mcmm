@@ -1,0 +1,7 @@
+metadata:
+ groupId: cactus
+ artifactId: org.apache.cactus.eclipse.runner
+ versioning:
+  versions:
+   version: 1.8.0
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: keystone-plugin
+   prefix: keystone
+   artifactId: keystone-plugin
+

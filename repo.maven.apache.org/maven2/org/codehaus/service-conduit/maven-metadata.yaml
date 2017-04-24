@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: SCA4J Contribution Plugin
+   prefix: sca4j
+   artifactId: sca4j-contribution-plugin
+  - name: SCA4J Integration Test Maven Plugin
+   prefix: sca4j-itest
+   artifactId: sca4j-itest-plugin
+

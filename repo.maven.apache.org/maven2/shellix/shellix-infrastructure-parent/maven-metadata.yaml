@@ -1,0 +1,9 @@
+metadata:
+ groupId: shellix
+ artifactId: shellix-infrastructure-parent
+ version: 0.0.1-SNAPSHOT
+ versioning:
+  versions:
+   version: 0.0.1-SNAPSHOT
+  lastUpdated: '20090601204352'
+

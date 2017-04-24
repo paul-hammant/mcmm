@@ -1,0 +1,8 @@
+metadata:
+ groupId: merlin
+ artifactId: merlin-cli
+ version: 3.3.0
+ versioning:
+  versions:
+   version: 3.3.0
+

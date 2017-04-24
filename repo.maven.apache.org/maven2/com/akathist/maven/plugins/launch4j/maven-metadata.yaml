@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Launch4j Plugin
+   prefix: launch4j
+   artifactId: launch4j-maven-plugin
+

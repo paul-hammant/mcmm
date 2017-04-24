@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Scalafmt Maven Plugin
+   prefix: mvn-scalafmt
+   artifactId: mvn-scalafmt
+

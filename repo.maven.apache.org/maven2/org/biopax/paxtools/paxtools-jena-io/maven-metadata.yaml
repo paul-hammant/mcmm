@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.biopax.paxtools
+ artifactId: paxtools-jena-io
+ versioning:
+  latest: 4.3.1
+  release: 4.3.1
+  versions:
+   version: 4.3.1
+  lastUpdated: '20150922080339'
+

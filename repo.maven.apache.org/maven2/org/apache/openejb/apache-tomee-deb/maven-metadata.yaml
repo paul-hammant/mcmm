@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.openejb
+ artifactId: apache-tomee-deb
+ versioning:
+  latest: 1.5.0
+  release: 1.5.0
+  versions:
+   version: 1.5.0
+  lastUpdated: '20121002045021'
+

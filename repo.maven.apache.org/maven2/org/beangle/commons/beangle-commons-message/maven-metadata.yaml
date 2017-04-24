@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.beangle.commons
+ artifactId: beangle-commons-message
+ versioning:
+  latest: 4.0.1
+  release: 4.0.1
+  versions:
+   version:
+   - 4.0.0
+   - 4.0.1
+  lastUpdated: '20131112052228'
+

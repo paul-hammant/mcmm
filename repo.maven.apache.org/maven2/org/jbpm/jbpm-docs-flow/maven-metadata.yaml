@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.jbpm
+ artifactId: jbpm-docs-flow
+ versioning:
+  latest: 5.1.0.M1
+  release: 5.1.0.M1
+  versions:
+   version:
+   - 5.0-CR1
+   - 5.0.0
+   - 5.1.0.M1
+  lastUpdated: '20110421202806'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-test-process-plugin
+   prefix: test-process
+   artifactId: maven-test-process-plugin
+

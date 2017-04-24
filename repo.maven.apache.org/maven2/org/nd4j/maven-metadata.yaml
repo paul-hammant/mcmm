@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: nd4j-jocl-1.9 Maven Mojo
+   prefix: nd4j-jocl-1.9
+   artifactId: nd4j-jocl-1.9
+

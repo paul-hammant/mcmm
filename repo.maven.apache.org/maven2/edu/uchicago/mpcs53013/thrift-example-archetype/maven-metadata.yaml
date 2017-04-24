@@ -1,0 +1,12 @@
+metadata:
+ groupId: edu.uchicago.mpcs53013
+ artifactId: thrift-example-archetype
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.0.0
+   - 2.0.0
+  lastUpdated: '20161014020937'
+

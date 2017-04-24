@@ -1,0 +1,10 @@
+metadata:
+ groupId: commons-compress
+ artifactId: commons-compress
+ version: '20040530'
+ versioning:
+  versions:
+   version:
+   - '20040530'
+   - '20050911'
+

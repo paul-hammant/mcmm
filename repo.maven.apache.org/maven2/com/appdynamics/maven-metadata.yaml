@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: AppDynamics Instrumentation Android Maven Plugin
+   prefix: appdynamics
+   artifactId: appdynamics-maven-plugin
+

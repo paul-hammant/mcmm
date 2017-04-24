@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.cloudera.livy
+ artifactId: livy-examples
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version: 0.3.0
+  lastUpdated: '20170207044651'
+

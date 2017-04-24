@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.stratos
+ artifactId: stratos-das-extension
+ versioning:
+  latest: 4.1.4
+  release: 4.1.4
+  versions:
+   version: 4.1.4
+  lastUpdated: '20151017214002'
+

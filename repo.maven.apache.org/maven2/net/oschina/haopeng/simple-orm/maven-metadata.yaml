@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.oschina.haopeng
+ artifactId: simple-orm
+ versioning:
+  latest: v1.0
+  release: v1.0
+  versions:
+   version: v1.0
+  lastUpdated: '20170413044318'
+

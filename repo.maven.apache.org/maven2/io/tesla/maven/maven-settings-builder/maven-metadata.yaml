@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.tesla.maven
+ artifactId: maven-settings-builder
+ versioning:
+  latest: 3.1.2
+  release: 3.1.2
+  versions:
+   version:
+   - 1.0.0
+   - 3.1.0
+   - 3.1.2
+  lastUpdated: '20130721190524'
+

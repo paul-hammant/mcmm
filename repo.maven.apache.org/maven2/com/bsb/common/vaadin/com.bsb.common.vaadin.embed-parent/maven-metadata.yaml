@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.bsb.common.vaadin
+ artifactId: com.bsb.common.vaadin.embed-parent
+ versioning:
+  latest: '0.5'
+  release: '0.5'
+  versions:
+   version:
+   - '0.4'
+   - '0.5'
+  lastUpdated: '20121013092111'
+

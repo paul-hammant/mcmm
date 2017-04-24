@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven HSQLDB Plugin
+   prefix: hsqldb
+   artifactId: maven-hsqldb-plugin
+

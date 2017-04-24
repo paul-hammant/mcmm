@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: hexa.css.maven-plugin
+   prefix: hexacss
+   artifactId: hexacss-maven-plugin
+

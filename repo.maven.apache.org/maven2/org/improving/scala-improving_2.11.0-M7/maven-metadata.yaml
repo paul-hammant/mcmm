@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.improving
+ artifactId: scala-improving_2.11.0-M7
+ versioning:
+  latest: 0.11.2m2
+  release: 0.11.2m2
+  versions:
+   version:
+   - 0.11.1
+   - 0.11.2m1
+   - 0.11.2m2
+  lastUpdated: '20131218002005'
+

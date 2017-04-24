@@ -1,0 +1,19 @@
+metadata:
+ groupId: com.extjs
+ artifactId: gxt
+ versioning:
+  latest: 2.3.1-gwt22
+  release: 2.3.1-gwt22
+  versions:
+   version:
+   - 2.3.0-gwt2
+   - 2.3.0-gwt17
+   - 2.3.0-gwt22
+   - 2.3.1a-gwt2
+   - 2.3.1a-gwt17
+   - 2.3.1a-gwt22
+   - 2.3.1-gwt2
+   - 2.3.1-gwt17
+   - 2.3.1-gwt22
+  lastUpdated: '20140703002820'
+

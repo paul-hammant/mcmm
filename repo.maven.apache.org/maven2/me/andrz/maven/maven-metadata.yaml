@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Bin Plugin
+   prefix: bin
+   artifactId: maven-bin-maven-plugin
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: nz.net.osnz.common
+ artifactId: encode-filter
+ versioning:
+  latest: '3.1'
+  release: '3.1'
+  versions:
+   version:
+   - '1.1'
+   - '1.2'
+   - '2.1'
+   - '3.1'
+  lastUpdated: '20140109210704'
+

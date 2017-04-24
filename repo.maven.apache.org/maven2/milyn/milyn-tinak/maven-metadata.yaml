@@ -1,0 +1,10 @@
+metadata:
+ groupId: milyn
+ artifactId: milyn-tinak
+ version: 0.6.1
+ versioning:
+  versions:
+   version:
+   - 0.6.1
+   - '0.7'
+

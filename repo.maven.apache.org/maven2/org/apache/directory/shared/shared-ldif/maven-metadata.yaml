@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.directory.shared
+ artifactId: shared-ldif
+ versioning:
+  latest: 0.9.19
+  release: 0.9.19
+  versions:
+   version:
+   - 0.9.18
+   - 0.9.19
+  lastUpdated: '20100409084103'
+

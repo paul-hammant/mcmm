@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: GSP Maven Mojo for DBA
+   prefix: gsp-dba
+   artifactId: gsp-dba-maven-plugin
+

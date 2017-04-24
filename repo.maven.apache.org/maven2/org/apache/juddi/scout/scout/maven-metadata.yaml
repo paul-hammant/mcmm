@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.apache.juddi.scout
+ artifactId: scout
+ versioning:
+  latest: 1.2.7
+  release: 1.2.7
+  versions:
+   version:
+   - 1.2.4
+   - 1.2.5
+   - 1.2.6
+   - 1.2.7
+  lastUpdated: '20121130164208'
+

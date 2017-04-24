@@ -1,0 +1,16 @@
+metadata:
+ groupId: tomcat
+ artifactId: jasper-compiler-jdt
+ version: 5.5.4
+ versioning:
+  versions:
+   version:
+   - 5.5.4
+   - 5.5.7
+   - 5.5.7-alpha
+   - 5.5.8-alpha
+   - 5.5.9
+   - 5.5.9-alpha
+   - 5.5.12
+   - 5.5.15
+

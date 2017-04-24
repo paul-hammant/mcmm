@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.ddlutils
+ artifactId: ddlutils
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20070629053753'
+

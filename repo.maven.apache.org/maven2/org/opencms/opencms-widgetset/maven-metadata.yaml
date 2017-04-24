@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.opencms
+ artifactId: opencms-widgetset
+ versioning:
+  latest: 10.5.1
+  release: 10.5.1
+  versions:
+   version:
+   - 10.5.0
+   - 10.5.1
+  lastUpdated: '20170215153513'
+

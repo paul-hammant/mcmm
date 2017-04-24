@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apidesign.canvas
+ artifactId: canvas-archetype
+ versioning:
+  latest: 0.5.2
+  release: 0.5.2
+  versions:
+   version: 0.5.2
+  lastUpdated: '20140310202946'
+

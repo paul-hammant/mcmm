@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.sf.webtestfixtures
+ artifactId: webtestfixtures
+ version: 2.0.1.3
+ versioning:
+  versions:
+   version: 2.0.1.3
+  lastUpdated: '20090101095757'
+

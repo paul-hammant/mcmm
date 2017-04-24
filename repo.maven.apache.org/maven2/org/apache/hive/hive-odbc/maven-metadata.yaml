@@ -1,0 +1,22 @@
+metadata:
+ groupId: org.apache.hive
+ artifactId: hive-odbc
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version:
+   - 0.13.0
+   - 0.13.1
+   - 0.14.0
+   - 1.0.0
+   - 1.0.1
+   - 1.1.0
+   - 1.1.1
+   - 1.2.0
+   - 1.2.1
+   - 1.2.2
+   - 2.0.0
+   - 2.0.1
+  lastUpdated: '20170408045609'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.netgrid
+ artifactId: bauer-ffmq
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version: 0.0.2
+  lastUpdated: '20161020084249'
+

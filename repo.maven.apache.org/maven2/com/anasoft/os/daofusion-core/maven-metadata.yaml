@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.anasoft.os
+ artifactId: daofusion-core
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version: 1.2.0
+  lastUpdated: '20110303122447'
+

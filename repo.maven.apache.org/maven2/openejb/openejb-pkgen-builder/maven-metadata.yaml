@@ -1,0 +1,11 @@
+metadata:
+ groupId: openejb
+ artifactId: openejb-pkgen-builder
+ version: 2.0-G1M4
+ versioning:
+  versions:
+   version:
+   - 2.0-G1M4
+   - 2.0-G1M5
+   - '2.0'
+

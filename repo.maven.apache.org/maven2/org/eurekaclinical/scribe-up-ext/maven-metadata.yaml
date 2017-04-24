@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.eurekaclinical
+ artifactId: scribe-up-ext
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version:
+   - 1.0-Alpha-3
+   - 1.0-Alpha-4
+   - '1.0'
+  lastUpdated: '20160916153638'
+

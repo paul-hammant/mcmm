@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.covisint.core
+ artifactId: spring-framework-bom
+ versioning:
+  latest: 4.0.2.RELEASE
+  release: 4.0.2.RELEASE
+  versions:
+   version: 4.0.2.RELEASE
+  lastUpdated: '20150422193353'
+

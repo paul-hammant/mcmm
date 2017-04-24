@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.ow2.frascati.tinfi.tinfi-mixed
+ artifactId: frascati-tinfi-parent
+ version: 0.4.4
+ versioning:
+  release: 1.2.1
+  versions:
+   version:
+   - 0.4.4
+   - '0.6'
+   - '1.0'
+   - 1.0.1
+   - '1.1'
+   - 1.1.1
+   - 1.1.2
+   - '1.2'
+   - 1.2.1
+  lastUpdated: '20100115155507'
+

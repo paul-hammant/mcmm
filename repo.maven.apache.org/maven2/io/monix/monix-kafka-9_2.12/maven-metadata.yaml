@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.monix
+ artifactId: monix-kafka-9_2.12
+ versioning:
+  latest: '0.13'
+  release: '0.13'
+  versions:
+   version: '0.13'
+  lastUpdated: '20170327140732'
+

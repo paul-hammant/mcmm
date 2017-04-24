@@ -1,0 +1,9 @@
+metadata:
+ groupId: wicket
+ artifactId: wicket-site-skin
+ version: 1.2.6
+ versioning:
+  versions:
+   version: 1.2.6
+  lastUpdated: '20070422171617'
+

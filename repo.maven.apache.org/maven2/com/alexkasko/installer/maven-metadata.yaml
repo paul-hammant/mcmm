@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Windows Service Installer Plugin
+   prefix: windows-service-installer
+   artifactId: maven-windows-service-installer-plugin
+

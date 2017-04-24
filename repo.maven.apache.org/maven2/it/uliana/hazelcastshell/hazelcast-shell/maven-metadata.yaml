@@ -1,0 +1,12 @@
+metadata:
+ groupId: it.uliana.hazelcastshell
+ artifactId: hazelcast-shell
+ versioning:
+  latest: 0.0.6
+  release: 0.0.6
+  versions:
+   version:
+   - 0.0.5
+   - 0.0.6
+  lastUpdated: '20160415085749'
+

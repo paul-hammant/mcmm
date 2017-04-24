@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.sandesha2
+ artifactId: sandesha2-rampart-integration
+ version: '1.2'
+ versioning:
+  versions:
+   version: '1.2'
+  lastUpdated: '20070609171950'
+

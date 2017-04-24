@@ -1,0 +1,8 @@
+metadata:
+ groupId: tomcat
+ artifactId: tomcat-ant
+ version: 3.3.2
+ versioning:
+  versions:
+   version: 3.3.2
+

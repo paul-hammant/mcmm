@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.bugtags.library
+ artifactId: bugtags-core
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 0.5.0
+   - 0.9.0
+   - 0.9.1
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20150810052157'
+

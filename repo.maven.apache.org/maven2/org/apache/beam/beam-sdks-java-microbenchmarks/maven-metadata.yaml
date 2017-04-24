@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.beam
+ artifactId: beam-sdks-java-microbenchmarks
+ versioning:
+  latest: 0.3.0-incubating
+  release: 0.3.0-incubating
+  versions:
+   version:
+   - 0.2.0-incubating
+   - 0.3.0-incubating
+  lastUpdated: '20161031133421'
+

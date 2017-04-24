@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JtestR
+   prefix: jtestr
+   artifactId: jtestr
+

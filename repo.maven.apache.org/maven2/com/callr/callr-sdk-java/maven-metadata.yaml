@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.callr
+ artifactId: callr-sdk-java
+ versioning:
+  latest: 1.4.0
+  release: 1.4.0
+  versions:
+   version:
+   - '1.1'
+   - '1.2'
+   - 1.4.0
+  lastUpdated: '20170308152336'
+

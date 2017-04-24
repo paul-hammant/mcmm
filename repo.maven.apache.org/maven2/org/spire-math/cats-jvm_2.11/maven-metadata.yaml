@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.spire-math
+ artifactId: cats-jvm_2.11
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version: 0.3.0
+  lastUpdated: '20151109051915'
+

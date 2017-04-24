@@ -1,0 +1,15 @@
+metadata:
+ groupId: xmlbeans
+ artifactId: xbean
+ version: 1.0.3
+ versioning:
+  versions:
+   version:
+   - 1.0.3
+   - 1.0.4
+   - 2.0.0-beta1
+   - 2.0.0
+   - 2.0.0-1
+   - 2.1.0
+   - 2.2.0
+

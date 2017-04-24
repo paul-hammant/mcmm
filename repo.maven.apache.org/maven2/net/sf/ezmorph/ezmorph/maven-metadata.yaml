@@ -1,0 +1,8 @@
+metadata:
+ groupId: net.sf.ezmorph
+ artifactId: ezmorph
+ version: 0.8.1
+ versioning:
+  versions:
+   version: 0.8.1
+

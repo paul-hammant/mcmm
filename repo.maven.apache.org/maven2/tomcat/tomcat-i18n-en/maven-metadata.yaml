@@ -1,0 +1,8 @@
+metadata:
+ groupId: tomcat
+ artifactId: tomcat-i18n-en
+ version: 5.5.12
+ versioning:
+  versions:
+   version: 5.5.12
+

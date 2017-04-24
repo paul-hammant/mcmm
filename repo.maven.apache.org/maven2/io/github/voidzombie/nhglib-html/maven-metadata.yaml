@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.github.voidzombie
+ artifactId: nhglib-html
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version:
+   - 0.0.1
+   - 0.1.0
+   - 0.1.1
+  lastUpdated: '20161218115330'
+

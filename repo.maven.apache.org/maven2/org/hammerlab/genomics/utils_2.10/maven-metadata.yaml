@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.hammerlab.genomics
+ artifactId: utils_2.10
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.1.1
+   - 1.2.0
+  lastUpdated: '20170205010228'
+

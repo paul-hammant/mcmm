@@ -1,0 +1,10 @@
+metadata:
+ groupId: cz.auderis
+ artifactId: auderis-tools-parent
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20141116021915'
+

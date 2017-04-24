@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Jetty-Console Maven Plugin
+   prefix: jetty-console
+   artifactId: jetty-console-maven-plugin
+

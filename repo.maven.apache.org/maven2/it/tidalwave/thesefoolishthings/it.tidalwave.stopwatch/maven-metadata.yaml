@@ -1,0 +1,14 @@
+metadata:
+ groupId: it.tidalwave.thesefoolishthings
+ artifactId: it.tidalwave.stopwatch
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.0.9
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20100313215747'
+

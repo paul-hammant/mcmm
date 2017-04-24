@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.appium
+ artifactId: droiddriver
+ versioning:
+  latest: 1.0.0-BETA1
+  release: 1.0.0-BETA1
+  versions:
+   version: 1.0.0-BETA1
+  lastUpdated: '20150328203824'
+

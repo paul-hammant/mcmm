@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.apiman.plugins
+ artifactId: apiman-plugins-jwt-policy
+ versioning:
+  latest: 1.2.9.Final
+  release: 1.2.9.Final
+  versions:
+   version: 1.2.9.Final
+  lastUpdated: '20170106205135'
+

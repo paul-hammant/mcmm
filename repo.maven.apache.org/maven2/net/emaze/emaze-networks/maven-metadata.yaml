@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.emaze
+ artifactId: emaze-networks
+ versioning:
+  latest: '8.2'
+  release: '8.2'
+  versions:
+   version: '8.2'
+  lastUpdated: '20160718100633'
+

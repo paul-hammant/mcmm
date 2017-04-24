@@ -1,0 +1,8 @@
+metadata:
+ groupId: jgrapht
+ artifactId: jgrapht
+ version: 0.5.3
+ versioning:
+  versions:
+   version: 0.5.3
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.colobu
+ artifactId: fastjson-jaxrs-json-provider
+ versioning:
+  latest: 0.3.2
+  release: 0.3.2
+  versions:
+   version:
+   - 0.1.0
+   - 0.3.0
+   - 0.3.1
+   - 0.3.2
+  lastUpdated: '20161104091659'
+

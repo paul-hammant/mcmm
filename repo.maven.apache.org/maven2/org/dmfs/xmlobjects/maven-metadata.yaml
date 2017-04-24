@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.dmfs
+ artifactId: xmlobjects
+ versioning:
+  latest: 0.4.3
+  release: 0.4.3
+  versions:
+   version:
+   - 0.4.2
+   - 0.4.3
+  lastUpdated: '20160626115013'
+

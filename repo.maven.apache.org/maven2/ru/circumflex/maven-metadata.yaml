@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Circumflex Maven Plugin
+   prefix: cx
+   artifactId: maven-cx-plugin
+

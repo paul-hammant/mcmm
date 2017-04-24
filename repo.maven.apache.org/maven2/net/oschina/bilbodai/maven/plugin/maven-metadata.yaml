@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: thrift-maven-plugin
+   prefix: thrift
+   artifactId: thrift-maven-plugin
+

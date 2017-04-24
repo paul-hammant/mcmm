@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scalanlp
+ artifactId: epic-parser-fr-span_2.10
+ versioning:
+  latest: 2014.11.09
+  release: 2014.11.09
+  versions:
+   version:
+   - '0.1'
+   - 2014.11.09
+  lastUpdated: '20141110064341'
+

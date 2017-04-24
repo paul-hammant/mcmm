@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.skywaysoftware
+ artifactId: skyway-spring-utils
+ versioning:
+  latest: 7.1.3
+  release: 7.1.3
+  versions:
+   version:
+   - 7.0.0
+   - 7.1.0
+   - 7.1.1
+   - 7.1.2
+   - 7.1.3
+  lastUpdated: '20110404143835'
+

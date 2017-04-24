@@ -1,0 +1,32 @@
+metadata:
+ groupId: org.bluestemsoftware.open.maven.plugin
+ plugins:
+  plugin:
+  - prefix: aspect
+   artifactId: aspect-plugin
+   name: aspect-plugin
+  - prefix: checksum
+   artifactId: checksum-plugin
+   name: checksum-plugin
+  - prefix: eoa
+   artifactId: maven-eoa-plugin
+   name: maven-eoa-plugin
+  - prefix: ftp
+   artifactId: ftp-plugin
+   name: ftp-plugin
+  - prefix: install
+   artifactId: install-plugin
+   name: install-plugin
+  - prefix: izpack
+   artifactId: izpack-plugin
+   name: izpack-plugin
+  - prefix: launch4j
+   artifactId: launch4j-plugin
+   name: launch4j-plugin
+  - prefix: release-plugin
+   artifactId: release-plugin
+   name: release-plugin
+  - prefix: system
+   artifactId: system-plugin
+   name: system-plugin
+

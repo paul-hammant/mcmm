@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Flexmojos Generator Maven Plugin
+   prefix: flexmojos-generator
+   artifactId: flexmojos-generator-maven-plugin
+  - name: Flexmojos Generator Plugin
+   prefix: flexmojos-generator-mojo
+   artifactId: flexmojos-generator-mojo
+  - name: Flexmojos Maven Plugin
+   prefix: flexmojos
+   artifactId: flexmojos-maven-plugin
+

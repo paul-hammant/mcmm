@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.experlog
+ artifactId: xapool
+ versioning:
+  latest: 1.6-beta
+  release: 1.6-beta
+  versions:
+   version: 1.6-beta
+  lastUpdated: '20110722123117'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: se.skltp.itintegration.monitoring
+ artifactId: ServiceContracts_itintegration_monitoring
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20140806123808'
+

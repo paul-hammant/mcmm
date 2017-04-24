@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.specs2
+ artifactId: specs2_2.11.0-RC1
+ versioning:
+  latest: 2.3.10-scalaz-7.1.0-M6
+  release: 2.3.10-scalaz-7.1.0-M6
+  versions:
+   version:
+   - 2.3.9
+   - 2.3.10
+   - 2.3.10-scalaz-7.1.0-M6
+  lastUpdated: '20140310051355'
+

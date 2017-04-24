@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.dasein
+ artifactId: dasein-jclouds-softlayer
+ versioning:
+  latest: '2012.04'
+  release: '2012.04'
+  versions:
+   version:
+   - '2012.02'
+   - '2012.04'
+  lastUpdated: '20120423195148'
+

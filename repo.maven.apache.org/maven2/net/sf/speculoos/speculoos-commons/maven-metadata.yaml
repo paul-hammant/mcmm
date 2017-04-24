@@ -1,0 +1,7 @@
+metadata:
+ groupId: net.sf.speculoos
+ artifactId: speculoos-commons
+ versioning:
+  versions:
+   version: '1.0'
+

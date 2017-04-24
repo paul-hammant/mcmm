@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.seleniumhq.selenium
+ artifactId: lift
+ versioning:
+  latest: 3.4.0
+  release: 3.4.0
+  versions:
+   version: 3.4.0
+  lastUpdated: '20170421115929'
+

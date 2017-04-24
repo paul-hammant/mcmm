@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven OfficeFloor Plugin
+   prefix: officefloor
+   artifactId: maven-officefloor-plugin
+  - name: Maven Site Aggregate Plugin
+   prefix: site-aggregate
+   artifactId: maven-site-aggregate-plugin
+  - name: Maven WoOF Plugin
+   prefix: woof
+   artifactId: maven-woof-plugin
+  - name: Maven OfficeFloor Plugin
+   prefix: officefloor
+   artifactId: officefloor-maven-plugin
+  - name: Maven Site Aggregate Plugin
+   prefix: site-aggregate
+   artifactId: site-aggregate-maven-plugin
+  - name: Maven WoOF Plugin
+   prefix: woof
+   artifactId: woof-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.deephacks.rxlmdb
+ artifactId: rxlmdb-grpc
+ versioning:
+  latest: 0.0.4
+  release: 0.0.4
+  versions:
+   version: 0.0.4
+  lastUpdated: '20160414185535'
+

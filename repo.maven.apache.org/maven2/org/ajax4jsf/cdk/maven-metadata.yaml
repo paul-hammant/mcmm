@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.ajax4jsf
+ artifactId: cdk
+ version: 1.1-SNAPSHOT
+ versioning:
+  versions:
+   version: 1.1-SNAPSHOT
+  lastUpdated: '20070102172018'
+ plugins:
+  plugin:
+   name: Maven plugin for JSF components code generation
+   prefix: cdk
+   artifactId: maven-cdk-plugin
+

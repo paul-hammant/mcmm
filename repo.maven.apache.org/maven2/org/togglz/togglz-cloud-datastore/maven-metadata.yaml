@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.togglz
+ artifactId: togglz-cloud-datastore
+ versioning:
+  latest: 2.4.1.Final
+  release: 2.4.1.Final
+  versions:
+   version:
+   - 2.4.0.RC1
+   - 2.4.0.Final
+   - 2.4.1.Final
+  lastUpdated: '20170308133945'
+

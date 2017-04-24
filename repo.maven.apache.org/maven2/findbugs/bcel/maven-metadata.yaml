@@ -1,0 +1,8 @@
+metadata:
+ groupId: findbugs
+ artifactId: bcel
+ version: '5.1'
+ versioning:
+  versions:
+   version: '5.1'
+

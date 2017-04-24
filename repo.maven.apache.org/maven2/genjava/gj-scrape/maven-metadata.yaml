@@ -1,0 +1,11 @@
+metadata:
+ groupId: genjava
+ artifactId: gj-scrape
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '2.0'
+   - 2.0.1
+

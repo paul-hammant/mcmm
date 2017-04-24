@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.sciss
+ artifactId: kontur_2.10.0-M6
+ versioning:
+  latest: '0.19'
+  release: '0.19'
+  versions:
+   version: '0.19'
+  lastUpdated: '20120726230323'
+

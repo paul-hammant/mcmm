@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.picketlink
+ artifactId: sales-post-sig-as7
+ versioning:
+  latest: 2.0.3.Final
+  release: 2.0.3.Final
+  versions:
+   version:
+   - 2.0.2.Final
+   - 2.0.3.Final
+  lastUpdated: '20120323183309'
+

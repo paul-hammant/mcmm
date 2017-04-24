@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ${project.groupId}:${project.artifactId}
+   prefix: nexus-plugin-bundle
+   artifactId: nexus-plugin-bundle-maven-plugin
+  - name: ${project.groupId}:${project.artifactId}
+   prefix: nexus-test-environment
+   artifactId: nexus-test-environment-maven-plugin
+

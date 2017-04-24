@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sonatype.sisu.inject
+ artifactId: guava-tests
+ versioning:
+  latest: 0.11.1
+  release: 0.11.1
+  versions:
+   version: 0.11.1
+  lastUpdated: '20120116183320'
+

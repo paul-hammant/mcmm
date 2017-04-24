@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.mini2Dx
+ artifactId: gdx-math
+ versioning:
+  latest: 1.9.5
+  release: 1.9.5
+  versions:
+   version:
+   - 1.9.4
+   - 1.9.5
+  lastUpdated: '20170121144015'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: project-version-dategenerator-mvn Maven Plugin
+   prefix: project-version-dategenerator-mvn
+   artifactId: project-version-dategenerator-mvn
+

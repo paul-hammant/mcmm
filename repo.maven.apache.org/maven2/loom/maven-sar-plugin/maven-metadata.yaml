@@ -1,0 +1,8 @@
+metadata:
+ groupId: loom
+ artifactId: maven-sar-plugin
+ version: 1.0-beta1-dev
+ versioning:
+  versions:
+   version: 1.0-beta1-dev
+

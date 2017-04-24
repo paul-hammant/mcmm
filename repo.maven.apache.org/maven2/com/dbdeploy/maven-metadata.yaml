@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-dbdeploy-plugin
+   prefix: dbdeploy
+   artifactId: maven-dbdeploy-plugin
+

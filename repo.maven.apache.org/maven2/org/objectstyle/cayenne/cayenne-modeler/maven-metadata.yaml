@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.objectstyle.cayenne
+ artifactId: cayenne-modeler
+ versioning:
+  versions:
+   version: 1.2.3
+

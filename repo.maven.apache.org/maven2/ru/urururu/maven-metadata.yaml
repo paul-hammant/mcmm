@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: xls2csv Maven Plugin
+   prefix: xls2csv
+   artifactId: xls2csv-maven-plugin
+

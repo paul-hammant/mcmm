@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.aliyun.openservices
+ artifactId: tablestore
+ versioning:
+  latest: 4.2.3
+  release: 4.2.3
+  versions:
+   version:
+   - 4.0.0
+   - 4.1.0
+   - 4.2.0
+   - 4.2.1
+   - 4.2.2
+   - 4.2.3
+  lastUpdated: '20170331075823'
+

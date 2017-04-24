@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.ippon
+ artifactId: metrics-spark-receiver
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20141217140039'
+

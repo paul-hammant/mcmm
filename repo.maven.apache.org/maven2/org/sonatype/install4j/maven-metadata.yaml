@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: install4j
+   artifactId: install4j-maven-plugin
+

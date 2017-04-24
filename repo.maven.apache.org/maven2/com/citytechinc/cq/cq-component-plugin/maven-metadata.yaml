@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: CQ Component Maven Plugin
+   prefix: cq-component
+   artifactId: cq-component-maven-plugin
+

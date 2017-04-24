@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.fusesource.jansi
+ artifactId: example
+ versioning:
+  latest: '1.15'
+  release: '1.15'
+  versions:
+   version:
+   - '1.13'
+   - '1.14'
+   - '1.15'
+  lastUpdated: '20170317160448'
+

@@ -1,0 +1,17 @@
+metadata:
+ groupId: no.digipost
+ artifactId: printability-validator
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+   - '1.1'
+   - 1.1.1
+   - '2.0'
+  lastUpdated: '20170112111653'
+

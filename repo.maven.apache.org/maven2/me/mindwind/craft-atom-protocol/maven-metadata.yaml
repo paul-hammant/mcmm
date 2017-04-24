@@ -1,0 +1,16 @@
+metadata:
+ groupId: me.mindwind
+ artifactId: craft-atom-protocol
+ versioning:
+  latest: 2.1.1
+  release: 2.1.1
+  versions:
+   version:
+   - 2.0.1
+   - 2.0.2
+   - 2.0.3
+   - 2.0.4
+   - 2.1.0
+   - 2.1.1
+  lastUpdated: '20140613061951'
+

@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.reflexiveframework
+ artifactId: reflexive
+ versioning:
+  versions:
+   version: 1.0-rc1
+

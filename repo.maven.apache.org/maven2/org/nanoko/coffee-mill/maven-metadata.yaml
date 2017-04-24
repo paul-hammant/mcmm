@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: OW2 Nanoko -  Coffee Mill Maven Plugin
+   prefix: coffee-mill
+   artifactId: coffee-mill-maven-plugin
+

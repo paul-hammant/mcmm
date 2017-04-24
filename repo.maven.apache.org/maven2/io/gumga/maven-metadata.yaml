@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: gumgag Maven Plugin
+   prefix: gumgag
+   artifactId: gumgag
+

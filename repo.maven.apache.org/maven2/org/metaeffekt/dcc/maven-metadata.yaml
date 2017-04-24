@@ -1,0 +1,8 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: dcc-bundle
+   artifactId: dcc-bundle-maven-plugin
+  - prefix: dcc-documentation
+   artifactId: dcc-documentation-maven-plugin
+

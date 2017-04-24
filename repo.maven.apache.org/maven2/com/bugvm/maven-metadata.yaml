@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: BugVM Maven
+   prefix: bugvm
+   artifactId: bugvm-maven
+

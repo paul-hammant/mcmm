@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.verapdf
+ artifactId: verapdf-pdfbox-validation
+ versioning:
+  latest: 1.4.3
+  release: 1.4.3
+  versions:
+   version: 1.4.3
+  lastUpdated: '20170420075953'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.uniknow.asciidoc
+ artifactId: asciidoctor-site-diagram-activator
+ versioning:
+  latest: 0.1.14
+  release: 0.1.14
+  versions:
+   version:
+   - 0.1.13
+   - 0.1.14
+  lastUpdated: '20161213065600'
+

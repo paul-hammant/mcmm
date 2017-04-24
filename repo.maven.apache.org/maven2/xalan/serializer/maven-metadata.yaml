@@ -1,0 +1,10 @@
+metadata:
+ groupId: xalan
+ artifactId: serializer
+ versioning:
+  latest: 2.7.2
+  release: 2.7.2
+  versions:
+   version: 2.7.2
+  lastUpdated: '20140724184901'
+

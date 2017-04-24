@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.belerweb
+ artifactId: alipay-msp
+ versioning:
+  latest: '20121026'
+  release: '20121026'
+  versions:
+   version: '20121026'
+  lastUpdated: '20130403080629'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: tmporb
+ artifactId: tmporb-ots
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

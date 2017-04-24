@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.primeval
+ artifactId: primeval-parent
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20170411142026'
+

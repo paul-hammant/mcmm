@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: no-annotations-maven-plugin Maven Plugin
+   prefix: no-annotations
+   artifactId: no-annotations-maven-plugin
+

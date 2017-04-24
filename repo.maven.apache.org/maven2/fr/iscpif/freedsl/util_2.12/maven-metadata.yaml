@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.iscpif.freedsl
+ artifactId: util_2.12
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+  lastUpdated: '20161219163450'
+

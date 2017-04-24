@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Install Plugin Mojo
+   prefix: installation
+   artifactId: installation-maven-plugin
+

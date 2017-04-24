@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.jiac.micro.platforms.cdc
+ artifactId: microjiac-cdc-launcher
+ versioning:
+  latest: '3.0'
+  release: '3.0'
+  versions:
+   version: '3.0'
+  lastUpdated: '20110211154740'
+

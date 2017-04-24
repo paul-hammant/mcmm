@@ -1,0 +1,8 @@
+metadata:
+ groupId: directory-shared
+ artifactId: apache-new-ldapber-provider
+ version: 0.9.3
+ versioning:
+  versions:
+   version: 0.9.3
+

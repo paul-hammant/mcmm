@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.builtamont
+ artifactId: play2-scala-pdf_2.10
+ versioning:
+  latest: 1.6.1.P24
+  release: 1.6.1.P24
+  versions:
+   version: 1.6.1.P24
+  lastUpdated: '20170106070024'
+

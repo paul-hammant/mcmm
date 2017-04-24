@@ -1,0 +1,49 @@
+metadata:
+ plugins:
+  plugin:
+  - name: MyFaces Archetype
+   prefix: myfaces-archetype-helloworld
+   artifactId: myfaces-archetype-helloworld
+  - name: MyFaces Archetype Facelets
+   prefix: myfaces-archetype-helloworld-facelets
+   artifactId: myfaces-archetype-helloworld-facelets
+  - name: MyFaces Portlet Archetype
+   prefix: myfaces-archetype-helloworld-portlets
+   artifactId: myfaces-archetype-helloworld-portlets
+  - name: JSF Components Library Archetype
+   prefix: myfaces-archetype-jsfcomponents
+   artifactId: myfaces-archetype-jsfcomponents
+  - name: Apache MyFaces Trinidad Archetype
+   prefix: myfaces-archetype-trinidad
+   artifactId: myfaces-archetype-trinidad
+  - name: Apache MyFaces Buildtools Maven2 Builder Plugin
+   prefix: myfaces-builder
+   artifactId: myfaces-builder-plugin
+  - name: Apache MyFaces Buildtools Maven2 Faces Plugin
+   prefix: myfaces-faces
+   artifactId: myfaces-faces-plugin
+  - name: Apache MyFaces Buildtools Maven2 i18n Plugin
+   prefix: myfaces-i18n
+   artifactId: myfaces-i18n-plugin
+  - name: Apache MyFaces Buildtools Maven2 Javacc Plugin
+   prefix: myfaces-javacc
+   artifactId: myfaces-javacc-plugin
+  - name: Apache MyFaces Buildtools Maven2 Javascript Plugin
+   prefix: myfaces-javascript
+   artifactId: myfaces-javascript-plugin
+  - name: Apache MyFaces Buildtools Maven2 JDev Plugin
+   prefix: myfaces-jdev
+   artifactId: myfaces-jdev-plugin
+  - name: Apache MyFaces Buildtools Maven2 Javascript Documentation Plugin
+   prefix: myfaces-jsdoc
+   artifactId: myfaces-jsdoc-plugin
+  - name: Apache MyFaces Buildtools Maven2 Tag Documentation Report
+   prefix: myfaces-tagdoc
+   artifactId: myfaces-tagdoc-plugin
+  - name: Apache MyFaces Buildtools Maven2 Wagon Plugin
+   prefix: myfaces-wagon
+   artifactId: myfaces-wagon-plugin
+  - name: Apache MyFaces Buildtools Maven2 XRTS Plugin
+   prefix: myfaces-xrts
+   artifactId: myfaces-xrts-plugin
+

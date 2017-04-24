@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.ow2.weblab.portlets
+ artifactId: parent
+ version: '1.2'
+ versioning:
+  release: 1.2.2
+  versions:
+   version:
+   - '1.2'
+   - 1.2.1
+   - 1.2.2-SNAPSHOT
+   - 1.2.2
+  lastUpdated: '20120713172627'
+

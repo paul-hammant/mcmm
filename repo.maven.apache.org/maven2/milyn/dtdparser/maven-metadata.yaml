@@ -1,0 +1,8 @@
+metadata:
+ groupId: milyn
+ artifactId: dtdparser
+ version: '121'
+ versioning:
+  versions:
+   version: '121'
+

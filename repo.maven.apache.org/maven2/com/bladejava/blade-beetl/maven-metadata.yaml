@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.bladejava
+ artifactId: blade-beetl
+ versioning:
+  latest: 1.2.4
+  release: 1.2.4
+  versions:
+   version:
+   - 1.1.1
+   - '1.2'
+   - 1.2.1
+   - 1.2.2
+   - 1.2.3
+   - 1.2.4
+  lastUpdated: '20151014103901'
+

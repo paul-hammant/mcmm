@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Symqle modeler plugin
+   prefix: symqle-modeler
+   artifactId: symqle-modeler-plugin
+

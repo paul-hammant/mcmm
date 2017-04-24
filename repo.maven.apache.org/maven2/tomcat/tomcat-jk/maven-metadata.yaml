@@ -1,0 +1,12 @@
+metadata:
+ groupId: tomcat
+ artifactId: tomcat-jk
+ version: 5.0.16
+ versioning:
+  versions:
+   version:
+   - 5.0.16
+   - 5.0.18
+   - 4.1.31
+   - 5.0.28
+

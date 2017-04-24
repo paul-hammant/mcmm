@@ -1,0 +1,8 @@
+metadata:
+ groupId: xfire
+ artifactId: jaxb-libs
+ version: 1.0.5
+ versioning:
+  versions:
+   version: 1.0.5
+

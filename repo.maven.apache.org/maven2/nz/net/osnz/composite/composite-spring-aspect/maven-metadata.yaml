@@ -1,0 +1,15 @@
+metadata:
+ groupId: nz.net.osnz.composite
+ artifactId: composite-spring-aspect
+ versioning:
+  latest: 4.1.1
+  release: 4.1.1
+  versions:
+   version:
+   - '3.1'
+   - '3.2'
+   - '3.3'
+   - '4.1'
+   - 4.1.1
+  lastUpdated: '20141003193039'
+

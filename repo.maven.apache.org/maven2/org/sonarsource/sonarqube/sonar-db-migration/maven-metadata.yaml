@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.sonarsource.sonarqube
+ artifactId: sonar-db-migration
+ versioning:
+  latest: 6.3.1
+  release: 6.3.1
+  versions:
+   version:
+   - 6.3-RC4
+   - '6.3'
+   - 6.3.1
+  lastUpdated: '20170411162004'
+

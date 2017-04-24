@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: twirl-maven
+   prefix: twirl
+   artifactId: twirl-maven-plugin
+

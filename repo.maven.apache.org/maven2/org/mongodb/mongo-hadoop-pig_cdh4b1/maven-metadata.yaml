@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mongodb
+ artifactId: mongo-hadoop-pig_cdh4b1
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20120409235425'
+

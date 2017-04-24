@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: AWS tools maven plugin (S3 upload)
+   prefix: aws-tools
+   artifactId: aws-tools-maven-plugin
+

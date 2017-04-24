@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Kikaha: Maven Plugin'
+   prefix: kikaha
+   artifactId: kikaha-maven-plugin
+

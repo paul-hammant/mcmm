@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.sonarsource.pmd
+ artifactId: sonar-pmd-plugin
+ versioning:
+  latest: '2.6'
+  release: '2.6'
+  versions:
+   version:
+   - '2.5'
+   - 2.6-RC1
+   - '2.6'
+  lastUpdated: '20160630200826'
+

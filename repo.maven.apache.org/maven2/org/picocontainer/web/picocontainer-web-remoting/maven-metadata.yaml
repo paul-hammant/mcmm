@@ -1,0 +1,16 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.picocontainer.web
+ artifactId: picocontainer-web-remoting
+ versioning:
+  latest: 2.5.1
+  release: 2.5.1
+  versions:
+   version:
+   - '2.2'
+   - '2.3'
+   - '2.4'
+   - '2.5'
+   - 2.5.1
+  lastUpdated: '20140703011219'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: pl.mg6.rxjava2.disposeondestroy
+ artifactId: core
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20170318084404'
+

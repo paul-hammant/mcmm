@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.deploymentzone
+ artifactId: akka-actor-statsd_2.10
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20140222181242'
+

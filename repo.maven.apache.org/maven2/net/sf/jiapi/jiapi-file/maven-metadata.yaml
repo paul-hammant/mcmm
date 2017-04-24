@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.jiapi
+ artifactId: jiapi-file
+ versioning:
+  latest: 0.5.2
+  release: 0.5.2
+  versions:
+   version: 0.5.2
+  lastUpdated: '20170203124551'
+

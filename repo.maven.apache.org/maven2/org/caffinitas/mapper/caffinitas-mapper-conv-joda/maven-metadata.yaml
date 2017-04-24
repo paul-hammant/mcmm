@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.caffinitas.mapper
+ artifactId: caffinitas-mapper-conv-joda
+ versioning:
+  latest: 0.1-beta2
+  release: 0.1-beta2
+  versions:
+   version: 0.1-beta2
+  lastUpdated: '20140730204017'
+

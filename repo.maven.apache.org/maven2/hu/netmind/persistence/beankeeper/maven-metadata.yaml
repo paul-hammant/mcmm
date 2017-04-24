@@ -1,0 +1,12 @@
+metadata:
+ groupId: hu.netmind.persistence
+ artifactId: beankeeper
+ version: 2.6.1-SNAPSHOT
+ versioning:
+  versions:
+   version:
+   - 2.6.1-SNAPSHOT
+   - 2.6.1-enum-SNAPSHOT
+   - 2.6.1-enum1.5-SNAPSHOT
+  lastUpdated: '20091029022424'
+

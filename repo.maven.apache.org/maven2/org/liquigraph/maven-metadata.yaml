@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: liquigraph-maven-plugin
+   prefix: liquigraph
+   artifactId: liquigraph-maven-plugin
+

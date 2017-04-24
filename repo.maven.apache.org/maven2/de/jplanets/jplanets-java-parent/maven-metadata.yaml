@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.jplanets
+ artifactId: jplanets-java-parent
+ versioning:
+  latest: '4'
+  release: '4'
+  versions:
+   version: '4'
+  lastUpdated: '20161230214324'
+

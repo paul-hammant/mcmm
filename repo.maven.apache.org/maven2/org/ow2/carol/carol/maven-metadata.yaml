@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ow2.carol
+ artifactId: carol
+ versioning:
+  latest: 3.0.10
+  release: 3.0.10
+  versions:
+   version:
+   - 3.0.9
+   - 3.0.10
+  lastUpdated: '20120917151730'
+

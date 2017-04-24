@@ -1,0 +1,12 @@
+metadata:
+ groupId: me.aflak.libraries
+ artifactId: bluetooth
+ versioning:
+  latest: 1.2.4
+  release: 1.2.4
+  versions:
+   version:
+   - '1.2'
+   - 1.2.4
+  lastUpdated: '20160511055509'
+

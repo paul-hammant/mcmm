@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.katharsis
+ artifactId: katharsis-security
+ versioning:
+  latest: 3.0.1
+  release: 3.0.1
+  versions:
+   version: 3.0.1
+  lastUpdated: '20170327165758'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: no.tornado
+ artifactId: javafx-osgi
+ versioning:
+  latest: '8.0'
+  release: '8.0'
+  versions:
+   version: '8.0'
+  lastUpdated: '20160731091130'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.github.http-builder-ng
+ artifactId: http-builder-ng-core
+ versioning:
+  latest: 0.15.0
+  release: 0.15.0
+  versions:
+   version:
+   - 0.13.3
+   - 0.14.1
+   - 0.15.0
+  lastUpdated: '20170405182136'
+

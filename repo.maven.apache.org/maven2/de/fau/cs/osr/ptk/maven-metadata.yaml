@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: PTK - NodeGen Maven Plugin
+   prefix: ptk-nodegen
+   artifactId: ptk-nodegen-maven-plugin
+  - name: PTK - PrinterGen Maven Plugin
+   prefix: ptk-printergen
+   artifactId: ptk-printergen-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: cat.inspiracio
+ artifactId: dummy-servlet
+ versioning:
+  latest: 0.0.0
+  release: 0.0.0
+  versions:
+   version: 0.0.0
+  lastUpdated: '20160816204841'
+

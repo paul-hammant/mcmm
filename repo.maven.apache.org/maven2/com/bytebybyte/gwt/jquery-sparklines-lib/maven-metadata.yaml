@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.bytebybyte.gwt
+ artifactId: jquery-sparklines-lib
+ versioning:
+  latest: 2.1.2
+  release: 2.1.2
+  versions:
+   version: 2.1.2
+  lastUpdated: '20140911203833'
+

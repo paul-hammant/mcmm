@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jsdoc3-maven-plugin
+   prefix: jsdoc3
+   artifactId: jsdoc3-maven-plugin
+

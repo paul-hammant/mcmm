@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.airhacks
+ artifactId: jaxrs-cors
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version:
+   - javaee6-0.0.1
+   - 0.0.1
+   - 0.0.2
+  lastUpdated: '20150327025044'
+

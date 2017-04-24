@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: onos
+   artifactId: onos-maven-plugin
+  - prefix: onos-yang-compiler
+   artifactId: onos-yang-compiler-maven-plugin
+  - prefix: onos-yang
+   artifactId: onos-yang-maven-plugin
+

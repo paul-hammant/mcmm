@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.datumbox
+ artifactId: lpsolve
+ versioning:
+  latest: 5.5.2.0
+  release: 5.5.2.0
+  versions:
+   version: 5.5.2.0
+  lastUpdated: '20141105210823'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.openscore.lang
+ artifactId: score-lang-content-verifier
+ versioning:
+  latest: 0.1.16
+  release: 0.1.16
+  versions:
+   version: 0.1.16
+  lastUpdated: '20150305152736'
+

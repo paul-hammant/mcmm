@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Courier Data Binding Generator
+   prefix: courier
+   artifactId: courier-maven-plugin
+

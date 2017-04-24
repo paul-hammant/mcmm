@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.jackrabbit
+ artifactId: oak-mongomk
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version:
+   - '0.6'
+   - '0.7'
+   - '0.8'
+  lastUpdated: '20130604084530'
+

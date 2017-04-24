@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.vesalainen.nmea
+ artifactId: parent
+ versioning:
+  latest: 1.8.0
+  release: 1.8.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.0.4
+   - 1.0.5
+   - 1.8.0
+  lastUpdated: '20170119183545'
+

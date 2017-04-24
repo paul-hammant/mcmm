@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.web3j
+ artifactId: spring-boot-starter
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20170219084534'
+

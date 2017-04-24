@@ -1,0 +1,10 @@
+metadata:
+ groupId: hm.binkley
+ artifactId: binkley-yaml-runtime
+ versioning:
+  latest: '6'
+  release: '6'
+  versions:
+   version: '6'
+  lastUpdated: '20151012170932'
+

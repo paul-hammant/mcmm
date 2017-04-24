@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.pro-vision.maven
+ artifactId: de.pro-vision.maven.build-tools.global-build-tools-mixin
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20150212204754'
+

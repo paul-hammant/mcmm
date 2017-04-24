@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'router :: maven-plugin'
+   prefix: router-generator
+   artifactId: router-generator-plugin
+

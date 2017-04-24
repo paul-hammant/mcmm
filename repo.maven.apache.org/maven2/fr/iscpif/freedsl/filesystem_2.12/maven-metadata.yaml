@@ -1,0 +1,15 @@
+metadata:
+ groupId: fr.iscpif.freedsl
+ artifactId: filesystem_2.12
+ versioning:
+  latest: '0.10'
+  release: '0.10'
+  versions:
+   version:
+   - '0.6'
+   - '0.7'
+   - '0.8'
+   - '0.9'
+   - '0.10'
+  lastUpdated: '20170421125155'
+

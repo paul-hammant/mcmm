@@ -1,0 +1,7 @@
+metadata:
+ groupId: milyn
+ artifactId: console-demo
+ versioning:
+  versions:
+   version: '03'
+

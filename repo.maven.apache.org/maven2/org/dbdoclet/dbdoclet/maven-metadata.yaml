@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.dbdoclet
+ artifactId: dbdoclet
+ versioning:
+  latest: 8.0.2
+  release: 8.0.2
+  versions:
+   version:
+   - 8.0.0
+   - 8.0.2
+  lastUpdated: '20140903141126'
+

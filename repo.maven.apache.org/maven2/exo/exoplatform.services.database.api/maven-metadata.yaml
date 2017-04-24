@@ -1,0 +1,8 @@
+metadata:
+ groupId: exo
+ artifactId: exoplatform.services.database.api
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

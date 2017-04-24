@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ujorm
+ artifactId: ujo-orm-spring
+ versioning:
+  latest: 1.30.RC1
+  release: 1.30.RC1
+  versions:
+   version: 1.30.RC1
+  lastUpdated: '20120831153148'
+

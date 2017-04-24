@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.kevoree.library.java
+ artifactId: org.kevoree.library.java.jython
+ versioning:
+  latest: 5.3.2
+  release: 5.3.2
+  versions:
+   version:
+   - 5.3.0
+   - 5.3.1
+   - 5.3.2
+  lastUpdated: '20160630100525'
+

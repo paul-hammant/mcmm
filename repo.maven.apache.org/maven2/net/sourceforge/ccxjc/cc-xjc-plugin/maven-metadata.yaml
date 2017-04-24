@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.sourceforge.ccxjc
+ artifactId: cc-xjc-plugin
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version:
+   - '1.3'
+   - '1.4'
+   - '1.5'
+   - '2.0'
+   - 2.0.1
+  lastUpdated: '20120302122029'
+

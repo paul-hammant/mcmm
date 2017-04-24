@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.apache.ant
+ artifactId: ant-nodeps
+ versioning:
+  latest: 1.8.1
+  release: 1.8.1
+  versions:
+   version:
+   - 1.7.0
+   - 1.7.1
+   - 1.8.0
+   - 1.8.1
+  lastUpdated: '20100525215836'
+

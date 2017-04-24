@@ -1,0 +1,8 @@
+metadata:
+ groupId: apache-jaxme
+ artifactId: jaxmejs-incubation
+ version: '0.2'
+ versioning:
+  versions:
+   version: '0.2'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Plugin d'ajout de logs par instrumentation du bytecode
+   prefix: logeek
+   artifactId: logeek-maven-plugin
+

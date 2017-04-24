@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.eulerframework
+ artifactId: euler-parent
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version:
+   - 0.0.1
+   - '1'
+  lastUpdated: '20170112012029'
+

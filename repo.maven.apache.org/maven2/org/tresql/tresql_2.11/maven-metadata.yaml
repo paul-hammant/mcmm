@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.tresql
+ artifactId: tresql_2.11
+ versioning:
+  latest: '7.3'
+  release: '7.3'
+  versions:
+   version:
+   - '6.0'
+   - '7.3'
+  lastUpdated: '20160728182529'
+

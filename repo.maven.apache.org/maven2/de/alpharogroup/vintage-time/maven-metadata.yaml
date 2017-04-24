@@ -1,0 +1,17 @@
+metadata:
+ groupId: de.alpharogroup
+ artifactId: vintage-time
+ versioning:
+  latest: 4.11.0
+  release: 4.11.0
+  versions:
+   version:
+   - 4.4.0
+   - 4.6.0
+   - 4.7.0
+   - 4.8.0
+   - 4.9.0
+   - 4.10.0
+   - 4.11.0
+  lastUpdated: '20170418134019'
+

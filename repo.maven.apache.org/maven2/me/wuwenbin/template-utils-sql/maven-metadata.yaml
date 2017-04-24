@@ -1,0 +1,16 @@
+metadata:
+ groupId: me.wuwenbin
+ artifactId: template-utils-sql
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+   - 1.1.5
+   - 1.2.0
+  lastUpdated: '20170417061319'
+

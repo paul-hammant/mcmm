@@ -1,0 +1,13 @@
+metadata:
+ groupId: de.cketti.library.changelog
+ artifactId: ckchangelog
+ versioning:
+  latest: 1.2.2
+  release: 1.2.2
+  versions:
+   version:
+   - 1.2.0
+   - 1.2.1
+   - 1.2.2
+  lastUpdated: '20150109100356'
+

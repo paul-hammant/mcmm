@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Serviceloader Plugin
+   prefix: serviceloader
+   artifactId: serviceloader-maven-plugin
+

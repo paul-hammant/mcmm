@@ -1,0 +1,8 @@
+metadata:
+ groupId: servicemix
+ artifactId: maven-jbi-plugin
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: IntelliJ-Plugin-Modul-Importer maven plugin
+   prefix: intellijmodul-importer
+   artifactId: intellij-plugin-modul-importer-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.jasypt
+ artifactId: jasypt-spring-security
+ versioning:
+  versions:
+   version: '1.1'
+

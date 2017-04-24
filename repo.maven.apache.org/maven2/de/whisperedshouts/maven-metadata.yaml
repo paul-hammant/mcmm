@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: iiqentities-maven-plugin Maven Mojo
+   prefix: iiqentities
+   artifactId: iiqentities-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: OpenCms Maven Plugin
+   prefix: opencms
+   artifactId: opencms-maven-plugin
+

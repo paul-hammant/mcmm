@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JaCoCo report changes Maven plugin
+   prefix: jacoco-report-changes
+   artifactId: jacoco-report-changes
+

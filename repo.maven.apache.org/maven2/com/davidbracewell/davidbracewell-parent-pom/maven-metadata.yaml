@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.davidbracewell
+ artifactId: davidbracewell-parent-pom
+ versioning:
+  latest: 1.0.7
+  release: 1.0.7
+  versions:
+   version: 1.0.7
+  lastUpdated: '20150909170553'
+

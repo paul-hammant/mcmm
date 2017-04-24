@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.codehaus.sonar-ide
+ artifactId: sonar-ide-parent
+ version: '1'
+ versioning:
+  release: '2'
+  versions:
+   version:
+   - '1'
+   - '2'
+  lastUpdated: '20100525211827'
+

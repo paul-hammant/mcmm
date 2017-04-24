@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: cryptoclassloader-maven-plugin
+   prefix: cryptoclassloader
+   artifactId: cryptoclassloader-maven-plugin
+

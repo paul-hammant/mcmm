@@ -1,0 +1,10 @@
+metadata:
+ groupId: in.nvilla
+ artifactId: prelude_2.12
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20161103221900'
+

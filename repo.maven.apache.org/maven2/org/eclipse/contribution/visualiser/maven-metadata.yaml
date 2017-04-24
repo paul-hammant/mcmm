@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.eclipse.contribution
+ artifactId: visualiser
+ version: 2.2.0-200706070619
+ versioning:
+  versions:
+   version: 2.2.0-200706070619
+  lastUpdated: '20071127071115'
+

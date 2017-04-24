@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Beangle Maven Plugin
+   prefix: beangle
+   artifactId: beangle-maven-plugin
+

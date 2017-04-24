@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: XML Validator Maven Plugin
+   prefix: xml-validator
+   artifactId: xml-validator-maven-plugin
+

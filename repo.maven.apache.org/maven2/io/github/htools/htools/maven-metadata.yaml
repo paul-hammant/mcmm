@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.github.htools
+ artifactId: htools
+ versioning:
+  latest: '0.27'
+  release: '0.27'
+  versions:
+   version:
+   - '0.26'
+   - '0.27'
+  lastUpdated: '20160215104633'
+

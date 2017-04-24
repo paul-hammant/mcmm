@@ -1,0 +1,7 @@
+metadata:
+ groupId: cactus
+ artifactId: cactus.core.framework.uberjar.javaEE.12
+ versioning:
+  versions:
+   version: 1.8.0
+

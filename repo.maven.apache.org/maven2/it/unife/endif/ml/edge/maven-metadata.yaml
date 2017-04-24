@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.unife.endif.ml
+ artifactId: edge
+ versioning:
+  latest: '3.2'
+  release: '3.2'
+  versions:
+   version: '3.2'
+  lastUpdated: '20170412154018'
+

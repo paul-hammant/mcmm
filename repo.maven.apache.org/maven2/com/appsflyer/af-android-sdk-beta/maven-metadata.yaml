@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.appsflyer
+ artifactId: af-android-sdk-beta
+ versioning:
+  latest: 4.8.0
+  release: 4.8.0
+  versions:
+   version: 4.8.0
+  lastUpdated: '20170418205411'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: geronimo
+ artifactId: geronimo-deployment-plugin
+ version: 1.0-M5
+ versioning:
+  versions:
+   version: 1.0-M5
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Orbit Async-Await Maven Plugin
+   prefix: orbit-async
+   artifactId: orbit-async-maven-plugin
+

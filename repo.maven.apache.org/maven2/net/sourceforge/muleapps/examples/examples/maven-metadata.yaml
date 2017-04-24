@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sourceforge.muleapps.examples
+ artifactId: examples
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version: '0.2'
+  lastUpdated: '20130326132606'
+

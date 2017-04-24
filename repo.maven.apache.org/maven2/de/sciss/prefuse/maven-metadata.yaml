@@ -1,0 +1,13 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: de.sciss
+ artifactId: prefuse
+ versioning:
+  latest: '0.21'
+  release: '0.21'
+  versions:
+   version:
+   - '0.20'
+   - '0.21'
+  lastUpdated: '20141102104445'
+

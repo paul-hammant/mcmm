@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.devlib.schmidt
+ artifactId: imageinfo
+ versioning:
+  versions:
+   version: '1.7'
+

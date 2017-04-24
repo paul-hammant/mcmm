@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: iOS Maven Plugin
+   prefix: ios
+   artifactId: ios-maven-plugin
+

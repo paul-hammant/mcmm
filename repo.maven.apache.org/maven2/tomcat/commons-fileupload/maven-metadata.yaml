@@ -1,0 +1,7 @@
+metadata:
+ groupId: tomcat
+ artifactId: commons-fileupload
+ versioning:
+  versions:
+   version: 1.0-5.5.23
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ow2.easywsdl
+ artifactId: easywsdl-tool-java2wsdl
+ versioning:
+  latest: 2.4.1
+  release: 2.4.1
+  versions:
+   version:
+   - 2.4.0
+   - 2.4.1
+  lastUpdated: '20160517133037'
+

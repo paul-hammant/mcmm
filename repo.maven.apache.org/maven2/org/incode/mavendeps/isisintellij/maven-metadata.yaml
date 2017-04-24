@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.incode.mavendeps
+ artifactId: isisintellij
+ versioning:
+  latest: 1.14.0
+  release: 1.14.0
+  versions:
+   version: 1.14.0
+  lastUpdated: '20170224132015'
+

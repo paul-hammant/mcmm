@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.scala-lang-osgi
+ artifactId: scala-lang-osgi
+ version: 2.7.7
+ versioning:
+  versions:
+   version: 2.7.7
+  lastUpdated: '20091113074437'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Contrast Maven Plugin
+   prefix: contrast
+   artifactId: contrast-maven-plugin
+

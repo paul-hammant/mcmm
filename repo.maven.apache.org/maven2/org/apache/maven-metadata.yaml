@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven XBean Plugin
+   prefix: xbean
+   artifactId: maven-xbean-plugin
+

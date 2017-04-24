@@ -1,0 +1,8 @@
+metadata:
+ groupId: tomcat
+ artifactId: servlets-cgi
+ version: 5.0.16
+ versioning:
+  versions:
+   version: 5.0.16
+

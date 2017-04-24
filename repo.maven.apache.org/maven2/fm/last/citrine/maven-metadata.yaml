@@ -1,0 +1,10 @@
+metadata:
+ groupId: fm.last
+ artifactId: citrine
+ versioning:
+  latest: 4.2.0
+  release: 4.2.0
+  versions:
+   version: 4.2.0
+  lastUpdated: '20120724120854'
+

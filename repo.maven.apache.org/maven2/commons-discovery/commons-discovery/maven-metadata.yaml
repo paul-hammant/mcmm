@@ -1,0 +1,15 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: commons-discovery
+ artifactId: commons-discovery
+ versioning:
+  latest: 1.0-dev
+  release: 1.0-dev
+  versions:
+   version:
+   - '0.2'
+   - '0.4'
+   - '0.5'
+   - 1.0-dev
+  lastUpdated: '20130313174531'
+

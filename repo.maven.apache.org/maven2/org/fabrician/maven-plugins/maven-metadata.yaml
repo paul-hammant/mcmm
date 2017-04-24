@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Plugin for SilverFabric Distributions
+   prefix: distribution
+   artifactId: distribution-plugin
+

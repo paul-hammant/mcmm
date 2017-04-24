@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.safris.xml
+ artifactId: bind-builder-maven
+ versioning:
+  versions:
+   version: '2.0'
+

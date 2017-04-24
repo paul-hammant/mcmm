@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: vertx-maven-plugin
+   prefix: vertx
+   artifactId: vertx-maven-plugin
+

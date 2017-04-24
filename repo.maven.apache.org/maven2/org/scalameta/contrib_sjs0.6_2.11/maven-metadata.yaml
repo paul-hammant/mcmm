@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scalameta
+ artifactId: contrib_sjs0.6_2.11
+ versioning:
+  latest: 1.7.0
+  release: 1.7.0
+  versions:
+   version: 1.7.0
+  lastUpdated: '20170411213610'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.parancoe
+ artifactId: parancoe-plugin-security-encrypt
+ version: 0.3.4
+ versioning:
+  release: 2.0.1
+  versions:
+   version:
+   - 0.3.4
+   - 0.3.4.1
+   - 0.3.4.2
+   - '2.0'
+   - 2.0.1
+  lastUpdated: '20081117065922'
+

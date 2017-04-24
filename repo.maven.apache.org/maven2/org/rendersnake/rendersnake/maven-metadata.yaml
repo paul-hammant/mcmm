@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.rendersnake
+ artifactId: rendersnake
+ versioning:
+  latest: '1.9'
+  release: '1.9'
+  versions:
+   version:
+   - '1.8'
+   - '1.9'
+  lastUpdated: '20150525185402'
+

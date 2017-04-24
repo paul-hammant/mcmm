@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.codeminders
+ artifactId: hidapi
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20121204154758'
+

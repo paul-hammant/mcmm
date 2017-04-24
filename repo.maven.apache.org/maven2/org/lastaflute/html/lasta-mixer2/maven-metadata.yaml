@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.lastaflute.html
+ artifactId: lasta-mixer2
+ versioning:
+  latest: 0.2.0-RC6
+  release: 0.2.0-RC6
+  versions:
+   version:
+   - 0.2.0-RC1
+   - 0.2.0-RC3
+   - 0.2.0-RC4
+   - 0.2.0-RC6
+  lastUpdated: '20151126145051'
+

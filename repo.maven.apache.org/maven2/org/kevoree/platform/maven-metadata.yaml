@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Kevoree :: Platform :: MavenRunner'
+   prefix: org.kevoree.platform.runner
+   artifactId: org.kevoree.platform.mavenrunner
+

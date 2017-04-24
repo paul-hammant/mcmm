@@ -1,0 +1,10 @@
+metadata:
+ groupId: genjava
+ artifactId: gj-beans
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: xdoclet-plugins
+ artifactId: com.foo
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0.2
+   - '20050206.203652'
+   - '20050208.123302'
+   - '20050208.124442'
+

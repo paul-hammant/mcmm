@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sonarsource.dotnet
+ artifactId: SonarAnalyzer.RuleDocGenerator.VisualBasic
+ versioning:
+  latest: 5.9.0.1001
+  release: 5.9.0.1001
+  versions:
+   version: 5.9.0.1001
+  lastUpdated: '20170411073633'
+

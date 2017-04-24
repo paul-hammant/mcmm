@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.programmiersportgruppe.scala.commons
+ artifactId: scala-commons-basics_2.10
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+   - 0.3.0
+  lastUpdated: '20160428004356'
+

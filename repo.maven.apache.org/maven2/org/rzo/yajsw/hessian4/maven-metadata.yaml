@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.rzo.yajsw
+ artifactId: hessian4
+ versioning:
+  latest: '11.11'
+  release: '11.11'
+  versions:
+   version: '11.11'
+  lastUpdated: '20140211164219'
+

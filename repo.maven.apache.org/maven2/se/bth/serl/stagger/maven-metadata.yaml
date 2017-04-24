@@ -1,0 +1,10 @@
+metadata:
+ groupId: se.bth.serl
+ artifactId: stagger
+ versioning:
+  latest: '201610'
+  release: '201610'
+  versions:
+   version: '201610'
+  lastUpdated: '20161205094308'
+

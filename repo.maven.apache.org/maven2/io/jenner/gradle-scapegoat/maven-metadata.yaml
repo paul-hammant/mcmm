@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.jenner
+ artifactId: gradle-scapegoat
+ versioning:
+  latest: 0.90.0
+  release: 0.90.0
+  versions:
+   version: 0.90.0
+  lastUpdated: '20150717185532'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.hyperscala
+ artifactId: hyperscala-socketio_2.10
+ versioning:
+  latest: 0.8.4
+  release: 0.8.4
+  versions:
+   version: 0.8.4
+  lastUpdated: '20140315232802'
+

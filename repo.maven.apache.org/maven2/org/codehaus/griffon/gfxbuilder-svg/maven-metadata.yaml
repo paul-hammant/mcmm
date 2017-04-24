@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.codehaus.griffon
+ artifactId: gfxbuilder-svg
+ version: '0.5'
+ versioning:
+  versions:
+   version:
+   - '0.5'
+   - 0.5.1
+   - 0.5.2
+   - '0.6'
+   - '0.7'
+   - 0.7.1
+   - '0.8'
+  lastUpdated: '20130118133125'
+

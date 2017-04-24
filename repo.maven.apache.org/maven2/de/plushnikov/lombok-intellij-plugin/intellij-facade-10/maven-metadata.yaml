@@ -1,0 +1,13 @@
+metadata:
+ groupId: de.plushnikov.lombok-intellij-plugin
+ artifactId: intellij-facade-10
+ versioning:
+  latest: '0.5'
+  release: '0.5'
+  versions:
+   version:
+   - '0.3'
+   - '0.4'
+   - '0.5'
+  lastUpdated: '20120822213942'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: tonic
+ artifactId: jarjar
+ version: '0.5'
+ versioning:
+  versions:
+   version: '0.5'
+

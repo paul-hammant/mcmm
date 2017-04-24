@@ -1,0 +1,10 @@
+metadata:
+ groupId: controlhaus
+ artifactId: controlhaus-hibernate
+ version: 1.0-alpha-1
+ versioning:
+  versions:
+   version:
+   - 1.0-alpha-1
+   - 1.0-alpha-2
+

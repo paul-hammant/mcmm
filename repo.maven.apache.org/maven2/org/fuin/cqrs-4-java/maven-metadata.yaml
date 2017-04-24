@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.fuin
+ artifactId: cqrs-4-java
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20161217125107'
+

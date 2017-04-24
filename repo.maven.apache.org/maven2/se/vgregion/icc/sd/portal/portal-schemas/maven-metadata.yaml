@@ -1,0 +1,12 @@
+metadata:
+ groupId: se.vgregion.icc.sd.portal
+ artifactId: portal-schemas
+ versioning:
+  latest: 1.0.16
+  release: 1.0.16
+  versions:
+   version:
+   - 1.0.15
+   - 1.0.16
+  lastUpdated: '20120424151327'
+

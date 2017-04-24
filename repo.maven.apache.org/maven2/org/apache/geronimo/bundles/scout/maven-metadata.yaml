@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.geronimo.bundles
+ artifactId: scout
+ versioning:
+  latest: 1.2.3_1
+  release: 1.2.3_1
+  versions:
+   version:
+   - 1.2.2_1
+   - 1.2.3_1
+  lastUpdated: '20110725021943'
+

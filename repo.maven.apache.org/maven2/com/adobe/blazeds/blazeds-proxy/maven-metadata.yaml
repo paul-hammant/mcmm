@@ -1,0 +1,13 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: com.adobe.blazeds
+ artifactId: blazeds-proxy
+ versioning:
+  latest: 3.2.0.3978
+  release: 3.2.0.3978
+  versions:
+   version:
+   - 3.0.0.544
+   - 3.2.0.3978
+  lastUpdated: '20141103095700'
+

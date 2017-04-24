@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ShrinkWrap Resolver Maven Plugin
+   prefix: resolver
+   artifactId: resolver-maven-plugin
+  - name: ShrinkWrap Resolver Maven Plugin
+   prefix: resolver
+   artifactId: shrinkwrap-resolver-maven-plugin
+  - name: ShrinkWrap Resolver Maven Plugin
+   prefix: shrinkwrap-resolver
+   artifactId: shrinkwrap-resolver-maven-plugin
+

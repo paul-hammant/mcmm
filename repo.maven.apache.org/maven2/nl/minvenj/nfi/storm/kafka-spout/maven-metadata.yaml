@@ -1,0 +1,12 @@
+metadata:
+ groupId: nl.minvenj.nfi.storm
+ artifactId: kafka-spout
+ versioning:
+  latest: '0.3'
+  release: '0.3'
+  versions:
+   version:
+   - '0.2'
+   - '0.3'
+  lastUpdated: '20151007123839'
+

@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: retrolambda
+   artifactId: retrolambda-maven-plugin
+

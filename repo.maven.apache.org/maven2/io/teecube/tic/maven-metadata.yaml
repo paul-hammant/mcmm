@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: T³ - TIC - BW5 Maven plugin
+   prefix: bw5
+   artifactId: tic-bw5
+  - name: T³ - TIC - BW6 Maven plugin
+   prefix: bw6
+   artifactId: tic-bw6
+  - name: T³ - TIC - BW6 Maven plugin
+   prefix: tic-bw6
+   artifactId: tic-bw6
+

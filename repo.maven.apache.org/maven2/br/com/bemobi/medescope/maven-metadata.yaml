@@ -1,0 +1,17 @@
+metadata:
+ groupId: br.com.bemobi
+ artifactId: medescope
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version:
+   - 1.0.1
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+   - 1.1.3
+   - 1.1.4
+   - 1.2.1
+  lastUpdated: '20160726164423'
+

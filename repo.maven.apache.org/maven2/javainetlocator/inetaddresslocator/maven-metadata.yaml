@@ -1,0 +1,8 @@
+metadata:
+ groupId: javainetlocator
+ artifactId: inetaddresslocator
+ version: '2.18'
+ versioning:
+  versions:
+   version: '2.18'
+

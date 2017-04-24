@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Spring WS Archetype
+   prefix: spring-ws-archetype
+   artifactId: spring-ws-archetype
+

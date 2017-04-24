@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.nanocontainer
+ artifactId: nanocontainer-testmodel
+ version: '1.0'
+ versioning:
+  release: 1.1.2
+  versions:
+   version:
+   - '1.0'
+   - 1.1-RC-1
+   - '1.1'
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20071211230100'
+

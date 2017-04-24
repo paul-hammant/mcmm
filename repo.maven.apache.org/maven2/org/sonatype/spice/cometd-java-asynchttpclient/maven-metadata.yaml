@@ -1,0 +1,13 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.sonatype.spice
+ artifactId: cometd-java-asynchttpclient
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20150309142949'
+

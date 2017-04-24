@@ -1,0 +1,18 @@
+metadata:
+ groupId: com.applitools
+ artifactId: eyes-sdk-java3-parent
+ versioning:
+  latest: '3.9'
+  release: '3.9'
+  versions:
+   version:
+   - '3.2'
+   - '3.3'
+   - '3.4'
+   - '3.5'
+   - '3.6'
+   - '3.7'
+   - '3.8'
+   - '3.9'
+  lastUpdated: '20170301120809'
+

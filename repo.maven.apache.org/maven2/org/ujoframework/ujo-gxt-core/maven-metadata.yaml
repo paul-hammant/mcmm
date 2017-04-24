@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ujoframework
+ artifactId: ujo-gxt-core
+ version: '1.20'
+ versioning:
+  versions:
+   version: '1.20'
+  lastUpdated: '20110608170000'
+

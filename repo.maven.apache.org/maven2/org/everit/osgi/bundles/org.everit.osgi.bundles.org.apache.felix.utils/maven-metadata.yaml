@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.everit.osgi.bundles
+ artifactId: org.everit.osgi.bundles.org.apache.felix.utils
+ versioning:
+  latest: 1.6.0
+  release: 1.6.0
+  versions:
+   version: 1.6.0
+  lastUpdated: '20140723112234'
+

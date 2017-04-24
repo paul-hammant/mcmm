@@ -1,0 +1,7 @@
+metadata:
+ groupId: john-test
+ artifactId: batik-svgpp
+ versioning:
+  versions:
+   version: '1.6'
+

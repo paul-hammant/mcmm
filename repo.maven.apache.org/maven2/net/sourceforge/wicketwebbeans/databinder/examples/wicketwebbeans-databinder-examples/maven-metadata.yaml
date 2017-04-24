@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sourceforge.wicketwebbeans.databinder.examples
+ artifactId: wicketwebbeans-databinder-examples
+ version: 1.0-rc2
+ versioning:
+  versions:
+   version:
+   - 1.0-rc2
+   - 1.0-rc2-wicket-1.2.6
+   - '1.0'
+  lastUpdated: '20080112185049'
+

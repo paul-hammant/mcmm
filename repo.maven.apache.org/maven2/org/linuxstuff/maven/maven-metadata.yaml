@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Licensing Maven Mojo
+   prefix: licensing
+   artifactId: licensing-maven-plugin
+  - name: trinidad-maven-plugin Maven Mojo
+   prefix: trinidad
+   artifactId: trinidad-maven-plugin
+

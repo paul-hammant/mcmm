@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.agilecoders.logger
+ artifactId: log2es-logback_2.11
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version: 0.2.1
+  lastUpdated: '20140724105456'
+

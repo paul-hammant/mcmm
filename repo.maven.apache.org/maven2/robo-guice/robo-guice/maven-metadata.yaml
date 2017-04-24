@@ -1,0 +1,14 @@
+metadata:
+ groupId: robo-guice
+ artifactId: robo-guice
+ version: 0.4-SNAPSHOT
+ versioning:
+  versions:
+   version:
+   - 0.4-SNAPSHOT
+   - 0.3-SNAPSHOT
+   - 0.2-SNAPSHOT
+   - 0.1-SNAPSHOT
+   - 0.5-SNAPSHOT
+  lastUpdated: '20091127203813'
+

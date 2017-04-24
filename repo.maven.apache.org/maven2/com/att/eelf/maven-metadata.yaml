@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Event and Error Logging Framework
+   prefix: eelf
+   artifactId: eelf-maven-plugin
+

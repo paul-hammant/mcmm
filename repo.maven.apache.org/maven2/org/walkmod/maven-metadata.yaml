@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: maven-mrpopo-plugin
+   prefix: mrpopo
+   artifactId: maven-mrpopo-plugin
+  - name: Maven WalkMod Plugin
+   prefix: walkmod
+   artifactId: maven-walkmod-plugin
+

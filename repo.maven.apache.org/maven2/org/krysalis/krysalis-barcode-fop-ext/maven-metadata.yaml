@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.krysalis
+ artifactId: krysalis-barcode-fop-ext
+ versioning:
+  versions:
+   version: 0.20.5-1.0beta
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.bluefen
+ artifactId: bluefen
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20130328234610'
+

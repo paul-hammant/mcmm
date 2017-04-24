@@ -1,0 +1,8 @@
+metadata:
+ groupId: HTTPClient
+ artifactId: HTTPClient
+ version: 0.3-3
+ versioning:
+  versions:
+   version: 0.3-3
+

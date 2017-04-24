@@ -1,0 +1,10 @@
+metadata:
+ groupId: edu.vanderbilt.isis
+ artifactId: laui-parent
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20120823151056'
+

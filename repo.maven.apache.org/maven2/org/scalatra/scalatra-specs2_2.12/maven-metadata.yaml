@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scalatra
+ artifactId: scalatra-specs2_2.12
+ versioning:
+  latest: 2.5.0
+  release: 2.5.0
+  versions:
+   version:
+   - 2.5.0-RC1
+   - 2.5.0
+  lastUpdated: '20161119055949'
+

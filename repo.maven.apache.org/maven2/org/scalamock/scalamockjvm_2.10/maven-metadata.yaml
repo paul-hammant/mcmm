@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scalamock
+ artifactId: scalamockjvm_2.10
+ versioning:
+  latest: 3.5.0
+  release: 3.5.0
+  versions:
+   version: 3.5.0
+  lastUpdated: '20170122180941'
+

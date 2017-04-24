@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.commonjava.aprox
+ artifactId: aprox-depgraph-model-java
+ versioning:
+  latest: 0.25.1
+  release: 0.25.1
+  versions:
+   version:
+   - 0.24.0
+   - 0.25.0
+   - 0.25.1
+  lastUpdated: '20151015233604'
+

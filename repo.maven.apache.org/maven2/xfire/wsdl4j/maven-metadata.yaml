@@ -1,0 +1,8 @@
+metadata:
+ groupId: xfire
+ artifactId: wsdl4j
+ version: 1.5.2
+ versioning:
+  versions:
+   version: 1.5.2
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.featureflow
+ artifactId: featureflow-java-sdk
+ versioning:
+  latest: 0.0.9
+  release: 0.0.9
+  versions:
+   version:
+   - 0.0.8
+   - 0.0.9
+  lastUpdated: '20170320050336'
+

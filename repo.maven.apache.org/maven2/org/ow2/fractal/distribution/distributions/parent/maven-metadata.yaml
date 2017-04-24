@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.fractal.distribution.distributions
+ artifactId: parent
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20090203171955'
+

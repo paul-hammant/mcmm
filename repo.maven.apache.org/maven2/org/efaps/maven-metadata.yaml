@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: eFaps Maven Jetty-plugin
+   prefix: efaps-jetty
+   artifactId: efaps-jetty-maven-plugin
+  - name: eFaps Maven Plug-In
+   prefix: efaps
+   artifactId: efaps-maven-plugin
+  - name: maven-efaps-jetty
+   prefix: efaps-jetty
+   artifactId: maven-efaps-jetty
+  - name: Maven eFaps Plug-In
+   prefix: efaps
+   artifactId: maven-efaps-plugin
+  - name: Maven Plug-In for Wiki Utility
+   prefix: wikiutil
+   artifactId: wikiutil-maven-plugin
+

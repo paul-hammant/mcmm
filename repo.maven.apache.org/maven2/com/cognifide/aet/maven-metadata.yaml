@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'AET :: Client :: Maven Plugin'
+   prefix: aet
+   artifactId: aet-maven-plugin
+

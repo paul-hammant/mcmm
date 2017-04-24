@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven plugin for scoverage
+   prefix: scoverage
+   artifactId: maven-scoverage-plugin
+  - name: SCoverage Maven Plugin
+   prefix: scoverage
+   artifactId: scoverage-maven-plugin
+

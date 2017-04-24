@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.enerko
+ artifactId: vaadin-springsecurityviewprovider
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version: 0.2.1
+  lastUpdated: '20170216111401'
+

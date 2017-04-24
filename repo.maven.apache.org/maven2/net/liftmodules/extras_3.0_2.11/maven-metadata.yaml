@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.liftmodules
+ artifactId: extras_3.0_2.11
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version:
+   - '0.6'
+   - 1.0.0
+  lastUpdated: '20170105201613'
+

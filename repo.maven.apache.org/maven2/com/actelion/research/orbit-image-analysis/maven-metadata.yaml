@@ -1,0 +1,17 @@
+metadata:
+ groupId: com.actelion.research
+ artifactId: orbit-image-analysis
+ versioning:
+  latest: '2.53'
+  release: '2.53'
+  versions:
+   version:
+   - '2.30'
+   - '2.40'
+   - '2.41'
+   - '2.42'
+   - '2.43'
+   - '2.52'
+   - '2.53'
+  lastUpdated: '20170407124939'
+

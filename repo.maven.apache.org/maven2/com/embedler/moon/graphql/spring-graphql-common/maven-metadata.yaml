@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.embedler.moon.graphql
+ artifactId: spring-graphql-common
+ versioning:
+  latest: 2.1.0-2016-05-22T16-50-32
+  release: 2.1.0-2016-05-22T16-50-32
+  versions:
+   version: 2.1.0-2016-05-22T16-50-32
+  lastUpdated: '20160522165309'
+

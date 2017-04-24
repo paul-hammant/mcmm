@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: CAS Installer Maven Mojo
+   prefix: cas-install
+   artifactId: maven-cas-install-plugin
+

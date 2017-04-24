@@ -1,0 +1,12 @@
+metadata:
+ groupId: uk.gov.dstl.baleen
+ artifactId: baleen-jobs
+ versioning:
+  latest: 2.3.0
+  release: 2.3.0
+  versions:
+   version:
+   - 2.2.0
+   - 2.3.0
+  lastUpdated: '20170201183913'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.tallison.solr
+ artifactId: solr-5410
+ versioning:
+  latest: 6.5-0.1
+  release: 6.5-0.1
+  versions:
+   version:
+   - 6.1-0.2
+   - 6.2-0.1
+   - 6.3-0.1
+   - 6.4-0.1
+   - 6.5-0.1
+  lastUpdated: '20170327115937'
+

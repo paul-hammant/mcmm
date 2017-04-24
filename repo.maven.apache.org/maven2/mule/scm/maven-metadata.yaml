@@ -1,0 +1,7 @@
+metadata:
+ groupId: mule
+ artifactId: scm
+ versioning:
+  versions:
+   version: cvs
+

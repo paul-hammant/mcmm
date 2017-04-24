@@ -1,0 +1,10 @@
+metadata:
+ groupId: rubygems
+ artifactId: rake
+ versioning:
+  latest: 10.1.0
+  release: 10.1.0
+  versions:
+   version: 10.1.0
+  lastUpdated: '20150328141444'
+

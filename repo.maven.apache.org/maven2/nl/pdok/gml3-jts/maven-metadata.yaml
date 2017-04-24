@@ -1,0 +1,15 @@
+metadata:
+ groupId: nl.pdok
+ artifactId: gml3-jts
+ versioning:
+  latest: 0.1.8
+  release: 0.1.8
+  versions:
+   version:
+   - 0.1.4
+   - 0.1.5
+   - 0.1.6
+   - 0.1.7
+   - 0.1.8
+  lastUpdated: '20161221123131'
+

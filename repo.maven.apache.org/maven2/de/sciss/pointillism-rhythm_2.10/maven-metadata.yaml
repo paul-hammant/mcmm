@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.sciss
+ artifactId: pointillism-rhythm_2.10
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version:
+   - 0.2.0
+   - 0.3.0
+  lastUpdated: '20140617120039'
+

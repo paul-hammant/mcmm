@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Apache Accumulo Maven Plugin
+   prefix: accumulo
+   artifactId: accumulo-maven-plugin
+

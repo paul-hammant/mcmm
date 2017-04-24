@@ -1,0 +1,10 @@
+metadata:
+ groupId: drools
+ artifactId: drools-spring-jdk5
+ version: '2.1'
+ versioning:
+  versions:
+   version:
+   - '2.1'
+   - 2.5-beta-1
+

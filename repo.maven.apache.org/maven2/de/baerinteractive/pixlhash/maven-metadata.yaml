@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.baerinteractive
+ artifactId: pixlhash
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160308232805'
+

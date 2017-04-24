@@ -1,0 +1,17 @@
+metadata:
+ groupId: edu.wisc.my.restproxy
+ artifactId: json-proxy-service
+ versioning:
+  latest: 1.1.5
+  release: 1.1.5
+  versions:
+   version:
+   - '1.0'
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+   - 1.1.3
+   - 1.1.4
+   - 1.1.5
+  lastUpdated: '20150911210925'
+

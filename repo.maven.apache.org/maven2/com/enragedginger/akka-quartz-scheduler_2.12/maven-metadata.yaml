@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.enragedginger
+ artifactId: akka-quartz-scheduler_2.12
+ versioning:
+  latest: 1.6.0-akka-2.4.x
+  release: 1.6.0-akka-2.4.x
+  versions:
+   version: 1.6.0-akka-2.4.x
+  lastUpdated: '20161125161404'
+

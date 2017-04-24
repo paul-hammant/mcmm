@@ -1,0 +1,8 @@
+metadata:
+ groupId: net.sf.struts
+ artifactId: dialogs-rt
+ version: '1.24'
+ versioning:
+  versions:
+   version: '1.24'
+

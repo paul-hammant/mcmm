@@ -1,0 +1,16 @@
+metadata:
+ groupId: net.tirasa.connid.bundles
+ artifactId: net.tirasa.connid.bundles.csvdir
+ versioning:
+  latest: 0.8.5
+  release: 0.8.5
+  versions:
+   version:
+   - '0.8'
+   - 0.8.1
+   - 0.8.2
+   - 0.8.3
+   - 0.8.4
+   - 0.8.5
+  lastUpdated: '20160601092754'
+

@@ -1,0 +1,7 @@
+metadata:
+ groupId: john-test
+ artifactId: batik-slideshow
+ versioning:
+  versions:
+   version: '1.6'
+

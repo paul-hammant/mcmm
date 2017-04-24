@@ -1,0 +1,10 @@
+metadata:
+ groupId: mevenide
+ artifactId: mevenide-repository
+ version: '0.2'
+ versioning:
+  versions:
+   version:
+   - '0.2'
+   - '0.3'
+

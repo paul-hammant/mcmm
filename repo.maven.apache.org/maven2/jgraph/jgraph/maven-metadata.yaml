@@ -1,0 +1,12 @@
+metadata:
+ groupId: jgraph
+ artifactId: jgraph
+ version: 1.0.6
+ versioning:
+  versions:
+   version:
+   - 1.0.6
+   - 5.0.4
+   - 5.5.1
+   - 5.0.3
+

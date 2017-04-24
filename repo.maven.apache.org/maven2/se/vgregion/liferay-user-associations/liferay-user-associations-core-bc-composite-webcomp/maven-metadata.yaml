@@ -1,0 +1,10 @@
+metadata:
+ groupId: se.vgregion.liferay-user-associations
+ artifactId: liferay-user-associations-core-bc-composite-webcomp
+ versioning:
+  latest: '1.10'
+  release: '1.10'
+  versions:
+   version: '1.10'
+  lastUpdated: '20130220154308'
+

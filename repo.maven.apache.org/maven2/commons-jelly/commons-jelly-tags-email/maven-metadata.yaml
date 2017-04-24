@@ -1,0 +1,11 @@
+metadata:
+ groupId: commons-jelly
+ artifactId: commons-jelly-tags-email
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '20030211.144034'
+   - '20040902.072224'
+

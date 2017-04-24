@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.eclipse.persistence
+ artifactId: org.eclipse.persistence.equinox
+ versioning:
+  latest: 2.4.2
+  release: 2.4.2
+  versions:
+   version:
+   - 2.3.4-M4
+   - 2.3.4-M5
+   - 2.3.4-M6
+   - 2.4.2
+  lastUpdated: '20160520105232'
+

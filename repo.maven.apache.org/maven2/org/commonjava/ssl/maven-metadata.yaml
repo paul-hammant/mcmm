@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'SSL Certificate Tools :: Maven Plugin'
+   prefix: ssl-tools
+   artifactId: ssl-tools-maven-plugin
+

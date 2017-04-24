@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.github.kjens93.promises
+ artifactId: promises
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.2.0
+  lastUpdated: '20161213043639'
+

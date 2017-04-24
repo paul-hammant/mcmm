@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.tribe
+ artifactId: tribe
+ version: '0.4'
+ versioning:
+  versions:
+   version: '0.4'
+  lastUpdated: '20070604155723'
+

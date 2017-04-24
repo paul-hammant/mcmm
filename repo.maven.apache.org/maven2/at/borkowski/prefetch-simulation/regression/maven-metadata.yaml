@@ -1,0 +1,10 @@
+metadata:
+ groupId: at.borkowski.prefetch-simulation
+ artifactId: regression
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version: 0.0.2
+  lastUpdated: '20150427182848'
+

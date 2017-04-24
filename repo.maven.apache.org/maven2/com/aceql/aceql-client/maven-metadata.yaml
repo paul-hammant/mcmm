@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.aceql
+ artifactId: aceql-client
+ versioning:
+  latest: '4.0'
+  release: '4.0'
+  versions:
+   version: '4.0'
+  lastUpdated: '20151208210408'
+

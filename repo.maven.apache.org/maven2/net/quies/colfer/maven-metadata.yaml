@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Colfer Maven Plugin
+   prefix: colfer
+   artifactId: colfer-maven-plugin
+

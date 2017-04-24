@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.accidia
+ artifactId: protoserver
+ versioning:
+  latest: 0.0.24
+  release: 0.0.24
+  versions:
+   version:
+   - 0.0.18
+   - 0.0.20
+   - 0.0.21
+   - 0.0.22
+   - 0.0.24
+  lastUpdated: '20150304164538'
+

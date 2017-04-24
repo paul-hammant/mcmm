@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.cgi
+ artifactId: zabbix-api
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version: 0.0.2
+  lastUpdated: '20160323120341'
+

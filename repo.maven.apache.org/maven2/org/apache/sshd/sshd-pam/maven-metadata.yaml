@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.sshd
+ artifactId: sshd-pam
+ version: 0.1.0
+ versioning:
+  release: 0.3.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+   - 0.3.0
+  lastUpdated: '20091120141316'
+

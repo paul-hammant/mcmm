@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.daisy.libs
+ artifactId: commons-httpclient
+ versioning:
+  latest: 3.1.0
+  release: 3.1.0
+  versions:
+   version: 3.1.0
+  lastUpdated: '20120620225540'
+

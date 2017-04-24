@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.zeppelin
+ artifactId: zeppelin-scio_2.10
+ versioning:
+  latest: 0.7.1
+  release: 0.7.1
+  versions:
+   version:
+   - 0.7.0
+   - 0.7.1
+  lastUpdated: '20170331140055'
+

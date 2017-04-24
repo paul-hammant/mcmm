@@ -1,0 +1,12 @@
+metadata:
+ groupId: info.macias
+ artifactId: jeasse
+ versioning:
+  latest: 0.10.0
+  release: 0.10.0
+  versions:
+   version:
+   - 0.9.0
+   - 0.10.0
+  lastUpdated: '20160401133030'
+

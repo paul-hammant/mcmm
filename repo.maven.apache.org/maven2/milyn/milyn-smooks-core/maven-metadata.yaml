@@ -1,0 +1,10 @@
+metadata:
+ groupId: milyn
+ artifactId: milyn-smooks-core
+ version: '0.7'
+ versioning:
+  versions:
+   version:
+   - '0.7'
+   - 0.7.1
+

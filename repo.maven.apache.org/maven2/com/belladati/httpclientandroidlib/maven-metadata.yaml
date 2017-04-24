@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.belladati
+ artifactId: httpclientandroidlib
+ versioning:
+  latest: 4.3.0
+  release: 4.3.0
+  versions:
+   version: 4.3.0
+  lastUpdated: '20140207092544'
+

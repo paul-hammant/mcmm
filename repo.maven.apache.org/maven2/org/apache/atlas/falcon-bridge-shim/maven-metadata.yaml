@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.atlas
+ artifactId: falcon-bridge-shim
+ versioning:
+  latest: 0.8-incubating
+  release: 0.8-incubating
+  versions:
+   version:
+   - 0.7.1-incubating
+   - 0.8-incubating
+  lastUpdated: '20170317065912'
+

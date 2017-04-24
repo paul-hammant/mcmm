@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Sonar database plugin
+   prefix: db
+   artifactId: db-maven-plugin
+  - name: Sonar maven2 plugin
+   prefix: sonar
+   artifactId: sonar-maven-plugin
+

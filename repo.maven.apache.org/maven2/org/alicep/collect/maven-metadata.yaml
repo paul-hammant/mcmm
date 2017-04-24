@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.alicep
+ artifactId: collect
+ versioning:
+  latest: 0.1-alpha.1
+  release: 0.1-alpha.1
+  versions:
+   version: 0.1-alpha.1
+  lastUpdated: '20161216232227'
+

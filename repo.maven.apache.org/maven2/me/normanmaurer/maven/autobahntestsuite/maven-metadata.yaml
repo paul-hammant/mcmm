@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: AutobahnTestsuite Maven Plugin
+   prefix: autobahntestsuite
+   artifactId: autobahntestsuite-maven-plugin
+

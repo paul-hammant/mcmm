@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.konik
+ artifactId: harness
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version:
+   - 0.8.0
+   - 1.0.0
+  lastUpdated: '20160112162102'
+

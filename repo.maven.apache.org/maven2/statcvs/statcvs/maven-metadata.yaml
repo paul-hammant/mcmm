@@ -1,0 +1,10 @@
+metadata:
+ groupId: statcvs
+ artifactId: statcvs
+ version: 0.1.2a
+ versioning:
+  versions:
+   version:
+   - 0.1.2a
+   - 0.1.3
+

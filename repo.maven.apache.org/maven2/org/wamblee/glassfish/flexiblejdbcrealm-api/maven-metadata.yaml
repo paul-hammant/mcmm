@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.wamblee.glassfish
+ artifactId: flexiblejdbcrealm-api
+ versioning:
+  latest: 0.5.2
+  release: 0.5.2
+  versions:
+   version: 0.5.2
+  lastUpdated: '20110117202541'
+

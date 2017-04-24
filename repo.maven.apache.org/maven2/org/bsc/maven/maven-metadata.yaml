@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: CONFLUENCE-REPORTING::Plugin - ${project.version}
+   prefix: confluence-reporting
+   artifactId: confluence-reporting-maven-plugin
+  - name: CONFLUENCE-REPORTING::Test::Plugin - ${project.version}
+   prefix: confluencetest
+   artifactId: maven-confluence-plugin-test
+  - name: CONFLUENCE-REPORTING::Plugin - ${project.version}
+   prefix: confluence-reporting
+   artifactId: maven-confluence-reporting-plugin
+  - name: maven-mvnver-plugin
+   prefix: mvnver
+   artifactId: maven-mvnver-plugin
+  - name: MAVEN PROCESSOR PLUGIN - ${project.version}
+   prefix: processor
+   artifactId: maven-processor-plugin
+  - name: maven-processor-plugin - ${project.version}
+   prefix: processor
+   artifactId: maven-processor-plugin
+

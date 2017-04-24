@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.bsc
+ artifactId: forge-addon
+ versioning:
+  latest: '4'
+  release: '4'
+  versions:
+   version:
+   - '1'
+   - '2'
+   - '3'
+   - '4'
+  lastUpdated: '20170223171425'
+

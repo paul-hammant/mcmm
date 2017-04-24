@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: hibernate4-maven-plugin Mojo
+   prefix: hibernate4
+   artifactId: hibernate4-maven-plugin
+  - name: Velocity Maven Plugin Mojo
+   prefix: velocity
+   artifactId: velocity-maven-plugin
+

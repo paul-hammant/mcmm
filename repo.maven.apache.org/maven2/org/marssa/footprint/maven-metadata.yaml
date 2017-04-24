@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.marssa
+ artifactId: footprint
+ versioning:
+  latest: 0.1.0-beta-01
+  release: 0.1.0-beta-01
+  versions:
+   version: 0.1.0-beta-01
+  lastUpdated: '20120605140535'
+

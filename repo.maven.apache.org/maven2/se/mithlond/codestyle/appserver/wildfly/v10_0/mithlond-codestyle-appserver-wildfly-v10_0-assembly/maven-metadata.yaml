@@ -1,0 +1,14 @@
+metadata:
+ groupId: se.mithlond.codestyle.appserver.wildfly.v10_0
+ artifactId: mithlond-codestyle-appserver-wildfly-v10_0-assembly
+ versioning:
+  latest: 1.6.0
+  release: 1.6.0
+  versions:
+   version:
+   - 1.4.0
+   - 1.4.1
+   - 1.5.0
+   - 1.6.0
+  lastUpdated: '20160707021219'
+

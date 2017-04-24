@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.backstopsolutions
+ artifactId: ant-get-free-port
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20120622181923'
+

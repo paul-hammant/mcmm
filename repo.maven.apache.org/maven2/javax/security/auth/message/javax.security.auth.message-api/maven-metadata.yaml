@@ -1,0 +1,12 @@
+metadata:
+ groupId: javax.security.auth.message
+ artifactId: javax.security.auth.message-api
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20130612173548'
+

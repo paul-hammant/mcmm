@@ -1,0 +1,10 @@
+metadata:
+ groupId: no.skytteren
+ artifactId: elasticala-stream_2.11
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20160202091304'
+

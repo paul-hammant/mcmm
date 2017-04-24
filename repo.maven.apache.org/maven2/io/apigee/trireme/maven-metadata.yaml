@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: rhino-compiler
+   prefix: rhino-compiler
+   artifactId: rhino-compiler
+

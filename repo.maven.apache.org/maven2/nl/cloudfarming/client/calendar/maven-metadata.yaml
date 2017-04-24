@@ -1,0 +1,12 @@
+metadata:
+ groupId: nl.cloudfarming.client
+ artifactId: calendar
+ versioning:
+  latest: 13.03-beta
+  release: 13.03-beta
+  versions:
+   version:
+   - 13.02-beta
+   - 13.03-beta
+  lastUpdated: '20130415213547'
+

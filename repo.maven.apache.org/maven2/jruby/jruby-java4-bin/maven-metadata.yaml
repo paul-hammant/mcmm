@@ -1,0 +1,7 @@
+metadata:
+ groupId: jruby
+ artifactId: jruby-java4-bin
+ versioning:
+  versions:
+   version: 0.9.2
+

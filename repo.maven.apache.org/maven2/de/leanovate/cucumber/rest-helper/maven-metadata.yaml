@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.leanovate.cucumber
+ artifactId: rest-helper
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version: '0.9'
+  lastUpdated: '20160122144554'
+

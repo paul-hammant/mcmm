@@ -1,0 +1,10 @@
+metadata:
+ groupId: biz.littlej.jreqs
+ artifactId: jreqs-beanvalidation
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version: 0.1.2
+  lastUpdated: '20120603142550'
+

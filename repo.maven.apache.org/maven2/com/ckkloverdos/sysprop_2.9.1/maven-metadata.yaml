@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: com.ckkloverdos
+ artifactId: sysprop_2.9.1
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20141102164024'
+

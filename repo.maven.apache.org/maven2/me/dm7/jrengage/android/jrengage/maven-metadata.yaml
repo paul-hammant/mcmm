@@ -1,0 +1,12 @@
+metadata:
+ groupId: me.dm7.jrengage.android
+ artifactId: jrengage
+ versioning:
+  latest: '3.5'
+  release: '3.5'
+  versions:
+   version:
+   - '3.4'
+   - '3.5'
+  lastUpdated: '20150225041941'
+

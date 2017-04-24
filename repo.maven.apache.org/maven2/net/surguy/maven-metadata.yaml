@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-displaylicense-plugin Maven Mojo
+   prefix: displaylicense
+   artifactId: maven-displaylicense-plugin
+

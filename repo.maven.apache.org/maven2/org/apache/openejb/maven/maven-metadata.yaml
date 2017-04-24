@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'OpenEJB :: Maven Plugins :: DD Maven Plugin'
+   prefix: dd
+   artifactId: dd-maven-plugin
+  - name: 'OpenEJB :: Maven Plugins :: jars.txt Maven Plugin'
+   prefix: jarstxt
+   artifactId: jarstxt-maven-plugin
+  - name: 'OpenEJB :: Maven Plugins :: OpenEJB Embedded Maven Plugin'
+   prefix: openejb-embedded
+   artifactId: openejb-embedded-maven-plugin
+  - name: 'OpenEJB :: Maven Plugins :: SPI Maven Plugin'
+   prefix: spi-helper
+   artifactId: spi-helper-maven-plugin
+  - name: 'OpenEJB :: Maven Plugins :: TomEE Embedded Maven Plugin'
+   prefix: tomee-embedded
+   artifactId: tomee-embedded-maven-plugin
+  - name: 'OpenEJB :: Maven Plugins :: TomEE Maven Plugin'
+   prefix: tomee
+   artifactId: tomee-maven-plugin
+

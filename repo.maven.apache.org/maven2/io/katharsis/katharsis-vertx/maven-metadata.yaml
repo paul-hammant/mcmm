@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.katharsis
+ artifactId: katharsis-vertx
+ versioning:
+  latest: 2.8.2
+  release: 2.8.2
+  versions:
+   version:
+   - 0.0.16
+   - 2.7.0
+   - 2.8.1
+   - 2.8.2
+  lastUpdated: '20161209081506'
+

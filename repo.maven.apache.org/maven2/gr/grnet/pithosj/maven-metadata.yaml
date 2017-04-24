@@ -1,0 +1,12 @@
+metadata:
+ groupId: gr.grnet
+ artifactId: pithosj
+ versioning:
+  latest: 0.4.2
+  release: 0.4.2
+  versions:
+   version:
+   - 0.4.0
+   - 0.4.2
+  lastUpdated: '20150427092157'
+

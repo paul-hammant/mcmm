@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: AludraTest Maven Build Helper Plugin
+   prefix: aludratest-helper
+   artifactId: aludratest-helper-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: itcb-catalog-maker-plugin MOJO
+   prefix: itcb-catalog-maker
+   artifactId: itcb-catalog-maker-plugin
+

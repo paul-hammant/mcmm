@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.dogote
+ artifactId: json-patch
+ versioning:
+  latest: '1.15'
+  release: '1.15'
+  versions:
+   version:
+   - 1.14.4
+   - '1.15'
+  lastUpdated: '20170110030403'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Tink Maven Plugin
+   prefix: tink
+   artifactId: tink-maven
+

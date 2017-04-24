@@ -1,0 +1,7 @@
+metadata:
+ groupId: javax.j2ee
+ artifactId: j2ee
+ versioning:
+  versions:
+   version: '1.4'
+

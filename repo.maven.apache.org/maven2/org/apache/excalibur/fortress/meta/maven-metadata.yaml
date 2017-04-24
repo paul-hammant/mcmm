@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Fortress Plugin
+   prefix: fortress
+   artifactId: maven-fortress-plugin
+

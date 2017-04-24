@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.vaadin.spring
+ artifactId: spring-vaadin-touchkit
+ versioning:
+  latest: 0.0.5.RELEASE
+  release: 0.0.5.RELEASE
+  versions:
+   version:
+   - 0.0.2
+   - 0.0.2.1
+   - 0.0.3
+   - 0.0.3.1
+   - 0.0.3.2
+   - 0.0.4.RELEASE
+   - 0.0.5.RELEASE
+  lastUpdated: '20150317142143'
+

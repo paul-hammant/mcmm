@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven EMF Generator Plugin
+   prefix: emfgen
+   artifactId: maven-emfgen-plugin
+

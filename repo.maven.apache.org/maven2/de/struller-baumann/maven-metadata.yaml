@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: visualee
+   prefix: visualee
+   artifactId: visualee
+

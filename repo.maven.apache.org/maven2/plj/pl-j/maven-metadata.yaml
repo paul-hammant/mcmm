@@ -1,0 +1,8 @@
+metadata:
+ groupId: plj
+ artifactId: pl-j
+ version: beta-0.1.0
+ versioning:
+  versions:
+   version: beta-0.1.0
+

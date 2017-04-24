@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.bootique.job
+ artifactId: bootique-job-parent
+ versioning:
+  latest: '0.14'
+  release: '0.14'
+  versions:
+   version: '0.14'
+  lastUpdated: '20170331120643'
+

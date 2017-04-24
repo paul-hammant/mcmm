@@ -1,0 +1,10 @@
+metadata:
+ groupId: re.mko.jsnprsr
+ artifactId: jsnprsr-speedtests
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20140813161516'
+

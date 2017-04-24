@@ -1,0 +1,9 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Hyracks VirtualCluster Maven Plugin
+   prefix: hyracks-virtualcluster
+   artifactId: hyracks-virtualcluster-maven-plugin
+  - prefix: license-automation
+   artifactId: license-automation-plugin
+

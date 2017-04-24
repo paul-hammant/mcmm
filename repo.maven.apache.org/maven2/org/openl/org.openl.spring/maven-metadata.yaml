@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.openl
+ artifactId: org.openl.spring
+ versioning:
+  latest: 5.19.0
+  release: 5.19.0
+  versions:
+   version: 5.19.0
+  lastUpdated: '20170314134156'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Checker framework maven plugin
+   prefix: checker
+   artifactId: checker-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.sciss
+ artifactId: fingertree_2.11
+ versioning:
+  latest: 1.5.2
+  release: 1.5.2
+  versions:
+   version:
+   - 1.5.1
+   - 1.5.2
+  lastUpdated: '20140422210453'
+

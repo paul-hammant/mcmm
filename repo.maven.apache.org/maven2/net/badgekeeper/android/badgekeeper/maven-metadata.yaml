@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.badgekeeper.android
+ artifactId: badgekeeper
+ versioning:
+  latest: 0.1.5
+  release: 0.1.5
+  versions:
+   version:
+   - 0.1.4
+   - 0.1.5
+  lastUpdated: '20151023194653'
+

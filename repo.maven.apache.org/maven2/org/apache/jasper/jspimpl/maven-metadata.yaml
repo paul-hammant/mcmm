@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.jasper
+ artifactId: jspimpl
+ version: 1.0-SNAPSHOT
+ versioning:
+  versions:
+   version: 1.0-SNAPSHOT
+  lastUpdated: '20080530204825'
+

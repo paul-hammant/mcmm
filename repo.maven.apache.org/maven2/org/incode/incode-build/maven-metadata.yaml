@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.incode
+ artifactId: incode-build
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20170216114045'
+

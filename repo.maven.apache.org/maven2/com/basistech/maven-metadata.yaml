@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: bbh-maven-plugin
+   prefix: bbh
+   artifactId: bbh-maven-plugin
+  - name: Pathname Utility Maven Plugin
+   prefix: pathname-util
+   artifactId: pathname-util-maven-plugin
+

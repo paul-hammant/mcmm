@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.uddi4j
+ artifactId: uddi4j
+ versioning:
+  latest: 2.0.5
+  release: 2.0.5
+  versions:
+   version: 2.0.5
+  lastUpdated: '20110815133233'
+

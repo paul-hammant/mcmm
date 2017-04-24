@@ -1,0 +1,10 @@
+metadata:
+ groupId: ws.argo.probe
+ artifactId: ProbeGenerator
+ versioning:
+  latest: 0.3.1
+  release: 0.3.1
+  versions:
+   version: 0.3.1
+  lastUpdated: '20150728175610'
+

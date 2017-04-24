@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.scala-sbt
+ artifactId: io_2.12
+ versioning:
+  latest: 1.0.0-M11
+  release: 1.0.0-M11
+  versions:
+   version:
+   - 1.0.0-M7
+   - 1.0.0-M8
+   - 1.0.0-M9
+   - 1.0.0-M10
+   - 1.0.0-M11
+  lastUpdated: '20170412131832'
+

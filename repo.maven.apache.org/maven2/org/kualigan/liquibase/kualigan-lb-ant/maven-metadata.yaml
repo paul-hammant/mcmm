@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.kualigan.liquibase
+ artifactId: kualigan-lb-ant
+ versioning:
+  latest: 2.0.2
+  release: 2.0.2
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+   - 1.0.5
+   - 1.0.6
+   - 1.0.8
+   - 2.0.1
+   - 2.0.2
+  lastUpdated: '20140907043817'
+

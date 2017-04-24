@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Native Security Plugin
+   prefix: natsec
+   artifactId: natsec-maven-plugin
+

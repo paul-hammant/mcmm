@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.andromda.thirdparty.netbeans.mdr
+ artifactId: mdrapi
+ versioning:
+  latest: '20050711'
+  release: '20050711'
+  versions:
+   version: '20050711'
+  lastUpdated: '20100102150332'
+

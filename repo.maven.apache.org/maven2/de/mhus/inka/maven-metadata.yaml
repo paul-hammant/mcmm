@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ConstGenerator
+   prefix: constgenerator
+   artifactId: constgenerator
+

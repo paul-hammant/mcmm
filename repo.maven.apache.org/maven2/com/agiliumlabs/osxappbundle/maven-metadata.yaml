@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven OS X Application Bundle Plugin
+   prefix: osxappbundle
+   artifactId: osxappbundle-maven-plugin
+

@@ -1,0 +1,20 @@
+metadata:
+ groupId: org.axonframework
+ artifactId: axon-integrationtests
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version:
+   - '0.6'
+   - 0.6.1
+   - '0.7'
+   - 1.0-rc3
+   - 1.0.1
+   - '1.1'
+   - 1.1.1
+   - 1.1.2
+   - '1.2'
+   - 1.2.1
+  lastUpdated: '20111021071500'
+

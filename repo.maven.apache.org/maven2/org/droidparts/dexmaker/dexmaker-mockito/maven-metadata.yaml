@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.droidparts.dexmaker
+ artifactId: dexmaker-mockito
+ versioning:
+  latest: '1.5'
+  release: '1.5'
+  versions:
+   version: '1.5'
+  lastUpdated: '20161103175840'
+

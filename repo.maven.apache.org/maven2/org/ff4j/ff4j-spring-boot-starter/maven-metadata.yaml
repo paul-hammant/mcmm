@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.ff4j
+ artifactId: ff4j-spring-boot-starter
+ versioning:
+  latest: 1.6.3
+  release: 1.6.3
+  versions:
+   version:
+   - '1.5'
+   - 1.5.1
+   - '1.6'
+   - 1.6.1
+   - 1.6.2
+   - 1.6.3
+  lastUpdated: '20170308224951'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: commons-jelly
+ artifactId: commons-jelly-tags-validate
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '20030211.143411'
+   - '20030420.031608'
+   - '20030420.041030'
+   - '20040902.073836'
+

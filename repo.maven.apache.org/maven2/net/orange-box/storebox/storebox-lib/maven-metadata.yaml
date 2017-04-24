@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.orange-box.storebox
+ artifactId: storebox-lib
+ versioning:
+  latest: 1.4.0
+  release: 1.4.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.1.0
+   - 1.2.0
+   - 1.4.0
+  lastUpdated: '20160417203139'
+

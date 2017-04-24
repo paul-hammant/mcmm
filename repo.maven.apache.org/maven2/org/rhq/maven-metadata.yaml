@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: RHQ Cassandra CCM Maven Plugin
+   prefix: rhq-cassandra-ccm
+   artifactId: rhq-cassandra-ccm-maven-plugin
+  - name: RHQ PluginDoc Maven 2 Plugin
+   prefix: rhq-coredoc
+   artifactId: rhq-core-plugindoc
+  - name: RHQ Plugin Validator Maven 2 Plugin
+   prefix: rhqvalidator
+   artifactId: rhq-plugin-validator
+

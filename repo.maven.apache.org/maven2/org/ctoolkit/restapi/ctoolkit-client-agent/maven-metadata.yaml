@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ctoolkit.restapi
+ artifactId: ctoolkit-client-agent
+ versioning:
+  latest: '0.22'
+  release: '0.22'
+  versions:
+   version: '0.22'
+  lastUpdated: '20170312052534'
+

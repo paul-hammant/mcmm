@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.marid
+ artifactId: marid-api
+ versioning:
+  latest: 0.9.5.2
+  release: 0.9.5.2
+  versions:
+   version: 0.9.5.2
+  lastUpdated: '20170305052924'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.ethlo.dachs
+ artifactId: dachs-common
+ versioning:
+  latest: 0.8.1
+  release: 0.8.1
+  versions:
+   version:
+   - 0.7.1
+   - '0.8'
+   - 0.8.1
+  lastUpdated: '20170407124210'
+

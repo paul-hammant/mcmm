@@ -1,0 +1,15 @@
+metadata:
+ groupId: me.adaptive
+ artifactId: adaptive-arp-fx-impl
+ versioning:
+  latest: 2.2.14
+  release: 2.2.14
+  versions:
+   version:
+   - 2.2.0
+   - 2.2.12
+   - 2.2.13
+   - 2.2.13.1
+   - 2.2.14
+  lastUpdated: '20150604094349'
+

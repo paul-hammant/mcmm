@@ -1,0 +1,8 @@
+metadata:
+ groupId: odmg
+ artifactId: odmg
+ version: '3.0'
+ versioning:
+  versions:
+   version: '3.0'
+

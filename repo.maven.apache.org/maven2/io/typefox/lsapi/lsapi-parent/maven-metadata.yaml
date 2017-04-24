@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.typefox.lsapi
+ artifactId: lsapi-parent
+ versioning:
+  latest: 0.1.9.alpha
+  release: 0.1.9.alpha
+  versions:
+   version: 0.1.9.alpha
+  lastUpdated: '20160602092422'
+

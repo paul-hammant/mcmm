@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Minify Maven Plugin
+   prefix: minify
+   artifactId: minify-maven-plugin
+

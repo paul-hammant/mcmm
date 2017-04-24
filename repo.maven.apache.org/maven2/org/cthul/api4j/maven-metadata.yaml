@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Api4J Maven Plugin
+   prefix: api4j
+   artifactId: api4j-maven-plugin
+

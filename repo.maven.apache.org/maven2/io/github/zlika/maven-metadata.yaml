@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Reproducible Build Maven Plugin
+   prefix: reproducible-build
+   artifactId: reproducible-build-maven-plugin
+

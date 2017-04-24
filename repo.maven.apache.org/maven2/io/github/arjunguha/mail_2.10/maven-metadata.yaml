@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.github.arjunguha
+ artifactId: mail_2.10
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20141005211726'
+

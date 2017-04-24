@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: XSpec plugin for Maven
+   prefix: xspec
+   artifactId: xspec-maven-plugin
+

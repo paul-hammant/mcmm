@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: apigee-config-maven-plugin
+   prefix: apigee-config
+   artifactId: apigee-config-maven-plugin
+

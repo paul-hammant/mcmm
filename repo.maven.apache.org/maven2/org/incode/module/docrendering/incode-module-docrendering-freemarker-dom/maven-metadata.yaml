@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.incode.module.docrendering
+ artifactId: incode-module-docrendering-freemarker-dom
+ versioning:
+  latest: 1.14.0
+  release: 1.14.0
+  versions:
+   version:
+   - 1.13.0
+   - 1.14.0
+  lastUpdated: '20170220231349'
+

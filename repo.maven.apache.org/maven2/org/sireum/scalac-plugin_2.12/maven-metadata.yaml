@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.sireum
+ artifactId: scalac-plugin_2.12
+ versioning:
+  latest: 3.0.0-1
+  release: 3.0.0-1
+  versions:
+   version:
+   - 3.0.0
+   - 3.0.0-1
+  lastUpdated: '20170415231812'
+

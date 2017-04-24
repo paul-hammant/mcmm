@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.unistuttgart.ims
+ artifactId: uima.weka
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version: 0.3.0
+  lastUpdated: '20160629060800'
+

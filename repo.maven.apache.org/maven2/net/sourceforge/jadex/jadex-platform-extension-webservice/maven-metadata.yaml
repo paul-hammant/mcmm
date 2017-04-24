@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.sourceforge.jadex
+ artifactId: jadex-platform-extension-webservice
+ versioning:
+  latest: '2.4'
+  release: '2.4'
+  versions:
+   version:
+   - '2.1'
+   - '2.2'
+   - 2.2.1
+   - '2.3'
+   - '2.4'
+  lastUpdated: '20131220174124'
+

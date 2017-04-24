@@ -1,0 +1,15 @@
+metadata:
+ groupId: im.actor
+ artifactId: actor-storage_2.11
+ versioning:
+  latest: 0.0.20
+  release: 0.0.20
+  versions:
+   version:
+   - 0.0.16
+   - 0.0.17
+   - 0.0.18
+   - 0.0.19
+   - 0.0.20
+  lastUpdated: '20160913104332'
+

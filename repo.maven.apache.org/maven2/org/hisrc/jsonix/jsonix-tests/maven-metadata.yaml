@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.hisrc.jsonix
+ artifactId: jsonix-tests
+ versioning:
+  latest: 2.1.0
+  release: 2.1.0
+  versions:
+   version:
+   - '1.2'
+   - 2.0.0
+   - 2.0.11
+   - 2.0.12
+   - 2.1.0
+  lastUpdated: '20140912205838'
+

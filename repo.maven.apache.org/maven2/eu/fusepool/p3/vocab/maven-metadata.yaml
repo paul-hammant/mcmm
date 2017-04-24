@@ -1,0 +1,15 @@
+metadata:
+ groupId: eu.fusepool.p3
+ artifactId: vocab
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - 1.0.0
+   - 1.1.0
+   - 1.2.0
+  lastUpdated: '20151016144226'
+

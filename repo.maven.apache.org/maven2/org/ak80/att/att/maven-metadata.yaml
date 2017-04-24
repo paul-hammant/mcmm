@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.ak80.att
+ artifactId: att
+ versioning:
+  latest: 0.2.1-rc1
+  release: 0.2.1-rc1
+  versions:
+   version:
+   - '0.1'
+   - 0.2.0
+   - 0.2.1-rc1
+  lastUpdated: '20170415113317'
+

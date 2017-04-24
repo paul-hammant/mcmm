@@ -1,0 +1,12 @@
+metadata:
+ groupId: nl.fd
+ artifactId: hamcrest-jsoup
+ versioning:
+  latest: 0.1.12
+  release: 0.1.12
+  versions:
+   version:
+   - 0.1.11
+   - 0.1.12
+  lastUpdated: '20160426125606'
+

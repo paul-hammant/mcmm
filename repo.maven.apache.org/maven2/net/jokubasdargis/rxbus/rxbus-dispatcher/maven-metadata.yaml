@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.jokubasdargis.rxbus
+ artifactId: rxbus-dispatcher
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.1.2
+   - 1.2.0
+   - 2.0.0
+  lastUpdated: '20161204230847'
+

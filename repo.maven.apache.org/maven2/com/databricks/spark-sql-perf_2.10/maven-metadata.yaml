@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.databricks
+ artifactId: spark-sql-perf_2.10
+ versioning:
+  latest: 0.3.2
+  release: 0.3.2
+  versions:
+   version:
+   - 0.3.1
+   - 0.3.2
+  lastUpdated: '20160125042840'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: taglibs
+ artifactId: benchmark
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.clover.sdk
+ artifactId: clover-android-connector-sdk
+ versioning:
+  latest: '168'
+  release: '168'
+  versions:
+   version: '168'
+  lastUpdated: '20170330181700'
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: tools definition schema json
+   prefix: anwiba-tools-definition-schema-json
+   artifactId: anwiba-tools-definition-schema-json
+  - name: tools icons
+   prefix: anwiba-tools-icons
+   artifactId: anwiba-tools-icons
+

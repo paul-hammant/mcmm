@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.esyfur
+ artifactId: gradle-git
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20131217233517'
+

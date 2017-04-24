@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.howl
+ artifactId: howl
+ version: 1.0.1-1
+ versioning:
+  versions:
+   version: 1.0.1-1
+  lastUpdated: '20060615180513'
+

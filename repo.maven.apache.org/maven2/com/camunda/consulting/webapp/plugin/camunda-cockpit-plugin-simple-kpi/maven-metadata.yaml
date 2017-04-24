@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.camunda.consulting.webapp.plugin
+ artifactId: camunda-cockpit-plugin-simple-kpi
+ versioning:
+  latest: 7.6.0
+  release: 7.6.0
+  versions:
+   version: 7.6.0
+  lastUpdated: '20161202142753'
+

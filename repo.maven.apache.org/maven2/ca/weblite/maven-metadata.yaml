@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-mirah-plugin
+   prefix: mirah
+   artifactId: maven-mirah-plugin
+

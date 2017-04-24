@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.data-artisans
+ artifactId: flakka-file-mailbox_2.11
+ versioning:
+  latest: 2.3-custom
+  release: 2.3-custom
+  versions:
+   version: 2.3-custom
+  lastUpdated: '20161215184216'
+

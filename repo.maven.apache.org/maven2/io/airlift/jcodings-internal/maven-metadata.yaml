@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.airlift
+ artifactId: jcodings-internal
+ versioning:
+  latest: 1.0.12.1
+  release: 1.0.12.1
+  versions:
+   version: 1.0.12.1
+  lastUpdated: '20150425003523'
+

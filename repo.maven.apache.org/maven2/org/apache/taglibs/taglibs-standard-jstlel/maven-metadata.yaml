@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.taglibs
+ artifactId: taglibs-standard-jstlel
+ versioning:
+  latest: 1.2.5
+  release: 1.2.5
+  versions:
+   version:
+   - 1.2.1
+   - 1.2.3
+   - 1.2.5
+  lastUpdated: '20150318022136'
+

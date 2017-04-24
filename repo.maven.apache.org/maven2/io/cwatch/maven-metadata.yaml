@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: cwatch-maven-plugin Maven Mojo
+   prefix: cwatch
+   artifactId: cwatch-maven-plugin
+

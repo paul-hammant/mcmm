@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.cloudslang.content
+ artifactId: cs-mail
+ versioning:
+  latest: 0.0.35
+  release: 0.0.35
+  versions:
+   version:
+   - 0.0.32
+   - 0.0.35
+  lastUpdated: '20170206150023'
+

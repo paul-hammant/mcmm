@@ -1,0 +1,8 @@
+metadata:
+ groupId: beehive
+ artifactId: beehive-netui-tags-html
+ version: 1.0-alpha
+ versioning:
+  versions:
+   version: 1.0-alpha
+

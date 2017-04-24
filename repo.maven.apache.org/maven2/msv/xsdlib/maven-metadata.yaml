@@ -1,0 +1,11 @@
+metadata:
+ groupId: msv
+ artifactId: xsdlib
+ version: '20030225'
+ versioning:
+  versions:
+   version:
+   - '20030225'
+   - '20030807'
+   - '20050913'
+

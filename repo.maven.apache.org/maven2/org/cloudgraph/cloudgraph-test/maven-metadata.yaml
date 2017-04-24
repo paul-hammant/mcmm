@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.cloudgraph
+ artifactId: cloudgraph-test
+ versioning:
+  latest: 0.6.7
+  release: 0.6.7
+  versions:
+   version:
+   - 0.6.4
+   - 0.6.5
+   - 0.6.6
+   - 0.6.7
+  lastUpdated: '20170420024410'
+

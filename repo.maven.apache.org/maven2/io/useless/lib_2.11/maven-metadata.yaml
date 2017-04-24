@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.useless
+ artifactId: lib_2.11
+ versioning:
+  latest: 0.17.2
+  release: 0.17.2
+  versions:
+   version:
+   - 0.0.7
+   - 0.17.2
+  lastUpdated: '20150623015546'
+

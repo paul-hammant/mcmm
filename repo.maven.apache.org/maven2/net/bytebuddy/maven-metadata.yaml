@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Byte Buddy (Maven plugin)
+   prefix: byte-buddy
+   artifactId: byte-buddy-maven-plugin
+

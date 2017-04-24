@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.knowhowlab.comm
+ artifactId: org.knowhowlab.comm.comm-api
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version: '0.2'
+  lastUpdated: '20150205090237'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven plugins
+   prefix: jooby
+   artifactId: jooby-maven-plugin
+

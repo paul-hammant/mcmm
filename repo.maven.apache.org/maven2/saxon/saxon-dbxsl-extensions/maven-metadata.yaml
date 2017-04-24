@@ -1,0 +1,8 @@
+metadata:
+ groupId: saxon
+ artifactId: saxon-dbxsl-extensions
+ version: '20040115'
+ versioning:
+  versions:
+   version: '20040115'
+

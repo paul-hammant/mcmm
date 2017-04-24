@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.kpipes
+ artifactId: kpipes-function-geo-geofencing
+ versioning:
+  latest: 0.0.5
+  release: 0.0.5
+  versions:
+   version:
+   - 0.0.4
+   - 0.0.5
+  lastUpdated: '20170420143359'
+

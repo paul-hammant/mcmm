@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.arrahtec
+ artifactId: osdq-core
+ versioning:
+  latest: 6.2.0
+  release: 6.2.0
+  versions:
+   version:
+   - 6.1.8
+   - 6.1.9
+   - 6.2.0
+  lastUpdated: '20170318144336'
+

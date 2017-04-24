@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.tribe7.seeds
+ artifactId: seeds-util
+ versioning:
+  latest: 16.0.1
+  release: 16.0.1
+  versions:
+   version:
+   - 14.0.1
+   - '15.0'
+   - 16.0.1
+  lastUpdated: '20140323215405'
+

@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.codehaus.sonar-ide.eclipse
+ artifactId: target-platform
+ versioning:
+  release: 0.2.0
+  versions:
+   version:
+   - 0.2.0
+   - 0.1.0
+  lastUpdated: '20100928220047'
+

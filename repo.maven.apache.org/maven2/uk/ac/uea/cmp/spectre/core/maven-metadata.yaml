@@ -1,0 +1,10 @@
+metadata:
+ groupId: uk.ac.uea.cmp.spectre
+ artifactId: core
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version: 0.4.0
+  lastUpdated: '20150615132517'
+

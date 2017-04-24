@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-concordion-plugin Maven Mojo
+   prefix: concordion
+   artifactId: maven-concordion-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scalaj
+ artifactId: scalaj-http_2.11.0-M6
+ versioning:
+  latest: 0.3.14
+  release: 0.3.14
+  versions:
+   version:
+   - 0.3.13
+   - 0.3.14
+  lastUpdated: '20140207054026'
+

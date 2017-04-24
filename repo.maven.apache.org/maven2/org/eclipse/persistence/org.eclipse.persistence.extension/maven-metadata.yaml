@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.eclipse.persistence
+ artifactId: org.eclipse.persistence.extension
+ versioning:
+  latest: 2.6.4
+  release: 2.6.4
+  versions:
+   version:
+   - 2.6.1-RC2
+   - 2.6.1
+   - 2.6.2-RC1
+   - 2.6.2
+   - 2.6.3-M1
+   - 2.6.3-RC1
+   - 2.6.3
+   - 2.6.4-RC1
+   - 2.6.4
+  lastUpdated: '20160918040511'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.qi4j.library
+ artifactId: org.qi4j.library.logging
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version: '2.1'
+  lastUpdated: '20150731130951'
+

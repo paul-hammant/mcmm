@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.squeryl
+ artifactId: squeryl_2.10.0-M7
+ versioning:
+  latest: 0.9.5-3
+  release: 0.9.5-3
+  versions:
+   version: 0.9.5-3
+  lastUpdated: '20120920191219'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.gnieh
+ artifactId: diffson-spray-json_2.12
+ versioning:
+  latest: 2.1.2
+  release: 2.1.2
+  versions:
+   version:
+   - 2.1.0
+   - 2.1.1
+   - 2.1.2
+  lastUpdated: '20170131174213'
+

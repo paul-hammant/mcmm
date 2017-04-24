@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.slider
+ artifactId: slider-accumulo-provider
+ versioning:
+  latest: 0.61.0-incubating
+  release: 0.61.0-incubating
+  versions:
+   version: 0.61.0-incubating
+  lastUpdated: '20150213192430'
+

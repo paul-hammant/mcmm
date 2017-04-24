@@ -1,0 +1,25 @@
+metadata:
+ groupId: org.ow2.bonita
+ artifactId: bonita-runtime
+ versioning:
+  latest: 5.10.2
+  release: 5.10.2
+  versions:
+   version:
+   - 5.5.3
+   - 5.6.1
+   - 5.6.2
+   - 5.6.3
+   - '5.7'
+   - 5.7.1
+   - 5.7.2
+   - 5.7.3
+   - '5.8'
+   - '5.9'
+   - 5.9.1
+   - 5.9.2
+   - '5.10'
+   - 5.10.1
+   - 5.10.2
+  lastUpdated: '20140130130734'
+

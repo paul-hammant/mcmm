@@ -1,0 +1,10 @@
+metadata:
+ groupId: mevenide
+ artifactId: mevenide-netbeans-grammar
+ version: 0.6.1
+ versioning:
+  versions:
+   version:
+   - 0.6.1
+   - 0.6.2
+

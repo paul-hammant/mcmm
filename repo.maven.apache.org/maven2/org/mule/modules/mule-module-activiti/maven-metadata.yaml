@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.mule.modules
+ artifactId: mule-module-activiti
+ version: 3.1.1
+ versioning:
+  versions:
+   version: 3.1.1
+  lastUpdated: '20110308175601'
+

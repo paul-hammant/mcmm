@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.openldap
+ artifactId: sentry
+ versioning:
+  latest: 1.0-RC39a
+  release: 1.0-RC39a
+  versions:
+   version:
+   - 1.0-RC36
+   - 1.0-RC37
+   - 1.0-RC38
+   - 1.0-RC39
+   - 1.0-RC39a
+  lastUpdated: '20140810210326'
+

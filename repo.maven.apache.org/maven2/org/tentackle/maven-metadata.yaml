@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Tentackle Maven Plugin
+   prefix: tentackle
+   artifactId: tentackle-maven-plugin
+  - name: Tentackle SQL Maven Plugin
+   prefix: tentackle-sql
+   artifactId: tentackle-sql-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.code-story
+ artifactId: simplelemium
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20140422113011'
+

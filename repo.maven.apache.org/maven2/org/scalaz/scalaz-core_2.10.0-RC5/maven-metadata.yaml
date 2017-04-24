@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scalaz
+ artifactId: scalaz-core_2.10.0-RC5
+ versioning:
+  latest: 7.0.0-M6
+  release: 7.0.0-M6
+  versions:
+   version:
+   - 6.0.4
+   - 7.0.0-M6
+  lastUpdated: '20121209194630'
+

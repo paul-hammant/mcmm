@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.monadless
+ artifactId: monadless-algebird_2.12
+ versioning:
+  latest: 0.0.12
+  release: 0.0.12
+  versions:
+   version: 0.0.12
+  lastUpdated: '20170420155145'
+

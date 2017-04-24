@@ -1,0 +1,11 @@
+metadata:
+ groupId: activemq
+ artifactId: activemq-jaas
+ version: 4.0-M1
+ versioning:
+  versions:
+   version:
+   - 4.0-M1
+   - 4.0-M2
+   - 4.0-M3
+

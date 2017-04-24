@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.tu-dresden.inf.lat.born
+ artifactId: born-owlapi
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version: 0.2.0
+  lastUpdated: '20151129023518'
+

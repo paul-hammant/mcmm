@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Text Checker - Text Checker Maven Plugin
+   prefix: text-checker
+   artifactId: text-checker-maven-plugin
+

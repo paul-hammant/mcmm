@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: quark maven plugin
+   prefix: quark
+   artifactId: quark-maven-plugin
+

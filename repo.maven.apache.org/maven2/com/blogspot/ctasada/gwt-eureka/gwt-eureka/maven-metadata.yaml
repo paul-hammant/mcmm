@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.blogspot.ctasada.gwt-eureka
+ artifactId: gwt-eureka
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20120415091945'
+

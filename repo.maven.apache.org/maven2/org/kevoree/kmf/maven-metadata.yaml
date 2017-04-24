@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'kmf :: MavenPlugin'
+   prefix: null
+   artifactId: mavenplugin
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.rincl
+ artifactId: rincl
+ versioning:
+  latest: 0.7.1
+  release: 0.7.1
+  versions:
+   version:
+   - 0.6.0
+   - 0.7.0
+   - 0.7.1
+  lastUpdated: '20160824155814'
+

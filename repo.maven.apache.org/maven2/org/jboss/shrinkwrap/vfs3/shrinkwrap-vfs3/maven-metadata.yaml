@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.shrinkwrap.vfs3
+ artifactId: shrinkwrap-vfs3
+ versioning:
+  latest: 1.0.0-cr-1
+  release: 1.0.0-cr-1
+  versions:
+   version: 1.0.0-cr-1
+  lastUpdated: '20111114131404'
+

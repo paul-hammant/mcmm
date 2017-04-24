@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.springframework.vault
+ artifactId: spring-vault-distribution
+ versioning:
+  latest: 1.0.0.RELEASE
+  release: 1.0.0.RELEASE
+  versions:
+   version: 1.0.0.RELEASE
+  lastUpdated: '20170410162959'
+

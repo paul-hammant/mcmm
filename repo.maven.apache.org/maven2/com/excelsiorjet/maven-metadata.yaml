@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Excelsior JET Maven Plugin
+   prefix: excelsior-jet
+   artifactId: excelsior-jet-maven-plugin
+

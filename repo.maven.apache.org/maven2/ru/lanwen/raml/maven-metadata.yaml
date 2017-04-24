@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: rest-assured-raml-codegen-maven-plugin
+   prefix: rarc
+   artifactId: rarc-maven-plugin
+

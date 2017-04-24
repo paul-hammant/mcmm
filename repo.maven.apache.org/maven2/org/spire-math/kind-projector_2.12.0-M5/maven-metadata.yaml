@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.spire-math
+ artifactId: kind-projector_2.12.0-M5
+ versioning:
+  latest: 0.8.1
+  release: 0.8.1
+  versions:
+   version: 0.8.1
+  lastUpdated: '20160902163105'
+

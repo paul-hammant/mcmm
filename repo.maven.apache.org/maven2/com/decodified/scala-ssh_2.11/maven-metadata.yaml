@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.decodified
+ artifactId: scala-ssh_2.11
+ versioning:
+  latest: 0.7.0
+  release: 0.7.0
+  versions:
+   version: 0.7.0
+  lastUpdated: '20141016115335'
+

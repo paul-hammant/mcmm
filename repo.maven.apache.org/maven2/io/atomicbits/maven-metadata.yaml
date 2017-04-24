@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: scraml-maven-plugin
+   prefix: scraml
+   artifactId: scraml-maven-plugin
+

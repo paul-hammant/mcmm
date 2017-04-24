@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.tonicsoft.ebay
+ artifactId: ebay-shopping-api
+ versioning:
+  latest: 989.0.0
+  release: 989.0.0
+  versions:
+   version: 989.0.0
+  lastUpdated: '20170304210701'
+

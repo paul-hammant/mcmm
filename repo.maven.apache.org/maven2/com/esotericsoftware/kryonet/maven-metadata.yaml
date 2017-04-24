@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.esotericsoftware
+ artifactId: kryonet
+ versioning:
+  latest: 2.22.0-RC1
+  release: 2.22.0-RC1
+  versions:
+   version: 2.22.0-RC1
+  lastUpdated: '20140614223221'
+

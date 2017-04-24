@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: State Machine Compiler (SMC) Maven Plugin
+   prefix: smc
+   artifactId: smc-maven-plugin
+

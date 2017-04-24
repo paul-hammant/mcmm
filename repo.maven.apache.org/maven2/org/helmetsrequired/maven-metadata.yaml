@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jacocotogo-maven-plugin
+   prefix: jacocotogo
+   artifactId: jacocotogo-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.sisioh
+ artifactId: baseunits-scala_2.12
+ versioning:
+  latest: 0.1.19
+  release: 0.1.19
+  versions:
+   version:
+   - 0.1.18
+   - 0.1.19
+  lastUpdated: '20161122060346'
+

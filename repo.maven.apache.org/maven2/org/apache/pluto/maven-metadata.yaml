@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Pluto Installer Plugin
+   prefix: pluto
+   artifactId: maven-pluto-plugin
+

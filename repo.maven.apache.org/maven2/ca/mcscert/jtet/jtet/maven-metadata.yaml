@@ -1,0 +1,10 @@
+metadata:
+ groupId: ca.mcscert.jtet
+ artifactId: jtet
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20150205070641'
+

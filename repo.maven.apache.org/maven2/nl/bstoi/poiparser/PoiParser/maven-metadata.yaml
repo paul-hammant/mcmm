@@ -1,0 +1,25 @@
+metadata:
+ groupId: nl.bstoi.poiparser
+ artifactId: PoiParser
+ versioning:
+  latest: '3.4'
+  release: '3.4'
+  versions:
+   version:
+   - '1.9'
+   - '1.10'
+   - '1.11'
+   - '1.12'
+   - '1.13'
+   - '2.0'
+   - '2.1'
+   - '2.2'
+   - '2.3'
+   - '2.4'
+   - '3.0'
+   - '3.1'
+   - '3.2'
+   - '3.3'
+   - '3.4'
+  lastUpdated: '20161012051534'
+

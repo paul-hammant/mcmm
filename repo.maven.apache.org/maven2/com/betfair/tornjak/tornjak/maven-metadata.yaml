@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.betfair.tornjak
+ artifactId: tornjak
+ versioning:
+  latest: 3.0.0.rc1
+  release: 3.0.0.rc1
+  versions:
+   version: 3.0.0.rc1
+  lastUpdated: '20131212150155'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: edu.princeton.cup
+ artifactId: java-cup
+ versioning:
+  latest: 10k
+  release: 10k
+  versions:
+   version: 10k
+  lastUpdated: '20101104114214'
+

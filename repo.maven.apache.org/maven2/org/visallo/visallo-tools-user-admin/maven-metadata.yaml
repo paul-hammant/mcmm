@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.visallo
+ artifactId: visallo-tools-user-admin
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 2.0.0-RC1
+   - 2.0.0
+  lastUpdated: '20160714011348'
+

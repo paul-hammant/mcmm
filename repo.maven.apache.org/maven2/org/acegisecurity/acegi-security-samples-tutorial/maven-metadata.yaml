@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.acegisecurity
+ artifactId: acegi-security-samples-tutorial
+ version: 1.0.7
+ versioning:
+  versions:
+   version: 1.0.7
+  lastUpdated: '20080415121802'
+

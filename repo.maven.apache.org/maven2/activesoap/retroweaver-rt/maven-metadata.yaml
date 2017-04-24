@@ -1,0 +1,8 @@
+metadata:
+ groupId: activesoap
+ artifactId: retroweaver-rt
+ version: '1.1'
+ versioning:
+  versions:
+   version: '1.1'
+

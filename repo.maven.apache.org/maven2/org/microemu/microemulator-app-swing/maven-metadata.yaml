@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.microemu
+ artifactId: microemulator-app-swing
+ version: 2.0.0
+ versioning:
+  versions:
+   version: 2.0.0
+  lastUpdated: '20070128085122'
+

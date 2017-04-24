@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.github.kohsah
+ artifactId: akomantoso-lib
+ versioning:
+  latest: 1.0.11
+  release: 1.0.11
+  versions:
+   version:
+   - 1.0.9
+   - 1.0.10
+   - 1.0.11
+  lastUpdated: '20140530080427'
+

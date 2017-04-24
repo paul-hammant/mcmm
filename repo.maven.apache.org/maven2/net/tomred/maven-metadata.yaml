@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: liquibase.validator Maven Mojo
+   prefix: liquibase
+   artifactId: liquibase-maven-plugin
+

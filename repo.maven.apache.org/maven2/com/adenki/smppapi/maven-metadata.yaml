@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.adenki
+ artifactId: smppapi
+ version: 0.3.7
+ versioning:
+  release: 0.3.9
+  versions:
+   version:
+   - 0.3.7
+   - 0.3.9
+  lastUpdated: '20090616192200'
+

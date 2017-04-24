@@ -1,0 +1,11 @@
+metadata:
+ groupId: xdoclet-plugins
+ artifactId: xdoclet-plugin-castor
+ version: 1.0.2
+ versioning:
+  versions:
+   version:
+   - 1.0.2
+   - '20051012.090007'
+   - 1.0.3
+

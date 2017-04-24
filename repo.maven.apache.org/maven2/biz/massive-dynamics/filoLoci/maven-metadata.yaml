@@ -1,0 +1,10 @@
+metadata:
+ groupId: biz.massive-dynamics
+ artifactId: filoLoci
+ versioning:
+  latest: 0.9.0.0
+  release: 0.9.0.0
+  versions:
+   version: 0.9.0.0
+  lastUpdated: '20120630105313'
+

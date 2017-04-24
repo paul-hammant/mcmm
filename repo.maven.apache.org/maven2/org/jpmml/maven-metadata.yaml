@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JPMML Maven plugin
+   prefix: pmml
+   artifactId: pmml-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Apache Felix Plugin for Maven
+   prefix: felix
+   artifactId: felix-maven-plugin
+

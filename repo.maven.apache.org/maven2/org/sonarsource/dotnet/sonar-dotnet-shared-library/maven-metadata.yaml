@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.sonarsource.dotnet
+ artifactId: sonar-dotnet-shared-library
+ versioning:
+  latest: 5.9.0.1001
+  release: 5.9.0.1001
+  versions:
+   version:
+   - 1.0.3.255
+   - 1.0.4.305
+   - 1.0.5.333
+   - 1.1.0.395
+   - 5.9.0.1001
+  lastUpdated: '20170411073635'
+

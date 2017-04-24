@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Strongly-typed Javascript:Maven Plugin
+   prefix: null
+   artifactId: maven-plugin
+  - name: Strongly-typed Javascript:Maven Plugin
+   prefix: stjs
+   artifactId: stjs-maven-plugin
+

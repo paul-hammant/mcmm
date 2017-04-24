@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.dmfs
+ artifactId: opentasks-provider
+ versioning:
+  latest: 1.1.8.1
+  release: 1.1.8.1
+  versions:
+   version:
+   - 1.1.8
+   - 1.1.8-pre1
+   - 1.1.8.1
+  lastUpdated: '20160210202822'
+

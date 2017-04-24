@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.terasoluna.gfw.blank
+ artifactId: terasoluna-gfw-multi-web-blank-archetype
+ versioning:
+  latest: 5.2.0.RC7.2
+  release: 5.2.0.RC7.2
+  versions:
+   version:
+   - 5.2.0.RC5
+   - 5.2.0.RC6
+   - 5.2.0.RC7
+   - 5.2.0.RC7.1
+   - 5.2.0.RC7.2
+  lastUpdated: '20160825112117'
+

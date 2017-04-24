@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.stickycode.scheduled
+ artifactId: sticky-scheduler-single
+ versioning:
+  latest: '3.3'
+  release: '3.3'
+  versions:
+   version:
+   - '1.4'
+   - '1.5'
+   - '2.2'
+   - '3.3'
+  lastUpdated: '20170316082712'
+

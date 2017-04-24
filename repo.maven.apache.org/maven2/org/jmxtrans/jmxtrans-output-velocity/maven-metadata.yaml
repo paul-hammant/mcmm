@@ -1,0 +1,22 @@
+metadata:
+ groupId: org.jmxtrans
+ artifactId: jmxtrans-output-velocity
+ versioning:
+  latest: '265'
+  release: '265'
+  versions:
+   version:
+   - '251'
+   - '252'
+   - '253'
+   - '254'
+   - '256'
+   - '259'
+   - '260'
+   - '261'
+   - '262'
+   - '263'
+   - '264'
+   - '265'
+  lastUpdated: '20170421080927'
+

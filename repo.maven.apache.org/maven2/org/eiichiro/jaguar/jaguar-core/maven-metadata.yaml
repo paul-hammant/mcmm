@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eiichiro.jaguar
+ artifactId: jaguar-core
+ versioning:
+  latest: 2.0-rc5
+  release: 2.0-rc5
+  versions:
+   version: 2.0-rc5
+  lastUpdated: '20140413134106'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.log4mongo
+ artifactId: log4mongo-java
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version:
+   - 0.7.4
+   - 0.9.0
+  lastUpdated: '20170206013353'
+

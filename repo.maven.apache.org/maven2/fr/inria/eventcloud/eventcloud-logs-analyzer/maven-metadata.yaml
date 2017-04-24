@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.inria.eventcloud
+ artifactId: eventcloud-logs-analyzer
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+  lastUpdated: '20120627094719'
+

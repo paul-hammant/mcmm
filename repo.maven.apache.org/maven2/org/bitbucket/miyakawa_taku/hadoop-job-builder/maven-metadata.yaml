@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.bitbucket.miyakawa_taku
+ artifactId: hadoop-job-builder
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '1.0'
+   - '2.0'
+  lastUpdated: '20110320054907'
+

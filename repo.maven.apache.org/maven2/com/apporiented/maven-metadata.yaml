@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Spring-REST-Doc Maven Plugin
+   prefix: apidoc
+   artifactId: spring-rest-doc-plugin
+  - name: Spring-REST-Doc Maven Plugin
+   prefix: spring-rest-doc
+   artifactId: spring-rest-doc-plugin
+

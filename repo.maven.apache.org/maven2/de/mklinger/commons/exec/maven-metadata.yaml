@@ -1,0 +1,15 @@
+metadata:
+ groupId: de.mklinger.commons
+ artifactId: exec
+ versioning:
+  latest: '0.26'
+  release: '0.26'
+  versions:
+   version:
+   - '0.22'
+   - '0.23'
+   - '0.24'
+   - '0.25'
+   - '0.26'
+  lastUpdated: '20170123142648'
+

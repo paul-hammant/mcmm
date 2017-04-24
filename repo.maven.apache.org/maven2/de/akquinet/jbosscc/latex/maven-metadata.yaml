@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven LaTeX Plugin
+   prefix: latex
+   artifactId: maven-latex-plugin
+

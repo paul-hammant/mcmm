@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.52inc
+ artifactId: scoops-compiler
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version:
+   - 0.3.0
+   - 1.0.0
+  lastUpdated: '20160714155025'
+

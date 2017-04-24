@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ApacheDS Maven Plugin
+   prefix: apacheds
+   artifactId: apacheds-maven-plugin
+

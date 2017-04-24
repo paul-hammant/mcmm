@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.jeremyrsmith
+ artifactId: reactivesax-tests_2.11
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20161206182123'
+

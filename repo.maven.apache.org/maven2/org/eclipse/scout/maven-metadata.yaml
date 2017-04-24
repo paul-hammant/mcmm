@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Eclipse Settings Maven Plugin
+   prefix: eclipse-settings
+   artifactId: eclipse-settings-maven-plugin
+

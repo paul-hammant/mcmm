@@ -1,0 +1,16 @@
+metadata:
+ groupId: edu.cmu.sei.ams.cloudlet
+ artifactId: client-lib
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version:
+   - 1.13.2
+   - 1.13.3
+   - 2.0.0
+   - 2.1.0
+   - 2.2.0
+   - 3.0.0
+  lastUpdated: '20161229005731'
+

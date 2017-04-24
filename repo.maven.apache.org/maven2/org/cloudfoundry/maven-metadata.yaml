@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Cloud Foundry Maven Plugin
+   prefix: cf
+   artifactId: cf-maven-plugin
+

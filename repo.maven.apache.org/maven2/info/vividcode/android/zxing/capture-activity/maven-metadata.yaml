@@ -1,0 +1,13 @@
+metadata:
+ groupId: info.vividcode.android.zxing
+ artifactId: capture-activity
+ versioning:
+  latest: 2.3.0-1.2
+  release: 2.3.0-1.2
+  versions:
+   version:
+   - 2.3.0-1
+   - 2.3.0-1.1
+   - 2.3.0-1.2
+  lastUpdated: '20140223054959'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Incremental-build-plugin Maven Mojo
+   prefix: incremental-build
+   artifactId: incremental-build-plugin
+

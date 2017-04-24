@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.orchestra.eclipse.core
+ artifactId: org.ow2.orchestra.eclipse.core.runtime.compatibility.auth
+ versioning:
+  release: 3.2.200
+  versions:
+   version: 3.2.200
+  lastUpdated: '20110921133700'
+

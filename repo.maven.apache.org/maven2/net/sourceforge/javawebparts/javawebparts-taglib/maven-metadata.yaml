@@ -1,0 +1,7 @@
+metadata:
+ groupId: net.sourceforge.javawebparts
+ artifactId: javawebparts-taglib
+ versioning:
+  versions:
+   version: 1.0-beta4
+

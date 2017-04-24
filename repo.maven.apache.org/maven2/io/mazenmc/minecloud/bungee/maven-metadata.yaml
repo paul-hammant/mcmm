@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.mazenmc.minecloud
+ artifactId: bungee
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20150811063120'
+

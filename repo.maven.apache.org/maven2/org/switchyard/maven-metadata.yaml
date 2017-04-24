@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'SwitchYard: "switchyard" Plugin'
+   prefix: switchyard
+   artifactId: switchyard-plugin
+

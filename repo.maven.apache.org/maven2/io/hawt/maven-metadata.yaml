@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ${project.artifactId}
+   prefix: hawtio-json-schema-generator
+   artifactId: hawtio-json-schema-generator-plugin
+  - name: ${project.artifactId}
+   prefix: hawtio
+   artifactId: hawtio-maven-plugin
+

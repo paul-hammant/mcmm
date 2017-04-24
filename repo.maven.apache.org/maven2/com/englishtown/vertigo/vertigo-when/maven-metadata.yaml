@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.englishtown.vertigo
+ artifactId: vertigo-when
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160629230315'
+

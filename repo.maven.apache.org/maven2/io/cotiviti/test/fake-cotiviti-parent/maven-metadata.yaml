@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.cotiviti.test
+ artifactId: fake-cotiviti-parent
+ versioning:
+  latest: 0.2.25
+  release: 0.2.25
+  versions:
+   version:
+   - 0.2.24
+   - 0.2.25
+  lastUpdated: '20161123151220'
+

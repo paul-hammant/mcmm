@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.hama
+ artifactId: hama-mesos
+ versioning:
+  latest: 0.7.1
+  release: 0.7.1
+  versions:
+   version:
+   - 0.7.0
+   - 0.7.1
+  lastUpdated: '20160314104654'
+

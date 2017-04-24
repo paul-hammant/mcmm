@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.jboss.resteasy
+ artifactId: resteasy-jaxrs-services
+ versioning:
+  latest: 3.1.2.Final
+  release: 3.1.2.Final
+  versions:
+   version:
+   - 3.1.0.CR3
+   - 3.1.0.Final
+   - 3.1.1.Final
+   - 3.1.2.Final
+  lastUpdated: '20170329095656'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.dkpro.lab
+ artifactId: dkpro-lab-support-slf4j
+ versioning:
+  latest: 0.13.0
+  release: 0.13.0
+  versions:
+   version:
+   - 0.12.0
+   - 0.13.0
+  lastUpdated: '20161020061651'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Colapi
+   prefix: colapi
+   artifactId: colapi
+

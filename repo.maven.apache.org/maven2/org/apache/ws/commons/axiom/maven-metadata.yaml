@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: javadoc-postprocessor
+   artifactId: javadoc-postprocessor-plugin
+

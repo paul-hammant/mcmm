@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.clapper
+ artifactId: argot_2.9.0
+ versioning:
+  latest: '0.4'
+  release: '0.4'
+  versions:
+   version:
+   - 0.3.6
+   - 0.3.7
+   - 0.3.8
+   - '0.4'
+  lastUpdated: '20120503163508'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.epam
+ artifactId: indigo
+ versioning:
+  latest: 1.2.2beta-r1
+  release: 1.2.2beta-r1
+  versions:
+   version: 1.2.2beta-r1
+  lastUpdated: '20151019154240'
+

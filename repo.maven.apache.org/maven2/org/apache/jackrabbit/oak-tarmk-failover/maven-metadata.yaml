@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.jackrabbit
+ artifactId: oak-tarmk-failover
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - 1.1.0
+   - 1.1.1
+  lastUpdated: '20141017074329'
+

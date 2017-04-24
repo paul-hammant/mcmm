@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.jboss.bom
+ artifactId: gatein-3.5-bom
+ versioning:
+  latest: 1.0.0.Final
+  release: 1.0.0.Final
+  versions:
+   version:
+   - 1.0.0.Alpha01
+   - 1.0.0.Alpha02
+   - 1.0.0.Alpha03
+   - 1.0.0.Alpha04
+   - 1.0.0.Final
+  lastUpdated: '20121206090448'
+

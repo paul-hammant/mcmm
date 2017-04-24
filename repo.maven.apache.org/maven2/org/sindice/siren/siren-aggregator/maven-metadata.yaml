@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.sindice.siren
+ artifactId: siren-aggregator
+ versioning:
+  latest: 0.2.3-RC2
+  release: 0.2.3-RC2
+  versions:
+   version:
+   - 0.2.2
+   - 0.2.3-RC1
+   - 0.2.3-RC2
+  lastUpdated: '20111213192700'
+

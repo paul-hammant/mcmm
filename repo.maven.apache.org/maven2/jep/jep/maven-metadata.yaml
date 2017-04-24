@@ -1,0 +1,8 @@
+metadata:
+ groupId: jep
+ artifactId: jep
+ version: '2.24'
+ versioning:
+  versions:
+   version: '2.24'
+

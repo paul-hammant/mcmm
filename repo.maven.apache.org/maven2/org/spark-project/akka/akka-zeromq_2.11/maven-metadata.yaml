@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.spark-project.akka
+ artifactId: akka-zeromq_2.11
+ versioning:
+  latest: 2.3.4-spark
+  release: 2.3.4-spark
+  versions:
+   version: 2.3.4-spark
+  lastUpdated: '20141006060220'
+

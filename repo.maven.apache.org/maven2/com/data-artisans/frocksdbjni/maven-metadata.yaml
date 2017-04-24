@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.data-artisans
+ artifactId: frocksdbjni
+ versioning:
+  latest: 4.11.2-artisans
+  release: 4.11.2-artisans
+  versions:
+   version: 4.11.2-artisans
+  lastUpdated: '20170409210922'
+

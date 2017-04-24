@@ -1,0 +1,14 @@
+metadata:
+ groupId: jp.co.bizreach
+ artifactId: aws-kinesis-spark_2.11
+ versioning:
+  latest: 0.0.5
+  release: 0.0.5
+  versions:
+   version:
+   - 0.0.2
+   - 0.0.3
+   - 0.0.4
+   - 0.0.5
+  lastUpdated: '20170307154721'
+

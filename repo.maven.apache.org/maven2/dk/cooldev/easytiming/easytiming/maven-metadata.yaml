@@ -1,0 +1,10 @@
+metadata:
+ groupId: dk.cooldev.easytiming
+ artifactId: easytiming
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20140819165703'
+

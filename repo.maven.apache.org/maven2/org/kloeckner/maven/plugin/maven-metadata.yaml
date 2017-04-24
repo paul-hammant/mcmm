@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Version Range Maven Plugin
+   prefix: version-range
+   artifactId: version-range-maven-plugin
+

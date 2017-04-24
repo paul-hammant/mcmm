@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.zkoss.zkforge
+ artifactId: ckez
+ versioning:
+  latest: 3.6.0.0
+  release: 3.6.0.0
+  versions:
+   version: 3.6.0.0
+  lastUpdated: '20110915060840'
+

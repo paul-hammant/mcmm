@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Floggy plugin for Maven
+   prefix: floggy
+   artifactId: maven-floggy-plugin
+

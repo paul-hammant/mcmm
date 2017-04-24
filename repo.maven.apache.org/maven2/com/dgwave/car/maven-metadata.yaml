@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Ceylon Maven Plugin
+   prefix: ceylon
+   artifactId: ceylon-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.akhikhl.gretty
+ artifactId: gretty-spring-boot-helper-commons
+ versioning:
+  latest: 0.0.24
+  release: 0.0.24
+  versions:
+   version: 0.0.24
+  lastUpdated: '20140610222357'
+

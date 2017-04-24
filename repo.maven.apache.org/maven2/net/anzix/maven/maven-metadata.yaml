@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Dependency Graph analizer
+   prefix: depanal
+   artifactId: maven-depanal-plugin
+

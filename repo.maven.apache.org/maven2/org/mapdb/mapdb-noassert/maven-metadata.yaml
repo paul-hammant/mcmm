@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.mapdb
+ artifactId: mapdb-noassert
+ versioning:
+  latest: 2.0-beta12
+  release: 2.0-beta12
+  versions:
+   version:
+   - 2.0-beta10
+   - 2.0-beta11
+   - 2.0-beta12
+  lastUpdated: '20151125210751'
+

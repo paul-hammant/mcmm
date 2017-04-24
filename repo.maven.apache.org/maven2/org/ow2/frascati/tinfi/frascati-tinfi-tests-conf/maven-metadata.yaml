@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ow2.frascati.tinfi
+ artifactId: frascati-tinfi-tests-conf
+ version: '1.2'
+ versioning:
+  release: 1.2.1
+  versions:
+   version:
+   - '1.2'
+   - 1.2.1
+  lastUpdated: '20100115155601'
+

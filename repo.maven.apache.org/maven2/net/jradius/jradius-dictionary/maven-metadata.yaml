@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.jradius
+ artifactId: jradius-dictionary
+ versioning:
+  latest: 1.1.5
+  release: 1.1.5
+  versions:
+   version: 1.1.5
+  lastUpdated: '20170106152324'
+

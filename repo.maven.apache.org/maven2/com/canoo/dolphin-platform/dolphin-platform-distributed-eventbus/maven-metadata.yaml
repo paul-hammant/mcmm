@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.canoo.dolphin-platform
+ artifactId: dolphin-platform-distributed-eventbus
+ versioning:
+  latest: 0.8.16
+  release: 0.8.16
+  versions:
+   version:
+   - 0.8.15
+   - 0.8.16
+  lastUpdated: '20170421115210'
+

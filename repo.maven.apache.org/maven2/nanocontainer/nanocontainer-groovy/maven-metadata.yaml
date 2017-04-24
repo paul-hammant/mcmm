@@ -1,0 +1,10 @@
+metadata:
+ groupId: nanocontainer
+ artifactId: nanocontainer-groovy
+ version: 1.0-beta-1
+ versioning:
+  versions:
+   version:
+   - 1.0-beta-1
+   - 1.0-beta-1.pico-1.0
+

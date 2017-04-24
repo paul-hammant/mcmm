@@ -1,0 +1,12 @@
+metadata:
+ groupId: nz.ac.waikato.cms.weka
+ artifactId: distributedWekaHadoopCore
+ versioning:
+  latest: 1.0.21
+  release: 1.0.21
+  versions:
+   version:
+   - 1.0.19
+   - 1.0.21
+  lastUpdated: '20160830092911'
+

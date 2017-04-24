@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.trippi
+ artifactId: trippi
+ versioning:
+  latest: 1.5.10
+  release: 1.5.10
+  versions:
+   version:
+   - 1.5.6
+   - 1.5.7
+   - 1.5.8
+   - 1.5.9
+   - 1.5.10
+  lastUpdated: '20140812041925'
+

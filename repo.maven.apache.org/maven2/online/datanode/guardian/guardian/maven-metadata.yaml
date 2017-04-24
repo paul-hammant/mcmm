@@ -1,0 +1,10 @@
+metadata:
+ groupId: online.datanode.guardian
+ artifactId: guardian
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20170207030034'
+

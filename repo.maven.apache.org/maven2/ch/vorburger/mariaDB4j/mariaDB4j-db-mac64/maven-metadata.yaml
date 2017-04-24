@@ -1,0 +1,12 @@
+metadata:
+ groupId: ch.vorburger.mariaDB4j
+ artifactId: mariaDB4j-db-mac64
+ versioning:
+  latest: 10.1.9
+  release: 10.1.9
+  versions:
+   version:
+   - 5.5.34
+   - 10.1.9
+  lastUpdated: '20160810222013'
+

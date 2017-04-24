@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: apigee-edge-maven-plugin maven mojo
+   prefix: apigee-enterprise
+   artifactId: apigee-edge-maven-plugin
+  - name: apigee-edge-maven-plugin maven mojo
+   prefix: apigee-edge
+   artifactId: apigee-edge-maven-plugin
+  - name: proxy-dependency-maven-plugin
+   prefix: proxy-dependency
+   artifactId: proxy-dependency-maven-plugin
+

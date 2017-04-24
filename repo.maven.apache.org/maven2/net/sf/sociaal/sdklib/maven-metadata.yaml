@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.sociaal
+ artifactId: sdklib
+ versioning:
+  latest: 22.6.3
+  release: 22.6.3
+  versions:
+   version:
+   - 1.0.0
+   - 22.6.3
+  lastUpdated: '20140522090603'
+

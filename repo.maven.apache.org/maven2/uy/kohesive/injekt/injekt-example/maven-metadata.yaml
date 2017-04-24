@@ -1,0 +1,13 @@
+metadata:
+ groupId: uy.kohesive.injekt
+ artifactId: injekt-example
+ versioning:
+  latest: 2.0.0-ALPHA-03
+  release: 2.0.0-ALPHA-03
+  versions:
+   version:
+   - 2.0.0-ALPHA-01
+   - 2.0.0-ALPHA-02
+   - 2.0.0-ALPHA-03
+  lastUpdated: '20160527155444'
+

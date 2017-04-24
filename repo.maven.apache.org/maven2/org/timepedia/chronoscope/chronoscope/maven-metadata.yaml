@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.timepedia.chronoscope
+ artifactId: chronoscope
+ versioning:
+  latest: '0.86'
+  release: '0.86'
+  versions:
+   version: '0.86'
+  lastUpdated: '20101024112540'
+

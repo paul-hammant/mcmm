@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.elm-software
+ artifactId: jackson-env
+ versioning:
+  latest: '1.14'
+  release: '1.14'
+  versions:
+   version:
+   - '1.9'
+   - '1.13'
+   - '1.14'
+  lastUpdated: '20161224164826'
+

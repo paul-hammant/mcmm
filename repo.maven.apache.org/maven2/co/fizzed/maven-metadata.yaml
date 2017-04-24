@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ${project.artifactId}
+   prefix: fizzed-stork
+   artifactId: fizzed-stork-maven-plugin
+  - name: fizzed-maven-plugins-versionizer
+   prefix: fizzed-versionizer
+   artifactId: fizzed-versionizer-maven-plugin
+

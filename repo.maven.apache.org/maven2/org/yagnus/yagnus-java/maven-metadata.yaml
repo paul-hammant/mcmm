@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.yagnus
+ artifactId: yagnus-java
+ versioning:
+  latest: 0.0.9
+  release: 0.0.9
+  versions:
+   version: 0.0.9
+  lastUpdated: '20121005141310'
+

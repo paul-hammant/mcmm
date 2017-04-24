@@ -1,0 +1,14 @@
+metadata:
+ groupId: info.folone
+ artifactId: poi-scala_2.11
+ versioning:
+  latest: '0.18'
+  release: '0.18'
+  versions:
+   version:
+   - '0.14'
+   - '0.16'
+   - '0.17'
+   - '0.18'
+  lastUpdated: '20161216104914'
+

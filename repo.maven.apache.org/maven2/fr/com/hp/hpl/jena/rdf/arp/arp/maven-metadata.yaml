@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.com.hp.hpl.jena.rdf.arp
+ artifactId: arp
+ versioning:
+  latest: 2.2.b
+  release: 2.2.b
+  versions:
+   version: 2.2.b
+  lastUpdated: '20160203045539'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Apache Jena - Maven Plugins, including schemagen
+   prefix: jenatools
+   artifactId: jena-maven-tools
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.carrotgarden.base
+ artifactId: carrot-archon-license
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20120304013540'
+

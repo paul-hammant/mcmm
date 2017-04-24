@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Plugin
+   prefix: pom2feed
+   artifactId: pom2feed-maven-plugin
+

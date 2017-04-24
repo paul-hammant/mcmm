@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.fcrepo
+ artifactId: fcrepo4-oaiprovider
+ versioning:
+  latest: 4.4.0
+  release: 4.4.0
+  versions:
+   version: 4.4.0
+  lastUpdated: '20151013204620'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.reactormonk
+ artifactId: cryptobits_2.12
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20161104091409'
+

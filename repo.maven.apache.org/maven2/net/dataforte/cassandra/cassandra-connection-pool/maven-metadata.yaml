@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.dataforte.cassandra
+ artifactId: cassandra-connection-pool
+ versioning:
+  latest: 1.0.0.CR1
+  release: 1.0.0.CR1
+  versions:
+   version:
+   - 0.7.1
+   - 0.8.0
+   - 0.8.1
+   - 1.0.0.CR1
+  lastUpdated: '20111011093119'
+

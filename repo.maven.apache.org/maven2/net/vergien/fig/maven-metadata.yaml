@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: fluent-interface-generator-maven-plugin Maven Plugin
+   prefix: fluent-interface-generator
+   artifactId: fluent-interface-generator-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.stratos
+ artifactId: stratos-controller-profile-gen
+ versioning:
+  latest: 3.0.0-incubating
+  release: 3.0.0-incubating
+  versions:
+   version: 3.0.0-incubating
+  lastUpdated: '20131105223106'
+

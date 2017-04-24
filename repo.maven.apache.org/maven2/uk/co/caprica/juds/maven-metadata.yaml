@@ -1,0 +1,10 @@
+metadata:
+ groupId: uk.co.caprica
+ artifactId: juds
+ versioning:
+  latest: 0.94.1
+  release: 0.94.1
+  versions:
+   version: 0.94.1
+  lastUpdated: '20140204090413'
+

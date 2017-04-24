@@ -1,0 +1,11 @@
+metadata:
+ groupId: jivesoftware
+ artifactId: smackx
+ version: 1.4.1
+ versioning:
+  versions:
+   version:
+   - 1.4.1
+   - 1.5.0
+   - 2.0.0
+

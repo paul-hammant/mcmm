@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.orbisgis
+ artifactId: cts
+ versioning:
+  latest: 1.4.0
+  release: 1.4.0
+  versions:
+   version:
+   - 1.3.1
+   - 1.3.2
+   - 1.3.3
+   - 1.3.4
+   - 1.4.0
+  lastUpdated: '20160525115738'
+

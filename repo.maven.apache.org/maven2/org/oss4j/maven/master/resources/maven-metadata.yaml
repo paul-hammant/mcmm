@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.oss4j.maven.master
+ artifactId: resources
+ versioning:
+  latest: '4'
+  release: '4'
+  versions:
+   version: '4'
+  lastUpdated: '20140211215139'
+

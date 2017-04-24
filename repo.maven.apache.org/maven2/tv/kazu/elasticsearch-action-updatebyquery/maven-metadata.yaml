@@ -1,0 +1,12 @@
+metadata:
+ groupId: tv.kazu
+ artifactId: elasticsearch-action-updatebyquery
+ versioning:
+  latest: 2.4.2
+  release: 2.4.2
+  versions:
+   version:
+   - 2.4.1
+   - 2.4.2
+  lastUpdated: '20150428024502'
+

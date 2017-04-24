@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.bval
+ artifactId: bval-tck11-runner
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version: 1.1.0
+  lastUpdated: '20150609193128'
+

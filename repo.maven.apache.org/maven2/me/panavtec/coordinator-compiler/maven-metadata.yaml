@@ -1,0 +1,14 @@
+metadata:
+ groupId: me.panavtec
+ artifactId: coordinator-compiler
+ versioning:
+  latest: 1.1.5
+  release: 1.1.5
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.1.1
+   - 1.1.5
+  lastUpdated: '20150410090342'
+

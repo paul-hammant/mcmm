@@ -1,0 +1,10 @@
+metadata:
+ groupId: tw.com.ehanlin
+ artifactId: sbt-script-args-parser_2.11
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20150518041848'
+

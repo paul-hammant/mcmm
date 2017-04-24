@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Cissa Maven plugin
+   prefix: cissa
+   artifactId: cissa-maven-plugin
+

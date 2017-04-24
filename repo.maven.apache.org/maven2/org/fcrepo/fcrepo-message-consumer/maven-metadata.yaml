@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.fcrepo
+ artifactId: fcrepo-message-consumer
+ versioning:
+  latest: 4.3.0
+  release: 4.3.0
+  versions:
+   version:
+   - 4.0.0-beta-02
+   - 4.0.0-beta-03
+   - 4.0.0-beta-04
+   - 4.0.0
+   - 4.1.1
+   - 4.2.0
+   - 4.3.0
+  lastUpdated: '20150724234753'
+

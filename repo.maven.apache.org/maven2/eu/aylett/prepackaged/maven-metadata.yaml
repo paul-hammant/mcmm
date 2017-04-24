@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: prepackaged-maven-plugin Maven Plugin
+   prefix: prepackaged
+   artifactId: prepackaged-maven-plugin
+

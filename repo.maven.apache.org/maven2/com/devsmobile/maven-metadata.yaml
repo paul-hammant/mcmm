@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Scala FMT Maven Plugin (Not official)
+   prefix: mvn-scalafmt
+   artifactId: mvn-scalafmt
+

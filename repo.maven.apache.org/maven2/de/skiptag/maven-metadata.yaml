@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: rhino-maven-plugin
+   prefix: rhino
+   artifactId: rhino-maven-plugin
+

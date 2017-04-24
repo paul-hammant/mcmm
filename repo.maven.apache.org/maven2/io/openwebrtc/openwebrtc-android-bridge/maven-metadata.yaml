@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.openwebrtc
+ artifactId: openwebrtc-android-bridge
+ versioning:
+  latest: '0.3'
+  release: '0.3'
+  versions:
+   version: '0.3'
+  lastUpdated: '20150427143509'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.liftmodules
+ artifactId: lift-jquery-module_3.0_2.12
+ versioning:
+  latest: '2.10'
+  release: '2.10'
+  versions:
+   version: '2.10'
+  lastUpdated: '20161214194558'
+

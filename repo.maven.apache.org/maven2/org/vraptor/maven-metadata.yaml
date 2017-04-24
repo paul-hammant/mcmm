@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: annotations to vraptor.xml maven plugin
+   prefix: vatx
+   artifactId: vatx
+

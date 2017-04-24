@@ -1,0 +1,9 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: nolifecycle
+   artifactId: maven-nolifecycle-plugin
+  - name: null
+   prefix: takari-bugbuster
+   artifactId: takari-bugbuster-plugin
+

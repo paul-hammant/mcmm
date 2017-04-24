@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.lirmm.graphik
+ artifactId: graal-store-api
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version:
+   - 0.8.7
+   - 0.9.0
+  lastUpdated: '20150921155851'
+

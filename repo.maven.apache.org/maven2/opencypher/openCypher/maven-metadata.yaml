@@ -1,0 +1,12 @@
+metadata:
+ groupId: opencypher
+ artifactId: openCypher
+ versioning:
+  latest: 1.0.0-M01
+  release: 1.0.0-M01
+  versions:
+   version:
+   - M01
+   - 1.0.0-M01
+  lastUpdated: '20160801075053'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: se.lth.immun
+ artifactId: MSFragmentationProtocol
+ versioning:
+  latest: 0.5.2
+  release: 0.5.2
+  versions:
+   version:
+   - 0.3.0
+   - 0.5.2
+  lastUpdated: '20160519133917'
+

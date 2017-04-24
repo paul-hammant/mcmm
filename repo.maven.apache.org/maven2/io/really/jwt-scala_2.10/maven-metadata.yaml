@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.really
+ artifactId: jwt-scala_2.10
+ versioning:
+  latest: 1.2.2
+  release: 1.2.2
+  versions:
+   version:
+   - '1.0'
+   - 1.2.2
+  lastUpdated: '20150325115205'
+

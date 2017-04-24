@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.snappydata
+ artifactId: gradle-scalatest
+ versioning:
+  latest: 0.13-1
+  release: 0.13-1
+  versions:
+   version: 0.13-1
+  lastUpdated: '20160509065117'
+

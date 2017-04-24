@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: regular-expression-proxy-compiler Maven Plugin
+   prefix: regular-expression-proxy-compiler
+   artifactId: regular-expression-proxy-compiler
+

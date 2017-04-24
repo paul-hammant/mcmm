@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Mobicents Sbb Plugin
+   prefix: mobicents-sbb
+   artifactId: mobicents-sbb-plugin
+  - name: Mobicents RA Plugin
+   prefix: mobicents-ra
+   artifactId: mobicents-ra-plugin
+

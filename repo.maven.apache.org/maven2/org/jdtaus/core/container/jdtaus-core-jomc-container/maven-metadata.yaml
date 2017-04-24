@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.jdtaus.core.container
+ artifactId: jdtaus-core-jomc-container
+ versioning:
+  latest: '1.15'
+  release: '1.15'
+  versions:
+   version:
+   - '1.11'
+   - '1.12'
+   - '1.13'
+   - '1.14'
+   - '1.15'
+  lastUpdated: '20140110165745'
+

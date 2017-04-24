@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.tika
+ artifactId: tika
+ version: '0.2'
+ versioning:
+  versions:
+   version: '0.2'
+  lastUpdated: '20081206125648'
+

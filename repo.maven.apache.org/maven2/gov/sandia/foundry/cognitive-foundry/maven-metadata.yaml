@@ -1,0 +1,19 @@
+metadata:
+ groupId: gov.sandia.foundry
+ artifactId: cognitive-foundry
+ versioning:
+  latest: 4.0.0
+  release: 4.0.0
+  versions:
+   version:
+   - 3.3.0
+   - 3.3.1
+   - 3.3.2
+   - 3.3.3
+   - 3.4.0
+   - 3.4.1
+   - 3.4.2
+   - 3.4.3
+   - 4.0.0
+  lastUpdated: '20170325053246'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: ch.qos.logback
+ artifactId: logback
+ version: '0.5'
+ versioning:
+  versions:
+   version: '0.5'
+  lastUpdated: '20061109211415'
+

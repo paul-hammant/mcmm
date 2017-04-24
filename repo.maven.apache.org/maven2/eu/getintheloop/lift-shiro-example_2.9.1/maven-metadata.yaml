@@ -1,0 +1,12 @@
+metadata:
+ groupId: eu.getintheloop
+ artifactId: lift-shiro-example_2.9.1
+ versioning:
+  latest: 0.0.6
+  release: 0.0.6
+  versions:
+   version:
+   - 0.0.5
+   - 0.0.6
+  lastUpdated: '20121110181102'
+

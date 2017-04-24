@@ -1,0 +1,13 @@
+metadata:
+ groupId: ru.send-to.telegram
+ artifactId: TelegramApi
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version:
+   - 0.0.1
+   - 0.1.0
+   - 0.1.1
+  lastUpdated: '20161124073748'
+

@@ -1,0 +1,22 @@
+metadata:
+ groupId: io.github.shogowada
+ artifactId: scala-json-rpc-upickle-json-serializer_sjs0.6_2.12
+ versioning:
+  latest: 0.6.0
+  release: 0.6.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+   - 0.2.1
+   - 0.2.2
+   - 0.2.3
+   - 0.3.0
+   - 0.3.1
+   - 0.4.0
+   - 0.4.1
+   - 0.5.0
+   - 0.5.1
+   - 0.6.0
+  lastUpdated: '20170401134841'
+

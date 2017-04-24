@@ -1,0 +1,10 @@
+metadata:
+ groupId: tomcat
+ artifactId: servlets-manager
+ version: 4.1.31
+ versioning:
+  versions:
+   version:
+   - 4.1.31
+   - 4.0.6
+

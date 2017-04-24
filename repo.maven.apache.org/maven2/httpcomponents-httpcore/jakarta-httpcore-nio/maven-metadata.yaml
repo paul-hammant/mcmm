@@ -1,0 +1,7 @@
+metadata:
+ groupId: httpcomponents-httpcore
+ artifactId: jakarta-httpcore-nio
+ versioning:
+  versions:
+   version: 4.0-alpha4
+

@@ -1,0 +1,11 @@
+metadata:
+ groupId: net.smartlab.config
+ artifactId: smartconfig
+ version: 1.1.0-SNAPHOST
+ versioning:
+  versions:
+   version:
+   - 1.1.0-SNAPHOST
+   - 1.1.0
+  lastUpdated: '20080609095428'
+

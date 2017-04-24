@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.fusesource.fabric.examples
+ artifactId: fabric-camel-cxf
+ versioning:
+  latest: 7.2.0.redhat-065
+  release: 7.2.0.redhat-065
+  versions:
+   version:
+   - 7.2.0.redhat-024
+   - 7.2.0.redhat-060
+   - 7.2.0.redhat-065
+  lastUpdated: '20140530182751'
+

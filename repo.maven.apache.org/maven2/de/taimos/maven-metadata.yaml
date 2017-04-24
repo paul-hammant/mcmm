@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven plugin for daemon framework
+   prefix: daemon
+   artifactId: daemon-maven-plugin
+  - name: Dvalin interconnect maven plugin for source generation
+   prefix: interconnect
+   artifactId: interconnect-maven-plugin
+  - name: redmine-maven-plugin Maven Mojo
+   prefix: redmine
+   artifactId: redmine-maven-plugin
+  - name: Upload artifact to AWS S3
+   prefix: s3upload
+   artifactId: s3upload-maven-plugin
+

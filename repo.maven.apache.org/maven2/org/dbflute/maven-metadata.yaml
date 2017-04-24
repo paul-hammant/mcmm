@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: DBFlute Maven Plugin
+   prefix: dbflute
+   artifactId: dbflute-maven-plugin
+

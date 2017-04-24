@@ -1,0 +1,16 @@
+metadata:
+ groupId: net.virtalab
+ artifactId: mvc-tools
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - 1.1.1
+   - '1.2'
+   - '2.0'
+   - '2.1'
+  lastUpdated: '20150323192447'
+

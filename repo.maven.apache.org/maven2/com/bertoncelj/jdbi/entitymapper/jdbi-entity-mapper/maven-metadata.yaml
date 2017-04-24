@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.bertoncelj.jdbi.entitymapper
+ artifactId: jdbi-entity-mapper
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20160425233024'
+

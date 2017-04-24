@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.portals.bridges
+ artifactId: portals-bridges-struts-1.2.7
+ version: 1.0.4
+ versioning:
+  versions:
+   version: 1.0.4
+  lastUpdated: '20071221201355'
+

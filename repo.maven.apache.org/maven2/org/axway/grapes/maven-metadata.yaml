@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Grapes Maven Mojo
+   prefix: grapes
+   artifactId: grapes-maven-plugin
+

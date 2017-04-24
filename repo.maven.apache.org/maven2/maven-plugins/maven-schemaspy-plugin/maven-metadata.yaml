@@ -1,0 +1,9 @@
+metadata:
+ groupId: maven-plugins
+ artifactId: maven-schemaspy-plugin
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+

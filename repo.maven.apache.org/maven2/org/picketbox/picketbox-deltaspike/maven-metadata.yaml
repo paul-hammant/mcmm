@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.picketbox
+ artifactId: picketbox-deltaspike
+ versioning:
+  latest: 5.0.0-2012Aug24
+  release: 5.0.0-2012Aug24
+  versions:
+   version: 5.0.0-2012Aug24
+  lastUpdated: '20120824135518'
+

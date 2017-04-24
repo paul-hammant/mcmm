@@ -1,0 +1,34 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Apache Axis2 - tool - AAR Maven Plugin
+   prefix: axis2-aar
+   artifactId: axis2-aar-maven-plugin
+  - name: Apache Axis2 - tool - Ant Plugin
+   prefix: axis2-ant
+   artifactId: axis2-ant-plugin
+  - name: Apache Axis2 - tool - Intellij IDEA Plugin
+   prefix: axis2-idea
+   artifactId: axis2-idea-plugin
+  - name: Apache Axis2 - tool - Java2WSDL Maven Plugin
+   prefix: axis2-java2wsdl
+   artifactId: axis2-java2wsdl-maven-plugin
+  - name: Apache Axis2 - tool - MAR Maven Plugin
+   prefix: axis2-mar
+   artifactId: axis2-mar-maven-plugin
+  - name: axis2-repo-maven-plugin
+   prefix: axis2-repo
+   artifactId: axis2-repo-maven-plugin
+  - name: Apache Axis2 - tool - WSDL2Code Maven Plugin
+   prefix: axis2-wsdl2code
+   artifactId: axis2-wsdl2code-maven-plugin
+  - name: Apache Axis2 - tool - Eclipse Codegen Plugin
+   prefix: axis2.eclipse.codegen.
+   artifactId: axis2.eclipse.codegen.plugin
+  - name: Apache Axis2 - tool - Eclipse service Plugin
+   prefix: axis2.eclipse.service.
+   artifactId: axis2.eclipse.service.plugin
+  - name: Apache Axis2 Simple HTTP server Maven Plugin
+   prefix: simple-server
+   artifactId: simple-server-maven-plugin
+

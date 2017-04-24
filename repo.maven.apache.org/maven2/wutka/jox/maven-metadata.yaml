@@ -1,0 +1,8 @@
+metadata:
+ groupId: wutka
+ artifactId: jox
+ version: '1.16'
+ versioning:
+  versions:
+   version: '1.16'
+

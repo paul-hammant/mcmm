@@ -1,0 +1,14 @@
+metadata:
+ groupId: dna
+ artifactId: dna-api
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - 1.1-rc1
+   - 1.1-rc2
+   - 1.1-rc3-dev
+   - 1.1-rc4-dev
+

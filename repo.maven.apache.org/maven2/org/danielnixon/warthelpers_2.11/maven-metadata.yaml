@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.danielnixon
+ artifactId: warthelpers_2.11
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20161015092819'
+

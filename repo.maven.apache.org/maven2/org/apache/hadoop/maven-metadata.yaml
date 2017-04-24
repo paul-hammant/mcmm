@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Apache Hadoop Maven Plugins
+   prefix: hadoops
+   artifactId: hadoop-maven-plugins
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: commons-util
+ artifactId: commons-util
+ version: 1.0-rc2-dev
+ versioning:
+  versions:
+   version:
+   - 1.0-rc2-dev
+   - 1.0-rc2-dev.20020814.103359
+   - 1.0-rc2-dev.20021217.063141
+   - final
+

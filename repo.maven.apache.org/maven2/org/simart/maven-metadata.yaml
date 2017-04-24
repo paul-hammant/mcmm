@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'write-it-once :: Maven Plugin'
+   prefix: write-it-once
+   artifactId: write-it-once-plugin
+

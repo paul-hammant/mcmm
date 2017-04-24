@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.hammurapi
+ artifactId: hammurapi
+ versioning:
+  versions:
+   version: 3.17.0
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.postmaster
+ artifactId: postmaster
+ versioning:
+  latest: 0.1.6
+  release: 0.1.6
+  versions:
+   version: 0.1.6
+  lastUpdated: '20131010080207'
+

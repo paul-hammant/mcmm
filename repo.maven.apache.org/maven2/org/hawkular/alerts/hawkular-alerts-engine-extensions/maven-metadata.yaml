@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.hawkular.alerts
+ artifactId: hawkular-alerts-engine-extensions
+ versioning:
+  latest: 1.6.2.Final
+  release: 1.6.2.Final
+  versions:
+   version:
+   - 1.6.0.Final
+   - 1.6.1.Final
+   - 1.6.2.Final
+  lastUpdated: '20170406155709'
+

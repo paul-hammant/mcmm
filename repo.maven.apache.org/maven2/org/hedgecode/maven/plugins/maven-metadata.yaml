@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Hedgecode Classpath Maven Plugin
+   prefix: classpath
+   artifactId: classpath-maven-plugin
+

@@ -1,0 +1,11 @@
+metadata:
+ groupId: opensymphony
+ artifactId: webwork-src
+ version: '2.2'
+ versioning:
+  versions:
+   version:
+   - '2.2'
+   - 2.2.1
+   - 2.2.2
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.amarjanica
+ artifactId: discourse-scala-client_2.11
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.1.0
+   - 1.1.2
+  lastUpdated: '20170312131819'
+

@@ -1,0 +1,11 @@
+metadata:
+ groupId: avalon-util
+ artifactId: avalon-util-exception
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0-dev
+   - 1.0.0
+

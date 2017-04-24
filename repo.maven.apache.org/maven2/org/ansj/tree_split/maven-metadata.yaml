@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ansj
+ artifactId: tree_split
+ versioning:
+  latest: '1.5'
+  release: '1.5'
+  versions:
+   version:
+   - 1.0.1
+   - '1.5'
+  lastUpdated: '20160827141209'
+

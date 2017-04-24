@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'WildFly Swarm: Fraction Plugin'
+   prefix: wildfly-swarm-fraction
+   artifactId: wildfly-swarm-fraction-plugin
+  - name: 'WildFly Swarm: Plugin'
+   prefix: wildfly-swarm
+   artifactId: wildfly-swarm-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Demoiselle Behave Regression Report
+   prefix: demoiselle-behave-regression-report
+   artifactId: demoiselle-behave-regression-report
+

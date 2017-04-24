@@ -1,0 +1,8 @@
+metadata:
+ groupId: muse
+ artifactId: wsdm-xbeans
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.kleinhaneveld.cli
+ artifactId: cli
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20170319195711'
+

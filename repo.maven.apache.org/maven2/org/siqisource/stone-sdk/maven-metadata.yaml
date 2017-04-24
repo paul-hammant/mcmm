@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.siqisource
+ artifactId: stone-sdk
+ versioning:
+  latest: 1.0.4a
+  release: 1.0.4a
+  versions:
+   version:
+   - 1.0.4
+   - 1.0.4a
+  lastUpdated: '20150519082347'
+

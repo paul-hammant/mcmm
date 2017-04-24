@@ -1,0 +1,9 @@
+metadata:
+ groupId: it.cnr.isti.domoware
+ artifactId: org.postgresql.jdbc4
+ version: 8.3-603
+ versioning:
+  versions:
+   version: 8.3-603
+  lastUpdated: '20081003161137'
+

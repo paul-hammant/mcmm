@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.leanix.poms
+ artifactId: dropkit09-service-parent
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20160316095725'
+

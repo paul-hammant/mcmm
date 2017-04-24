@@ -1,0 +1,10 @@
+metadata:
+ groupId: hm.binkley
+ artifactId: binkley-finance
+ versioning:
+  latest: '0.3'
+  release: '0.3'
+  versions:
+   version: '0.3'
+  lastUpdated: '20140903090717'
+

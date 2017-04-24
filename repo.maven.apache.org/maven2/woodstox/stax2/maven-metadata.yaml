@@ -1,0 +1,7 @@
+metadata:
+ groupId: woodstox
+ artifactId: stax2
+ versioning:
+  versions:
+   version: '2.1'
+

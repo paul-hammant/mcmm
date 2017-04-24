@@ -1,0 +1,12 @@
+metadata:
+ groupId: pl.newicom.dddd
+ artifactId: akka-ddd-scheduling_2.12
+ versioning:
+  latest: 1.5.1
+  release: 1.5.1
+  versions:
+   version:
+   - 1.5.0
+   - 1.5.1
+  lastUpdated: '20170319143209'
+

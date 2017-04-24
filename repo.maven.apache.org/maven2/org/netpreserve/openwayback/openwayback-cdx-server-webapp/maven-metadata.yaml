@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.netpreserve.openwayback
+ artifactId: openwayback-cdx-server-webapp
+ versioning:
+  latest: 2.3.1
+  release: 2.3.1
+  versions:
+   version:
+   - 2.1.0.RC.1
+   - 2.1.0
+   - 2.2.0.RC.1
+   - 2.2.0
+   - 2.3.0.RC.1
+   - 2.3.0
+   - 2.3.1
+  lastUpdated: '20160405123421'
+

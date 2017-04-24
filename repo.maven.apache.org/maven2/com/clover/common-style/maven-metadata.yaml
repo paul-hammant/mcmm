@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.clover
+ artifactId: common-style
+ versioning:
+  latest: '28'
+  release: '28'
+  versions:
+   version: '28'
+  lastUpdated: '20131204221432'
+

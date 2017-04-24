@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.betfair.net.java.opendmk
+ artifactId: opendmk-pom
+ versioning:
+  latest: 1.0-b02
+  release: 1.0-b02
+  versions:
+   version: 1.0-b02
+  lastUpdated: '20131008075659'
+

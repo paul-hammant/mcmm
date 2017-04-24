@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Petals Plugins :: Maven JBI'
+   prefix: petals
+   artifactId: maven-petals-plugin
+  - name: 'Petals archetype :: JBI binding component archetype'
+   prefix: archetype-petals-jbi-binding-component
+   artifactId: maven-archetype-petals-jbi-binding-component
+  - name: 'Petals archetype :: JBI service assembly archetype'
+   prefix: archetype-petals-jbi-service-assembly
+   artifactId: maven-archetype-petals-jbi-service-assembly
+  - name: 'Petals archetype :: JBI service engine archetype'
+   prefix: archetype-petals-jbi-service-engine
+   artifactId: maven-archetype-petals-jbi-service-engine
+  - name: 'Petals archetype :: JBI service unit archetype'
+   prefix: archetype-petals-jbi-service-unit
+   artifactId: maven-archetype-petals-jbi-service-unit
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.bootique.cayenne
+ artifactId: bootique-cayenne-jcache
+ versioning:
+  latest: '0.19'
+  release: '0.19'
+  versions:
+   version:
+   - '0.18'
+   - '0.19'
+  lastUpdated: '20170331115711'
+

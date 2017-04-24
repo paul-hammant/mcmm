@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.dericbourg.daily-utils
+ artifactId: daily-utils_2.11
+ versioning:
+  latest: 0.1.8
+  release: 0.1.8
+  versions:
+   version:
+   - 0.1.3
+   - 0.1.4
+   - 0.1.5
+   - 0.1.8
+  lastUpdated: '20170411123935'
+

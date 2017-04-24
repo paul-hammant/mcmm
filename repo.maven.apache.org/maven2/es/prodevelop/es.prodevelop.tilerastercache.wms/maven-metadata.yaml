@@ -1,0 +1,12 @@
+metadata:
+ groupId: es.prodevelop
+ artifactId: es.prodevelop.tilerastercache.wms
+ versioning:
+  latest: 0.4.2
+  release: 0.4.2
+  versions:
+   version:
+   - 0.4.1
+   - 0.4.2
+  lastUpdated: '20110815200406'
+

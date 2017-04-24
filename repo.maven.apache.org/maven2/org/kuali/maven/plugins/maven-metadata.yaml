@@ -1,0 +1,136 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Ant Maven Plugin
+   prefix: ant
+   artifactId: ant-maven-plugin
+  - name: BOM Maven Plugin
+   prefix: bom
+   artifactId: bom-maven-plugin
+  - name: Crytpo Maven Plugin
+   prefix: crypto
+   artifactId: crypto-maven-plugin
+  - name: Maven EC2 Plugin
+   prefix: ec2
+   artifactId: ec2-maven-plugin
+  - name: Enc Maven Plugin
+   prefix: enc
+   artifactId: enc-maven-plugin
+  - name: Exec Maven Plugin
+   prefix: exec
+   artifactId: exec-maven-plugin
+  - name: Externals Maven Plugin
+   prefix: externals
+   artifactId: externals-maven-plugin
+  - name: Extractor Maven Plugin
+   prefix: extractor
+   artifactId: extractor-maven-plugin
+  - name: Externals Maven Plugin
+   prefix: fusion
+   artifactId: fusion-maven-plugin
+  - name: Github Maven Plugin
+   prefix: git-workflow
+   artifactId: git-workflow-maven-plugin
+  - name: Maven Graph Plugin
+   prefix: graph
+   artifactId: graph-maven-plugin
+  - name: Graph Maven Plugin
+   prefix: graph
+   artifactId: graph-maven-plugin
+  - name: Guice Maven Plugin
+   prefix: guice
+   artifactId: guice-maven-plugin
+  - name: Ingester Maven Plugin
+   prefix: ingester
+   artifactId: ingester-maven-plugin
+  - name: Jenkins Maven Plugin
+   prefix: jenkins
+   artifactId: jenkins-maven-plugin
+  - name: Kuali Student Contract Documentation Generator
+   prefix: kscontractdoc
+   artifactId: kscontractdoc-maven-plugin
+  - name: License Maven Plugin
+   prefix: license
+   artifactId: license-maven-plugin
+  - name: Maven Checkstyle Plugin
+   prefix: checkstyle
+   artifactId: maven-checkstyle-plugin
+  - name: Maven Cloud Front Plugin
+   prefix: cloudfront
+   artifactId: maven-cloudfront-plugin
+  - name: Maven DNSME Plugin
+   prefix: dnsme
+   artifactId: maven-dnsme-plugin
+  - name: Maven Eclipse Formatter Plugin
+   prefix: eclipse-formatter
+   artifactId: maven-eclipse-formatter-plugin
+  - name: Maven HTTP Plugin
+   prefix: http
+   artifactId: maven-http-plugin
+  - name: Maven Impex Plugin
+   prefix: impex
+   artifactId: maven-impex-plugin
+  - name: Kuali Student Contract Documentation Generator
+   prefix: kscontractdoc
+   artifactId: maven-kscontractdoc-plugin
+  - name: Kuali Student Contract Documentation Generator
+   prefix: kscontractdoc
+   artifactId: maven-kscontractdoc-plugin
+  - name: Maven Kuali Site Plugin
+   prefix: ksite
+   artifactId: maven-ksite-plugin
+  - name: Maven Kuali Site Plugin
+   prefix: kualisite
+   artifactId: maven-kualisite-plugin
+  - name: Maven Manifest Plugin
+   prefix: manifest
+   artifactId: maven-manifest-plugin
+  - name: Maven Oracle Plugin
+   prefix: oracle
+   artifactId: maven-oracle-plugin
+  - name: Maven SCM Plugin
+   prefix: scm
+   artifactId: maven-scm-plugin
+  - name: Maven System Properties Plugin
+   prefix: sysprops
+   artifactId: maven-sysprops-plugin
+  - name: META-INF Maven Plugin
+   prefix: metainf
+   artifactId: metainf-maven-plugin
+  - name: META-INF Maven Plugin
+   prefix: metainf
+   artifactId: metainf-plugin
+  - name: MVN Maven Plugin
+   prefix: mvn
+   artifactId: mvn-maven-plugin
+  - name: Properties Maven Plugin
+   prefix: properties
+   artifactId: properties-maven-plugin
+  - name: S3 Maven Plugin
+   prefix: s3
+   artifactId: s3-maven-plugin
+  - name: Spring Maven Plugin
+   prefix: spring
+   artifactId: spring-maven-plugin
+  - name: SQL Maven Plugin
+   prefix: sql
+   artifactId: sql-maven-plugin
+  - name: SSH Maven Plugin
+   prefix: ssh
+   artifactId: ssh-maven-plugin
+  - name: strip-bom-plugin
+   prefix: strip-bom
+   artifactId: strip-bom-maven-plugin
+  - name: String BOM Maven Plugin
+   prefix: strip-bom
+   artifactId: strip-bom-maven-plugin
+  - name: Strip BOM Maven Plugin
+   prefix: strip-bom
+   artifactId: strip-bom-maven-plugin
+  - name: Maven Version Plugin
+   prefix: version
+   artifactId: version-maven-plugin
+  - name: Wagon Maven Plugin
+   prefix: wagon
+   artifactId: wagon-maven-plugin
+

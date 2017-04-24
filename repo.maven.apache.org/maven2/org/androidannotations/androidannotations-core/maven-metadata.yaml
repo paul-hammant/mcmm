@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.androidannotations
+ artifactId: androidannotations-core
+ versioning:
+  latest: 4.3.0
+  release: 4.3.0
+  versions:
+   version:
+   - 4.0.0
+   - 4.1.0
+   - 4.2.0
+   - 4.3.0
+  lastUpdated: '20170319173259'
+

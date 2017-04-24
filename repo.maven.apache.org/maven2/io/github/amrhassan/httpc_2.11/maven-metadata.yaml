@@ -1,0 +1,16 @@
+metadata:
+ groupId: io.github.amrhassan
+ artifactId: httpc_2.11
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version:
+   - 0.1.6
+   - 0.2.0
+   - 0.2.2
+   - 0.3.0-RC1
+   - 0.3.0-RC2
+   - 0.3.0
+  lastUpdated: '20161108195555'
+

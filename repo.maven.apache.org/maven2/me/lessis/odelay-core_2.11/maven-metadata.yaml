@@ -1,0 +1,10 @@
+metadata:
+ groupId: me.lessis
+ artifactId: odelay-core_2.11
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20160510052826'
+

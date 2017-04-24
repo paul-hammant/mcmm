@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.wymiwyg
+ artifactId: wymiwyg-commons-core
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version:
+   - 0.7.5
+   - 0.7.6
+   - '0.8'
+  lastUpdated: '20140526084613'
+

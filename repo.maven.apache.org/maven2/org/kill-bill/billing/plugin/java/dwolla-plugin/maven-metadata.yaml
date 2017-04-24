@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.kill-bill.billing.plugin.java
+ artifactId: dwolla-plugin
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20161117140326'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scalameta
+ artifactId: scalahost_2.11.6
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20150605125543'
+

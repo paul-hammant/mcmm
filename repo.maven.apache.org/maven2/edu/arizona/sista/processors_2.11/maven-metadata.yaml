@@ -1,0 +1,15 @@
+metadata:
+ groupId: edu.arizona.sista
+ artifactId: processors_2.11
+ versioning:
+  latest: '5.5'
+  release: '5.5'
+  versions:
+   version:
+   - '5.0'
+   - '5.1'
+   - '5.2'
+   - '5.4'
+   - '5.5'
+  lastUpdated: '20150901213250'
+

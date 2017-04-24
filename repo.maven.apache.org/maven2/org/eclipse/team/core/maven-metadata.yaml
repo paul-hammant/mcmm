@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.eclipse.team
+ artifactId: core
+ version: 3.3.0-I20070607
+ versioning:
+  versions:
+   version:
+   - 3.3.0-I20070607
+   - 3.2.1-M20060711
+  lastUpdated: '20071127073213'
+

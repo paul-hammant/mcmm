@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.47deg
+ artifactId: fetch_2.11
+ versioning:
+  latest: 0.6.1
+  release: 0.6.1
+  versions:
+   version:
+   - 0.5.0
+   - 0.6.0
+   - 0.6.1
+  lastUpdated: '20170419132451'
+

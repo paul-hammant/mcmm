@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Jenkinsfile Maven Plugin
+   prefix: jenkinsfile
+   artifactId: jenkinsfile-maven-plugin
+

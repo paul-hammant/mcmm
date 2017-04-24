@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.bhinneka.coral
+ artifactId: coral-core
+ versioning:
+  latest: 0.7.0
+  release: 0.7.0
+  versions:
+   version: 0.7.0
+  lastUpdated: '20170324212701'
+

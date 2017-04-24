@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.bitbucket.vhly
+ artifactId: blackfire
+ versioning:
+  latest: alpha-1
+  release: alpha-1
+  versions:
+   version:
+   - alpha
+   - alpha-1
+  lastUpdated: '20150709123201'
+

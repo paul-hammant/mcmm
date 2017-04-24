@@ -1,0 +1,8 @@
+metadata:
+ groupId: excalibur-datasource
+ artifactId: excalibur-datasource-vm14
+ version: '20021121'
+ versioning:
+  versions:
+   version: '20021121'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: cz.cdv.datex2
+ artifactId: datex2-parent
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20150126230448'
+

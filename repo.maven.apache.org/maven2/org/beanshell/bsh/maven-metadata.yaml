@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.beanshell
+ artifactId: bsh
+ versioning:
+  latest: 2.0b5
+  release: 2.0b5
+  versions:
+   version: 2.0b5
+  lastUpdated: '20120316135146'
+

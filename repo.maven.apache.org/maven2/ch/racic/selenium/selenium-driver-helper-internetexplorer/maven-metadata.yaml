@@ -1,0 +1,13 @@
+metadata:
+ groupId: ch.racic.selenium
+ artifactId: selenium-driver-helper-internetexplorer
+ versioning:
+  latest: 2.53.1
+  release: 2.53.1
+  versions:
+   version:
+   - 2.45.0
+   - 2.53.0
+   - 2.53.1
+  lastUpdated: '20160418213158'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: fi.seco
+ artifactId: lexicalanalysis
+ versioning:
+  latest: 1.5.0
+  release: 1.5.0
+  versions:
+   version:
+   - 1.4.8
+   - 1.4.9
+   - 1.5.0
+  lastUpdated: '20170329075902'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Infer Maven Plugin
+   prefix: infer
+   artifactId: infer-maven-plugin
+

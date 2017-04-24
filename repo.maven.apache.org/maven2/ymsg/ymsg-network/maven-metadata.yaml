@@ -1,0 +1,10 @@
+metadata:
+ groupId: ymsg
+ artifactId: ymsg-network
+ version: '0.6'
+ versioning:
+  versions:
+   version:
+   - '0.6'
+   - 0.6.1
+

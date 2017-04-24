@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jbundle.config
+ artifactId: org.jbundle.base.model
+ versioning:
+  latest: 1.0.4
+  release: 1.0.4
+  versions:
+   version: 1.0.4
+  lastUpdated: '20130710081340'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.rcsb
+ artifactId: mmtf-update
+ versioning:
+  latest: 0.0.1-alpha3
+  release: 0.0.1-alpha3
+  versions:
+   version: 0.0.1-alpha3
+  lastUpdated: '20160331224106'
+

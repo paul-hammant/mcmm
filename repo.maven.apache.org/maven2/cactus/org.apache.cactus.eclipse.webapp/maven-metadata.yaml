@@ -1,0 +1,7 @@
+metadata:
+ groupId: cactus
+ artifactId: org.apache.cactus.eclipse.webapp
+ versioning:
+  versions:
+   version: 1.8.0
+

@@ -1,0 +1,21 @@
+metadata:
+ groupId: org.ow2.authzforce
+ artifactId: authzforce-ce-atom-model
+ versioning:
+  latest: 5.1.0
+  release: 5.1.0
+  versions:
+   version:
+   - 3.3.3
+   - 3.3.4
+   - 3.3.5
+   - 3.3.6
+   - 3.3.7
+   - 3.4.0
+   - 4.0.0
+   - 4.1.0
+   - 4.1.1
+   - 5.0.0
+   - 5.1.0
+  lastUpdated: '20170307112320'
+

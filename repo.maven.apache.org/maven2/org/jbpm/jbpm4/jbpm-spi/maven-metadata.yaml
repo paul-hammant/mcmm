@@ -1,0 +1,15 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.jbpm.jbpm4
+ artifactId: jbpm-spi
+ versioning:
+  latest: '4.1'
+  release: '4.1'
+  versions:
+   version:
+   - 4.0.0.Beta2
+   - 4.0.CR1
+   - '4.0'
+   - '4.1'
+  lastUpdated: '20131016170934'
+

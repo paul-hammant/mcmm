@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.npanday
+ artifactId: npanday-project
+ version: 1.4.0-incubating
+ versioning:
+  versions:
+   version: 1.4.0-incubating
+  lastUpdated: '20110506025409'
+

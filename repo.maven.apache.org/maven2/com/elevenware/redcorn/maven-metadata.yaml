@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.elevenware
+ artifactId: redcorn
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20140827133434'
+

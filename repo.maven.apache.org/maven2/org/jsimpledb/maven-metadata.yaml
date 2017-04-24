@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JSimpleDB Maven Plugin
+   prefix: jsimpledb
+   artifactId: jsimpledb-maven-plugin
+

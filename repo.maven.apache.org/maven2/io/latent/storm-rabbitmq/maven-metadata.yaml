@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.latent
+ artifactId: storm-rabbitmq
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version:
+   - 0.5.10
+   - 0.6.0
+   - 0.6.1
+   - 1.0.0
+  lastUpdated: '20161012225512'
+

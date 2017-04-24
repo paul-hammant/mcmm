@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.beangle.http
+ artifactId: beangle-http-parent_2.12
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20160610062700'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JRuby Gems-in-jar plugin
+   prefix: jruby-gems
+   artifactId: jruby-gems-plugin
+

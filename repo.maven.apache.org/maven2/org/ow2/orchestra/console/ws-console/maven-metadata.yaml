@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.orchestra.console
+ artifactId: ws-console
+ versioning:
+  latest: 4.9.1
+  release: 4.9.1
+  versions:
+   version: 4.9.1
+  lastUpdated: '20121122084303'
+

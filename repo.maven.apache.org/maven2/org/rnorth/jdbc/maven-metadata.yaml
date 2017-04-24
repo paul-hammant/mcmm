@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.rnorth
+ artifactId: jdbc
+ versioning:
+  latest: 0.9.3
+  release: 0.9.3
+  versions:
+   version: 0.9.3
+  lastUpdated: '20150622232326'
+

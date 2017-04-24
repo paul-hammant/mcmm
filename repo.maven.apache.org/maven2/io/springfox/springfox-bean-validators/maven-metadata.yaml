@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.springfox
+ artifactId: springfox-bean-validators
+ versioning:
+  latest: 2.6.1
+  release: 2.6.1
+  versions:
+   version:
+   - 2.4.0
+   - 2.5.0
+   - 2.6.0
+   - 2.6.1
+  lastUpdated: '20161107020019'
+

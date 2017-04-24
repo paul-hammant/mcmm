@@ -1,0 +1,12 @@
+metadata:
+ groupId: eu.fbk.utils
+ artifactId: utils-eval
+ versioning:
+  latest: '3.0'
+  release: '3.0'
+  versions:
+   version:
+   - '2.0'
+   - '3.0'
+  lastUpdated: '20161108205244'
+

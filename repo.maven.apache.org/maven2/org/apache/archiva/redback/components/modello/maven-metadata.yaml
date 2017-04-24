@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Jpox Modello Maven Plugin
+   prefix: jpox-modello
+   artifactId: jpox-modello-maven-plugin
+

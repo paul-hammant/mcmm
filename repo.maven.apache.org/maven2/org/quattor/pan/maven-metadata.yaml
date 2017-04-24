@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: panc-maven-plugin
+   prefix: panc
+   artifactId: panc-maven-plugin
+

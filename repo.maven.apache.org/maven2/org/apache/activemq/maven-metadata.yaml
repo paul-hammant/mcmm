@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ActiveMQ Artemis Maven Plugin
+   prefix: artemis
+   artifactId: artemis-maven-plugin
+

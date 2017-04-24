@@ -1,0 +1,7 @@
+metadata:
+ groupId: openim
+ artifactId: openim-users-manager
+ versioning:
+  versions:
+   version: '1.1'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: kr.pe.kwonnam.dynamicql
+ artifactId: string-builder-ql-params
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20151220081426'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.docbook
+ artifactId: docbook-xml
+ versioning:
+  latest: 5.1b4-all
+  release: 5.1b4-all
+  versions:
+   version: 5.1b4-all
+  lastUpdated: '20120824135748'
+

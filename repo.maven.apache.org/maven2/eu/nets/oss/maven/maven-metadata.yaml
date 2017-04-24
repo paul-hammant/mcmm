@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: classpath
+   artifactId: classpath-maven-plugin
+

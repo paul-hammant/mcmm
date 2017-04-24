@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.alpharogroup
+ artifactId: turbo.sansa.wicket.components
+ versioning:
+  latest: 6.20.0
+  release: 6.20.0
+  versions:
+   version:
+   - 6.18.0
+   - 6.20.0
+  lastUpdated: '20150708100015'
+

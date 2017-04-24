@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.codehaus.griffon
+ artifactId: griffon-gradle-plugin
+ version: 1.0.0
+ versioning:
+  versions:
+   version: 1.0.0
+  lastUpdated: '20111020025212'
+

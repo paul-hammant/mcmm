@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.janalyse
+ artifactId: janalyse-jmx_2.11
+ versioning:
+  latest: 0.8.2
+  release: 0.8.2
+  versions:
+   version: 0.8.2
+  lastUpdated: '20170403074127'
+

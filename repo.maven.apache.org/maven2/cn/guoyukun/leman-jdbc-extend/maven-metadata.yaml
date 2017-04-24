@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.guoyukun
+ artifactId: leman-jdbc-extend
+ versioning:
+  latest: 1.0.5
+  release: 1.0.5
+  versions:
+   version: 1.0.5
+  lastUpdated: '20160614092811'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.mybatis.scala
+ artifactId: mybatis-scala-core_2.9.2
+ versioning:
+  latest: 1.0.2
+  release: 1.0.2
+  versions:
+   version:
+   - 1.0.1
+   - 1.0.2
+  lastUpdated: '20140119102811'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.irit.smac.thirdparty.net.sf.rlforj
+ artifactId: rlforj
+ versioning:
+  latest: '0.3'
+  release: '0.3'
+  versions:
+   version: '0.3'
+  lastUpdated: '20141029143122'
+

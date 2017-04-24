@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.mozilla
+ artifactId: rhino
+ versioning:
+  latest: 1.7.7.1
+  release: 1.7.7.1
+  versions:
+   version:
+   - 1.7R3
+   - 1.7R4
+   - 1.7R5
+   - 1.7.6
+   - 1.7.7.1
+  lastUpdated: '20160201182636'
+

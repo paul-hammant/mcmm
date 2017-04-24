@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: MousePEG Maven Plugin
+   prefix: mouse
+   artifactId: mouse-maven-plugin
+

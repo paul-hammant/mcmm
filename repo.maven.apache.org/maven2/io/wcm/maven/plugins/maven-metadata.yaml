@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: CQ Maven Plugin
+   prefix: cq
+   artifactId: cq-maven-plugin
+  - name: i18n Maven Plugin
+   prefix: i18n
+   artifactId: i18n-maven-plugin
+  - name: Node.js Maven Plugin
+   prefix: nodejs
+   artifactId: nodejs-maven-plugin
+  - name: Content Package Maven Plugin
+   prefix: wcmio-content-package
+   artifactId: wcmio-content-package-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.myfaces.commons
+ artifactId: myfaces-components12
+ versioning:
+  latest: 1.0.2
+  release: 1.0.2
+  versions:
+   version:
+   - 1.0.1
+   - 1.0.2
+  lastUpdated: '20111018191039'
+

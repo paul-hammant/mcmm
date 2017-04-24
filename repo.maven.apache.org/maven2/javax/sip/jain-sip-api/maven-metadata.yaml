@@ -1,0 +1,12 @@
+metadata:
+ groupId: javax.sip
+ artifactId: jain-sip-api
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version:
+   - '1.2'
+   - 1.2.1
+  lastUpdated: '20100424122323'
+

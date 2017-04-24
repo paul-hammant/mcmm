@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.openbaton
+ artifactId: cli
+ versioning:
+  latest: 3.2.0
+  release: 3.2.0
+  versions:
+   version:
+   - 2.2.0
+   - 3.0.0-RC1
+   - 3.0.0
+   - 3.2.0
+  lastUpdated: '20170208172815'
+

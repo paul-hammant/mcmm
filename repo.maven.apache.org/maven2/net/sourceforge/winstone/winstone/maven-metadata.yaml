@@ -1,0 +1,7 @@
+metadata:
+ groupId: net.sourceforge.winstone
+ artifactId: winstone
+ versioning:
+  versions:
+   version: 0.9.6
+

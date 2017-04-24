@@ -1,0 +1,8 @@
+metadata:
+ groupId: freebxml
+ artifactId: ebxmlms
+ version: pre-0.9.3.1
+ versioning:
+  versions:
+   version: pre-0.9.3.1
+

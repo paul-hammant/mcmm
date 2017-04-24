@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.portals.bridges
+ artifactId: jpetstore
+ version: 1.0.4
+ versioning:
+  versions:
+   version: 1.0.4
+  lastUpdated: '20071221201406'
+

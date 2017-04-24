@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Kevoree :: Maven :: Settings CI'
+   prefix: org.kevoree.settings-ci
+   artifactId: org.kevoree.maven-settings-ci
+

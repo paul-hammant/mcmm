@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.atlassian.stash
+ artifactId: stash-java-client-api
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.6.0-rc5
+   - 2.0.0
+  lastUpdated: '20170406094701'
+

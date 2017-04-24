@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Torque Maven2 Plugin
+   prefix: torque
+   artifactId: torque-maven-plugin
+  - name: Torque Generator Maven 2 Plugin
+   prefix: torque
+   artifactId: torque-maven-plugin
+

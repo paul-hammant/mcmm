@@ -1,0 +1,11 @@
+metadata:
+ groupId: com.discursive.taglib.reference
+ artifactId: reference-taglib
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+  lastUpdated: '20060427211727'
+

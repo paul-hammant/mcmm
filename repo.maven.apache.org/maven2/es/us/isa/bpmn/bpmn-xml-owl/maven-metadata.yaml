@@ -1,0 +1,10 @@
+metadata:
+ groupId: es.us.isa.bpmn
+ artifactId: bpmn-xml-owl
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version: '2.1'
+  lastUpdated: '20160226094919'
+

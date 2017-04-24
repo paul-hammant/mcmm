@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Script Plugin
+   prefix: script
+   artifactId: script-maven-plugin
+

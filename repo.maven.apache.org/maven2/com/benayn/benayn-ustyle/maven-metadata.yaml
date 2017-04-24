@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.benayn
+ artifactId: benayn-ustyle
+ versioning:
+  latest: 1.0.6
+  release: 1.0.6
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+   - 1.0.5
+   - 1.0.6
+  lastUpdated: '20150604084530'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.skullabs.uworkers
+ artifactId: uworkers
+ versioning:
+  latest: 0.5.0
+  release: 0.5.0
+  versions:
+   version:
+   - 0.4.1
+   - 0.4.2
+   - 0.4.3
+   - 0.5.0
+  lastUpdated: '20160815131124'
+

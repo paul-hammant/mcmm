@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Spring Banner Plugin
+   prefix: spring-banner
+   artifactId: spring-banner-plugin
+

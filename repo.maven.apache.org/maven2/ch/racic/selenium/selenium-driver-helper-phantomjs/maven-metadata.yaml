@@ -1,0 +1,10 @@
+metadata:
+ groupId: ch.racic.selenium
+ artifactId: selenium-driver-helper-phantomjs
+ versioning:
+  latest: 2.1.1
+  release: 2.1.1
+  versions:
+   version: 2.1.1
+  lastUpdated: '20160418211024'
+

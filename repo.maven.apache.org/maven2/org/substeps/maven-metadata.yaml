@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: SubSteps Glossary Builder
+   prefix: substeps-glossary-builder
+   artifactId: substeps-glossary-builder
+  - name: SubSteps Maven Plugin
+   prefix: substeps
+   artifactId: substeps-maven-plugin
+

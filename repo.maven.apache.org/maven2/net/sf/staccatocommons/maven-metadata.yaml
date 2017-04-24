@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Staccato-Commons-Restrictions-Instrument-Maven-Plugin
+   prefix: commons-restrictions-instrument
+   artifactId: commons-restrictions-instrument-maven-plugin
+  - name: Staccatissimo-Restrictions-Instrument-Maven-Plugin
+   prefix: staccatissimo-restrictions-instrument
+   artifactId: staccatissimo-restrictions-instrument-maven-plugin
+

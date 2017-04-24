@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.incode
+ artifactId: incode-parent
+ versioning:
+  latest: 1.14.0
+  release: 1.14.0
+  versions:
+   version:
+   - 1.13.1
+   - 1.13.2
+   - 1.13.2.1
+   - 1.13.2.2
+   - 1.13.2.20170214-2237
+   - 1.14.0
+  lastUpdated: '20170219163456'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: APILyzer Maven Plugin
+   prefix: apilyzer
+   artifactId: apilyzer-maven-plugin
+

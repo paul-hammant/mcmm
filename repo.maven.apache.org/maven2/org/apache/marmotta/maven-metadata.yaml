@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven Buildinfo Plugin
+   prefix: buildinfo
+   artifactId: buildinfo-maven-plugin
+  - name: Maven Marmotta Plugin
+   prefix: marmotta
+   artifactId: marmotta-maven-plugin
+  - name: Maven Refpack Plugin
+   prefix: refpack
+   artifactId: refpack-maven-plugin
+  - name: Repository Plugin
+   prefix: repocheck
+   artifactId: repocheck-maven-plugin
+

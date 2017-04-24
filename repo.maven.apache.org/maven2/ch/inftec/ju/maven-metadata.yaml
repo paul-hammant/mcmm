@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: ju
+   artifactId: ju-maven-plugin
+

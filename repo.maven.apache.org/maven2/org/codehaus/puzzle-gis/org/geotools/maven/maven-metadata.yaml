@@ -1,0 +1,31 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Geotools Archetype
+   prefix: archetype
+   artifactId: archetype
+  - name: Configuration files for the multimodule build
+   prefix: build-configs
+   artifactId: build-configs
+  - name: JAR files collector
+   prefix: jar-collector
+   artifactId: jar-collector
+  - name: Cross-modules javadoc
+   prefix: javadoc
+   artifactId: javadoc
+  - name: OpenOffice IDL to Java
+   prefix: javamaker
+   artifactId: javamaker
+  - name: JJTree and JavaCC compilers plugin
+   prefix: jjtree-javacc
+   artifactId: jjtree-javacc
+  - name: RMI compiler (rmic)
+   prefix: rmic
+   artifactId: rmic
+  - name: UNO packager for OpenOffice addins
+   prefix: unopkg
+   artifactId: unopkg
+  - name: XML Code Generation Support
+   prefix: xmlcodegen
+   artifactId: xmlcodegen
+

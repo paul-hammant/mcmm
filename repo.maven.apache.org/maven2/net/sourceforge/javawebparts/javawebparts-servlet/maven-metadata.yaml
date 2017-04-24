@@ -1,0 +1,7 @@
+metadata:
+ groupId: net.sourceforge.javawebparts
+ artifactId: javawebparts-servlet
+ versioning:
+  versions:
+   version: 1.0-beta4
+

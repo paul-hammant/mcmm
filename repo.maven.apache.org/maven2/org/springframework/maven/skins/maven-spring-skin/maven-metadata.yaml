@@ -1,0 +1,17 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.springframework.maven.skins
+ artifactId: maven-spring-skin
+ versioning:
+  latest: 1.0.5
+  release: 1.0.5
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+   - 1.0.4
+   - 1.0.5
+  lastUpdated: '20120813182546'
+

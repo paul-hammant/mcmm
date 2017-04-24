@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.webpieces
+ artifactId: json-jackson-plugin
+ versioning:
+  latest: 1.9.68
+  release: 1.9.68
+  versions:
+   version:
+   - 1.9.65
+   - 1.9.66
+   - 1.9.67
+   - 1.9.68
+  lastUpdated: '20170419033254'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scalaj
+ artifactId: scalaj-time_2.9.0
+ versioning:
+  latest: '0.7'
+  release: '0.7'
+  versions:
+   version:
+   - '0.6'
+   - '0.7'
+  lastUpdated: '20130711225641'
+

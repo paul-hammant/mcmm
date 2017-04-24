@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: promote-maven-plugin Maven Plugin
+   prefix: promote
+   artifactId: promote-maven-plugin
+

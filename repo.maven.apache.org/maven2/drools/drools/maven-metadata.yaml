@@ -1,0 +1,17 @@
+metadata:
+ groupId: drools
+ artifactId: drools
+ version: 2.0-beta-10
+ versioning:
+  versions:
+   version:
+   - 2.0-beta-10
+   - 2.0-beta-11
+   - 2.0-beta-5-dev
+   - 2.0-beta-7
+   - 2.0-beta-7-dev.20020925.043207
+   - 2.0-beta-8.20021119.154541
+   - 2.0-beta-8.20021121.204924
+   - 2.0-beta-9
+   - '2.1'
+

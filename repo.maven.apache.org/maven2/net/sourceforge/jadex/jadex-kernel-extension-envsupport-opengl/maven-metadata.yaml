@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sourceforge.jadex
+ artifactId: jadex-kernel-extension-envsupport-opengl
+ versioning:
+  latest: 2.0-rc8
+  release: 2.0-rc8
+  versions:
+   version:
+   - 2.0-rc7
+   - 2.0-rc8
+  lastUpdated: '20110729163139'
+

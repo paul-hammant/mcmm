@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.entrecode
+ artifactId: ec-datamanager-java-sdk
+ versioning:
+  latest: 0.4.1
+  release: 0.4.1
+  versions:
+   version:
+   - 0.2.3
+   - 0.4.1
+  lastUpdated: '20150910154618'
+

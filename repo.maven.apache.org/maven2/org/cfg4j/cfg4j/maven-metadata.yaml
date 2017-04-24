@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.cfg4j
+ artifactId: cfg4j
+ versioning:
+  latest: 3.3.2
+  release: 3.3.2
+  versions:
+   version:
+   - 3.0.0
+   - 3.3.2
+  lastUpdated: '20150628215936'
+

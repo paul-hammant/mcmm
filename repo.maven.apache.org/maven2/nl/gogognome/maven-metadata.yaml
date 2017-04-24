@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: gogo image modifier
+   prefix: image-modifier
+   artifactId: image-modifier-maven-plugin
+

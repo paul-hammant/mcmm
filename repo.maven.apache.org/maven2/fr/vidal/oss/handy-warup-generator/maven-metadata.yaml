@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.vidal.oss
+ artifactId: handy-warup-generator
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20161006071927'
+

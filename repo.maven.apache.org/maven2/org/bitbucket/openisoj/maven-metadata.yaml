@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: postbuild-maven-plugin Maven Plugin
+   prefix: postbuild
+   artifactId: postbuild-maven-plugin
+

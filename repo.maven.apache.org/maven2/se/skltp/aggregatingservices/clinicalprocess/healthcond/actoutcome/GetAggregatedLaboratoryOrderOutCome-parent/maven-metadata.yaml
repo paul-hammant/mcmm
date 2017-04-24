@@ -1,0 +1,10 @@
+metadata:
+ groupId: se.skltp.aggregatingservices.clinicalprocess.healthcond.actoutcome
+ artifactId: GetAggregatedLaboratoryOrderOutCome-parent
+ versioning:
+  latest: 1.0.0-RC5
+  release: 1.0.0-RC5
+  versions:
+   version: 1.0.0-RC5
+  lastUpdated: '20150225102923'
+

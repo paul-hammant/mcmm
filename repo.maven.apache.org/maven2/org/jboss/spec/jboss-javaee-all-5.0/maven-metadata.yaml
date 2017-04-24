@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.jboss.spec
+ artifactId: jboss-javaee-all-5.0
+ versioning:
+  latest: 1.0.0.GA
+  release: 1.0.0.GA
+  versions:
+   version:
+   - 1.0.0.RC1
+   - 1.0.0.GA
+  lastUpdated: '20120726100359'
+

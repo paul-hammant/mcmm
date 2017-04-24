@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: A Maven Plugin for the Google App Engine
+   prefix: appengine
+   artifactId: appengine-maven-plugin
+

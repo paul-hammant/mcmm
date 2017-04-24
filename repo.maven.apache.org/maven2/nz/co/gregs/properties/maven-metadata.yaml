@@ -1,0 +1,10 @@
+metadata:
+ groupId: nz.co.gregs
+ artifactId: properties
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20150430022301'
+

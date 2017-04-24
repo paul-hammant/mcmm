@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Policeman's Forbidden API Checker
+   prefix: forbiddenapis
+   artifactId: forbiddenapis
+

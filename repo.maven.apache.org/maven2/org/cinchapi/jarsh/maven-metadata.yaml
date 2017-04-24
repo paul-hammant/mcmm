@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.cinchapi
+ artifactId: jarsh
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20140712132628'
+

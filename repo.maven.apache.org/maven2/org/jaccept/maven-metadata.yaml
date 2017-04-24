@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven2 reporting plugin
+   prefix: jaccept
+   artifactId: jaccept-maven-plugin
+  - name: Maven2 reporting plugin
+   prefix: jaccept
+   artifactId: maven-jaccept-plugin
+

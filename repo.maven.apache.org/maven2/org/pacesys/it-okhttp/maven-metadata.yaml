@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.pacesys
+ artifactId: it-okhttp
+ versioning:
+  latest: 3.0.3
+  release: 3.0.3
+  versions:
+   version:
+   - 3.0.0
+   - 3.0.1
+   - 3.0.2
+   - 3.0.3
+  lastUpdated: '20161119084814'
+

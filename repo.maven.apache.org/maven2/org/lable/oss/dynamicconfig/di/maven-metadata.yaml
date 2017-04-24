@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.lable.oss.dynamicconfig
+ artifactId: di
+ versioning:
+  latest: '1.7'
+  release: '1.7'
+  versions:
+   version: '1.7'
+  lastUpdated: '20151204152343'
+

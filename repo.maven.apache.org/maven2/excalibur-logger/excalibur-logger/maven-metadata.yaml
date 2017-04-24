@@ -1,0 +1,13 @@
+metadata:
+ groupId: excalibur-logger
+ artifactId: excalibur-logger
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+   - '1.1'
+   - '20020820'
+   - '2.1'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.chuusai
+ artifactId: shapeless_2.10.3
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 2.0.0-M1
+   - 2.0.0
+  lastUpdated: '20140408212027'
+

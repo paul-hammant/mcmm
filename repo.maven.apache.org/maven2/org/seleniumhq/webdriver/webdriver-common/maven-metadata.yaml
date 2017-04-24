@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.seleniumhq.webdriver
+ artifactId: webdriver-common
+ version: 0.9.7089
+ versioning:
+  versions:
+   version:
+   - 0.9.7089
+   - 0.9.7376
+  lastUpdated: '20091007213937'
+

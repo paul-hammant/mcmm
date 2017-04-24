@@ -1,0 +1,8 @@
+metadata:
+ groupId: maven
+ artifactId: maven-artifact
+ version: '20040703.133254'
+ versioning:
+  versions:
+   version: '20040703.133254'
+

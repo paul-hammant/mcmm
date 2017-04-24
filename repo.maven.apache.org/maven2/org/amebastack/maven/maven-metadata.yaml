@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Ameba-Maven
+   prefix: ameba
+   artifactId: ameba-maven
+  - name: Ameba-Maven-Plugin
+   prefix: ameba
+   artifactId: ameba-maven-plugin
+

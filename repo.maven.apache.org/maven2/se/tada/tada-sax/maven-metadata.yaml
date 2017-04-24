@@ -1,0 +1,10 @@
+metadata:
+ groupId: se.tada
+ artifactId: tada-sax
+ version: 0.2.1
+ versioning:
+  versions:
+   version:
+   - 0.2.1
+   - 1.0.0
+

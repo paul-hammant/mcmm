@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.snappydata
+ artifactId: snappy-dunits
+ versioning:
+  latest: 0.2.1-PREVIEW
+  release: 0.2.1-PREVIEW
+  versions:
+   version:
+   - 0.1.0-PREVIEW
+   - 0.2.0-PREVIEW
+   - 0.2.1-PREVIEW
+  lastUpdated: '20160316123111'
+

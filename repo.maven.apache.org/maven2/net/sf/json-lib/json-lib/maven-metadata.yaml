@@ -1,0 +1,17 @@
+metadata:
+ groupId: net.sf.json-lib
+ artifactId: json-lib
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+   - '1.1'
+   - '2.0'
+   - '2.1'
+   - '2.2'
+   - 2.2.1
+   - 2.2.2
+  lastUpdated: '20080608010031'
+

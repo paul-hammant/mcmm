@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ClosureTemplateCompiller Maven Mojo
+   prefix: ClosureTemplateCompiller
+   artifactId: ClosureTemplateCompiller
+  - name: fileStructureToJS
+   prefix: fileStructureToJS
+   artifactId: fileStructureToJS
+  - name: myLessCSS-maven-plugin Maven Plugin
+   prefix: nodejs
+   artifactId: myLessCss
+

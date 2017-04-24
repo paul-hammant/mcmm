@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.ecfront
+ artifactId: ez-fs
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version:
+   - '0.9'
+   - '1.0'
+  lastUpdated: '20160512135001'
+

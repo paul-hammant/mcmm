@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.bootique.metrics
+ artifactId: bootique-metrics
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version:
+   - '0.7'
+   - '0.8'
+   - '0.9'
+  lastUpdated: '20170331093716'
+

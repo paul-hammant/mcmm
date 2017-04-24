@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.github.misterfifi1
+ artifactId: jira-client
+ versioning:
+  latest: 0.6.2-perf
+  release: 0.6.2-perf
+  versions:
+   version:
+   - 0.6.1
+   - 0.6.2-perf
+  lastUpdated: '20161209162056'
+

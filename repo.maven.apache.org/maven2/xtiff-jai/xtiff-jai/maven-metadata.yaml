@@ -1,0 +1,8 @@
+metadata:
+ groupId: xtiff-jai
+ artifactId: xtiff-jai
+ version: beta-0.3
+ versioning:
+  versions:
+   version: beta-0.3
+

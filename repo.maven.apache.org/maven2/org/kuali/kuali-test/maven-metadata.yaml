@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.kuali
+ artifactId: kuali-test
+ versioning:
+  latest: '1007'
+  release: '1007'
+  versions:
+   version:
+   - '901'
+   - '904'
+   - '1000'
+   - '1002'
+   - '1005'
+   - '1007'
+  lastUpdated: '20110113195032'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.sertelon.akr
+ artifactId: android-keystore-recovery
+ versioning:
+  latest: 1.4.0
+  release: 1.4.0
+  versions:
+   version: 1.4.0
+  lastUpdated: '20141003232112'
+

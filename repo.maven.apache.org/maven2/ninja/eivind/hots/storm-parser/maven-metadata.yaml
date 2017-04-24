@@ -1,0 +1,14 @@
+metadata:
+ groupId: ninja.eivind.hots
+ artifactId: storm-parser
+ versioning:
+  latest: 0.3.0.RELEASE
+  release: 0.3.0.RELEASE
+  versions:
+   version:
+   - 0.1.1
+   - 0.1.2.RELEASE
+   - 0.2.0.RELEASE
+   - 0.3.0.RELEASE
+  lastUpdated: '20161106160028'
+

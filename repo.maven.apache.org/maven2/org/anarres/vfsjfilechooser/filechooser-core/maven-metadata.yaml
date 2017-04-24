@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.anarres.vfsjfilechooser
+ artifactId: filechooser-core
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20140111072737'
+

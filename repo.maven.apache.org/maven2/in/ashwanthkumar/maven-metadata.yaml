@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-editsource
+   prefix: editsource
+   artifactId: maven-editsource
+

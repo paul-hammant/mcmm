@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.eclipse
+ artifactId: jface
+ version: 3.3.0-I20070606-0010
+ versioning:
+  versions:
+   version:
+   - 3.3.0-I20070606-0010
+   - 3.2.1-M20060908-1000
+  lastUpdated: '20071127073214'
+

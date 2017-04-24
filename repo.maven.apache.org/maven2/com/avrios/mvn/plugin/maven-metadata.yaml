@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Properties To Json Maven Plugin
+   prefix: properties2json
+   artifactId: properties2json
+

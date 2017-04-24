@@ -1,0 +1,15 @@
+metadata:
+ groupId: ch.tatool
+ artifactId: tatool-api
+ versioning:
+  latest: 1.3.2
+  release: 1.3.2
+  versions:
+   version:
+   - '1.2'
+   - 1.2.1
+   - '1.3'
+   - 1.3.1
+   - 1.3.2
+  lastUpdated: '20130112175939'
+

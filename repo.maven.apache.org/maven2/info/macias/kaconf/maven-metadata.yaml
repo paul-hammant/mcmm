@@ -1,0 +1,12 @@
+metadata:
+ groupId: info.macias
+ artifactId: kaconf
+ versioning:
+  latest: 0.8.2
+  release: 0.8.2
+  versions:
+   version:
+   - 0.8.0
+   - 0.8.2
+  lastUpdated: '20161129082537'
+

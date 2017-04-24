@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.stickycode.stereotype
+ artifactId: sticky-stereotype-component
+ versioning:
+  latest: '3.1'
+  release: '3.1'
+  versions:
+   version:
+   - '2.1'
+   - '2.2'
+   - '3.1'
+  lastUpdated: '20161128091739'
+

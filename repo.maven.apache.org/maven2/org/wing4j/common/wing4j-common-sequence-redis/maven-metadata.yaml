@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.wing4j.common
+ artifactId: wing4j-common-sequence-redis
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20170107105731'
+

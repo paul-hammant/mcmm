@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven DBus Plugin
+   prefix: dbus
+   artifactId: maven-dbus-plugin
+

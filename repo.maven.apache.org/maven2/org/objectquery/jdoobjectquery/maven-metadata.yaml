@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.objectquery
+ artifactId: jdoobjectquery
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 1.0.0-BETA1
+   - 1.0.0-BETA2
+   - 1.0.0-BETA3
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20130616150859'
+

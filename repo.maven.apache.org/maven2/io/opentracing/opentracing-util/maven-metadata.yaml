@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.opentracing
+ artifactId: opentracing-util
+ versioning:
+  latest: 0.21.0
+  release: 0.21.0
+  versions:
+   version: 0.21.0
+  lastUpdated: '20170406234327'
+

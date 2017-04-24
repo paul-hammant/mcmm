@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.ai-republic
+ artifactId: microverse-discovery
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20160426155354'
+

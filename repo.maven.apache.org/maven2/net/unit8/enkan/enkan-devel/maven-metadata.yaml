@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.unit8.enkan
+ artifactId: enkan-devel
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version:
+   - 0.1.0-beta1
+   - 0.1.0-beta2
+   - 0.1.0
+   - 0.1.1
+   - 0.1.2
+  lastUpdated: '20170216135305'
+

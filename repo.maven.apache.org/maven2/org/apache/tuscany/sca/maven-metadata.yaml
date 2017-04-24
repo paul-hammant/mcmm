@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Apache Tuscany Maven Tuscany Plugin
+   prefix: tuscany
+   artifactId: tuscany-maven-plugin
+

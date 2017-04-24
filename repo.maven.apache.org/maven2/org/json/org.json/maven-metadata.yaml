@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.json
+ artifactId: org.json
+ versioning:
+  latest: chargebee-1.0
+  release: chargebee-1.0
+  versions:
+   version: chargebee-1.0
+  lastUpdated: '20120227011226'
+

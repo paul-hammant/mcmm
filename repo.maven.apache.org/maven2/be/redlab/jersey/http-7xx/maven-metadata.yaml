@@ -1,0 +1,12 @@
+metadata:
+ groupId: be.redlab.jersey
+ artifactId: http-7xx
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20131019072713'
+

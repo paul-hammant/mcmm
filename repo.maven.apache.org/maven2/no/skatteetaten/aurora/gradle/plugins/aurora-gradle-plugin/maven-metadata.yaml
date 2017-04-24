@@ -1,0 +1,12 @@
+metadata:
+ groupId: no.skatteetaten.aurora.gradle.plugins
+ artifactId: aurora-gradle-plugin
+ versioning:
+  latest: 1.0.4
+  release: 1.0.4
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.4
+  lastUpdated: '20170421132335'
+

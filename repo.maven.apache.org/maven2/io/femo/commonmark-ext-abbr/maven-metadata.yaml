@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.femo
+ artifactId: commonmark-ext-abbr
+ versioning:
+  latest: 0.6.0
+  release: 0.6.0
+  versions:
+   version: 0.6.0
+  lastUpdated: '20160816195500'
+

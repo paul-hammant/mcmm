@@ -1,0 +1,13 @@
+metadata:
+ groupId: ch.epfl.scala
+ artifactId: scalafix-cli_2.11
+ versioning:
+  latest: 0.3.2
+  release: 0.3.2
+  versions:
+   version:
+   - 0.1.0-RC1
+   - 0.1.0
+   - 0.3.2
+  lastUpdated: '20170320225120'
+

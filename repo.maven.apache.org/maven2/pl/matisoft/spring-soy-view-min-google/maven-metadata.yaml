@@ -1,0 +1,15 @@
+metadata:
+ groupId: pl.matisoft
+ artifactId: spring-soy-view-min-google
+ versioning:
+  latest: 1.20.0
+  release: 1.20.0
+  versions:
+   version:
+   - 1.13.1
+   - 1.13.2
+   - 1.13.3
+   - 1.14.0
+   - 1.20.0
+  lastUpdated: '20131102234039'
+

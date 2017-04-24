@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.monix
+ artifactId: minitest_sjs0.6_2.12
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - '0.27'
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20170328022838'
+

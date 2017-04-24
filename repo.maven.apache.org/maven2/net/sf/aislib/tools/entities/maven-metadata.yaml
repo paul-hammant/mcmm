@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Entities to java code converter - Maven2 Plugin
+   prefix: m2
+   artifactId: plugin-m2
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.simpleflatmapper
+ artifactId: sfm-test
+ versioning:
+  latest: 1.11b1
+  release: 1.11b1
+  versions:
+   version: 1.11b1
+  lastUpdated: '20150718063006'
+

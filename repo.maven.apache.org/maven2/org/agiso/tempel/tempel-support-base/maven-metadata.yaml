@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.agiso.tempel
+ artifactId: tempel-support-base
+ versioning:
+  latest: 0.0.1.RELEASE
+  release: 0.0.1.RELEASE
+  versions:
+   version: 0.0.1.RELEASE
+  lastUpdated: '20140223145407'
+

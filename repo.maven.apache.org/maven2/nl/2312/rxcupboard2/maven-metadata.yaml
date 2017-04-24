@@ -1,0 +1,12 @@
+metadata:
+ groupId: nl.2312
+ artifactId: rxcupboard2
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - 2.0-rc1
+   - '2.0'
+  lastUpdated: '20170113074314'
+

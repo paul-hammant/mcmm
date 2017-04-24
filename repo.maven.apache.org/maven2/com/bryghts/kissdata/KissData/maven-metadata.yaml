@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.bryghts.kissdata
+ artifactId: KissData
+ versioning:
+  latest: 0.1.0rc2
+  release: 0.1.0rc2
+  versions:
+   version: 0.1.0rc2
+  lastUpdated: '20120610175910'
+

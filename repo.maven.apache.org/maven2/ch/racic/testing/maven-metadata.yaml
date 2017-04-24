@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: maven-cm-plugin Maven Mojo
+   prefix: cm
+   artifactId: cm-maven-plugin
+  - name: maven-cm-plugin Maven Mojo
+   prefix: cm
+   artifactId: maven-cm-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.univ-valenciennes
+ artifactId: concrete_2.11
+ versioning:
+  latest: 3.1.1
+  release: 3.1.1
+  versions:
+   version:
+   - '3.0'
+   - 3.1.1
+  lastUpdated: '20160622223459'
+

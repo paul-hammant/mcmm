@@ -1,0 +1,12 @@
+metadata:
+ groupId: eu.codlab
+ artifactId: andengine
+ versioning:
+  latest: 1.7.6
+  release: 1.7.6
+  versions:
+   version:
+   - 1.7.5
+   - 1.7.6
+  lastUpdated: '20151123183354'
+

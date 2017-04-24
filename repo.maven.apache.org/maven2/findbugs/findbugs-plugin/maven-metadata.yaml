@@ -1,0 +1,7 @@
+metadata:
+ groupId: findbugs
+ artifactId: findbugs-plugin
+ versioning:
+  versions:
+   version: 0.6.5
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.8kdata.mongowp
+ artifactId: build-tools
+ versioning:
+  latest: 0.50.0
+  release: 0.50.0
+  versions:
+   version: 0.50.0
+  lastUpdated: '20161129205621'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.think.yuv-player
+ artifactId: yuv-player-test
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20071105151840'
+

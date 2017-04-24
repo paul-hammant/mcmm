@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.corbel.lib
+ artifactId: token
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version:
+   - 0.7.0
+   - 0.8.0
+   - 0.9.0
+  lastUpdated: '20160311072047'
+

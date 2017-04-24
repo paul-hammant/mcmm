@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.johoop
+ artifactId: sbt-testng-interface_2.9.2
+ versioning:
+  latest: 2.0.3
+  release: 2.0.3
+  versions:
+   version:
+   - 2.0.2
+   - 2.0.3
+  lastUpdated: '20120810132949'
+

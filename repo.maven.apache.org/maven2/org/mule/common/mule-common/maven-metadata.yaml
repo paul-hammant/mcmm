@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mule.common
+ artifactId: mule-common
+ versioning:
+  latest: 3.5.0
+  release: 3.5.0
+  versions:
+   version: 3.5.0
+  lastUpdated: '20140718163658'
+

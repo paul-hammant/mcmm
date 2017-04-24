@@ -1,0 +1,8 @@
+metadata:
+ groupId: nanocontainer
+ artifactId: nanocontainer-distribution
+ version: 1.0-RC-2
+ versioning:
+  versions:
+   version: 1.0-RC-2
+

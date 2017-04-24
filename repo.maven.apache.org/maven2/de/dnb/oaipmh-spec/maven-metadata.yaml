@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.dnb
+ artifactId: oaipmh-spec
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version:
+   - '2.0'
+   - 2.0.1
+  lastUpdated: '20121010102201'
+

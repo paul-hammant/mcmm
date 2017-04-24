@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.voovan
+ artifactId: JDocker
+ versioning:
+  latest: 1.0-rc-1
+  release: 1.0-rc-1
+  versions:
+   version:
+   - 1.0-beta-1
+   - 1.0-beta-2
+   - 1.0-rc-1
+  lastUpdated: '20170413052457'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: uk.gov.gchq.gaffer
+ artifactId: exception
+ versioning:
+  latest: 0.6.6
+  release: 0.6.6
+  versions:
+   version:
+   - 0.6.3
+   - 0.6.4
+   - 0.6.5
+   - 0.6.6
+  lastUpdated: '20170403151135'
+

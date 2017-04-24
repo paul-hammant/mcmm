@@ -1,0 +1,10 @@
+metadata:
+ groupId: name.ball.joshua.craftinomicon
+ artifactId: craftinomicon
+ versioning:
+  latest: 0.2.7
+  release: 0.2.7
+  versions:
+   version: 0.2.7
+  lastUpdated: '20160628222901'
+

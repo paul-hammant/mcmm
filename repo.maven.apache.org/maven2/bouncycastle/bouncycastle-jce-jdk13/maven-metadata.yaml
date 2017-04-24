@@ -1,0 +1,8 @@
+metadata:
+ groupId: bouncycastle
+ artifactId: bouncycastle-jce-jdk13
+ version: '112'
+ versioning:
+  versions:
+   version: '112'
+

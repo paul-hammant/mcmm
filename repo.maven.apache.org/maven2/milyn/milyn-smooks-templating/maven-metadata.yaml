@@ -1,0 +1,10 @@
+metadata:
+ groupId: milyn
+ artifactId: milyn-smooks-templating
+ version: 0.1.1
+ versioning:
+  versions:
+   version:
+   - 0.1.1
+   - '0.1'
+

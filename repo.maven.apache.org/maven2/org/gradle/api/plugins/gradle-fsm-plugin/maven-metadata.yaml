@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.gradle.api.plugins
+ artifactId: gradle-fsm-plugin
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version: 0.2.1
+  lastUpdated: '20131012122808'
+

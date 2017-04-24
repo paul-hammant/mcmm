@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.opoo.press.maven.archetypes
+ artifactId: opoopress-archetype-site
+ versioning:
+  latest: 2.0-beta-1
+  release: 2.0-beta-1
+  versions:
+   version: 2.0-beta-1
+  lastUpdated: '20150312104158'
+

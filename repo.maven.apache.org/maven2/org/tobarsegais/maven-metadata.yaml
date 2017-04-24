@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Tobar Segais: Maven Plugin'
+   prefix: tobar-segais
+   artifactId: tobar-segais-maven-plugin
+

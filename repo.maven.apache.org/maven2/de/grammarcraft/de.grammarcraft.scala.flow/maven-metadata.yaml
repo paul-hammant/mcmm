@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.grammarcraft
+ artifactId: de.grammarcraft.scala.flow
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version: 0.1.2
+  lastUpdated: '20151216200425'
+

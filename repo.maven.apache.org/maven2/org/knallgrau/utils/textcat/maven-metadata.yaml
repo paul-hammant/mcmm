@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.knallgrau.utils
+ artifactId: textcat
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20121002152614'
+

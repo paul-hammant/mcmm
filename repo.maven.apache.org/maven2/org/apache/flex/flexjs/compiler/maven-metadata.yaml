@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Apache Flex - FlexJS: Build Tools'
+   prefix: compiler-build-tools
+   artifactId: compiler-build-tools
+  - name: 'Apache Flex - FlexJS: FlexJS Maven Plugin'
+   prefix: flexjs
+   artifactId: flexjs-maven-plugin
+

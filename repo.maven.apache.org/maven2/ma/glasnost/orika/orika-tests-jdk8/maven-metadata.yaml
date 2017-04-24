@@ -1,0 +1,12 @@
+metadata:
+ groupId: ma.glasnost.orika
+ artifactId: orika-tests-jdk8
+ versioning:
+  latest: 1.5.1
+  release: 1.5.1
+  versions:
+   version:
+   - 1.5.0
+   - 1.5.1
+  lastUpdated: '20170409135349'
+

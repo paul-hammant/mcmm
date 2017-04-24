@@ -1,0 +1,10 @@
+metadata:
+ groupId: xmlrpc
+ artifactId: xmlrpc-1.2-a3
+ version: dev
+ versioning:
+  versions:
+   version:
+   - dev
+   - dev.20030102.111633
+

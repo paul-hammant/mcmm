@@ -1,0 +1,13 @@
+metadata:
+ groupId: fi.reaktor
+ artifactId: sqltyped-slick_2.11
+ versioning:
+  latest: 0.4.3
+  release: 0.4.3
+  versions:
+   version:
+   - 0.4.1
+   - 0.4.2
+   - 0.4.3
+  lastUpdated: '20160731131145'
+

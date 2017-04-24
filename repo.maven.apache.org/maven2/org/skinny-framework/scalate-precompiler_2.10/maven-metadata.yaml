@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.skinny-framework
+ artifactId: scalate-precompiler_2.10
+ versioning:
+  latest: 1.8.0.0
+  release: 1.8.0.0
+  versions:
+   version:
+   - 1.7.1.0
+   - 1.8.0.0-RC1
+   - 1.8.0.0
+  lastUpdated: '20161104190424'
+

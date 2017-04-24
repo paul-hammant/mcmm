@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Revapi Maven Plugin
+   prefix: revapi
+   artifactId: revapi-maven-plugin
+

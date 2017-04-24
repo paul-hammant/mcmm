@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.clickconcepts.geb
+ artifactId: geb-overridable-page-module
+ versioning:
+  latest: '0.03'
+  release: '0.03'
+  versions:
+   version:
+   - '0.01'
+   - '0.02'
+   - '0.03'
+  lastUpdated: '20140326050139'
+

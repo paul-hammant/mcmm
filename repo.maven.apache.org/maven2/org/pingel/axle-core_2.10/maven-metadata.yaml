@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.pingel
+ artifactId: axle-core_2.10
+ versioning:
+  latest: 0.1-M11
+  release: 0.1-M11
+  versions:
+   version:
+   - 0.1-M9
+   - 0.1-M10
+   - 0.1-M11
+  lastUpdated: '20140226085919'
+

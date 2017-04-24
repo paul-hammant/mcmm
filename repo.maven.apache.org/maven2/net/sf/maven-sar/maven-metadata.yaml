@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-sar-plugin
+   prefix: sar
+   artifactId: maven-sar-plugin
+

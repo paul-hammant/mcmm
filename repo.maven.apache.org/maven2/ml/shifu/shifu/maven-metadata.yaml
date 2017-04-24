@@ -1,0 +1,10 @@
+metadata:
+ groupId: ml.shifu
+ artifactId: shifu
+ versioning:
+  latest: 0.10.0
+  release: 0.10.0
+  versions:
+   version: 0.10.0
+  lastUpdated: '20170301152701'
+

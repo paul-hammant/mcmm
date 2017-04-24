@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.tidalwave.blueargyle
+ artifactId: argyll
+ versioning:
+  latest: 1.3.5.1
+  release: 1.3.5.1
+  versions:
+   version: 1.3.5.1
+  lastUpdated: '20120105115935'
+

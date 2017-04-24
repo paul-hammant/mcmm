@@ -1,0 +1,15 @@
+metadata:
+ groupId: stratum
+ artifactId: stratum
+ version: 0.1-dev
+ versioning:
+  versions:
+   version:
+   - 0.1-dev
+   - '1.0'
+   - 1.0-b1
+   - 1.0-b2-dev
+   - 1.0-b3
+   - 1.0-b3-dev
+   - 1.0-b5
+

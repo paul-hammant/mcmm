@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: HAL Documentation Maven Plugin
+   prefix: hal-docs
+   artifactId: hal-docs-maven-plugin
+

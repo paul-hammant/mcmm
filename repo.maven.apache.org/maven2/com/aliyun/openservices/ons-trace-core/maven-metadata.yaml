@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.aliyun.openservices
+ artifactId: ons-trace-core
+ versioning:
+  latest: 1.2.7.Final
+  release: 1.2.7.Final
+  versions:
+   version:
+   - 1.2.2
+   - 1.2.3
+   - 1.2.4
+   - 1.2.5
+   - 1.2.6
+   - 1.2.7.Final
+  lastUpdated: '20161202021410'
+

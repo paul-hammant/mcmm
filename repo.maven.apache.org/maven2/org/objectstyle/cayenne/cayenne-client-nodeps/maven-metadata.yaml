@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.objectstyle.cayenne
+ artifactId: cayenne-client-nodeps
+ version: 1.2B1
+ versioning:
+  versions:
+   version:
+   - 1.2B1
+   - 1.2B2
+

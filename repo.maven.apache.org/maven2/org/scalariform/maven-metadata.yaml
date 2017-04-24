@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Scalariform Plugin
+   prefix: scalariform
+   artifactId: scalariform-maven-plugin
+

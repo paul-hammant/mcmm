@@ -1,0 +1,12 @@
+metadata:
+ groupId: edu.emory.clir
+ artifactId: clearnlp-medical-en-pos
+ versioning:
+  latest: '3.1'
+  release: '3.1'
+  versions:
+   version:
+   - '3.0'
+   - '3.1'
+  lastUpdated: '20150430043321'
+

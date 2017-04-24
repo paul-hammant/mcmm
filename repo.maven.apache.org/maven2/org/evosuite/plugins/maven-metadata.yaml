@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Plugin for EvoSuite
+   prefix: evosuite
+   artifactId: evosuite-maven-plugin
+

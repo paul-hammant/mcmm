@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.omg.dds
+ artifactId: dds-rpc
+ versioning:
+  latest: 1.0_beta2
+  release: 1.0_beta2
+  versions:
+   version: 1.0_beta2
+  lastUpdated: '20170330152643'
+

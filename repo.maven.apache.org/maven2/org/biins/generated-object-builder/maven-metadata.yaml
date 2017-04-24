@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.biins
+ artifactId: generated-object-builder
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20150927073608'
+

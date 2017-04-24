@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.bsc
+ artifactId: jaxrs-wiki-processor
+ versioning:
+  latest: '2.2'
+  release: '2.2'
+  versions:
+   version:
+   - '2.1'
+   - '2.2'
+  lastUpdated: '20160701074451'
+

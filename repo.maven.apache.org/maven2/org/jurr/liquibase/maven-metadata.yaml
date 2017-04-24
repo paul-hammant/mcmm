@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Liquibase DB release Maven plugin
+   prefix: liquibase-db-release
+   artifactId: liquibase-db-release-maven-plugin
+

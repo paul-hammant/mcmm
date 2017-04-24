@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.allurefw.report
+ artifactId: plugin-parent
+ versioning:
+  latest: 2.0-BETA1
+  release: 2.0-BETA1
+  versions:
+   version: 2.0-BETA1
+  lastUpdated: '20161031194620'
+

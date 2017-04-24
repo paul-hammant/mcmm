@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.as-development.asdk
+ artifactId: pom-parent-nature-all
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.2.0
+   - 2.0.0
+  lastUpdated: '20160407140925'
+

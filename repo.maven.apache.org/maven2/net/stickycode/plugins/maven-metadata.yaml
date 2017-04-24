@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ${project.artifactId}-1
+   prefix: bootstrap
+   artifactId: bootstrap-maven-plugin
+  - name: bounds-maven-plugin-1
+   prefix: bounds
+   artifactId: bounds-maven-plugin
+  - name: sticky-bound-plugin
+   prefix: bounds
+   artifactId: sticky-bounds-plugin
+  - name: sticky-bounds-plugin
+   prefix: sticky-bounds
+   artifactId: sticky-bounds-plugin
+  - name: sticky-wait-plugin
+   prefix: wait
+   artifactId: sticky-wait-plugin
+

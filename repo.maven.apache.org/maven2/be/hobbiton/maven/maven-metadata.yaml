@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Linux Packaging Maven Plugin
+   prefix: linux-packaging
+   artifactId: linux-packaging-maven-plugin
+

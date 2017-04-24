@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.geronimo.bundles
+ artifactId: axis
+ versioning:
+  latest: '1.4_2'
+  release: '1.4_2'
+  versions:
+   version:
+   - '1.4_1'
+   - '1.4_2'
+  lastUpdated: '20110722090941'
+

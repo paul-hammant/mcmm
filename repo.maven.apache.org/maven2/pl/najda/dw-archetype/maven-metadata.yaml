@@ -1,0 +1,12 @@
+metadata:
+ groupId: pl.najda
+ artifactId: dw-archetype
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20150506103836'
+

@@ -1,0 +1,7 @@
+metadata:
+ groupId: net.sf.testextensions
+ artifactId: unit-test-extensions
+ versioning:
+  versions:
+   version: 0.1.1
+

@@ -1,0 +1,25 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: wisdom-asciidoc
+   artifactId: wisdom-asciidoc-maven-plugin
+  - prefix: wisdom-markdown
+   artifactId: wisdom-markdown-maven-plugin
+  - name: Maven Wisdom Plugin
+   prefix: wisdom
+   artifactId: wisdom-maven-plugin
+  - prefix: wisdom-myth
+   artifactId: wisdom-myth-maven-plugin
+  - prefix: wisdom-npm-runner
+   artifactId: wisdom-npm-runner-maven-plugin
+  - prefix: wisdom-openjpa-enhancer
+   artifactId: wisdom-openjpa-enhancer-plugin
+  - name: wisdom-ractivejs-maven-plugin
+   prefix: wisdom-ractivejs
+   artifactId: wisdom-ractivejs-maven-plugin
+  - name: wisdom-raml-maven-plugin
+   prefix: wisdom-raml
+   artifactId: wisdom-raml-maven-plugin
+  - prefix: wisdom-typescript
+   artifactId: wisdom-typescript-maven-plugin
+

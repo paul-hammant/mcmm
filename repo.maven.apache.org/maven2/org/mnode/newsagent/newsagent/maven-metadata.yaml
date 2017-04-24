@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mnode.newsagent
+ artifactId: newsagent
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version: '0.9'
+  lastUpdated: '20121028044341'
+

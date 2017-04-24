@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Rats! Plugin
+   prefix: rats
+   artifactId: maven-rats-plugin
+

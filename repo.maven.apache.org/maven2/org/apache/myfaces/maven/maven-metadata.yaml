@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Wagon Maven Plugin
+   prefix: wagon
+   artifactId: wagon-maven-plugin
+

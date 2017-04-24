@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: qooxdoo-maven-plugin Maven Mojo
+   prefix: qooxdoo
+   artifactId: qooxdoo-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Fork of the official LESS CSS Maven Plugin
+   prefix: lesscss
+   artifactId: lesscss-maven-plugin
+

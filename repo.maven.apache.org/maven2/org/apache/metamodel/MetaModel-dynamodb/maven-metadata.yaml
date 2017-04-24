@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.metamodel
+ artifactId: MetaModel-dynamodb
+ versioning:
+  latest: 4.6.0
+  release: 4.6.0
+  versions:
+   version: 4.6.0
+  lastUpdated: '20170204151527'
+

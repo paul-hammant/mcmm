@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.kazuki
+ artifactId: oss-parent
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - '1'
+   - 2.0.0
+  lastUpdated: '20140109195844'
+

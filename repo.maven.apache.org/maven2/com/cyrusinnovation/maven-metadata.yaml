@@ -1,0 +1,18 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Start Stubble Maven Plugin
+   prefix: start-stubble
+   artifactId: start-stubble-plugin
+  - prefix: start-stubble_2.10
+   artifactId: start-stubble-plugin_2.10
+  - prefix: start-stubble_2.9.2
+   artifactId: start-stubble-plugin_2.9.2
+  - name: Stop Stubble Maven Plugin
+   prefix: stop-stubble
+   artifactId: stop-stubble-plugin
+  - prefix: stop-stubble_2.10
+   artifactId: stop-stubble-plugin_2.10
+  - prefix: stop-stubble_2.9.2
+   artifactId: stop-stubble-plugin_2.9.2
+

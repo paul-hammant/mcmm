@@ -1,0 +1,24 @@
+metadata:
+ groupId: org.ovirt.ovirt-host-deploy
+ artifactId: ovirt-host-deploy
+ versioning:
+  latest: 1.6.1
+  release: 1.6.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0-beta
+   - 1.1.0-beta-01
+   - 1.1.0
+   - 1.2.0
+   - 1.2.1
+   - 1.3.0
+   - 1.3.0-master
+   - 1.4.0
+   - 1.5.0-alpha1
+   - 1.5.0-beta1
+   - 1.5.0
+   - 1.6.0
+   - 1.6.1
+  lastUpdated: '20170221145800'
+

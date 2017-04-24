@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.everit.authentication
+ artifactId: org.everit.authentication.oauth2.api
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20151016092853'
+

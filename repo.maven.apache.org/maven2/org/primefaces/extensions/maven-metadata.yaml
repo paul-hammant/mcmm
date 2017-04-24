@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: resources-optimizer-maven-plugin
+   prefix: resources-optimizer
+   artifactId: resources-optimizer-maven-plugin
+

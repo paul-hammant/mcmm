@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: benerator maven plugin
+   prefix: benerator
+   artifactId: benerator-maven-plugin
+  - name: maven benerator plugin
+   prefix: benerator
+   artifactId: maven-benerator-plugin
+

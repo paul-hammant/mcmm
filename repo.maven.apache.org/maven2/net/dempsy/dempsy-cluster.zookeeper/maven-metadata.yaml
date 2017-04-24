@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.dempsy
+ artifactId: dempsy-cluster.zookeeper
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - 2.0.0
+  lastUpdated: '20160328143858'
+

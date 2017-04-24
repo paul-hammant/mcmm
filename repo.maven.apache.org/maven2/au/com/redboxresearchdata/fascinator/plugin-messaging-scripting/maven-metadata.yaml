@@ -1,0 +1,10 @@
+metadata:
+ groupId: au.com.redboxresearchdata.fascinator
+ artifactId: plugin-messaging-scripting
+ versioning:
+  latest: '1.4'
+  release: '1.4'
+  versions:
+   version: '1.4'
+  lastUpdated: '20161129033623'
+

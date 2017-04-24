@@ -1,0 +1,25 @@
+metadata:
+ groupId: org.neo4j
+ artifactId: neo4j-ogm-bolt-driver
+ versioning:
+  latest: 3.0.0-M01
+  release: 3.0.0-M01
+  versions:
+   version:
+   - 2.0.0-M03
+   - 2.0.0-M04
+   - 2.0.0
+   - 2.0.1
+   - 2.0.2
+   - 2.0.3
+   - 2.0.4
+   - 2.0.5
+   - 2.0.6
+   - 2.1.0-M01
+   - 2.1.0-RC1
+   - 2.1.0
+   - 2.1.1
+   - 2.1.2
+   - 3.0.0-M01
+  lastUpdated: '20170328140522'
+

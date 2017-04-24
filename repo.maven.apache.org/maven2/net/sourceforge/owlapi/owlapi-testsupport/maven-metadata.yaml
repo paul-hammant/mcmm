@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sourceforge.owlapi
+ artifactId: owlapi-testsupport
+ versioning:
+  latest: 3.5.2
+  release: 3.5.2
+  versions:
+   version: 3.5.2
+  lastUpdated: '20150307172136'
+

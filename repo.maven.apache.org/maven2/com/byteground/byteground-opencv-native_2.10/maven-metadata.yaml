@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.byteground
+ artifactId: byteground-opencv-native_2.10
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version:
+   - 0.3.0
+   - 0.4.0
+  lastUpdated: '20141117134605'
+

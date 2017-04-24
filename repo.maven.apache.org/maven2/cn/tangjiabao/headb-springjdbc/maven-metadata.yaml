@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.tangjiabao
+ artifactId: headb-springjdbc
+ versioning:
+  latest: '0.18'
+  release: '0.18'
+  versions:
+   version: '0.18'
+  lastUpdated: '20160413020257'
+

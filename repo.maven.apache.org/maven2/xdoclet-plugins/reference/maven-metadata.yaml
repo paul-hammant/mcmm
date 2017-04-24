@@ -1,0 +1,13 @@
+metadata:
+ groupId: xdoclet-plugins
+ artifactId: reference
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0.2
+   - 1.0.1
+   - '20050206.203826'
+   - '20050208.124733'
+

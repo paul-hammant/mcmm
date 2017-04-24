@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: blitz-maven
+   prefix: blitz
+   artifactId: blitz-maven-plugin
+

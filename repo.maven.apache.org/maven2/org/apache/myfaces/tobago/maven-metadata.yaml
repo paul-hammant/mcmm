@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven Apt Plugin
+   prefix: apt
+   artifactId: maven-apt-plugin
+  - name: Maven Tobago Theme Plugin
+   prefix: theme
+   artifactId: maven-theme-plugin
+  - name: Tobago Maven2 Theme Plugin
+   prefix: tobago-theme
+   artifactId: tobago-theme-plugin
+

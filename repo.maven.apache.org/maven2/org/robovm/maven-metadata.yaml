@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: RoboVM Maven Plugin
+   prefix: robovm
+   artifactId: robovm-maven-plugin
+

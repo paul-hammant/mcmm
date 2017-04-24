@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.geotools
+ artifactId: library
+ version: 2.9-SNAPSHOT
+ versioning:
+  versions:
+   version: 2.9-SNAPSHOT
+  lastUpdated: '20090224192314'
+

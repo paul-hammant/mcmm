@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.virtalab
+ artifactId: databazer
+ versioning:
+  latest: '0.5'
+  release: '0.5'
+  versions:
+   version:
+   - '0.1'
+   - '0.5'
+  lastUpdated: '20141005194755'
+

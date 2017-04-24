@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Git Commit Id Plugin Maven Mojo
+   prefix: git-commit-id
+   artifactId: git-commit-id-plugin
+

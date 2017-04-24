@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.eclipse.birt.runtime
+ artifactId: org.eclipse.datatools.enablement.postgresql
+ versioning:
+  latest: 1.2.0.201603142002
+  release: 1.2.0.201603142002
+  versions:
+   version:
+   - 1.1.0.v201110070445
+   - 1.1.1.v201205252207
+   - 1.2.0.201603142002
+  lastUpdated: '20161118014206'
+

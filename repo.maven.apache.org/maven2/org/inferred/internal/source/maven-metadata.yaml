@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.inferred.internal
+ artifactId: source
+ versioning:
+  latest: 1.0-alpha7
+  release: 1.0-alpha7
+  versions:
+   version: 1.0-alpha7
+  lastUpdated: '20160708121854'
+

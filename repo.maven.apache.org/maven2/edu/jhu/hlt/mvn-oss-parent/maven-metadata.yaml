@@ -1,0 +1,12 @@
+metadata:
+ groupId: edu.jhu.hlt
+ artifactId: mvn-oss-parent
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version:
+   - '1'
+   - '2'
+  lastUpdated: '20150425112617'
+

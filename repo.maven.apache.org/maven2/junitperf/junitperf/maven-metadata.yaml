@@ -1,0 +1,8 @@
+metadata:
+ groupId: junitperf
+ artifactId: junitperf
+ version: '1.8'
+ versioning:
+  versions:
+   version: '1.8'
+

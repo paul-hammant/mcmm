@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Mojo Executor Maven Plugin
+   prefix: mojo-executor
+   artifactId: mojo-executor-maven-plugin
+

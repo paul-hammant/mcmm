@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mule
+ artifactId: mule-extensions
+ versioning:
+  latest: 3.7.0
+  release: 3.7.0
+  versions:
+   version: 3.7.0
+  lastUpdated: '20150717162620'
+

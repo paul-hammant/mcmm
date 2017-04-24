@@ -1,0 +1,8 @@
+metadata:
+ groupId: org.grlea.log
+ artifactId: simple-log
+ version: 2.0.1
+ versioning:
+  versions:
+   version: 2.0.1
+

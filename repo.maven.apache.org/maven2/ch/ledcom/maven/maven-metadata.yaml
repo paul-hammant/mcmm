@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SiteSpeed.io Maven plugin
+   prefix: sitespeed
+   artifactId: sitespeed-maven-plugin
+

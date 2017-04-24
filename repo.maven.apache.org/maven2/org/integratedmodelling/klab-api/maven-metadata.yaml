@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.integratedmodelling
+ artifactId: klab-api
+ versioning:
+  latest: 0.9.10
+  release: 0.9.10
+  versions:
+   version:
+   - 0.9.9
+   - 0.9.10
+  lastUpdated: '20170118115546'
+

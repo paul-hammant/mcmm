@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: webprotege-maven-plugin
+   prefix: webprotege
+   artifactId: webprotege-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: no.digipost
+ artifactId: http-client-builder3
+ versioning:
+  latest: '3.0'
+  release: '3.0'
+  versions:
+   version: '3.0'
+  lastUpdated: '20160927101744'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: se.fishtank
+ artifactId: css-selectors
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - 1.0.4
+   - 1.0.5
+   - '2.0'
+  lastUpdated: '20150427143939'
+

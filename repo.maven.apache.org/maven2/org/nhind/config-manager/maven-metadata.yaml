@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.nhind
+ artifactId: config-manager
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20160909174123'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Databinder application archetype
+   prefix: data-app
+   artifactId: data-app
+

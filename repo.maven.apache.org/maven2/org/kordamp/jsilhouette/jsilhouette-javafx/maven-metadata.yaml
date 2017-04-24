@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.kordamp.jsilhouette
+ artifactId: jsilhouette-javafx
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version: 0.2.1
+  lastUpdated: '20161229151735'
+

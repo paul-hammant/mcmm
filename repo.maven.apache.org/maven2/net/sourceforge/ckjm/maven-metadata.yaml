@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-ckjm-plugin Maven Mojo
+   prefix: ckjm
+   artifactId: maven-ckjm-plugin
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: guru.breakthemonolith
+ artifactId: DockerProcessAPI
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version:
+   - 0.1.0-rc1
+   - 0.1.0-rc2
+   - 0.1.0-rc3
+   - 0.1.0-rc4
+   - 0.1.0
+  lastUpdated: '20161224143054'
+

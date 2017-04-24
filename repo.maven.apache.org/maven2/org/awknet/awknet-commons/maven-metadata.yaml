@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.awknet
+ artifactId: awknet-commons
+ versioning:
+  latest: 0.2.0-RELEASE
+  release: 0.2.0-RELEASE
+  versions:
+   version: 0.2.0-RELEASE
+  lastUpdated: '20120625020729'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.ws.commons.schema
+ artifactId: XmlSchema
+ versioning:
+  latest: 1.4.7
+  release: 1.4.7
+  versions:
+   version:
+   - 1.4.6
+   - 1.4.7
+  lastUpdated: '20100927153423'
+

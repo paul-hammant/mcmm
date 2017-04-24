@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.typelevel
+ artifactId: algebra-laws_sjs0.6_2.11
+ versioning:
+  latest: 0.7.0
+  release: 0.7.0
+  versions:
+   version:
+   - 0.5.0
+   - 0.5.1
+   - 0.6.0
+   - 0.7.0
+  lastUpdated: '20170118231851'
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: maven-crx-plugin
+   prefix: crx
+   artifactId: maven-crx-plugin
+  - name: Maven Vault Checkout Plugin
+   prefix: vltco
+   artifactId: vltco-maven-plugin
+

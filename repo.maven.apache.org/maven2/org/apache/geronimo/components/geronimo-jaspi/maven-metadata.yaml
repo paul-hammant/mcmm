@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.apache.geronimo.components
+ artifactId: geronimo-jaspi
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - 1.1.1
+   - 2.0.0
+  lastUpdated: '20120509120817'
+

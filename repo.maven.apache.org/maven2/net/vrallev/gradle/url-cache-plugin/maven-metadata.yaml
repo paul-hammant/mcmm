@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.vrallev.gradle
+ artifactId: url-cache-plugin
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20170125172800'
+

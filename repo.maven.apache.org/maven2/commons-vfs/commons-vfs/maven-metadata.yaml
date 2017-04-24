@@ -1,0 +1,11 @@
+metadata:
+ groupId: commons-vfs
+ artifactId: commons-vfs
+ version: '20030518103800'
+ versioning:
+  versions:
+   version:
+   - '20030518103800'
+   - '20041214060500'
+   - '20050307052300'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.github.voidcontext
+ artifactId: bricksetclient_2.11
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+  lastUpdated: '20150430201346'
+

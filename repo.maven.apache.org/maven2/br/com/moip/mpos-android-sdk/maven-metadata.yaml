@@ -1,0 +1,10 @@
+metadata:
+ groupId: br.com.moip
+ artifactId: mpos-android-sdk
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version: 2.0.0
+  lastUpdated: '20160525180158'
+

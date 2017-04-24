@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.deeplearning4j
+ artifactId: deeplearning4j-parallel-wrapper
+ versioning:
+  latest: 0.7.2
+  release: 0.7.2
+  versions:
+   version: 0.7.2
+  lastUpdated: '20161227003449'
+

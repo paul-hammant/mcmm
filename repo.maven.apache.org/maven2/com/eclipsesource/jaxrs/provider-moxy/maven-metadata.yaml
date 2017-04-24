@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.eclipsesource.jaxrs
+ artifactId: provider-moxy
+ versioning:
+  latest: '2.2'
+  release: '2.2'
+  versions:
+   version:
+   - '1.1'
+   - '2.0'
+   - 2.0-SR1
+   - 2.0.1
+   - '2.1'
+   - '2.2'
+  lastUpdated: '20150629125603'
+

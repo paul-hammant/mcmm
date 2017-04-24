@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.codehaus.griffon
+ artifactId: flamingobuilder
+ version: '0.4'
+ versioning:
+  versions:
+   version:
+   - '0.4'
+   - '0.5'
+  lastUpdated: '20120213215229'
+

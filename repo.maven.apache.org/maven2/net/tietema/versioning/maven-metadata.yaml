@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Versioning Maven Plugin
+   prefix: versioning
+   artifactId: versioning-maven-plugin
+

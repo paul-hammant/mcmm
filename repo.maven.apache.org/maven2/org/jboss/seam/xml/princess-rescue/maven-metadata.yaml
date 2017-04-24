@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.seam.xml
+ artifactId: princess-rescue
+ versioning:
+  latest: 3.0.0-Alpha1
+  release: 3.0.0-Alpha1
+  versions:
+   version: 3.0.0-Alpha1
+  lastUpdated: '20100319001018'
+

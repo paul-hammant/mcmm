@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.easybatch
+ artifactId: easybatch-bench
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version:
+   - 2.2.0
+   - 3.0.0
+  lastUpdated: '20150301224714'
+

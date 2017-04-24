@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: tobacco maven plugin for managing Tobacco application
+   prefix: tobacco
+   artifactId: tobacco
+

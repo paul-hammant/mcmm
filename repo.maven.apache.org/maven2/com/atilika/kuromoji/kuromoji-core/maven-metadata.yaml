@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.atilika.kuromoji
+ artifactId: kuromoji-core
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version: 0.9.0
+  lastUpdated: '20150913004713'
+

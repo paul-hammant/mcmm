@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: checksum-maven-plugin
+   prefix: checksum
+   artifactId: checksum-maven-plugin
+  - name: maven-checksum-plugin
+   prefix: checksum
+   artifactId: maven-checksum-plugin
+  - name: soot-maven-plugin
+   prefix: soot
+   artifactId: soot-maven-plugin
+  - name: Vagrant Maven plugin
+   prefix: vagrant
+   artifactId: vagrant-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.zkoss.zk
+ artifactId: zuljsp
+ versioning:
+  latest: '1.6'
+  release: '1.6'
+  versions:
+   version: '1.6'
+  lastUpdated: '20110915060851'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: kurento-maven-plugin
+   prefix: kurento
+   artifactId: kurento-maven-plugin
+

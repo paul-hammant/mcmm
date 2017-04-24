@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.digitalpebble.stormcrawler
+ artifactId: storm-crawler-external
+ versioning:
+  latest: '1.4'
+  release: '1.4'
+  versions:
+   version: '1.4'
+  lastUpdated: '20170323102018'
+

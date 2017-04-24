@@ -1,0 +1,9 @@
+metadata:
+ groupId: metaclass
+ artifactId: metaclass
+ versioning:
+  versions:
+   version:
+   - 1.1-rc3
+   - '1.1'
+

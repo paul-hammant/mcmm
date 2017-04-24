@@ -1,0 +1,10 @@
+metadata:
+ groupId: mevenide
+ artifactId: mevenide-netbeans-cargo
+ version: '0.5'
+ versioning:
+  versions:
+   version:
+   - '0.5'
+   - 0.5.1
+

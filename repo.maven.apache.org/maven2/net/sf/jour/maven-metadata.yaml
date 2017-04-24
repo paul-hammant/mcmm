@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jour-maven-plugin
+   prefix: jour
+   artifactId: jour-maven-plugin
+

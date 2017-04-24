@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.kotek
+ artifactId: jdbm
+ versioning:
+  latest: 4.001-alpha
+  release: 4.001-alpha
+  versions:
+   version: 4.001-alpha
+  lastUpdated: '20121021193647'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: aspectwerkz
+ artifactId: aspectwerkz-jdk5
+ version: '2.0'
+ versioning:
+  versions:
+   version:
+   - '2.0'
+   - 2.0.RC1
+   - 2.0.RC2
+   - 2.0.RC3
+

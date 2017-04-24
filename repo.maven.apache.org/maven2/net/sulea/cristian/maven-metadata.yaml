@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Plugin SET License
+   prefix: set-license
+   artifactId: maven-plugin-set-license
+

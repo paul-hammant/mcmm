@@ -1,0 +1,13 @@
+metadata:
+ groupId: de.aliceice
+ artifactId: humanoid
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version:
+   - 0.1.1
+   - '0.2'
+   - '1.0'
+  lastUpdated: '20170421152155'
+

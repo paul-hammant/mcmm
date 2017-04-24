@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.springframework.amqp
+ artifactId: spring-rabbit-junit
+ versioning:
+  latest: 1.7.2.RELEASE
+  release: 1.7.2.RELEASE
+  versions:
+   version:
+   - 1.7.0.RELEASE
+   - 1.7.1.RELEASE
+   - 1.7.2.RELEASE
+  lastUpdated: '20170418174938'
+

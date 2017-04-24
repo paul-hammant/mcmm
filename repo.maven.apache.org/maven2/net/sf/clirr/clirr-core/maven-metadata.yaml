@@ -1,0 +1,8 @@
+metadata:
+ groupId: net.sf.clirr
+ artifactId: clirr-core
+ version: '0.6'
+ versioning:
+  versions:
+   version: '0.6'
+

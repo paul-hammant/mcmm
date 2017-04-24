@@ -1,0 +1,12 @@
+metadata:
+ groupId: cz.abclinuxu.datoveschranky
+ artifactId: isds
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0.Alpha
+   - 1.1.0
+  lastUpdated: '20170211192734'
+

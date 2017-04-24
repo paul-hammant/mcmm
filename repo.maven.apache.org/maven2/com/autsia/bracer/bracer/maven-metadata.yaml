@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.autsia.bracer
+ artifactId: bracer
+ versioning:
+  latest: '6.0'
+  release: '6.0'
+  versions:
+   version: '6.0'
+  lastUpdated: '20130311145831'
+

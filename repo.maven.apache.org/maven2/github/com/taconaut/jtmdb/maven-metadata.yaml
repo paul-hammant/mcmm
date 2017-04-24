@@ -1,0 +1,10 @@
+metadata:
+ groupId: github.com.taconaut
+ artifactId: jtmdb
+ versioning:
+  latest: 1.9.17
+  release: 1.9.17
+  versions:
+   version: 1.9.17
+  lastUpdated: '20120411211738'
+

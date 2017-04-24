@@ -1,0 +1,8 @@
+metadata:
+ groupId: opensymphony
+ artifactId: oscore
+ version: 2.2.4
+ versioning:
+  versions:
+   version: 2.2.4
+

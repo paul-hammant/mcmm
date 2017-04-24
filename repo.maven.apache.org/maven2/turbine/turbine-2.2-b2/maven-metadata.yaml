@@ -1,0 +1,8 @@
+metadata:
+ groupId: turbine
+ artifactId: turbine-2.2-b2
+ version: dev
+ versioning:
+  versions:
+   version: dev
+

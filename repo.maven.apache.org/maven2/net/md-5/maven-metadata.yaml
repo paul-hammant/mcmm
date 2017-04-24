@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Native ARchive plugin for Maven
+   prefix: nar
+   artifactId: nar-maven-plugin
+  - name: Scriptus
+   prefix: scriptus
+   artifactId: scriptus
+  - name: Simulare
+   prefix: simulare
+   artifactId: simulare
+  - name: SpecialSourceMP
+   prefix: specialsource
+   artifactId: specialsource-maven-plugin
+

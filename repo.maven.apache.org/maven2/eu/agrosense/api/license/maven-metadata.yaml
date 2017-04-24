@@ -1,0 +1,12 @@
+metadata:
+ groupId: eu.agrosense.api
+ artifactId: license
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20131106215340'
+

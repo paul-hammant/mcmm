@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.univ-lille.cristal
+ artifactId: n2s3_2.11
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20161104161628'
+

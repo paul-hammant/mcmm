@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Properties Maven Plugin
+   prefix: yaml-properties
+   artifactId: yaml-properties-maven-plugin
+

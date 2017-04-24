@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scaldi
+ artifactId: scaldi-akka_2.12
+ versioning:
+  latest: 0.5.8
+  release: 0.5.8
+  versions:
+   version: 0.5.8
+  lastUpdated: '20161103190233'
+

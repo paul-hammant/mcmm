@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.aliyun.openservices
+ artifactId: log-for-test
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20161029090942'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: dk.apaq.vaadin.addon
+ artifactId: crudcontainer-demo
+ versioning:
+  latest: 1.1.14
+  release: 1.1.14
+  versions:
+   version:
+   - 1.1.10
+   - 1.1.11
+   - 1.1.12
+   - 1.1.13
+   - 1.1.14
+  lastUpdated: '20120705092555'
+

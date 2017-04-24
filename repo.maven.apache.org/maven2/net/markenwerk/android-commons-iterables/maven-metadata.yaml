@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.markenwerk
+ artifactId: android-commons-iterables
+ versioning:
+  latest: 2.2.1
+  release: 2.2.1
+  versions:
+   version:
+   - 2.2.0
+   - 2.2.1
+  lastUpdated: '20160418073818'
+

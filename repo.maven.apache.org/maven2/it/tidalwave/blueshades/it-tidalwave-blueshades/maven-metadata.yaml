@@ -1,0 +1,14 @@
+metadata:
+ groupId: it.tidalwave.blueshades
+ artifactId: it-tidalwave-blueshades
+ versioning:
+  latest: 1.0-ALPHA-8
+  release: 1.0-ALPHA-8
+  versions:
+   version:
+   - 1.0-ALPHA-5
+   - 1.0-ALPHA-6
+   - 1.0-ALPHA-7
+   - 1.0-ALPHA-8
+  lastUpdated: '20130328225557'
+

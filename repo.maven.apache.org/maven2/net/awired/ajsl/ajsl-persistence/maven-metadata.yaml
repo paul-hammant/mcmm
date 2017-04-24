@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.awired.ajsl
+ artifactId: ajsl-persistence
+ versioning:
+  latest: '0.4'
+  release: '0.4'
+  versions:
+   version:
+   - 0.2.1
+   - '0.3'
+   - '0.4'
+  lastUpdated: '20120117001230'
+

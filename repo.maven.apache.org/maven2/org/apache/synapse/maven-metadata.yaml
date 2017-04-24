@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Apache Synapse - XAR Maven Plugin
+   prefix: synapse-xar
+   artifactId: synapse-xar-maven-plugin
+

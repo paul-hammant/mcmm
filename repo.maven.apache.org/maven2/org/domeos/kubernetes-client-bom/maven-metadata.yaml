@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.domeos
+ artifactId: kubernetes-client-bom
+ versioning:
+  latest: 1.4.1
+  release: 1.4.1
+  versions:
+   version:
+   - '1.4'
+   - 1.4.1
+  lastUpdated: '20170103021136'
+

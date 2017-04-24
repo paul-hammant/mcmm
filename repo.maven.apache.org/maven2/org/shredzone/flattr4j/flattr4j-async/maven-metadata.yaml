@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.shredzone.flattr4j
+ artifactId: flattr4j-async
+ versioning:
+  latest: '2.14'
+  release: '2.14'
+  versions:
+   version:
+   - '2.9'
+   - '2.10'
+   - '2.11'
+   - '2.12'
+   - '2.13'
+   - '2.14'
+  lastUpdated: '20170414121451'
+

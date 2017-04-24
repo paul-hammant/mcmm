@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.fusesource.joram-jms-tests
+ artifactId: joram-jms-tests
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20120725140256'
+

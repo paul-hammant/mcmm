@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mdedetrich
+ artifactId: scala-json-ast_sjs0.6_2.12.0-RC1
+ versioning:
+  latest: 1.0.0-M3
+  release: 1.0.0-M3
+  versions:
+   version: 1.0.0-M3
+  lastUpdated: '20161013121401'
+

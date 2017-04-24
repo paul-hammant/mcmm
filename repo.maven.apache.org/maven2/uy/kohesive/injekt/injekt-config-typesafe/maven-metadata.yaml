@@ -1,0 +1,15 @@
+metadata:
+ groupId: uy.kohesive.injekt
+ artifactId: injekt-config-typesafe
+ versioning:
+  latest: 1.4.1
+  release: 1.4.1
+  versions:
+   version:
+   - 1.3.0
+   - 1.3.1
+   - 1.3.2
+   - 1.4.0
+   - 1.4.1
+  lastUpdated: '20150906223802'
+

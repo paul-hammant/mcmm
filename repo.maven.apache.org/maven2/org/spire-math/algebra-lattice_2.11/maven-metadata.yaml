@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.spire-math
+ artifactId: algebra-lattice_2.11
+ versioning:
+  latest: 0.4.2
+  release: 0.4.2
+  versions:
+   version:
+   - 0.4.0
+   - 0.4.1
+   - 0.4.2
+  lastUpdated: '20160425151759'
+

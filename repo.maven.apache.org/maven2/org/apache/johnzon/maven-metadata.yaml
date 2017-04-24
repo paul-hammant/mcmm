@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Johnzon :: Maven Plugin'
+   prefix: johnzon
+   artifactId: johnzon-maven-plugin
+

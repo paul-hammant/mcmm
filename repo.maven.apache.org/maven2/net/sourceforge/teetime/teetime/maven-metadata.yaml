@@ -1,0 +1,17 @@
+metadata:
+ groupId: net.sourceforge.teetime
+ artifactId: teetime
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version:
+   - 1.0-RC1
+   - '1.0'
+   - '1.1'
+   - 1.1.1
+   - 1.1.2
+   - '2.0'
+   - '2.1'
+  lastUpdated: '20160222141122'
+

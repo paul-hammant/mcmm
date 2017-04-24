@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.wink
+ artifactId: wink-scripts
+ versioning:
+  latest: 1.0-incubating
+  release: 1.0-incubating
+  versions:
+   version:
+   - 0.1-incubating
+   - 1.0-incubating
+  lastUpdated: '20091109153527'
+

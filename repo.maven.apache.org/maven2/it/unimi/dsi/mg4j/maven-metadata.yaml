@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.unimi.dsi
+ artifactId: mg4j
+ versioning:
+  latest: 4.0.3
+  release: 4.0.3
+  versions:
+   version: 4.0.3
+  lastUpdated: '20120227101624'
+

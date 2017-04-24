@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.dubboclub
+ artifactId: DubboM-all
+ versioning:
+  latest: BF-EF-1.0.0
+  release: BF-EF-1.0.0
+  versions:
+   version:
+   - BE-FE-1.0.1
+   - BF-EF-1.0.0
+  lastUpdated: '20160329093418'
+

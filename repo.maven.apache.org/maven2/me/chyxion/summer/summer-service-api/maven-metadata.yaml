@@ -1,0 +1,12 @@
+metadata:
+ groupId: me.chyxion.summer
+ artifactId: summer-service-api
+ versioning:
+  latest: 0.0.2-RELEASE
+  release: 0.0.2-RELEASE
+  versions:
+   version:
+   - 0.0.1-RELEASE
+   - 0.0.2-RELEASE
+  lastUpdated: '20161214030918'
+

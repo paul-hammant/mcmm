@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: '1-and-1 :: FOSS Libraries useable by Apache Maven'
+   prefix: onoshared
+   artifactId: ono-maven-shared
+

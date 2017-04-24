@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.trailsframework
+ artifactId: trails-conversations
+ version: 0.0.1
+ versioning:
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20090220064240'
+

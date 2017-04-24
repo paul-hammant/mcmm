@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scala-graph
+ artifactId: graph-core_sjs0.6_2.12
+ versioning:
+  latest: 1.11.4
+  release: 1.11.4
+  versions:
+   version: 1.11.4
+  lastUpdated: '20170106183129'
+

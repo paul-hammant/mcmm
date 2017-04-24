@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.gvnix
+ artifactId: org.gvnix.roo.addon.repository
+ versioning:
+  latest: 2.0.0.M1
+  release: 2.0.0.M1
+  versions:
+   version: 2.0.0.M1
+  lastUpdated: '20150629100744'
+

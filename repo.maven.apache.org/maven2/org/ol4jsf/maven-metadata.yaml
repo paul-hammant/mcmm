@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-jsf-plugin Maven Mojo
+   prefix: jsf
+   artifactId: maven-jsf-plugin
+

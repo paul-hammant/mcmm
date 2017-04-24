@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: first-maven-plugin Maven Mojo
+   prefix: koara
+   artifactId: koara-maven-plugin
+

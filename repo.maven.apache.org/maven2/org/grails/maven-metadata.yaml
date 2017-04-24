@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven plugin for GRAILS applications
+   prefix: grails
+   artifactId: grails-maven-plugin
+

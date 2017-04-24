@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: webjars-maven-plugin Maven Mojo
+   prefix: webjars
+   artifactId: webjars-maven-plugin
+

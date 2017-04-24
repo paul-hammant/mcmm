@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Database Plugin
+   prefix: database
+   artifactId: database-maven-plugin
+

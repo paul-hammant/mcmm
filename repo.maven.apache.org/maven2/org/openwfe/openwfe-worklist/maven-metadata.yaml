@@ -1,0 +1,8 @@
+metadata:
+ groupId: org.openwfe
+ artifactId: openwfe-worklist
+ version: 1.7.0pre4
+ versioning:
+  versions:
+   version: 1.7.0pre4
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: it.tidalwave.solidblue
+ artifactId: it-tidalwave-solidblue-macosx
+ versioning:
+  latest: 1.0-ALPHA-6
+  release: 1.0-ALPHA-6
+  versions:
+   version:
+   - 1.0-ALPHA-5
+   - 1.0-ALPHA-6
+  lastUpdated: '20120517104241'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: ch.maxant
+ artifactId: genericconnector-bitronix-impl
+ versioning:
+  latest: 2.1.0
+  release: 2.1.0
+  versions:
+   version: 2.1.0
+  lastUpdated: '20151005184534'
+

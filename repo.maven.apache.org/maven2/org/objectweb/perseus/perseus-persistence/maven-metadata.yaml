@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.objectweb.perseus
+ artifactId: perseus-persistence
+ version: 1.5.4
+ versioning:
+  versions:
+   version:
+   - 1.5.4
+   - 1.6.1
+  lastUpdated: '20071211164137'
+

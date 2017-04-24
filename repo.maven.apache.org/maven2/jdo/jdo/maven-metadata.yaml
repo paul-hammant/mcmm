@@ -1,0 +1,10 @@
+metadata:
+ groupId: jdo
+ artifactId: jdo
+ version: 2.0-beta
+ versioning:
+  versions:
+   version:
+   - 2.0-beta
+   - 2.0-snapshot4
+

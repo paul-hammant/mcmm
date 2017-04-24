@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Maven Drools Support :: Plugin :: MOJOs'
+   prefix: drools
+   artifactId: maven-drools-plugin
+

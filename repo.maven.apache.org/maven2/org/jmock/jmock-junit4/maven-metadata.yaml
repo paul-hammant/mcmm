@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.jmock
+ artifactId: jmock-junit4
+ versioning:
+  latest: 2.8.2
+  release: 2.8.2
+  versions:
+   version:
+   - 2.6.0
+   - 2.8.0
+   - 2.8.1
+   - 2.8.2
+  lastUpdated: '20160125222711'
+

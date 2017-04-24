@@ -1,0 +1,10 @@
+metadata:
+ groupId: edu.msudenver.cs
+ artifactId: JCLO
+ versioning:
+  latest: 1.3.5
+  release: 1.3.5
+  versions:
+   version: 1.3.5
+  lastUpdated: '20170221175036'
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Buildmetadata Maven Plugin
+   prefix: buildmetadata
+   artifactId: buildmetadata-maven-plugin
+  - name: ${project.artifactId}
+   prefix: smartics-jboss-modules
+   artifactId: smartics-jboss-modules-maven-plugin
+

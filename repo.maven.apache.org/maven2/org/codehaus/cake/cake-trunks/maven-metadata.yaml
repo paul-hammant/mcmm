@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.codehaus.cake
+ artifactId: cake-trunks
+ version: '1'
+ versioning:
+  versions:
+   version: '1'
+  lastUpdated: '20081130203126'
+

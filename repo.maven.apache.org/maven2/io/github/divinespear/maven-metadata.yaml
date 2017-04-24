@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jpa-schema-maven-plugin
+   prefix: jpa-schema
+   artifactId: jpa-schema-maven-plugin
+

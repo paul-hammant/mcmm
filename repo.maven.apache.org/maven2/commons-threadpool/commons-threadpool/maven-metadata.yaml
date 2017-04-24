@@ -1,0 +1,10 @@
+metadata:
+ groupId: commons-threadpool
+ artifactId: commons-threadpool
+ version: 1.0-dev.20021010.081157
+ versioning:
+  versions:
+   version:
+   - 1.0-dev.20021010.081157
+   - '20030513.073905'
+

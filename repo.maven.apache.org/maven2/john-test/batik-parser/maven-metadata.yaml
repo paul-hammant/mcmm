@@ -1,0 +1,9 @@
+metadata:
+ groupId: john-test
+ artifactId: batik-parser
+ versioning:
+  versions:
+   version:
+   - '1.6'
+   - '1.5'
+

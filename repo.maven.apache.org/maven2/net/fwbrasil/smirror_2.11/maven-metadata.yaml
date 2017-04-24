@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.fwbrasil
+ artifactId: smirror_2.11
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version: '0.9'
+  lastUpdated: '20140920163252'
+

@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: jintention
+ artifactId: jin-collections
+ versioning:
+  latest: 0.6.1
+  release: 0.6.1
+  versions:
+   version: 0.6.1
+  lastUpdated: '20110815180104'
+

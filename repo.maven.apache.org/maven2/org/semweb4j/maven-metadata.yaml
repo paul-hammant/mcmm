@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Semweb4j RDFReactor code generator Maven Mojo
+   prefix: rdfreactor
+   artifactId: rdfreactor-maven-plugin
+

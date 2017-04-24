@@ -1,0 +1,16 @@
+metadata:
+ groupId: javax.xml.ws
+ artifactId: jaxws-api
+ versioning:
+  latest: 2.2.11
+  release: 2.2.11
+  versions:
+   version:
+   - 2.2.6
+   - 2.2.7
+   - 2.2.8
+   - 2.2.9
+   - 2.2.10
+   - 2.2.11
+  lastUpdated: '20130405163923'
+

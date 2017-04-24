@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Gemfile Maven Pugin
+   prefix: gemfile
+   artifactId: gemfile-maven-plugin
+  - name: gradle-maven-plugin Maven Mojo
+   prefix: gradle
+   artifactId: gradle-maven-plugin
+

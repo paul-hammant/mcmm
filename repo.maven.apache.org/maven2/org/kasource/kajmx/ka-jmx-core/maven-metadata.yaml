@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.kasource.kajmx
+ artifactId: ka-jmx-core
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+  lastUpdated: '20131003090225'
+

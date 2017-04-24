@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Docbkx Maven Plugin Builder
+   prefix: docbkx-builder
+   artifactId: docbkx-builder-maven-plugin
+  - name: Docbkx FOP Support
+   prefix: docbkx-fop-support
+   artifactId: docbkx-fop-support
+  - name: Docbkx Maven Plugin
+   prefix: docbkx
+   artifactId: docbkx-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.datomic
+ artifactId: client.wire-specs
+ versioning:
+  latest: 0.1.21
+  release: 0.1.21
+  versions:
+   version: 0.1.21
+  lastUpdated: '20161127190803'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.bazaarvoice.commons.scala
+ artifactId: commons-scala-control-flow_2.11
+ versioning:
+  latest: '0.14'
+  release: '0.14'
+  versions:
+   version:
+   - '0.13'
+   - '0.14'
+  lastUpdated: '20160309194122'
+

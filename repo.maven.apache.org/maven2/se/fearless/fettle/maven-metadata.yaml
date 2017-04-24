@@ -1,0 +1,13 @@
+metadata:
+ groupId: se.fearless
+ artifactId: fettle
+ versioning:
+  latest: 0.8.4
+  release: 0.8.4
+  versions:
+   version:
+   - 0.8.1
+   - 0.8.2
+   - 0.8.4
+  lastUpdated: '20141217104509'
+

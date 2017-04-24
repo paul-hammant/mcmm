@@ -1,0 +1,11 @@
+metadata:
+ groupId: fulcrum
+ artifactId: fulcrum
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 3.0-b1
+   - 3.0-b2-dev
+

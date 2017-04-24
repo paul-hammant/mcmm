@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.ow2.weblab
+ artifactId: weblab-se-orchestra
+ version: 1.0-SNAPSHOT
+ versioning:
+  versions:
+   version:
+   - 1.0-SNAPSHOT
+   - '1.0'
+   - '1.1'
+   - 1.2-SNAPSHOT
+  lastUpdated: '20110624123505'
+

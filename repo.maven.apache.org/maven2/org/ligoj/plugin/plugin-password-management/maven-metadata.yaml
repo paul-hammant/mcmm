@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ligoj.plugin
+ artifactId: plugin-password-management
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+  lastUpdated: '20170413222708'
+

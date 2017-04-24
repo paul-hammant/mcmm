@@ -1,0 +1,70 @@
+metadata:
+ plugins:
+  plugin:
+  - name: App Lifecycle Maven Plugin
+   prefix: app-lifecycle
+   artifactId: app-lifecycle-maven-plugin
+  - prefix: attach-artifact
+   artifactId: attach-artifact-maven-plugin
+  - prefix: bundle-publisher
+   artifactId: bundle-publisher-maven-plugin
+  - name: JarJar Maven Plugin
+   prefix: jarjar
+   artifactId: jarjar-maven-plugin
+  - name: Jscoverage Maven Plugin
+   prefix: jscoverage
+   artifactId: jscoverage-maven-plugin
+  - name: maven-properties-plugin
+   prefix: properties
+   artifactId: maven-properties-plugin
+  - name: Repository-Collector Maven Plugin
+   prefix: repository-collector
+   artifactId: maven-repository-collector-plugin
+  - name: 'Sonatype Runtime :: Runtime Assembler Maven Plugin'
+   prefix: runtime-assembler
+   artifactId: maven-runtime-assembler-plugin
+  - prefix: upload
+   artifactId: maven-upload-plugin
+  - name: Maven Version Plugin
+   prefix: version
+   artifactId: maven-version-plugin
+  - name: Modello Upgrade Generator Plugin
+   prefix: modelloupgrade
+   artifactId: modello-plugin-upgrade
+  - name: Munge Maven Plugin
+   prefix: munge
+   artifactId: munge-maven-plugin
+  - name: Nexus M2-Settings Maven Plugin
+   prefix: nexus-m2settings
+   artifactId: nexus-m2settings-maven-plugin
+  - name: Nexus Plugin for Maven
+   prefix: nexus
+   artifactId: nexus-maven-plugin
+  - name: Nexus Staging Maven Plugin
+   prefix: nexus-staging
+   artifactId: nexus-staging-maven-plugin
+  - name: Nexus Test Environment maven-plugin
+   prefix: nexus-test-environment
+   artifactId: nexus-test-environment-maven-plugin
+  - name: Sonatype Plexus Plugin
+   prefix: plx
+   artifactId: plx-maven-plugin
+  - name: Port Allocator Plugin
+   prefix: port-allocator
+   artifactId: port-allocator-maven-plugin
+  - prefix: provided-dependencies
+   artifactId: provided-dependencies-maven-plugin
+  - prefix: sisubridge
+   artifactId: sisu-maven-bridge-maven-plugin
+  - name: Sisu Maven Plugin
+   prefix: sisu
+   artifactId: sisu-maven-plugin
+  - prefix: tattletale
+   artifactId: tattletale-maven-plugin
+  - name: Sonatype Wait Plugin
+   prefix: wait
+   artifactId: wait-maven-plugin
+  - name: YUI Compressor Maven Plugin
+   prefix: yuicompressor
+   artifactId: yuicompressor-maven-plugin
+

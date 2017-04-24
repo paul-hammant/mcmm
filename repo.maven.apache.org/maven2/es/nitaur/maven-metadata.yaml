@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Sass CSS Maven Plugin
+   prefix: sasscss
+   artifactId: sasscss-maven-plugin
+

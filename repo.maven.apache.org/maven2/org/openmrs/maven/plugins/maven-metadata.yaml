@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: OpenMRS SDK Docker Maven Plugin
+   prefix: openmrs-sdk-docker
+   artifactId: openmrs-sdk-docker-maven-plugin
+  - name: OpenMRS SDK Maven Plugin
+   prefix: openmrs-sdk
+   artifactId: openmrs-sdk-maven-plugin
+

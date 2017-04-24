@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.diozero
+ artifactId: diozero-provider-jdkdio10
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version:
+   - '0.6'
+   - '0.7'
+   - '0.8'
+   - '0.9'
+  lastUpdated: '20170222172521'
+

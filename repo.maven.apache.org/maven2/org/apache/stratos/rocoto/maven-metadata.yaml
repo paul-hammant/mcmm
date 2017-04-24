@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.stratos
+ artifactId: rocoto
+ versioning:
+  latest: '6.1'
+  release: '6.1'
+  versions:
+   version: '6.1'
+  lastUpdated: '20150906060805'
+

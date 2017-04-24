@@ -1,0 +1,16 @@
+metadata:
+ groupId: io.konik
+ artifactId: itext-carriage
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+   - 0.5.0
+   - 0.7.0
+   - 0.7.1
+   - 0.8.0
+  lastUpdated: '20140916161539'
+

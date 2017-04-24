@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sonatype.forge
+ artifactId: license-headers
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20120206160839'
+

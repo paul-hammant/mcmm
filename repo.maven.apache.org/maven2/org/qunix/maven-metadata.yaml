@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven structure plugin
+   prefix: structure
+   artifactId: structure-maven-plugin
+

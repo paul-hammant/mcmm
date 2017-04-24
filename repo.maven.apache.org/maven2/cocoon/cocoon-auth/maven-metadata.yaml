@@ -1,0 +1,7 @@
+metadata:
+ groupId: cocoon
+ artifactId: cocoon-auth
+ versioning:
+  versions:
+   version: 2.1.11
+

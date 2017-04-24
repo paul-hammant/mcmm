@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.sourceforge.wicketwebbeans.examples
+ artifactId: wicketwebbeans-examples
+ version: 1.0-rc2
+ versioning:
+  versions:
+   version:
+   - 1.0-rc2
+   - 1.0-rc2-wicket-1.2.6
+   - 1.0-SNAPSHOT-wicket-1.2.6
+   - '1.0'
+  lastUpdated: '20080112184916'
+

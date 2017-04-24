@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.att.woorea
+ artifactId: jersey2-connector
+ versioning:
+  latest: 3.3.27
+  release: 3.3.27
+  versions:
+   version: 3.3.27
+  lastUpdated: '20170420204715'
+

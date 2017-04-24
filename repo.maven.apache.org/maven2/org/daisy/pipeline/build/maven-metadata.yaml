@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'DAISY Pipeline 2 :: Modules Build Helper'
+   prefix: modules-build-helper
+   artifactId: modules-build-helper
+

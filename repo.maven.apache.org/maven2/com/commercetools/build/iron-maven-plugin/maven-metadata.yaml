@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: iron-maven-plugin
+   prefix: iron
+   artifactId: iron-maven-plugin
+

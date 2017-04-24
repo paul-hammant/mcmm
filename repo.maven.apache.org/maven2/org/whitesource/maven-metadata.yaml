@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: White Source maven plugin
+   prefix: whitesource
+   artifactId: whitesource-maven-plugin
+

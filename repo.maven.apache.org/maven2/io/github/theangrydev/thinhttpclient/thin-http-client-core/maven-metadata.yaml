@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.theangrydev.thinhttpclient
+ artifactId: thin-http-client-core
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20161016233635'
+

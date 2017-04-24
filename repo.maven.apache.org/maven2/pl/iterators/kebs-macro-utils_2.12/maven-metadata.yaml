@@ -1,0 +1,12 @@
+metadata:
+ groupId: pl.iterators
+ artifactId: kebs-macro-utils_2.12
+ versioning:
+  latest: 1.4.1
+  release: 1.4.1
+  versions:
+   version:
+   - 1.4.0
+   - 1.4.1
+  lastUpdated: '20170321142152'
+

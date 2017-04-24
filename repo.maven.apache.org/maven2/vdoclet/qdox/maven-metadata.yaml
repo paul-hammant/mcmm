@@ -1,0 +1,8 @@
+metadata:
+ groupId: vdoclet
+ artifactId: qdox
+ version: current
+ versioning:
+  versions:
+   version: current
+

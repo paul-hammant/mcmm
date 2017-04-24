@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.k3nn
+ artifactId: k3nn
+ versioning:
+  latest: '0.01'
+  release: '0.01'
+  versions:
+   version: '0.01'
+  lastUpdated: '20150916193533'
+

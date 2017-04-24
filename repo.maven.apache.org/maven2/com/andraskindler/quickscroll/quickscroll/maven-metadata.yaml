@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.andraskindler.quickscroll
+ artifactId: quickscroll
+ versioning:
+  latest: 0.9.8
+  release: 0.9.8
+  versions:
+   version: 0.9.8
+  lastUpdated: '20140114004350'
+

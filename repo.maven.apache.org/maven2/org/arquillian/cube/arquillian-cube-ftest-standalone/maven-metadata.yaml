@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.arquillian.cube
+ artifactId: arquillian-cube-ftest-standalone
+ versioning:
+  latest: 1.0.0.Alpha5
+  release: 1.0.0.Alpha5
+  versions:
+   version:
+   - 1.0.0.Alpha4
+   - 1.0.0.Alpha5
+  lastUpdated: '20150408085311'
+

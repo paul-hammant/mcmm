@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: fastup-maven-plugin
+   prefix: fastup
+   artifactId: fastup-maven-plugin
+  - name: S3 upload maven plugin
+   prefix: s3-upload
+   artifactId: s3-upload-maven-plugin
+

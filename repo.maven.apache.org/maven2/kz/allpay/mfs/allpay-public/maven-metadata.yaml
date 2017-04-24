@@ -1,0 +1,10 @@
+metadata:
+ groupId: kz.allpay.mfs
+ artifactId: allpay-public
+ versioning:
+  latest: 2.0.8.1
+  release: 2.0.8.1
+  versions:
+   version: 2.0.8.1
+  lastUpdated: '20161226134131'
+

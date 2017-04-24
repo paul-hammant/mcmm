@@ -1,0 +1,14 @@
+metadata:
+ groupId: maven
+ artifactId: maven-jira-plugin
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - 1.1.1
+   - 1.1.2
+   - '1.2'
+   - '1.3'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.psnively
+ artifactId: spring_scala_4-2-0_2.11
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20150930184312'
+

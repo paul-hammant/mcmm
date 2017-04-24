@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ecs-mvn-plugin
+   prefix: ecs-mvn
+   artifactId: ecs-mvn-plugin
+

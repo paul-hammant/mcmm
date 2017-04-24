@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.elasolutions
+ artifactId: elaUtils
+ versioning:
+  latest: 1.0.3
+  release: 1.0.3
+  versions:
+   version: 1.0.3
+  lastUpdated: '20141210052415'
+

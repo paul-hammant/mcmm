@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.springframework.roo
+ artifactId: org.springframework.roo.addon.web.mvc.controller.addon
+ versioning:
+  latest: 2.0.0.RC1
+  release: 2.0.0.RC1
+  versions:
+   version:
+   - 2.0.0.M1
+   - 2.0.0.M2
+   - 2.0.0.M3
+   - 2.0.0.RC1
+  lastUpdated: '20170303130748'
+

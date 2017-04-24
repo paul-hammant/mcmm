@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.daisy.libs
+ artifactId: io.bit3.jsass
+ versioning:
+  latest: 4.1.0-p1
+  release: 4.1.0-p1
+  versions:
+   version: 4.1.0-p1
+  lastUpdated: '20160314205157'
+

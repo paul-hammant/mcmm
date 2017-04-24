@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SEAF Maven plugin
+   prefix: seaf
+   artifactId: seaf-maven-plugin
+

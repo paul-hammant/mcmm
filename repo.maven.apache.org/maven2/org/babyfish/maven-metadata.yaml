@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: babyfish-instrument-maven-plugin
+   prefix: babyfish-instrument
+   artifactId: babyfish-instrument-maven-plugin
+

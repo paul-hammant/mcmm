@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.datomic
+ artifactId: datomic-lucene-core
+ versioning:
+  latest: 3.3.0
+  release: 3.3.0
+  versions:
+   version: 3.3.0
+  lastUpdated: '20131213164128'
+

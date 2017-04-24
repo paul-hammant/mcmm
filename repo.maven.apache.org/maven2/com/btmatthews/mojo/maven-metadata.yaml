@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: LDAP Maven Plugin
+   prefix: ldap
+   artifactId: ldap-maven-plugin
+

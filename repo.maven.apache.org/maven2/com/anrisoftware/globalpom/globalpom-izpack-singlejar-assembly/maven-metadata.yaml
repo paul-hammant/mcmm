@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.anrisoftware.globalpom
+ artifactId: globalpom-izpack-singlejar-assembly
+ versioning:
+  latest: '1.5'
+  release: '1.5'
+  versions:
+   version:
+   - '1.4'
+   - '1.5'
+  lastUpdated: '20150512113550'
+

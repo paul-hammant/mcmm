@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.intarsys.opensource
+ artifactId: isnativec
+ versioning:
+  latest: '5.5'
+  release: '5.5'
+  versions:
+   version:
+   - '5.3'
+   - '5.5'
+  lastUpdated: '20130722024931'
+

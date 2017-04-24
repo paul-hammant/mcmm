@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.langrid
+ artifactId: axis-java8
+ versioning:
+  latest: 1.4-patch.2
+  release: 1.4-patch.2
+  versions:
+   version:
+   - '1.4'
+   - 1.4-patch.2
+  lastUpdated: '20170304044601'
+

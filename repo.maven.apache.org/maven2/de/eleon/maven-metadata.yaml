@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Report2Image
+   prefix: report2image
+   artifactId: report2image
+

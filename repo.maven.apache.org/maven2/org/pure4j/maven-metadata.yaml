@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Pure4J Maven Plugin
+   prefix: pure4j
+   artifactId: pure4j-maven-plugin
+

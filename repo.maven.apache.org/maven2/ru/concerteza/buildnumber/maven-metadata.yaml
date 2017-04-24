@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven JGit Build Number Plugin
+   prefix: jgit-buildnumber
+   artifactId: maven-jgit-buildnumber-plugin
+

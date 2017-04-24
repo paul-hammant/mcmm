@@ -1,0 +1,25 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven-Jaxws-Mojo
+   prefix: jaxws-mojo
+   artifactId: maven-jaxws-mojo
+  - name: Schema-Validation-Plugin
+   prefix: schema-validation
+   artifactId: schema-validation-plugin
+  - name: Smallmind-JavaFX-Mojo
+   prefix: smallmind-javafx-mojo
+   artifactId: smallmind-javafx-mojo
+  - name: License
+   prefix: smallmind-license
+   artifactId: smallmind-license-plugin
+  - name: Validation
+   prefix: smallmind-validation
+   artifactId: smallmind-validation-plugin
+  - name: Spark-Singularity-Mojo
+   prefix: spark-singularity-mojo
+   artifactId: spark-singularity-mojo
+  - name: Spark-Tanukisoft-Mojo
+   prefix: spark-tanukisoft-mojo
+   artifactId: spark-tanukisoft-mojo
+

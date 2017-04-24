@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: quattor build maven plugin
+   prefix: quattor-build
+   artifactId: quattor-build-maven-plugin
+

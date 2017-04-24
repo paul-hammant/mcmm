@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: spdx-maven-plugin Maven Plugin
+   prefix: spdx
+   artifactId: spdx-maven-plugin
+

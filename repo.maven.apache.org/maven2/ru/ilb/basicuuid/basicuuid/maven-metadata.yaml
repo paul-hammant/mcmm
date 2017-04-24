@@ -1,0 +1,10 @@
+metadata:
+ groupId: ru.ilb.basicuuid
+ artifactId: basicuuid
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20160412111951'
+

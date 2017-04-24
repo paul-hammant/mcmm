@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.aequologica.neo
+ artifactId: geppaequo-config
+ versioning:
+  latest: 0.5.1
+  release: 0.5.1
+  versions:
+   version:
+   - 0.4.2
+   - 0.4.3
+   - 0.4.4
+   - 0.5.0
+   - 0.5.1
+  lastUpdated: '20170109110909'
+

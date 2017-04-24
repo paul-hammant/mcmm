@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.spark-project.hive.hcatalog
+ artifactId: hive-webhcat-java-client
+ versioning:
+  latest: 1.2.1.spark2
+  release: 1.2.1.spark2
+  versions:
+   version:
+   - 1.2.1.spark
+   - 1.2.1.spark2
+  lastUpdated: '20160408014900'
+

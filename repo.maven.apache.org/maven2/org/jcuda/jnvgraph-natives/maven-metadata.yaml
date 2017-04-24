@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jcuda
+ artifactId: jnvgraph-natives
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version: 0.8.0
+  lastUpdated: '20170227193925'
+

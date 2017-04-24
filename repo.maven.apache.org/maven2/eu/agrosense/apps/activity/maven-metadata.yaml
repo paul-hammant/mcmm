@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.agrosense.apps
+ artifactId: activity
+ versioning:
+  latest: 14.02-beta
+  release: 14.02-beta
+  versions:
+   version: 14.02-beta
+  lastUpdated: '20140409235634'
+

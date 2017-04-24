@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Dream ADL : Maven Check ADL Plugin'
+   prefix: check-adl
+   artifactId: maven-check-adl-plugin
+

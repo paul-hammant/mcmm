@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.java.linoleum
+ artifactId: pdfview
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version:
+   - '1.1'
+   - '1.2'
+   - 1.2.1
+  lastUpdated: '20160902184958'
+

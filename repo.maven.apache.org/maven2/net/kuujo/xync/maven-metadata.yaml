@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.kuujo
+ artifactId: xync
+ versioning:
+  latest: 1.0.0-beta1
+  release: 1.0.0-beta1
+  versions:
+   version:
+   - 0.1.0-beta1
+   - 1.0.0-beta1
+  lastUpdated: '20140509051153'
+

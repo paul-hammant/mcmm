@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Multi Release JAR Maven Plugin
+   prefix: multi-release-jar
+   artifactId: multi-release-jar-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Baratine Maven Plugin
+   prefix: baratine
+   artifactId: baratine-maven-plugin
+

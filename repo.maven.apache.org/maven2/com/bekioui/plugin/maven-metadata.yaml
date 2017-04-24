@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Client Maven Plugin
+   prefix: client
+   artifactId: client-maven-plugin
+

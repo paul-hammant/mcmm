@@ -1,0 +1,14 @@
+metadata:
+ groupId: edu.washington.cs.knowitall
+ artifactId: openregex-scala_2.10
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.0.4
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20131031011936'
+

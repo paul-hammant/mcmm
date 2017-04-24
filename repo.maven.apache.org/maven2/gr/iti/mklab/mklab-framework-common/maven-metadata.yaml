@@ -1,0 +1,12 @@
+metadata:
+ groupId: gr.iti.mklab
+ artifactId: mklab-framework-common
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+  lastUpdated: '20160104134722'
+

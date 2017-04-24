@@ -1,0 +1,12 @@
+metadata:
+ groupId: edu.chop.research.dbhi
+ artifactId: dataexpress_2.11
+ versioning:
+  latest: 0.9.2
+  release: 0.9.2
+  versions:
+   version:
+   - 0.9.1.5.01.01
+   - 0.9.2
+  lastUpdated: '20160301021934'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: net.sourceforge.findbugs
+ artifactId: findbugs-ant
+ version: 1.0.0
+ versioning:
+  versions:
+   version: 1.0.0
+

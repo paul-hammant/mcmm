@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.scassandra
+ artifactId: cql-antlr
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20170224212709'
+

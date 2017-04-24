@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ${project.groupId}:${project.artifactId}
+   prefix: jnlp
+   artifactId: jnlp-maven-plugin
+  - name: ${project.groupId}:${project.artifactId}
+   prefix: repository-jarsign
+   artifactId: repository-jarsign-maven-plugin
+

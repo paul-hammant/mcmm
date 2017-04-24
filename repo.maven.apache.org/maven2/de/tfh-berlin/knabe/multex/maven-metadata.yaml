@@ -1,0 +1,7 @@
+metadata:
+ groupId: de.tfh-berlin.knabe
+ artifactId: multex
+ versioning:
+  versions:
+   version: '7.1'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.perfidix
+ artifactId: perfidix
+ versioning:
+  latest: 3.6.9
+  release: 3.6.9
+  versions:
+   version:
+   - 3.6.5
+   - 3.6.6
+   - 3.6.7
+   - 3.6.9
+  lastUpdated: '20131209112001'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: fitgoodies-maven-plugin Maven Plugin
+   prefix: fitgoodies
+   artifactId: fitgoodies-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Brew
+   prefix: brew
+   artifactId: brew
+

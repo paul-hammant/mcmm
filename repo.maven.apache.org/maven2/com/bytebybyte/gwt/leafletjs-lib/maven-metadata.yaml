@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.bytebybyte.gwt
+ artifactId: leafletjs-lib
+ versioning:
+  latest: 0.7.3
+  release: 0.7.3
+  versions:
+   version: 0.7.3
+  lastUpdated: '20140911220809'
+

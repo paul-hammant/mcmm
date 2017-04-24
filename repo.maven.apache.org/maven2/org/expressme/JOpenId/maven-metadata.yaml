@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.expressme
+ artifactId: JOpenId
+ versioning:
+  latest: '1.08'
+  release: '1.08'
+  versions:
+   version: '1.08'
+  lastUpdated: '20101117073842'
+

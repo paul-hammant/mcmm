@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.rootdev
+ artifactId: sesame-java-rdfa
+ version: 0.2-SNAPSHOT
+ versioning:
+  versions:
+   version: 0.2-SNAPSHOT
+  lastUpdated: '20090911123001'
+

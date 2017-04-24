@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: AndroidSvgDrawable Maven Plugin
+   prefix: null
+   artifactId: maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Blazebit JBake Maven-Plugin
+   prefix: jbake
+   artifactId: jbake-maven-plugin
+

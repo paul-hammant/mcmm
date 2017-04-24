@@ -1,0 +1,10 @@
+metadata:
+ groupId: ch.ethz.inf.vs
+ artifactId: scandium
+ versioning:
+  latest: 0.1.6-final
+  release: 0.1.6-final
+  versions:
+   version: 0.1.6-final
+  lastUpdated: '20140625101614'
+

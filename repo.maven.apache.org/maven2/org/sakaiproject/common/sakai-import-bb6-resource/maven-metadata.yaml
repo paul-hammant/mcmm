@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.sakaiproject.common
+ artifactId: sakai-import-bb6-resource
+ versioning:
+  latest: '11.3'
+  release: '11.3'
+  versions:
+   version:
+   - '11.0'
+   - '11.1'
+   - '11.2'
+   - '11.3'
+  lastUpdated: '20170224235950'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Xenei Contract Tests - Maven Plugin
+   prefix: contract-test
+   artifactId: contract-test-maven-plugin
+

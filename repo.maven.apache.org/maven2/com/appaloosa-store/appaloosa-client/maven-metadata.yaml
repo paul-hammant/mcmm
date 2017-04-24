@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.appaloosa-store
+ artifactId: appaloosa-client
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version: 1.2.1
+  lastUpdated: '20161014092023'
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Errai::Cordova::Maven Plugin
+   prefix: cordova
+   artifactId: cordova-maven-plugin
+  - name: 'JaCoCo :: GWT Maven Plugin'
+   prefix: jacoco-gwt
+   artifactId: jacoco-gwt-maven-plugin
+

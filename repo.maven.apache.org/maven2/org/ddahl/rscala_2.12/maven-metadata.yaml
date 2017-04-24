@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ddahl
+ artifactId: rscala_2.12
+ versioning:
+  latest: 1.0.15
+  release: 1.0.15
+  versions:
+   version:
+   - 1.0.14
+   - 1.0.15
+  lastUpdated: '20170208052810'
+

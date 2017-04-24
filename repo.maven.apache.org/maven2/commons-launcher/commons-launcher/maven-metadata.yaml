@@ -1,0 +1,10 @@
+metadata:
+ groupId: commons-launcher
+ artifactId: commons-launcher
+ version: '0.9'
+ versioning:
+  versions:
+   version:
+   - '0.9'
+   - '1.1'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: name.falgout.jeffrey
+ artifactId: throwing-streams
+ versioning:
+  latest: 3.1.0
+  release: 3.1.0
+  versions:
+   version:
+   - 3.0.0
+   - 3.1.0
+  lastUpdated: '20160901182557'
+

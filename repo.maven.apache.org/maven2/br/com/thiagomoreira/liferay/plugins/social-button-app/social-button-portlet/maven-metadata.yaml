@@ -1,0 +1,12 @@
+metadata:
+ groupId: br.com.thiagomoreira.liferay.plugins.social-button-app
+ artifactId: social-button-portlet
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20150217181719'
+

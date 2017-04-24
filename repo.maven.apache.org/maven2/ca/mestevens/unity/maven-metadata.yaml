@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: unity-maven-plugin
+   prefix: unity
+   artifactId: unity-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.unomi
+ artifactId: unomi-persistence-elasticsearch-core
+ versioning:
+  latest: 1.1.0-incubating
+  release: 1.1.0-incubating
+  versions:
+   version:
+   - 1.0.0-incubating
+   - 1.1.0-incubating
+  lastUpdated: '20161003132651'
+

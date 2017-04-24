@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.testcontainers
+ artifactId: docker-compose
+ versioning:
+  latest: 0.9.9
+  release: 0.9.9
+  versions:
+   version:
+   - 0.9.8
+   - 0.9.9
+  lastUpdated: '20160112163145'
+

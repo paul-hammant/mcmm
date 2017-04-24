@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: requs-maven-plugin
+   prefix: requs
+   artifactId: requs-maven-plugin
+

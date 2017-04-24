@@ -1,0 +1,10 @@
+metadata:
+ groupId: es.arcadiaconsulting.javapns
+ artifactId: javapns
+ versioning:
+  latest: 2.2-json
+  release: 2.2-json
+  versions:
+   version: 2.2-json
+  lastUpdated: '20150417114528'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.igniterealtime.jbosh
+ artifactId: jbosh
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version:
+   - 0.6.0
+   - 0.7.0
+   - 0.8.0
+   - 0.9.0
+  lastUpdated: '20170101232345'
+

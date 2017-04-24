@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sourceforge.javydreamercsw
+ artifactId: Card-Game-Interface
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version:
+   - 0.02.06
+   - '1.0'
+  lastUpdated: '20160624155114'
+

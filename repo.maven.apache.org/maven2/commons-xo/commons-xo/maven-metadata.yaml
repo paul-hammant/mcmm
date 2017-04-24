@@ -1,0 +1,11 @@
+metadata:
+ groupId: commons-xo
+ artifactId: commons-xo
+ version: '0.8'
+ versioning:
+  versions:
+   version:
+   - '0.8'
+   - 1.0-20020507
+   - 1.0-dev
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'SXC JAXB :: Maven Plugin'
+   prefix: sxc-jaxb
+   artifactId: sxc-jaxb-maven-plugin
+

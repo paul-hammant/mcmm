@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.gridkit.lab
+ artifactId: nimble-core
+ versioning:
+  latest: 0.2.4.1
+  release: 0.2.4.1
+  versions:
+   version:
+   - 0.2.4
+   - 0.2.4.1
+  lastUpdated: '20150421231408'
+

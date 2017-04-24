@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.sf.m-m-m
+ artifactId: mmm-l10n-fr
+ versioning:
+  latest: 1.4.0
+  release: 1.4.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.2.0
+   - 1.3.0
+   - 1.4.0
+  lastUpdated: '20160804211356'
+

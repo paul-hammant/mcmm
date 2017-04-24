@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.wildfly.camel
+ artifactId: wildfly-camel-testsuite
+ versioning:
+  latest: 1.0.0.CR1
+  release: 1.0.0.CR1
+  versions:
+   version:
+   - 1.0.0.Alpha1
+   - 1.0.0.CR1
+  lastUpdated: '20141017112314'
+

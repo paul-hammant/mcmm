@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.gini
+ artifactId: jersey-smime
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version: 0.3.0
+  lastUpdated: '20160114165855'
+

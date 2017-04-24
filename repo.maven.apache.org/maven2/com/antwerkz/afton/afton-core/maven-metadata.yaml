@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.antwerkz.afton
+ artifactId: afton-core
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20131109033319'
+

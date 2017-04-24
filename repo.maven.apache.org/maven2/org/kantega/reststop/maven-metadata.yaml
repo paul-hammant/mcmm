@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: reststop
+   artifactId: reststop-maven-plugin
+

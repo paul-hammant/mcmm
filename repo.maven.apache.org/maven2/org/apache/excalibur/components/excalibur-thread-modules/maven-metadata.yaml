@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.excalibur.components
+ artifactId: excalibur-thread-modules
+ version: '1'
+ versioning:
+  versions:
+   version: '1'
+  lastUpdated: '20070215204635'
+

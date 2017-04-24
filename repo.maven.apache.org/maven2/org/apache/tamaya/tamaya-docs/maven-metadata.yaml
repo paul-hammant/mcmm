@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.tamaya
+ artifactId: tamaya-docs
+ versioning:
+  latest: 0.2-incubating
+  release: 0.2-incubating
+  versions:
+   version:
+   - 0.1-incubating
+   - 0.2-incubating
+  lastUpdated: '20160414001847'
+

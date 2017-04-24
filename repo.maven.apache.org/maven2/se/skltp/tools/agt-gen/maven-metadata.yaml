@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: agt-gen-maven-plugin Maven Mojo
+   prefix: agt-gen
+   artifactId: agt-gen-maven-plugin
+

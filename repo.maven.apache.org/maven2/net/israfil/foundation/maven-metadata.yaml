@@ -1,0 +1,19 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: net.israfil
+ artifactId: foundation
+ versioning:
+  latest: '0.7'
+  release: '0.7'
+  versions:
+   version:
+   - jdk1.4-0.5
+   - jdk1.4-0.6
+   - jdk1.4-0.7
+   - jdk1.4-0.8
+   - jdk1.4-0.9
+   - '0.5'
+   - '0.6'
+   - '0.7'
+  lastUpdated: '20141102043435'
+

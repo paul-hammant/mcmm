@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.casualmiracles
+ artifactId: treelog_2.10
+ versioning:
+  latest: 1.2.2
+  release: 1.2.2
+  versions:
+   version:
+   - 1.1.0
+   - 1.2.0
+   - 1.2.1
+   - 1.2.2
+  lastUpdated: '20131219212551'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: opensymphony
+ artifactId: osuser
+ version: 1.0-dev
+ versioning:
+  versions:
+   version:
+   - 1.0-dev
+   - 1.0-20060106
+

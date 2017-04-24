@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: L10n Maven Plugin
+   prefix: l10n
+   artifactId: l10n-maven-plugin
+

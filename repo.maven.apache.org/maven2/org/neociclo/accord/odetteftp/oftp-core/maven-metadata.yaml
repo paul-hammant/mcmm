@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.neociclo.accord.odetteftp
+ artifactId: oftp-core
+ versioning:
+  latest: 1.2.0.RC1
+  release: 1.2.0.RC1
+  versions:
+   version:
+   - 1.2.0.Beta1
+   - 1.2.0.RC1
+  lastUpdated: '20101025135715'
+

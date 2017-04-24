@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.biopax.paxtools
+ artifactId: sbgn-converter
+ versioning:
+  latest: 5.0.0-beta1
+  release: 5.0.0-beta1
+  versions:
+   version:
+   - 4.3.1
+   - 5.0.0-beta1
+  lastUpdated: '20161115173045'
+

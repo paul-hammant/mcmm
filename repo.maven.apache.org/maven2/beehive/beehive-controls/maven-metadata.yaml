@@ -1,0 +1,8 @@
+metadata:
+ groupId: beehive
+ artifactId: beehive-controls
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

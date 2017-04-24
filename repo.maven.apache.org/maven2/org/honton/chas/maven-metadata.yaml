@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Checkstats Maven Plugin
+   prefix: checkstats
+   artifactId: checkstats-maven-plugin
+  - name: Dependency Manifest Maven Plugin
+   prefix: dependency
+   artifactId: dependency-maven-plugin
+  - name: Artifact Exists Maven Plugin
+   prefix: exists
+   artifactId: exists-maven-plugin
+  - name: Process execution maven plugin
+   prefix: process-exec
+   artifactId: process-exec-maven-plugin
+  - name: Test Pojos Maven Plugin
+   prefix: testpojo
+   artifactId: testpojo-maven-plugin
+

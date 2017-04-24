@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.twig4j
+ artifactId: core
+ versioning:
+  latest: 0.2.1-BETA
+  release: 0.2.1-BETA
+  versions:
+   version: 0.2.1-BETA
+  lastUpdated: '20170206174104'
+

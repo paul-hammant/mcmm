@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sourceforge
+ artifactId: kivu4j
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version: '2'
+  lastUpdated: '20120310064729'
+

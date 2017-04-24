@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.aol.microservices
+ artifactId: microserver-swagger
+ versioning:
+  latest: '0.61'
+  release: '0.61'
+  versions:
+   version:
+   - '0.60'
+   - '0.61'
+  lastUpdated: '20150804221725'
+

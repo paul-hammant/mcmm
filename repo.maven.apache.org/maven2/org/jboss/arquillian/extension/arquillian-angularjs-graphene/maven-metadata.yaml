@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.jboss.arquillian.extension
+ artifactId: arquillian-angularjs-graphene
+ versioning:
+  latest: 1.2.0.Beta1
+  release: 1.2.0.Beta1
+  versions:
+   version:
+   - 1.2.0.Alpha1
+   - 1.2.0.Beta1
+  lastUpdated: '20140929203409'
+

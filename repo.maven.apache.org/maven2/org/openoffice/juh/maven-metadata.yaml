@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.openoffice
+ artifactId: juh
+ versioning:
+  latest: 4.1.2
+  release: 4.1.2
+  versions:
+   version: 4.1.2
+  lastUpdated: '20151219161053'
+

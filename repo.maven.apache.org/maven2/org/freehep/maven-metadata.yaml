@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: FreeHEP Character Table Converter
+   prefix: freehep-chartable-converter
+   artifactId: freehep-chartable-converter-plugin
+

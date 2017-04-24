@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Swagger JAX-RS maven plugin
+   prefix: swagger-jaxrs
+   artifactId: swagger-jaxrs-maven-plugin
+

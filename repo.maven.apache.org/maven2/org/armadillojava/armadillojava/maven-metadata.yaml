@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.armadillojava
+ artifactId: armadillojava
+ versioning:
+  latest: 4.000.0
+  release: 4.000.0
+  versions:
+   version: 4.000.0
+  lastUpdated: '20140617121633'
+

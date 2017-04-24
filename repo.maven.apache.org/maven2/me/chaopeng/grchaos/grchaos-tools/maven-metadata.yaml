@@ -1,0 +1,12 @@
+metadata:
+ groupId: me.chaopeng.grchaos
+ artifactId: grchaos-tools
+ versioning:
+  latest: 1.0.0-alpha-2
+  release: 1.0.0-alpha-2
+  versions:
+   version:
+   - 1.0.0-alpha
+   - 1.0.0-alpha-2
+  lastUpdated: '20160624233559'
+

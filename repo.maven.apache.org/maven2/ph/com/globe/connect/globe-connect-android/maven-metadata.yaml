@@ -1,0 +1,13 @@
+metadata:
+ groupId: ph.com.globe.connect
+ artifactId: globe-connect-android
+ versioning:
+  latest: 0.0.7
+  release: 0.0.7
+  versions:
+   version:
+   - 0.0.5
+   - 0.0.6
+   - 0.0.7
+  lastUpdated: '20170105113344'
+

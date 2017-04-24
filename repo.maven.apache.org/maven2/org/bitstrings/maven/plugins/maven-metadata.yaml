@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: dependencypath-maven-plugin
+   prefix: dependencypath
+   artifactId: dependencypath-maven-plugin
+  - name: indexer-maven-plugin
+   prefix: indexer
+   artifactId: indexer-maven-plugin
+  - name: NBM Maven Plugin
+   prefix: nbm
+   artifactId: nbm-maven-plugin
+  - name: portallocator-maven-plugin
+   prefix: portallocator
+   artifactId: portallocator-maven-plugin
+  - name: Splasher Maven Plugin
+   prefix: splasher
+   artifactId: splasher-maven-plugin
+

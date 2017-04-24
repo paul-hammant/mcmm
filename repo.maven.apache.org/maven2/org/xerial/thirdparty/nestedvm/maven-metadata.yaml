@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.xerial.thirdparty
+ artifactId: nestedvm
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20080703024537'
+

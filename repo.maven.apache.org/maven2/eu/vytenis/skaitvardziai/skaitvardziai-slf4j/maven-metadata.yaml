@@ -1,0 +1,12 @@
+metadata:
+ groupId: eu.vytenis.skaitvardziai
+ artifactId: skaitvardziai-slf4j
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20170223210857'
+

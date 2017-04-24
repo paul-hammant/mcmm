@@ -1,0 +1,8 @@
+metadata:
+ groupId: locc
+ artifactId: locc
+ version: '4.2'
+ versioning:
+  versions:
+   version: '4.2'
+

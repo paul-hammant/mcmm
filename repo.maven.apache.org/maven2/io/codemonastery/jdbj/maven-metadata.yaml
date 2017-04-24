@@ -1,0 +1,15 @@
+metadata:
+ groupId: io.codemonastery
+ artifactId: jdbj
+ versioning:
+  latest: 0.1.20
+  release: 0.1.20
+  versions:
+   version:
+   - 0.1.13
+   - 0.1.14
+   - 0.1.15
+   - 0.1.16
+   - 0.1.20
+  lastUpdated: '20160827214840'
+

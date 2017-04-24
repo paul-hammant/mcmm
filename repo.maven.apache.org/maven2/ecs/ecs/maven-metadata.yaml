@@ -1,0 +1,10 @@
+metadata:
+ groupId: ecs
+ artifactId: ecs
+ version: 1.4.1
+ versioning:
+  versions:
+   version:
+   - 1.4.1
+   - 1.4.2
+

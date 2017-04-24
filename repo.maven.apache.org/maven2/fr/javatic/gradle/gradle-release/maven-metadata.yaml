@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.javatic.gradle
+ artifactId: gradle-release
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20140721180155'
+

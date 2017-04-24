@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.nczonline.web
+ artifactId: props2js
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20140319085639'
+

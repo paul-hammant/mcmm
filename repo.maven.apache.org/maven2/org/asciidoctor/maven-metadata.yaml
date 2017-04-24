@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Asciidoctor Maven Plugin
+   prefix: asciidoctor
+   artifactId: asciidoctor-maven-plugin
+

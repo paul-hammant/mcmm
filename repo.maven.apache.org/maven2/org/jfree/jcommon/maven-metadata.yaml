@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.jfree
+ artifactId: jcommon
+ versioning:
+  latest: 1.0.24
+  release: 1.0.24
+  versions:
+   version:
+   - 1.0.17
+   - 1.0.21
+   - 1.0.23
+   - 1.0.24
+  lastUpdated: '20170218162715'
+

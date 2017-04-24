@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: HawtJNI Maven Plugin
+   prefix: hawtjni
+   artifactId: maven-hawtjni-plugin
+

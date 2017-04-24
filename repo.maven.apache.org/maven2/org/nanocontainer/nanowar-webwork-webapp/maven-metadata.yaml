@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.nanocontainer
+ artifactId: nanowar-webwork-webapp
+ version: 1.1-RC-1
+ versioning:
+  versions:
+   version:
+   - 1.1-RC-1
+   - '1.1'
+  lastUpdated: '20070318141436'
+

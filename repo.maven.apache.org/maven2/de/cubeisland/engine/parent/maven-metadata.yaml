@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.cubeisland.engine
+ artifactId: parent
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20140324234046'
+

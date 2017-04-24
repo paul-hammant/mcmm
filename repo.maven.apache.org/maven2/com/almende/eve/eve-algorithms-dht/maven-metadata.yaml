@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.almende.eve
+ artifactId: eve-algorithms-dht
+ versioning:
+  latest: 3.1.1
+  release: 3.1.1
+  versions:
+   version:
+   - 3.1.0
+   - 3.1.1
+  lastUpdated: '20150330125211'
+

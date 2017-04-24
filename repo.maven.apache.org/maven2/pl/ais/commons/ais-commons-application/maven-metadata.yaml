@@ -1,0 +1,16 @@
+metadata:
+ groupId: pl.ais.commons
+ artifactId: ais-commons-application
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version:
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+   - 1.1.1
+   - 1.1.2
+   - 1.2.1
+  lastUpdated: '20151212065432'
+

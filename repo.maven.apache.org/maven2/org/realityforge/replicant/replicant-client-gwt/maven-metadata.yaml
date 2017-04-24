@@ -1,0 +1,29 @@
+metadata:
+ groupId: org.realityforge.replicant
+ artifactId: replicant-client-gwt
+ versioning:
+  latest: 0.5.78
+  release: 0.5.78
+  versions:
+   version:
+   - 0.5.60
+   - 0.5.61
+   - 0.5.62
+   - 0.5.63
+   - 0.5.64
+   - 0.5.65
+   - 0.5.66
+   - 0.5.67
+   - 0.5.68
+   - 0.5.69
+   - 0.5.70
+   - 0.5.71
+   - 0.5.72
+   - 0.5.73
+   - 0.5.74
+   - 0.5.75
+   - 0.5.76
+   - 0.5.77
+   - 0.5.78
+  lastUpdated: '20170321015752'
+

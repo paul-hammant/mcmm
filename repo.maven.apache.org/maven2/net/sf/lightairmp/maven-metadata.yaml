@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Light Air Maven Plugin
+   prefix: light-air
+   artifactId: light-air-maven-plugin
+

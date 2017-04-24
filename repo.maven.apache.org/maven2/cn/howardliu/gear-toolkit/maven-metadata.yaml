@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.howardliu
+ artifactId: gear-toolkit
+ versioning:
+  latest: 1.0.1-RELEASE
+  release: 1.0.1-RELEASE
+  versions:
+   version: 1.0.1-RELEASE
+  lastUpdated: '20170103131303'
+

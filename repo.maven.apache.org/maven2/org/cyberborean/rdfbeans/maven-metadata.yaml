@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.cyberborean
+ artifactId: rdfbeans
+ versioning:
+  latest: '2.2'
+  release: '2.2'
+  versions:
+   version: '2.2'
+  lastUpdated: '20170319055946'
+

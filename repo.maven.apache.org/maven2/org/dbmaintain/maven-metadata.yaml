@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: dbmaintain
+   artifactId: dbmaintain-maven-plugin
+

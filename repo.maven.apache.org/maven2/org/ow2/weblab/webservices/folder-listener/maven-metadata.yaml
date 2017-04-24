@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ow2.weblab.webservices
+ artifactId: folder-listener
+ version: '1.0'
+ versioning:
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20120711221344'
+

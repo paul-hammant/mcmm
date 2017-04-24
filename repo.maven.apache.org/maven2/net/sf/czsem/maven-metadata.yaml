@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Custom Properties Maven Plugin
+   prefix: custom-properties
+   artifactId: custom-properties-maven-plugin
+

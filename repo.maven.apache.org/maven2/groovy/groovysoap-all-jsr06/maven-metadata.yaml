@@ -1,0 +1,8 @@
+metadata:
+ groupId: groovy
+ artifactId: groovysoap-all-jsr06
+ version: '0.1'
+ versioning:
+  versions:
+   version: '0.1'
+

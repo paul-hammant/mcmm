@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.stickycode.configuration
+ artifactId: sticky-configuration
+ versioning:
+  latest: '2.4'
+  release: '2.4'
+  versions:
+   version:
+   - '1.4'
+   - '1.5'
+   - '2.4'
+  lastUpdated: '20161128102208'
+

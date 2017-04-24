@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.vesalainen.nmea
+ artifactId: IcomManager
+ versioning:
+  latest: 1.8.0
+  release: 1.8.0
+  versions:
+   version:
+   - 1.0.5
+   - 1.8.0
+  lastUpdated: '20170119183544'
+

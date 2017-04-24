@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.karaf.features
+ artifactId: enterprise-legacy
+ versioning:
+  latest: 4.1.1
+  release: 4.1.1
+  versions:
+   version:
+   - 4.1.0
+   - 4.1.1
+  lastUpdated: '20170331081515'
+

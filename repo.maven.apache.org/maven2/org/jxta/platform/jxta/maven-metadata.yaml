@@ -1,0 +1,8 @@
+metadata:
+ groupId: org.jxta.platform
+ artifactId: jxta
+ version: 2.3.6
+ versioning:
+  versions:
+   version: 2.3.6
+

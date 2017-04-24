@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.web4thejob
+ artifactId: org.web4thejob.joblet.contacts
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20121106175249'
+

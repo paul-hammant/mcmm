@@ -1,0 +1,10 @@
+metadata:
+ groupId: dsh-vocabulary
+ artifactId: dsh-vocabulary
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.allenai.word2vec
+ artifactId: word2vecjava_2.11
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20160510223034'
+

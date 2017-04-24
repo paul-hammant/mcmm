@@ -1,0 +1,15 @@
+metadata:
+ groupId: it.tidalwave.metadata
+ artifactId: it-tidalwave-metadata-tiff-provider
+ versioning:
+  latest: 1.2.29
+  release: 1.2.29
+  versions:
+   version:
+   - 1.2.25
+   - 1.2.26
+   - 1.2.27
+   - 1.2.28
+   - 1.2.29
+  lastUpdated: '20120925131106'
+

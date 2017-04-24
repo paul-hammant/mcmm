@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scalaz
+ artifactId: scalaz-iterv_2.10.0-M7
+ versioning:
+  latest: 7.0.0-M3
+  release: 7.0.0-M3
+  versions:
+   version: 7.0.0-M3
+  lastUpdated: '20120821222607'
+

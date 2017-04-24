@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: check-staging-properties-maven-plugin
+   prefix: check-staging-properties
+   artifactId: check-staging-properties-maven-plugin
+  - name: cxf-spring-boot-starter-maven-plugin
+   prefix: cxf-spring-boot-starter
+   artifactId: cxf-spring-boot-starter-maven-plugin
+  - name: JMeter Graphs Maven Plugin
+   prefix: jmeter-graph
+   artifactId: jmeter-graph-maven-plugin
+

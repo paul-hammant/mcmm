@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jacorb
+ artifactId: idl-compiler
+ versioning:
+  latest: '3.0'
+  release: '3.0'
+  versions:
+   version: '3.0'
+  lastUpdated: '20120522215915'
+

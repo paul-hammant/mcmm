@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.ckkloverdos
+ artifactId: streamresource
+ versioning:
+  latest: 0.5.1
+  release: 0.5.1
+  versions:
+   version:
+   - 0.5.0
+   - 0.5.1
+  lastUpdated: '20120528083001'
+

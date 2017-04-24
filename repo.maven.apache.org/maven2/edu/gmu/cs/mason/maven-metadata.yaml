@@ -1,0 +1,9 @@
+metadata:
+ groupId: edu.gmu.cs
+ artifactId: mason
+ version: '14.0'
+ versioning:
+  versions:
+   version: '14.0'
+  lastUpdated: '20091007180513'
+

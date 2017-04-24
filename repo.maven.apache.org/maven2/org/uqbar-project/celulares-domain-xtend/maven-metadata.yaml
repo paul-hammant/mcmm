@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.uqbar-project
+ artifactId: celulares-domain-xtend
+ versioning:
+  latest: 1.0-RELEASE
+  release: 1.0-RELEASE
+  versions:
+   version: 1.0-RELEASE
+  lastUpdated: '20150313120257'
+

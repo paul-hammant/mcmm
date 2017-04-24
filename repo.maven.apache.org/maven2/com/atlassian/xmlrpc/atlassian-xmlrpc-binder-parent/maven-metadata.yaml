@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.atlassian.xmlrpc
+ artifactId: atlassian-xmlrpc-binder-parent
+ version: '0.5'
+ versioning:
+  release: '0.9'
+  versions:
+   version:
+   - '0.5'
+   - '0.7'
+   - 0.8.1
+   - 0.8.2
+   - '0.9'
+  lastUpdated: '20081121011403'
+

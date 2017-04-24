@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: GraphWalker Maven Plugin
+   prefix: graphwalker
+   artifactId: graphwalker-maven-plugin
+

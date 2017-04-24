@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: GMavenPlus Plugin
+   prefix: gplus
+   artifactId: gmavenplus-plugin
+

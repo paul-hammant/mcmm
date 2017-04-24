@@ -1,0 +1,15 @@
+metadata:
+ groupId: eu.clarin.weblicht
+ artifactId: wlfxb
+ versioning:
+  latest: 1.3.3
+  release: 1.3.3
+  versions:
+   version:
+   - 1.2.9
+   - 1.3.0
+   - 1.3.1
+   - 1.3.2
+   - 1.3.3
+  lastUpdated: '20150212125707'
+

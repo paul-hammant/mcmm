@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jbundle.util.osgi.wrapped
+ artifactId: org.jbundle.util.osgi.wrapped.org.apache.catalina.servlets
+ versioning:
+  latest: 7.0.23
+  release: 7.0.23
+  versions:
+   version: 7.0.23
+  lastUpdated: '20111201025821'
+

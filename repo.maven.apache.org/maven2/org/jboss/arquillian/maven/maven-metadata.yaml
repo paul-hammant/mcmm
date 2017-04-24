@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Arquillian Maven Plugin
+   prefix: arquillian
+   artifactId: arquillian-maven-plugin
+

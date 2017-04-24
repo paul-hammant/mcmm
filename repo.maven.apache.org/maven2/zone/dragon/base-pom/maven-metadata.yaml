@@ -1,0 +1,15 @@
+metadata:
+ groupId: zone.dragon
+ artifactId: base-pom
+ versioning:
+  latest: 1.0.42-c78f88
+  release: 1.0.42-c78f88
+  versions:
+   version:
+   - 1.0.31-b94d2d
+   - 1.0.34-6fb997
+   - 1.0.35-fbc247
+   - 1.0.40-175525
+   - 1.0.42-c78f88
+  lastUpdated: '20170204000805'
+

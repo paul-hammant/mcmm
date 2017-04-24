@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.rapidpm
+ artifactId: rapidpm-parent
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version:
+   - '1.1'
+   - 1.1.1
+   - '1.2'
+   - '2.0'
+   - 2.0.1
+  lastUpdated: '20140428063842'
+

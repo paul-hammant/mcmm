@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.oozie
+ artifactId: oozie-hadoop-auth
+ versioning:
+  latest: hadoop-2-4.3.0
+  release: hadoop-2-4.3.0
+  versions:
+   version:
+   - hadoop-1-4.2.0
+   - hadoop-2-4.3.0
+  lastUpdated: '20161202105128'
+

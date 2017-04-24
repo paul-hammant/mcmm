@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.clapper
+ artifactId: classutil_2.12.0-RC1
+ versioning:
+  latest: 1.0.13
+  release: 1.0.13
+  versions:
+   version: 1.0.13
+  lastUpdated: '20161003231019'
+

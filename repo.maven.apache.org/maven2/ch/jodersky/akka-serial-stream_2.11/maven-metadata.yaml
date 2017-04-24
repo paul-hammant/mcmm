@@ -1,0 +1,13 @@
+metadata:
+ groupId: ch.jodersky
+ artifactId: akka-serial-stream_2.11
+ versioning:
+  latest: 4.1.0
+  release: 4.1.0
+  versions:
+   version:
+   - 4.0.0-RC1
+   - 4.0.0
+   - 4.1.0
+  lastUpdated: '20170418021227'
+

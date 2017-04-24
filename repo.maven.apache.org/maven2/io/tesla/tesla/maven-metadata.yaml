@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.tesla
+ artifactId: tesla
+ versioning:
+  latest: '7'
+  release: '7'
+  versions:
+   version:
+   - '5'
+   - '7'
+  lastUpdated: '20131102151005'
+

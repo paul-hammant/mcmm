@@ -1,0 +1,8 @@
+metadata:
+ groupId: jetty
+ artifactId: org.mortbay.jetty.plus.resource
+ version: 4.2.20
+ versioning:
+  versions:
+   version: 4.2.20
+

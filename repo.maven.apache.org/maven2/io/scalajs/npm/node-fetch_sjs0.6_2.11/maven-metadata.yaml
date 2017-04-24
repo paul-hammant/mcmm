@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.scalajs.npm
+ artifactId: node-fetch_sjs0.6_2.11
+ versioning:
+  latest: 0.4.0-pre5
+  release: 0.4.0-pre5
+  versions:
+   version:
+   - 0.4.0-pre3
+   - 0.4.0-pre4
+   - 0.4.0-pre5
+  lastUpdated: '20170423131913'
+

@@ -1,0 +1,25 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Antx Auto-config Maven Plugin
+   prefix: autoconfig
+   artifactId: autoconfig-maven-plugin
+  - name: Docbook-XSL Transformers
+   prefix: docbook
+   artifactId: docbook-maven-plugin
+  - name: Maven plugin for autoconfig
+   prefix: autoconfig
+   artifactId: maven-autoconfig-plugin
+  - name: Docbook-XSL Transformers
+   prefix: docbook
+   artifactId: maven-docbook-plugin
+  - name: Maven plugin for springext
+   prefix: springext
+   artifactId: maven-springext-plugin
+  - name: Maven Plugin Utils
+   prefix: maven-util
+   artifactId: maven-util
+  - name: SpringExt Maven Plugin
+   prefix: springext
+   artifactId: springext-maven-plugin
+

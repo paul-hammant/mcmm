@@ -1,0 +1,10 @@
+metadata:
+ groupId: javacc
+ artifactId: javacc
+ version: '3.2'
+ versioning:
+  versions:
+   version:
+   - '3.2'
+   - '4.0'
+

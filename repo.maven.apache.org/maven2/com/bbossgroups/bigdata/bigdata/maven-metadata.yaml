@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.bbossgroups.bigdata
+ artifactId: bigdata
+ versioning:
+  latest: 4.10.8
+  release: 4.10.8
+  versions:
+   version: 4.10.8
+  lastUpdated: '20160723153940'
+

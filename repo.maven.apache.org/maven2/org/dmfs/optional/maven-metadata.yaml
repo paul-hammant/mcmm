@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.dmfs
+ artifactId: optional
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20170330210032'
+

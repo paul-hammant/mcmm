@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.iac-m
+ artifactId: json-logger-connector
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20170409094338'
+

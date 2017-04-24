@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.locationtech.geotrellis
+ artifactId: geotrellis-geowave_2.11
+ versioning:
+  latest: 1.1.0-RC3
+  release: 1.1.0-RC3
+  versions:
+   version: 1.1.0-RC3
+  lastUpdated: '20170404204514'
+

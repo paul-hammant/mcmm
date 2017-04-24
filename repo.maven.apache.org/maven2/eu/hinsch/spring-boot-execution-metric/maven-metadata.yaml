@@ -1,0 +1,15 @@
+metadata:
+ groupId: eu.hinsch
+ artifactId: spring-boot-execution-metric
+ versioning:
+  latest: 0.2.2
+  release: 0.2.2
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 0.2.0
+   - 0.2.1
+   - 0.2.2
+  lastUpdated: '20150703125329'
+

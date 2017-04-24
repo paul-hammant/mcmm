@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.gravitee.policy.apikey
+ artifactId: gravitee-policy-apikey
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20151020220932'
+

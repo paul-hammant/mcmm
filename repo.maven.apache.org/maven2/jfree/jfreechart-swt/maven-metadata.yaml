@@ -1,0 +1,10 @@
+metadata:
+ groupId: jfree
+ artifactId: jfreechart-swt
+ versioning:
+  latest: 1.0.17
+  release: 1.0.17
+  versions:
+   version: 1.0.17
+  lastUpdated: '20140624201641'
+

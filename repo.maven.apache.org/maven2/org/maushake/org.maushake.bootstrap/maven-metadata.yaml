@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.maushake
+ artifactId: org.maushake.bootstrap
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20150627163902'
+

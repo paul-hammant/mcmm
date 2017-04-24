@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.flowable
+ artifactId: flowable-explorer
+ versioning:
+  latest: 5.23.0
+  release: 5.23.0
+  versions:
+   version:
+   - 5.22.0
+   - 5.23.0
+  lastUpdated: '20170327080116'
+

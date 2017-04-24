@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: create-new-bundle Maven Plugin
+   prefix: chon-generate
+   artifactId: chon-generate
+  - name: chon-package-plugin Maven Plugin
+   prefix: chon-package-plugin
+   artifactId: chon-package-plugin
+

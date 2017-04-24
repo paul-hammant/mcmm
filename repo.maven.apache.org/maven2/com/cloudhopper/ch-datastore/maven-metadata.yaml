@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.cloudhopper
+ artifactId: ch-datastore
+ versioning:
+  latest: 3.0.4
+  release: 3.0.4
+  versions:
+   version:
+   - 3.0.3
+   - 3.0.4
+  lastUpdated: '20140122164313'
+

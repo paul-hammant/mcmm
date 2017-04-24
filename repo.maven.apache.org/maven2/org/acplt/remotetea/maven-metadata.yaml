@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Remote Tea : ONC/RPC Maven plugin'
+   prefix: remotetea
+   artifactId: remotetea-maven-plugin
+

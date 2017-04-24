@@ -1,0 +1,11 @@
+metadata:
+ groupId: bsf
+ artifactId: bsf
+ version: '2.2'
+ versioning:
+  versions:
+   version:
+   - '2.2'
+   - 2.3.0
+   - 2.3.0-rc1
+

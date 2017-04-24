@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.github.flowersinthesand
+ artifactId: portal-testsuite
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version:
+   - 0.8.0
+   - 0.8.1
+   - 0.9.0
+  lastUpdated: '20140122165517'
+

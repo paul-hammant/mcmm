@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.openpnp
+ artifactId: opencv
+ versioning:
+  latest: 3.2.0-1
+  release: 3.2.0-1
+  versions:
+   version:
+   - 2.4.9-8
+   - 2.4.11-1
+   - 2.4.11-2
+   - 2.4.13-0
+   - 3.2.0-0
+   - 3.2.0-1
+  lastUpdated: '20161227180711'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: TestXNG Plugin for Maven
+   prefix: testxng
+   artifactId: maven-testxng-plugin
+

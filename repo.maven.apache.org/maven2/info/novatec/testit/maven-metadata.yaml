@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: testIT | LivingDoc - Maven
+   prefix: livingdoc
+   artifactId: livingdoc-maven
+

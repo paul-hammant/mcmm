@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JRT-Maven Plugin
+   prefix: jrt
+   artifactId: jrt-maven-plugin
+

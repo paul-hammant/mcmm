@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.stickycode.bootstrap
+ artifactId: sticky-bootstrap-spring3
+ versioning:
+  latest: '3.5'
+  release: '3.5'
+  versions:
+   version:
+   - '1.1'
+   - '1.2'
+   - '1.3'
+   - '3.4'
+   - '3.5'
+  lastUpdated: '20170214041346'
+

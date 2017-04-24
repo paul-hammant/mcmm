@@ -1,0 +1,21 @@
+metadata:
+ groupId: com.cloudhopper
+ artifactId: ch-smpp
+ versioning:
+  latest: 6.0.0-netty4-beta-2
+  release: 6.0.0-netty4-beta-2
+  versions:
+   version:
+   - 5.0.0
+   - 5.0.1
+   - 5.0.3
+   - 5.0.4
+   - 5.0.5
+   - 5.0.6
+   - 5.0.7
+   - 5.0.8
+   - 5.0.9
+   - 6.0.0-netty4-beta-1
+   - 6.0.0-netty4-beta-2
+  lastUpdated: '20151124220633'
+

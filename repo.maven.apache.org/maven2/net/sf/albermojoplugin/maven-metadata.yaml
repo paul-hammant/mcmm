@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Alber Maven Mojo
+   prefix: mojo
+   artifactId: mojoplugin
+

@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.neo4j
+ artifactId: neo4j-configuration
+ versioning:
+  latest: 3.2.0-alpha08
+  release: 3.2.0-alpha08
+  versions:
+   version:
+   - 3.2.0-alpha02
+   - 3.2.0-alpha03
+   - 3.2.0-alpha04
+   - 3.2.0-alpha05
+   - 3.2.0-alpha06
+   - 3.2.0-alpha07
+   - 3.2.0-alpha08
+  lastUpdated: '20170411083528'
+

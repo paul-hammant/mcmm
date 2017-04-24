@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: spf4j-config-discovery
+   artifactId: spf4j-config-discovery-maven-plugin
+

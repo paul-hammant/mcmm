@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.zoomba-lang
+ artifactId: zoomba.lang.core
+ versioning:
+  latest: 0.1-beta1
+  release: 0.1-beta1
+  versions:
+   version: 0.1-beta1
+  lastUpdated: '20170221140101'
+

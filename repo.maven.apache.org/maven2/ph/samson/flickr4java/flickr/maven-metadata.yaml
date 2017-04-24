@@ -1,0 +1,10 @@
+metadata:
+ groupId: ph.samson.flickr4java
+ artifactId: flickr
+ versioning:
+  latest: 2.5.1
+  release: 2.5.1
+  versions:
+   version: 2.5.1
+  lastUpdated: '20140318145605'
+

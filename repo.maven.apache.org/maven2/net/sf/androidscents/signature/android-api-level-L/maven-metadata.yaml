@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.androidscents.signature
+ artifactId: android-api-level-L
+ versioning:
+  latest: L_r1
+  release: L_r1
+  versions:
+   version: L_r1
+  lastUpdated: '20140711213729'
+

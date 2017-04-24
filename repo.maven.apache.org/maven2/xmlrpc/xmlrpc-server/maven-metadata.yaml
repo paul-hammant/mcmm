@@ -1,0 +1,8 @@
+metadata:
+ groupId: xmlrpc
+ artifactId: xmlrpc-server
+ version: 3.0b1
+ versioning:
+  versions:
+   version: 3.0b1
+

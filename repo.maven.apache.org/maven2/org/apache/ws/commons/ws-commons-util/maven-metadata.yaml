@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.apache.ws.commons
+ artifactId: ws-commons-util
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+  lastUpdated: '20060619204416'
+

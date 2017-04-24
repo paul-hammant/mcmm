@@ -1,0 +1,8 @@
+metadata:
+ groupId: maven-plugins
+ artifactId: maven-doxygen-plugin
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

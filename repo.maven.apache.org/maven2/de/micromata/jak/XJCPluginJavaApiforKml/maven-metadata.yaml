@@ -1,0 +1,11 @@
+metadata:
+ groupId: de.micromata.jak
+ artifactId: XJCPluginJavaApiforKml
+ version: 1.0-SNAPSHOT
+ versioning:
+  versions:
+   version:
+   - 1.0-SNAPSHOT
+   - 1.0.1-SNAPSHOT
+  lastUpdated: '20091130110116'
+

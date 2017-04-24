@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.bom.wfk
+ artifactId: jboss-javaee-6.0-with-deltaspike
+ versioning:
+  latest: 2.4.0-redhat-1
+  release: 2.4.0-redhat-1
+  versions:
+   version: 2.4.0-redhat-1
+  lastUpdated: '20130903161119'
+

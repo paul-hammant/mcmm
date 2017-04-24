@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Jamon Maven Plugin
+   prefix: jamon
+   artifactId: jamon-maven-plugin
+  - name: jamon-nodegen-plugin
+   prefix: jamon-nodegen
+   artifactId: jamon-nodegen-plugin
+

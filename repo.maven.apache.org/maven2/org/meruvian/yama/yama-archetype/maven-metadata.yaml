@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.meruvian.yama
+ artifactId: yama-archetype
+ versioning:
+  latest: 1.0-Beta1
+  release: 1.0-Beta1
+  versions:
+   version: 1.0-Beta1
+  lastUpdated: '20121225165225'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: a Maven plugin to generate JavaScript for JAX-RS
+   prefix: js-generator-for-jax-rs
+   artifactId: js-generator-for-jax-rs
+

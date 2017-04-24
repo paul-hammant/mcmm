@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.justrudd.datasources
+ artifactId: datasources
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+  lastUpdated: '20141013054658'
+

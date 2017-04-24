@@ -1,0 +1,7 @@
+metadata:
+ groupId: cactus
+ artifactId: cactus.integration.shared.api
+ versioning:
+  versions:
+   version: 1.8.0
+

@@ -1,0 +1,23 @@
+metadata:
+ groupId: net.corda.plugins
+ artifactId: cordformation
+ versioning:
+  latest: 0.11.0
+  release: 0.11.0
+  versions:
+   version:
+   - 0.5.6
+   - '0.6'
+   - 0.6.1
+   - '0.7'
+   - 0.8.1
+   - 0.8.2
+   - 0.8.3
+   - 0.10.0
+   - 0.10.2
+   - 0.10.3
+   - 0.10.4
+   - 0.10.5
+   - 0.11.0
+  lastUpdated: '20170419092945'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.rhttpc
+ artifactId: rhttpc-inmem_2.11
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version:
+   - 0.6.0
+   - 0.7.0
+   - 0.8.0
+  lastUpdated: '20160914182455'
+

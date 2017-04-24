@@ -1,0 +1,13 @@
+metadata:
+ groupId: se.skltp.patch.mule.transport.http
+ artifactId: mule-without-patch-test
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - 1.0-RC1
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20160524204604'
+

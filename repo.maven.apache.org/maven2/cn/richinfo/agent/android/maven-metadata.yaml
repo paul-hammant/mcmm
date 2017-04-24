@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: RichAPM Android Agent Maven Plugin
+   prefix: agent
+   artifactId: agent-maven-plugin
+

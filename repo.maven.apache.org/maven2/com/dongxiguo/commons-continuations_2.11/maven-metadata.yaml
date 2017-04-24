@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.dongxiguo
+ artifactId: commons-continuations_2.11
+ versioning:
+  latest: 0.2.2
+  release: 0.2.2
+  versions:
+   version: 0.2.2
+  lastUpdated: '20140507162655'
+

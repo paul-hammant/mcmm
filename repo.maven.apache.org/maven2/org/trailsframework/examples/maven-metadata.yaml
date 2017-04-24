@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.trailsframework
+ artifactId: examples
+ version: '1.0'
+ versioning:
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - 1.1.1
+   - '1.2'
+   - 1.2.1
+  lastUpdated: '20080902172528'
+

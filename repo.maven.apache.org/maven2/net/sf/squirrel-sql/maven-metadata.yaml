@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: SQuirreL SQL Dependency Plugin
+   prefix: squirrelsql-dependency
+   artifactId: squirrelsql-dependency-plugin
+  - name: SQuirreLSQL Update Site Maven Mojo
+   prefix: squirrelsql-update-site
+   artifactId: squirrelsql-update-site-plugin
+  - name: SQuirreLSQL Version Maven Mojo
+   prefix: squirrelsql-version
+   artifactId: squirrelsql-version-plugin
+

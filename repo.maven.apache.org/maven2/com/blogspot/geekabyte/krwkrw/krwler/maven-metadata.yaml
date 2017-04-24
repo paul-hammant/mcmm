@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.blogspot.geekabyte.krwkrw
+ artifactId: krwler
+ versioning:
+  latest: 0.1.3
+  release: 0.1.3
+  versions:
+   version:
+   - 0.1.2
+   - 0.1.3
+  lastUpdated: '20150919194815'
+

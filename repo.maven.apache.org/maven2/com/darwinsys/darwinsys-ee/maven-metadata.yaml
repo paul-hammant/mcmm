@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.darwinsys
+ artifactId: darwinsys-ee
+ versioning:
+  latest: 0.0.8
+  release: 0.0.8
+  versions:
+   version: 0.0.8
+  lastUpdated: '20151020013923'
+

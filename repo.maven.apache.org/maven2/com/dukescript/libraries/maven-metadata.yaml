@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: DukeScript Typings Mojo Generator
+   prefix: typings
+   artifactId: typings-maven-plugin
+

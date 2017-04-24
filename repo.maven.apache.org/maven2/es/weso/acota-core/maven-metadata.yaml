@@ -1,0 +1,12 @@
+metadata:
+ groupId: es.weso
+ artifactId: acota-core
+ versioning:
+  latest: 0.3.7
+  release: 0.3.7
+  versions:
+   version:
+   - 0.3.6
+   - 0.3.7
+  lastUpdated: '20130412082858'
+

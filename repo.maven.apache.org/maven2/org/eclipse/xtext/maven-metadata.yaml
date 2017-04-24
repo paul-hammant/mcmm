@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Xtext Maven Plugin
+   prefix: xtext
+   artifactId: xtext-maven-plugin
+

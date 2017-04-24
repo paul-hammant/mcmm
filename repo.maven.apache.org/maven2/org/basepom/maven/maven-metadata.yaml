@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: duplicate-finder-maven-plugin Maven Mojo
+   prefix: duplicate-finder
+   artifactId: duplicate-finder-maven-plugin
+  - name: Property Helper Maven Plugin root
+   prefix: property-helper
+   artifactId: property-helper-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: eu.timepit
+ artifactId: refined-eval_2.12
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version:
+   - 0.7.0
+   - 0.8.0
+  lastUpdated: '20170317044515'
+

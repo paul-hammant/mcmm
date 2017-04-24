@@ -1,0 +1,7 @@
+metadata:
+ groupId: javax.security
+ artifactId: jacc
+ versioning:
+  versions:
+   version: '1.0'
+

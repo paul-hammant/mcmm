@@ -1,0 +1,10 @@
+metadata:
+ groupId: poi
+ artifactId: poi-scratchpad
+ versioning:
+  versions:
+   version:
+   - 2.0-final-20040126
+   - 2.5.1-final-20040804
+   - 2.5-final-20040302
+

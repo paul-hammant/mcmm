@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.mappum
+ artifactId: altcoinj-parent
+ versioning:
+  latest: 0.12.2
+  release: 0.12.2
+  versions:
+   version: 0.12.2
+  lastUpdated: '20150302000225'
+

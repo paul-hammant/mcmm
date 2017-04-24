@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Sputnik Maven Plugin
+   prefix: sputnik
+   artifactId: sputnik-maven-plugin
+

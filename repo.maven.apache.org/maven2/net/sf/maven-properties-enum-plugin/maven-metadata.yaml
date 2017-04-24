@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Property-Enum-Plugin
+   prefix: properties-enum
+   artifactId: maven-properties-enum-plugin
+

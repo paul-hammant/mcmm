@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eclipse.core
+ artifactId: org.eclipse.core.variables
+ versioning:
+  latest: 3.2.400.v20100505
+  release: 3.2.400.v20100505
+  versions:
+   version: 3.2.400.v20100505
+  lastUpdated: '20101008020813'
+

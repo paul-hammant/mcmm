@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.sourceforge.reqtracer
+ artifactId: jrt-annotations
+ versioning:
+  latest: 1.7.0
+  release: 1.7.0
+  versions:
+   version:
+   - 1.6.1
+   - 1.6.4
+   - 1.6.5
+   - 1.6.6
+   - 1.7.0
+  lastUpdated: '20101108095413'
+

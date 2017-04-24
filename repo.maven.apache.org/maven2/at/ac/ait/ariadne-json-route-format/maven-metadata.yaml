@@ -1,0 +1,10 @@
+metadata:
+ groupId: at.ac.ait
+ artifactId: ariadne-json-route-format
+ versioning:
+  latest: '0.18'
+  release: '0.18'
+  versions:
+   version: '0.18'
+  lastUpdated: '20170222162747'
+

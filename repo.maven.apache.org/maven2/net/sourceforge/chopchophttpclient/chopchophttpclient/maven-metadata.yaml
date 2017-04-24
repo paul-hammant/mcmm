@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.sourceforge.chopchophttpclient
+ artifactId: chopchophttpclient
+ version: 0.9.0
+ versioning:
+  versions:
+   version:
+   - 0.9.0
+   - 0.9.1
+   - 0.9.2
+   - 0.9.3
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20090512203910'
+

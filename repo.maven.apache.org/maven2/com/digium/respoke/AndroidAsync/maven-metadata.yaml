@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.digium.respoke
+ artifactId: AndroidAsync
+ versioning:
+  latest: 2.1.7
+  release: 2.1.7
+  versions:
+   version:
+   - 2.1.6.1
+   - 2.1.7
+  lastUpdated: '20160427201309'
+

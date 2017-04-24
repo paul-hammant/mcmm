@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ow2.jotm
+ artifactId: interceptors
+ versioning:
+  latest: 2.3.1-M1
+  release: 2.3.1-M1
+  versions:
+   version:
+   - 2.2.3
+   - 2.3.1-M1
+  lastUpdated: '20130619125258'
+

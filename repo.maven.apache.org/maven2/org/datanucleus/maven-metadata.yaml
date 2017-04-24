@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: DataNucleus Maven Plugin
+   prefix: datanucleus
+   artifactId: datanucleus-maven-plugin
+  - name: DataNucleus Maven2 Plugin
+   prefix: datanucleus
+   artifactId: maven-datanucleus-plugin
+

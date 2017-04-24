@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Headless Designer Build Plugin
+   prefix: headlessdesigner
+   artifactId: headlessdesigner-maven-plugin
+

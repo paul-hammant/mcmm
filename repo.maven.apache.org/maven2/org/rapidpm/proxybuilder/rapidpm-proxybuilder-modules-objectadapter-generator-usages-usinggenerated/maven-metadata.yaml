@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.rapidpm.proxybuilder
+ artifactId: rapidpm-proxybuilder-modules-objectadapter-generator-usages-usinggenerated
+ versioning:
+  latest: 0.0.4
+  release: 0.0.4
+  versions:
+   version: 0.0.4
+  lastUpdated: '20151123142052'
+

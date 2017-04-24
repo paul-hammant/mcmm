@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Apache Maven Shade Plugin
+   prefix: keedio-shade
+   artifactId: maven-keedio-shade-plugin
+

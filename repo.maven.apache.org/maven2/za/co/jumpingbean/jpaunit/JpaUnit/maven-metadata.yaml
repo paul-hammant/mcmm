@@ -1,0 +1,10 @@
+metadata:
+ groupId: za.co.jumpingbean.jpaunit
+ artifactId: JpaUnit
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20150722185119'
+

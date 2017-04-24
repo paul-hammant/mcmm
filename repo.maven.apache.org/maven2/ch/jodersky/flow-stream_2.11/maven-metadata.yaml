@@ -1,0 +1,14 @@
+metadata:
+ groupId: ch.jodersky
+ artifactId: flow-stream_2.11
+ versioning:
+  latest: 3.0.4
+  release: 3.0.4
+  versions:
+   version:
+   - 3.0.1
+   - 3.0.2
+   - 3.0.3
+   - 3.0.4
+  lastUpdated: '20161204104643'
+

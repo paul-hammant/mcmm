@@ -1,0 +1,8 @@
+metadata:
+ groupId: bouncycastle
+ artifactId: bcmail-jdk14
+ version: '136'
+ versioning:
+  versions:
+   version: '136'
+

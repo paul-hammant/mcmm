@@ -1,0 +1,16 @@
+metadata:
+ groupId: se.skltp.aggregatingservices.crm.scheduling
+ artifactId: GetAggregatedSubjectOfCareSchedule-teststub
+ versioning:
+  latest: 1.2.2
+  release: 1.2.2
+  versions:
+   version:
+   - 1.0.0-RC2
+   - 1.0.0-RC3
+   - 1.0.0-RC4
+   - 1.0.0
+   - 1.2.0-RC1
+   - 1.2.2
+  lastUpdated: '20140901140921'
+

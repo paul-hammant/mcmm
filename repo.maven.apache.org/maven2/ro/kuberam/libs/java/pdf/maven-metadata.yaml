@@ -1,0 +1,10 @@
+metadata:
+ groupId: ro.kuberam.libs.java
+ artifactId: pdf
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version: 0.1.2
+  lastUpdated: '20150111223628'
+

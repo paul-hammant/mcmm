@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.vidageek
+ artifactId: i18n
+ versioning:
+  latest: '0.5'
+  release: '0.5'
+  versions:
+   version:
+   - '0.4'
+   - '0.5'
+  lastUpdated: '20110223170510'
+

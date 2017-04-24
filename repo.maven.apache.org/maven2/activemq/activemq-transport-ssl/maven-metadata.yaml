@@ -1,0 +1,15 @@
+metadata:
+ groupId: activemq
+ artifactId: activemq-transport-ssl
+ version: 1.1-G1M3
+ versioning:
+  versions:
+   version:
+   - 1.1-G1M3
+   - '1.2'
+   - '1.3'
+   - '1.4'
+   - '1.5'
+   - '2.0'
+   - '2.1'
+

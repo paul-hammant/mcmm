@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eclipse.equinox
+ artifactId: common
+ versioning:
+  latest: 3.6.200-v20130402-1505
+  release: 3.6.200-v20130402-1505
+  versions:
+   version: 3.6.200-v20130402-1505
+  lastUpdated: '20131105141827'
+

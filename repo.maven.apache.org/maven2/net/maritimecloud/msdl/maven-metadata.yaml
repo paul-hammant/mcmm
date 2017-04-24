@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: MaritimeCloud MSDL Maven Plugin
+   prefix: msdl-compiler
+   artifactId: mc-msdl-maven-plugin
+

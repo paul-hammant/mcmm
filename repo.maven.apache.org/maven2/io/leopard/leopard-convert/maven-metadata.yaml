@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.leopard
+ artifactId: leopard-convert
+ versioning:
+  latest: 0.9.10
+  release: 0.9.10
+  versions:
+   version:
+   - 0.9.8
+   - 0.9.10
+  lastUpdated: '20161018202439'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.hamcrest
+ artifactId: hamcrest-junit
+ versioning:
+  latest: 2.0.0.0
+  release: 2.0.0.0
+  versions:
+   version:
+   - 1.0.0.0-RC1
+   - 1.0.0.0
+   - 1.0.0.1
+   - 2.0.0.0
+  lastUpdated: '20150527001829'
+

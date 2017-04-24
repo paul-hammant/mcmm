@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.coding.chenxiaobo
+ artifactId: shiro-extension
+ versioning:
+  latest: 1.2.2.RELEASE
+  release: 1.2.2.RELEASE
+  versions:
+   version:
+   - 1.2.0.RELEASE
+   - 1.2.1.RELEASE
+   - 1.2.2.RELEASE
+  lastUpdated: '20150520085259'
+

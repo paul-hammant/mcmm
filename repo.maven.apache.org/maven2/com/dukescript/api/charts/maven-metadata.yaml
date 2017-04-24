@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.dukescript.api
+ artifactId: charts
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version:
+   - '0.8'
+   - '0.9'
+  lastUpdated: '20161215194934'
+

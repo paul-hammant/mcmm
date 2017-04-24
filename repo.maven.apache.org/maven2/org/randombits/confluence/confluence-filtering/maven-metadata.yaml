@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.randombits.confluence
+ artifactId: confluence-filtering
+ versioning:
+  latest: 3.3.0
+  release: 3.3.0
+  versions:
+   version: 3.3.0
+  lastUpdated: '20110104074651'
+

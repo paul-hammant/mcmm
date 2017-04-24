@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.aperteworkflow.contrib
+ artifactId: sample-mule-step
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version: 1.1.1
+  lastUpdated: '20120521115808'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: it.dontesta.sugarcrm.client.soap
+ artifactId: sugarcrmce-64-v4-soap-api
+ versioning:
+  latest: 1.0.5
+  release: 1.0.5
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.5
+  lastUpdated: '20121031080950'
+

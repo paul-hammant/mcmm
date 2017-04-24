@@ -1,0 +1,12 @@
+metadata:
+ groupId: me.biubiubiu.justifytext
+ artifactId: library
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - 1.0.0
+   - '1.1'
+  lastUpdated: '20140619064146'
+

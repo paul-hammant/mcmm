@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.staf
+ artifactId: jstaf
+ versioning:
+  latest: 3.4.4
+  release: 3.4.4
+  versions:
+   version: 3.4.4
+  lastUpdated: '20110221145324'
+

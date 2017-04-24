@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.facebook.infer.annotation
+ artifactId: annotations
+ versioning:
+  latest: 0.10.0
+  release: 0.10.0
+  versions:
+   version: 0.10.0
+  lastUpdated: '20170227155410'
+

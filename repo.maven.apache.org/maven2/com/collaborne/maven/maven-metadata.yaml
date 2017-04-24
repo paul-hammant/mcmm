@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: json-schema-bean-generator-maven-plugin Maven Plugin
+   prefix: json-schema-bean-generator
+   artifactId: json-schema-bean-generator-maven-plugin
+  - name: json-schema-validator-maven-plugin Maven Plugin
+   prefix: json-schema-validator
+   artifactId: json-schema-validator-maven-plugin
+

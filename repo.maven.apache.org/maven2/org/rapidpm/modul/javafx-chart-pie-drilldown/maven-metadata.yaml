@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.rapidpm.modul
+ artifactId: javafx-chart-pie-drilldown
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - 1.1.1
+   - '1.2'
+  lastUpdated: '20131116211949'
+

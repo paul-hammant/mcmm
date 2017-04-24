@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Lanau Eclipselink Staticweave Maven Plugin
+   prefix: eclipselink-staticweave
+   artifactId: eclipselink-staticweave-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.unibo.apice.scafiteam
+ artifactId: scafi-tests_2.11
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160926195905'
+

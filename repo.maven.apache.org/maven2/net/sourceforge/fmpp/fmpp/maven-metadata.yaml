@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sourceforge.fmpp
+ artifactId: fmpp
+ versioning:
+  latest: 0.9.15
+  release: 0.9.15
+  versions:
+   version: 0.9.15
+  lastUpdated: '20141104234658'
+

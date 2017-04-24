@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.myire
+ artifactId: scent
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version: '0.9'
+  lastUpdated: '20161028104920'
+

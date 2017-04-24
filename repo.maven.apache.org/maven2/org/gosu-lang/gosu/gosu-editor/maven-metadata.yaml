@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.gosu-lang.gosu
+ artifactId: gosu-editor
+ versioning:
+  latest: 1.12.1
+  release: 1.12.1
+  versions:
+   version:
+   - '1.11'
+   - '1.12'
+   - 1.12.1
+  lastUpdated: '20160216170048'
+

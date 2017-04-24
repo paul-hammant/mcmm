@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.excalibur.fortress
+ artifactId: excalibur-fortress-modules
+ version: '1'
+ versioning:
+  versions:
+   version: '1'
+  lastUpdated: '20070215204513'
+

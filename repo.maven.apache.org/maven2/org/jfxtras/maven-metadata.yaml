@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JavaFX Maven plugin
+   prefix: javafx
+   artifactId: javafx-maven-plugin
+

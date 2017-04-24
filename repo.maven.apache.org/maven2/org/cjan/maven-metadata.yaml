@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: test-collector Maven Plugin
+   prefix: test-collector
+   artifactId: test-collector
+  - name: test-collector-maven-plugin Maven Plugin
+   prefix: test-collector
+   artifactId: test-collector-maven-plugin
+

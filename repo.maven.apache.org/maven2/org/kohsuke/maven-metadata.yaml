@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Custom Access Modifier Checker
+   prefix: access-modifier-checker
+   artifactId: access-modifier-checker
+  - name: apt-ftparchive-merge Maven plugin
+   prefix: apt-ftparchive-merge
+   artifactId: apt-ftparchive-merge
+  - name: maven-junit-plugin Maven Mojo
+   prefix: junit
+   artifactId: maven-junit-plugin
+  - name: PGP Maven plugin
+   prefix: pgp
+   artifactId: pgp-maven-plugin
+

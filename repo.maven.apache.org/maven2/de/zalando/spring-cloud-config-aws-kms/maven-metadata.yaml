@@ -1,0 +1,15 @@
+metadata:
+ groupId: de.zalando
+ artifactId: spring-cloud-config-aws-kms
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '0.3'
+   - '0.4'
+   - '1.0'
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20150515163810'
+

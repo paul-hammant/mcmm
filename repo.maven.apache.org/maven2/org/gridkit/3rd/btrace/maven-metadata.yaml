@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: BTrace Maven Plugin
+   prefix: null
+   artifactId: maven-plugin
+

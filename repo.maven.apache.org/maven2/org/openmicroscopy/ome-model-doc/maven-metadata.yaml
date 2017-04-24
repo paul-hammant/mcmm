@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.openmicroscopy
+ artifactId: ome-model-doc
+ versioning:
+  latest: 5.5.2
+  release: 5.5.2
+  versions:
+   version:
+   - 5.4.0
+   - 5.5.0
+   - 5.5.1
+   - 5.5.2
+  lastUpdated: '20170228094621'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: javax.resource
+ artifactId: connector
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20061012090347'
+

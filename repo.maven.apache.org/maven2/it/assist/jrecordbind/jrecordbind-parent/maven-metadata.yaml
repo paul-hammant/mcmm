@@ -1,0 +1,12 @@
+metadata:
+ groupId: it.assist.jrecordbind
+ artifactId: jrecordbind-parent
+ versioning:
+  latest: 2.3.8
+  release: 2.3.8
+  versions:
+   version:
+   - 2.3.7
+   - 2.3.8
+  lastUpdated: '20110621104352'
+

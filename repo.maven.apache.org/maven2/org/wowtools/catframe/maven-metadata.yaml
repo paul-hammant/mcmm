@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.wowtools
+ artifactId: catframe
+ versioning:
+  latest: '1.03'
+  release: '1.03'
+  versions:
+   version:
+   - '1.0'
+   - '1.01'
+   - '1.02'
+   - '1.03'
+  lastUpdated: '20170217014348'
+

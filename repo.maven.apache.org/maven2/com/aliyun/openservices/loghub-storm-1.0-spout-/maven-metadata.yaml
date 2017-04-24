@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.aliyun.openservices
+ artifactId: loghub-storm-1.0-spout-
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20161020174815'
+

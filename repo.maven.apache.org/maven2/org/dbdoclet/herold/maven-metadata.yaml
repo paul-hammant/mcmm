@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.dbdoclet
+ artifactId: herold
+ versioning:
+  latest: 8.0.4
+  release: 8.0.4
+  versions:
+   version: 8.0.4
+  lastUpdated: '20160512183543'
+

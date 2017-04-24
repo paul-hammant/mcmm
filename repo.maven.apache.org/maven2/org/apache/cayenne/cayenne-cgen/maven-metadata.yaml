@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.cayenne
+ artifactId: cayenne-cgen
+ versioning:
+  latest: 4.0.M5
+  release: 4.0.M5
+  versions:
+   version: 4.0.M5
+  lastUpdated: '20170306093418'
+

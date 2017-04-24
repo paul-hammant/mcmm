@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.amplecode
+ artifactId: cave-process
+ versioning:
+  latest: 1.0.3
+  release: 1.0.3
+  versions:
+   version: 1.0.3
+  lastUpdated: '20150304211056'
+

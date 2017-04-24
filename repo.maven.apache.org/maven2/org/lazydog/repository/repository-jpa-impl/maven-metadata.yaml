@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.lazydog.repository
+ artifactId: repository-jpa-impl
+ versioning:
+  latest: '1.12'
+  release: '1.12'
+  versions:
+   version:
+   - '1.11'
+   - '1.12'
+  lastUpdated: '20130728084442'
+

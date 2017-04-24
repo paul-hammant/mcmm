@@ -1,0 +1,14 @@
+metadata:
+ groupId: de.leanovate
+ artifactId: play-etcd-client_2.11
+ versioning:
+  latest: 2.5.0
+  release: 2.5.0
+  versions:
+   version:
+   - '1.0'
+   - 2.4.0
+   - 2.4.1
+   - 2.5.0
+  lastUpdated: '20160502112444'
+

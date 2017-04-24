@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.projectreactor.addons
+ artifactId: reactor-extra
+ versioning:
+  latest: 3.0.6.RELEASE
+  release: 3.0.6.RELEASE
+  versions:
+   version: 3.0.6.RELEASE
+  lastUpdated: '20170404112152'
+

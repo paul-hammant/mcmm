@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.prefuse
+ artifactId: prefuse
+ versioning:
+  latest: beta-20071021
+  release: beta-20071021
+  versions:
+   version: beta-20071021
+  lastUpdated: '20110815133343'
+

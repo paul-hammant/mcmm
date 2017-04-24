@@ -1,0 +1,18 @@
+metadata:
+ plugins:
+  plugin:
+  - name: asterix-evaluator-generator-maven-plugin
+   prefix: asterix-evaluator-generator
+   artifactId: asterix-evaluator-generator-maven-plugin
+  - prefix: asterix-grammar-extension
+   artifactId: asterix-grammar-extension-maven-plugin
+  - name: asterix-test-datagenerator-maven-plugin
+   prefix: asterix-test-datagenerator
+   artifactId: asterix-test-datagenerator-maven-plugin
+  - name: lexer-generator-maven-plugin
+   prefix: lexer-generator
+   artifactId: lexer-generator-maven-plugin
+  - name: record-manager-generator-maven-plugin
+   prefix: record-manager-generator
+   artifactId: record-manager-generator-maven-plugin
+

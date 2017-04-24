@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.aliyun
+ artifactId: aliyun-java-sdk-drds
+ versioning:
+  latest: 2.0.5
+  release: 2.0.5
+  versions:
+   version:
+   - 2.0.0
+   - 2.0.1
+   - 2.0.2
+   - 2.0.5
+  lastUpdated: '20170125181128'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Jetty :: Jetty JSPC Maven Plugin'
+   prefix: bathe-jetty-jspc
+   artifactId: bathe-jetty-jspc-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.hzpz.spring.boot
+ artifactId: spring-boot-autoconfigure-mongeez
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20150803203600'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.immutables.javaslang
+ artifactId: javaslang-checkstyle
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+   - 0.2.1
+   - 0.3.0
+  lastUpdated: '20170422081541'
+

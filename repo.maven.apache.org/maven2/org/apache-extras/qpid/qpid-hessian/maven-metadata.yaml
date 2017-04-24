@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache-extras.qpid
+ artifactId: qpid-hessian
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20120709152426'
+

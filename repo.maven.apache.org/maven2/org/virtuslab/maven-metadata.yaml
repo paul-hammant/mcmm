@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Edifact Convertion Tool - Maven Plugin Mojo
+   prefix: ect
+   artifactId: maven-ect-plugin
+  - name: Edifact Java Compiler - Maven Plugin Mojo
+   prefix: ejc
+   artifactId: maven-ejc-plugin
+

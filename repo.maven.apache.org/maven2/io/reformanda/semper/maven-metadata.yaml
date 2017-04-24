@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Dependency Version Plugin
+   prefix: dependencyversion
+   artifactId: dependencyversion-maven-plugin
+

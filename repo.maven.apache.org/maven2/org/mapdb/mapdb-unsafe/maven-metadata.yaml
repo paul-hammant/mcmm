@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mapdb
+ artifactId: mapdb-unsafe
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version: '0.9'
+  lastUpdated: '20140519120836'
+

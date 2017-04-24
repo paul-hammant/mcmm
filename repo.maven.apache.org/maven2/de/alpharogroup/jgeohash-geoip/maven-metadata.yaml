@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.alpharogroup
+ artifactId: jgeohash-geoip
+ versioning:
+  latest: 2.4.0
+  release: 2.4.0
+  versions:
+   version:
+   - 2.3.0
+   - 2.4.0
+  lastUpdated: '20170419172153'
+

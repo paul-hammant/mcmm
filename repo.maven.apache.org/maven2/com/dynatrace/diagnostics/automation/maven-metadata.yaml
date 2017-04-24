@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Dynatrace Automation Plugin
+   prefix: dynatrace
+   artifactId: dynatrace-maven-plugin
+

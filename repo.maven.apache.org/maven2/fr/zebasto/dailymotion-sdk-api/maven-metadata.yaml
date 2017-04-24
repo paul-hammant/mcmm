@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.zebasto
+ artifactId: dailymotion-sdk-api
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20140413175823'
+

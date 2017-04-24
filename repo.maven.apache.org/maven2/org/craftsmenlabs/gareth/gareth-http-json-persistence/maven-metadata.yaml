@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.craftsmenlabs.gareth
+ artifactId: gareth-http-json-persistence
+ versioning:
+  latest: 0.8.7
+  release: 0.8.7
+  versions:
+   version:
+   - 0.8.4
+   - 0.8.5
+   - 0.8.6
+   - 0.8.7
+  lastUpdated: '20161013173152'
+

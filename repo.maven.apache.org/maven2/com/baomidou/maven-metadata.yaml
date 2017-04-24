@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: mybatisplus-maven-plugin Maven Plugin
+   prefix: mybatisplus
+   artifactId: mybatisplus-maven-plugin
+

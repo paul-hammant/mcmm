@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.juneau
+ artifactId: juneau-server-test
+ versioning:
+  latest: 6.0.1-incubating
+  release: 6.0.1-incubating
+  versions:
+   version:
+   - 6.0.0-incubating
+   - 6.0.1-incubating
+  lastUpdated: '20170103162120'
+

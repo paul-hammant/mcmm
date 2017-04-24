@@ -1,0 +1,13 @@
+metadata:
+ groupId: se.vgregion.oppna-program-account-activation
+ artifactId: oppna-program-account-activation-core-bc-composite-types
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20120813110739'
+

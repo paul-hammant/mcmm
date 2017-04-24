@@ -1,0 +1,10 @@
+metadata:
+ groupId: maven
+ artifactId: wagon
+ version: '0.9'
+ versioning:
+  versions:
+   version:
+   - '0.9'
+   - 1.0-alpha-1
+

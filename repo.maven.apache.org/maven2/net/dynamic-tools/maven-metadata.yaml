@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jasmine-maven-plugin
+   prefix: jasmine
+   artifactId: jasmine-maven-plugin
+

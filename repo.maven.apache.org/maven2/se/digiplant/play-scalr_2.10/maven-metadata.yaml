@@ -1,0 +1,14 @@
+metadata:
+ groupId: se.digiplant
+ artifactId: play-scalr_2.10
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20140915145701'
+

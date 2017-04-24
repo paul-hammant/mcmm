@@ -1,0 +1,13 @@
+metadata:
+ groupId: ru.qatools.seleniumkit
+ artifactId: selenograph
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20161121035644'
+

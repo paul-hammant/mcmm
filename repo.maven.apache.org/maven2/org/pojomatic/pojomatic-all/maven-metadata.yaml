@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.pojomatic
+ artifactId: pojomatic-all
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version: '2.0'
+  lastUpdated: '20140630042044'
+

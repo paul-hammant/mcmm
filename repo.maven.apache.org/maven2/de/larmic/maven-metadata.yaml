@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Bitbucket maven plugins
+   prefix: bitbucket
+   artifactId: larmic-maven-bitbucket-plugin
+

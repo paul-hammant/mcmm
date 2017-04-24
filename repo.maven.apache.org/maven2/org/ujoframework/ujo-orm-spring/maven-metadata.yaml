@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.ujoframework
+ artifactId: ujo-orm-spring
+ version: '1.22'
+ versioning:
+  versions:
+   version:
+   - '1.22'
+   - '1.21'
+   - '1.20'
+   - '1.10'
+  lastUpdated: '20111110170000'
+

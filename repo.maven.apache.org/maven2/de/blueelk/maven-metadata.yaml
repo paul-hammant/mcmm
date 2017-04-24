@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Tagfile linter Maven Mojo
+   prefix: tagfile-lint-mojo
+   artifactId: tagfile-lint-mojo
+

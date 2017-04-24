@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'P2 Bridge :: Maven Plugin'
+   prefix: p2-bridge
+   artifactId: maven-p2-bridge-plugin
+  - name: 'Sonatype Tycho :: P2 :: Publisher :: Maven Plugin'
+   prefix: p2-publisher
+   artifactId: maven-p2-publisher-plugin
+  - name: 'Sisu :: Assembler :: Maven Plugin'
+   prefix: sisu-assembler
+   artifactId: maven-sisu-assembler-plugin
+

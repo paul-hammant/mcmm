@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: GitHub Pages Maven Plugin
+   prefix: ghp
+   artifactId: ghp-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.t-io
+ artifactId: tio-parent
+ versioning:
+  latest: 1.6.9.v20170408-RELEASE
+  release: 1.6.9.v20170408-RELEASE
+  versions:
+   version:
+   - 1.6.8.v20170329-RELEASE
+   - 1.6.9.v20170408-RELEASE
+  lastUpdated: '20170408120435'
+

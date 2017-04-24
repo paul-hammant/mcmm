@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.stackbox.archetypes
+ artifactId: hadoop-v1-mr
+ versioning:
+  latest: 0.0.2-RELEASE
+  release: 0.0.2-RELEASE
+  versions:
+   version: 0.0.2-RELEASE
+  lastUpdated: '20150117165250'
+

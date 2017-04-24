@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.cip4.tools
+ artifactId: xCIP4Master
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20120811085420'
+

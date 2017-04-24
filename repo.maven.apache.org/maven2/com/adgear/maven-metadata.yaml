@@ -1,0 +1,8 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: anoa
+   artifactId: anoa-maven-plugin
+  - prefix: anoa
+   artifactId: anoa-plugin
+

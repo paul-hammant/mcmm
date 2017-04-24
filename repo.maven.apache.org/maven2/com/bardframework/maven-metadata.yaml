@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: bard-maven-plugin Maven Plugin
+   prefix: bard
+   artifactId: bard-maven-plugin
+

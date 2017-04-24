@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.junit
+ artifactId: junit5-api
+ versioning:
+  latest: 5.0.0-ALPHA
+  release: 5.0.0-ALPHA
+  versions:
+   version: 5.0.0-ALPHA
+  lastUpdated: '20160201140011'
+

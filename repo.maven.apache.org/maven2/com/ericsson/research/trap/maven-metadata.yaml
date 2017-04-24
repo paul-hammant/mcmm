@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Index Maven Plugin
+   prefix: trap-index
+   artifactId: trap-index-maven-plugin
+

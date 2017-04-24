@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.att.ajsc
+ artifactId: sdk-java-restlet-common
+ versioning:
+  latest: 6.2.0.2
+  release: 6.2.0.2
+  versions:
+   version: 6.2.0.2
+  lastUpdated: '20170330182134'
+

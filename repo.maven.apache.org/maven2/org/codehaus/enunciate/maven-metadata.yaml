@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Enunciate - CXF Maven Plugin
+   prefix: enunciate-cxf
+   artifactId: maven-enunciate-cxf-plugin
+  - name: Enunciate - JBoss Maven Plugin
+   prefix: enunciate-jboss
+   artifactId: maven-enunciate-jboss-plugin
+  - name: Enunciate - Maven Plugin
+   prefix: enunciate
+   artifactId: maven-enunciate-plugin
+  - name: Enunciate - Slim Maven Plugin
+   prefix: enunciate-slim
+   artifactId: maven-enunciate-slim-plugin
+  - name: Enunciate - Spring Maven Plugin
+   prefix: enunciate-spring
+   artifactId: maven-enunciate-spring-plugin
+

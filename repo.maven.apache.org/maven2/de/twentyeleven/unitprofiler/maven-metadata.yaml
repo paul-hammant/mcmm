@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'unitProfiler :: Maven Plugin'
+   prefix: unitprofiler
+   artifactId: unitprofiler-maven-plugin
+

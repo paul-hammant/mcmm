@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.ow2.mind
+ artifactId: adl-frontend
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+   - 2.0-alpha1
+   - '2.0'
+  lastUpdated: '20130115141703'
+

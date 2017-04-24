@@ -1,0 +1,10 @@
+metadata:
+ groupId: in.ferrl
+ artifactId: aktic_2.11
+ versioning:
+  latest: 0.1.3
+  release: 0.1.3
+  versions:
+   version: 0.1.3
+  lastUpdated: '20150318164955'
+

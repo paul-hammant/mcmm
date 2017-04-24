@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.sciss
+ artifactId: fscape-cdp_2.11
+ versioning:
+  latest: 2.6.3
+  release: 2.6.3
+  versions:
+   version:
+   - 2.6.2
+   - 2.6.3
+  lastUpdated: '20170323221134'
+

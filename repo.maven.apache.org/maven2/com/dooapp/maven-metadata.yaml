@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Gaedo informer generator
+   prefix: gaedo-informer-generator
+   artifactId: gaedo-informer-generator
+

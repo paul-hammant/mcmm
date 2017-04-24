@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jentity facade generator
+   prefix: jentity-generator
+   artifactId: jentity-generator
+

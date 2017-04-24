@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ANTLR 4 Maven plugin
+   prefix: antlr4
+   artifactId: antlr4-maven-plugin
+

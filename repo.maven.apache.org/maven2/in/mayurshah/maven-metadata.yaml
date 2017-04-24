@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: selenium-helper
+   prefix: testng-xml-maker
+   artifactId: testng-xml-maker-maven-plugin
+

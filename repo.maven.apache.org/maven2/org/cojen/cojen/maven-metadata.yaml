@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.cojen
+ artifactId: cojen
+ versioning:
+  latest: 2.2.5
+  release: 2.2.5
+  versions:
+   version: 2.2.5
+  lastUpdated: '20150227230711'
+

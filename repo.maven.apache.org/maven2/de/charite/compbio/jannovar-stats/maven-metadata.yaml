@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.charite.compbio
+ artifactId: jannovar-stats
+ versioning:
+  latest: '0.21'
+  release: '0.21'
+  versions:
+   version: '0.21'
+  lastUpdated: '20170404084211'
+

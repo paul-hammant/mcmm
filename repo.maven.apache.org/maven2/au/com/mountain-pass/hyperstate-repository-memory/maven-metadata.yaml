@@ -1,0 +1,12 @@
+metadata:
+ groupId: au.com.mountain-pass
+ artifactId: hyperstate-repository-memory
+ versioning:
+  latest: '10'
+  release: '10'
+  versions:
+   version:
+   - '1'
+   - '10'
+  lastUpdated: '20160901053123'
+

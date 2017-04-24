@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.kanejin.olla
+ artifactId: olla-server-lite
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20161126055831'
+

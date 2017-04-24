@@ -1,0 +1,11 @@
+metadata:
+ groupId: myfaces
+ artifactId: myfaces-jsf-api
+ version: 1.0.8-beta
+ versioning:
+  versions:
+   version:
+   - 1.0.8-beta
+   - 1.0.9rc3
+   - 1.0.9
+

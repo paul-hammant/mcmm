@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Statistic
+   prefix: statistic
+   artifactId: maven-statistic-plugin
+

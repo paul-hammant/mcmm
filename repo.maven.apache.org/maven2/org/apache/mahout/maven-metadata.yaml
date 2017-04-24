@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Mojo to generate code for collections
+   prefix: mahout-collection-codegen
+   artifactId: mahout-collection-codegen-plugin
+

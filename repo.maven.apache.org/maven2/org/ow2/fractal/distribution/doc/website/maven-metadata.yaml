@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.fractal.distribution.doc
+ artifactId: website
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20080225102958'
+

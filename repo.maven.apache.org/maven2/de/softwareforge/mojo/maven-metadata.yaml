@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven Protoc Plugin
+   prefix: protoc
+   artifactId: maven-protoc-plugin
+  - name: Maven Thrift Plugin
+   prefix: thrift
+   artifactId: maven-thrift-plugin
+

@@ -1,0 +1,17 @@
+metadata:
+ groupId: it.tidalwave.bluebill
+ artifactId: bluebill-core
+ versioning:
+  latest: '0.22'
+  release: '0.22'
+  versions:
+   version:
+   - '0.16'
+   - '0.17'
+   - '0.18'
+   - '0.19'
+   - '0.20'
+   - '0.21'
+   - '0.22'
+  lastUpdated: '20110703093114'
+

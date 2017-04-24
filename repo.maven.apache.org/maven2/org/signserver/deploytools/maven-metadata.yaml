@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: DeployTools-Maven
+   artifactId: DeployTools-Maven
+

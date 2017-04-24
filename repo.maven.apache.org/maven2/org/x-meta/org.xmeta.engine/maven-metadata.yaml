@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.x-meta
+ artifactId: org.xmeta.engine
+ versioning:
+  latest: 1.4.2
+  release: 1.4.2
+  versions:
+   version:
+   - 1.4.1
+   - 1.4.2
+  lastUpdated: '20160819014858'
+

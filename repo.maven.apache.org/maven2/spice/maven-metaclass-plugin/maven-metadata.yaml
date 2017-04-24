@@ -1,0 +1,8 @@
+metadata:
+ groupId: spice
+ artifactId: maven-metaclass-plugin
+ version: 1.0-rc3-dev
+ versioning:
+  versions:
+   version: 1.0-rc3-dev
+

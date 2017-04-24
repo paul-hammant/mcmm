@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.twentyeleven.skysail
+ artifactId: skysail.server.freemarker
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20120813063441'
+

@@ -1,0 +1,11 @@
+metadata:
+ groupId: net.sf.jlue
+ artifactId: jlue-archetypes
+ versioning:
+  release: '1.1'
+  versions:
+   version:
+   - '1.1'
+   - '1.0'
+  lastUpdated: '20101225062942'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sourceforge.jexcelapi
+ artifactId: jxl
+ versioning:
+  latest: 2.6.12
+  release: 2.6.12
+  versions:
+   version: 2.6.12
+  lastUpdated: '20110509000937'
+

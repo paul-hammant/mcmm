@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.texen
+ artifactId: texen
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20070429101427'
+

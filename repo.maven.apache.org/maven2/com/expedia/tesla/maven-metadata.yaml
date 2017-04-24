@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: tesla-compiler-maven-plugin Maven Plugin
+   prefix: tesla-compiler
+   artifactId: tesla-compiler-maven-plugin
+

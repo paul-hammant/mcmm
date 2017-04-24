@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.bootique
+ artifactId: bootique-test
+ versioning:
+  latest: '0.22'
+  release: '0.22'
+  versions:
+   version:
+   - '0.19'
+   - '0.20'
+   - '0.21'
+   - '0.22'
+  lastUpdated: '20170331090253'
+

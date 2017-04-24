@@ -1,0 +1,22 @@
+metadata:
+ groupId: org.tiogasolutions.jobs
+ artifactId: tioga-jobs-jackson
+ versioning:
+  latest: 5.0.2
+  release: 5.0.2
+  versions:
+   version:
+   - 4.0.4
+   - 4.0.5
+   - 4.0.6
+   - 4.0.7
+   - 4.1.0
+   - 4.1.1
+   - 4.2.0
+   - 4.2.1
+   - 4.2.2
+   - 5.0.0
+   - 5.0.1
+   - 5.0.2
+  lastUpdated: '20160313085752'
+

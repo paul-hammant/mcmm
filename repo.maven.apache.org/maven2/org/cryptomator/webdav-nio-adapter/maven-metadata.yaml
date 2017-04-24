@@ -1,0 +1,18 @@
+metadata:
+ groupId: org.cryptomator
+ artifactId: webdav-nio-adapter
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.1
+   - 0.2.2
+   - 0.2.3
+   - 0.3.0
+   - 0.3.1
+   - 0.3.2
+   - 0.4.0
+  lastUpdated: '20170306150531'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.offecka
+ artifactId: kotlin-preloader
+ versioning:
+  latest: 1.0.4-1
+  release: 1.0.4-1
+  versions:
+   version: 1.0.4-1
+  lastUpdated: '20161105230213'
+

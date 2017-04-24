@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.hudsonci.plugins
+ artifactId: google-api-client-plugin
+ versioning:
+  latest: 2.0-1.20.0
+  release: 2.0-1.20.0
+  versions:
+   version:
+   - 1.0.1
+   - 2.0-1.20.0
+  lastUpdated: '20150501025256'
+

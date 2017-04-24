@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.keycloak
+ artifactId: keycloak-saml-wf9-subsystem
+ versioning:
+  latest: 1.6.1.Final
+  release: 1.6.1.Final
+  versions:
+   version:
+   - 1.6.0.Final
+   - 1.6.1.Final
+  lastUpdated: '20151027143554'
+

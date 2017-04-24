@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.julielab
+ artifactId: jules-xmi-writer
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version: 2.0.0
+  lastUpdated: '20151111090556'
+

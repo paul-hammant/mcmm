@@ -1,0 +1,8 @@
+metadata:
+ groupId: bouncycastle
+ artifactId: bcpg-jdk15
+ version: '140'
+ versioning:
+  versions:
+   version: '140'
+

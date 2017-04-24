@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: TrueLicense Maven Plugin
+   prefix: truelicense
+   artifactId: truelicense-maven-plugin
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: milyn
+ artifactId: milyn-smooks-csv
+ version: '0.1'
+ versioning:
+  versions:
+   version: '0.1'
+

@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Konig Diff
+   prefix: diff
+   artifactId: diff
+  - name: Konig LDP Maven Plugin
+   prefix: konig-ldp
+   artifactId: konig-ldp-maven-plugin
+  - name: Konig Schema Generator Maven Plugin
+   prefix: konig-schemagen
+   artifactId: konig-schemagen-maven-plugin
+  - name: Konig SQL Maven Plugin
+   prefix: konig-sql-shape
+   artifactId: konig-sql-shape-maven-plugin
+

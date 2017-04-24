@@ -1,0 +1,17 @@
+metadata:
+ groupId: net.intelie.live
+ artifactId: live-api
+ versioning:
+  latest: 2.15.1
+  release: 2.15.1
+  versions:
+   version:
+   - 2.11.1
+   - 2.12.0
+   - 2.12.1
+   - 2.13.0
+   - 2.14.0
+   - 2.15.0
+   - 2.15.1
+  lastUpdated: '20170309193403'
+

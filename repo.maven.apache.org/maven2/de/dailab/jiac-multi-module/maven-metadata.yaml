@@ -1,0 +1,13 @@
+metadata:
+ groupId: de.dailab
+ artifactId: jiac-multi-module
+ versioning:
+  latest: 5.1.5.2
+  release: 5.1.5.2
+  versions:
+   version:
+   - 5.1.5
+   - 5.1.5.1
+   - 5.1.5.2
+  lastUpdated: '20140422211328'
+

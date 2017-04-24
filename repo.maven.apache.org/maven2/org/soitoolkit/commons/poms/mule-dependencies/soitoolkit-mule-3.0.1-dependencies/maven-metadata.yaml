@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.soitoolkit.commons.poms.mule-dependencies
+ artifactId: soitoolkit-mule-3.0.1-dependencies
+ versioning:
+  latest: 0.3.1
+  release: 0.3.1
+  versions:
+   version:
+   - 0.3.0
+   - 0.3.1
+  lastUpdated: '20110208004852'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.flowable
+ artifactId: flowable-form-model
+ versioning:
+  latest: 6.0.0
+  release: 6.0.0
+  versions:
+   version:
+   - 6.0.0.RC1
+   - 6.0.0
+  lastUpdated: '20170215134539'
+

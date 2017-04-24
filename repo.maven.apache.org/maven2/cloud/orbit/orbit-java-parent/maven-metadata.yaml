@@ -1,0 +1,10 @@
+metadata:
+ groupId: cloud.orbit
+ artifactId: orbit-java-parent
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20160330164847'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.eyeem.potato
+ artifactId: library
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version: 0.9.0
+  lastUpdated: '20131120114119'
+

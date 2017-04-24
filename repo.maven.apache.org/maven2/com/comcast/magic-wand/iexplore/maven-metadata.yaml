@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.comcast.magic-wand
+ artifactId: iexplore
+ versioning:
+  latest: 4.0.3
+  release: 4.0.3
+  versions:
+   version:
+   - 4.0.1
+   - 4.0.3
+  lastUpdated: '20170406220157'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: dependency-analyzer Maven Mojo
+   prefix: dependency-analyzer
+   artifactId: maven-dependency-analyzer
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.hashtree.jbrainhoney
+ artifactId: jbrainhoney-core
+ versioning:
+  latest: 0.10.4
+  release: 0.10.4
+  versions:
+   version:
+   - 0.10.3
+   - 0.10.4
+  lastUpdated: '20121211170759'
+

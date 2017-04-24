@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.agrosense.client
+ artifactId: field-soilsample-type
+ versioning:
+  latest: 13.03-beta
+  release: 13.03-beta
+  versions:
+   version: 13.03-beta
+  lastUpdated: '20130415213516'
+

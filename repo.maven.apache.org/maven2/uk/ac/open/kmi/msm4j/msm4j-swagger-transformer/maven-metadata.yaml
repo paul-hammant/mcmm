@@ -1,0 +1,16 @@
+metadata:
+ groupId: uk.ac.open.kmi.msm4j
+ artifactId: msm4j-swagger-transformer
+ versioning:
+  latest: 1.3.5
+  release: 1.3.5
+  versions:
+   version:
+   - 1.3.0
+   - 1.3.1
+   - 1.3.2
+   - 1.3.3
+   - 1.3.4
+   - 1.3.5
+  lastUpdated: '20160216120954'
+

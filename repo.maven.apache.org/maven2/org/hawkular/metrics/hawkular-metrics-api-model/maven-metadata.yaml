@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.hawkular.metrics
+ artifactId: hawkular-metrics-api-model
+ versioning:
+  latest: 0.10.0.Final
+  release: 0.10.0.Final
+  versions:
+   version: 0.10.0.Final
+  lastUpdated: '20151130225853'
+

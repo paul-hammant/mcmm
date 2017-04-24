@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.clianz
+ artifactId: bluemix-config-parser
+ versioning:
+  latest: 0.0.5
+  release: 0.0.5
+  versions:
+   version: 0.0.5
+  lastUpdated: '20160209220604'
+

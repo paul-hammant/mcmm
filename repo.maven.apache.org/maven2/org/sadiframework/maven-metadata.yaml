@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: SADI service code generator
+   prefix: sadi-generator
+   artifactId: sadi-generator
+  - name: SADI service tester
+   prefix: sadi-tester
+   artifactId: sadi-tester
+

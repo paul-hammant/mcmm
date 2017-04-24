@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: violation-comments-to-github-maven-plugin
+   prefix: violation-comments-to-github
+   artifactId: violation-comments-to-github-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.fixprotocol.silverflash
+ artifactId: cassandra-store
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version: 1.1.1
+  lastUpdated: '20161005174757'
+

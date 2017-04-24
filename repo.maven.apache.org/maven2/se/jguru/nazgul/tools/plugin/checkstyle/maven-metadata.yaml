@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: nazgul-tools-checkstyle
+   artifactId: nazgul-tools-checkstyle-maven-plugin
+

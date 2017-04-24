@@ -1,0 +1,8 @@
+metadata:
+ groupId: org.grlea.log.adapters
+ artifactId: simple-log-slf4j
+ version: 2.0.1
+ versioning:
+  versions:
+   version: 2.0.1
+

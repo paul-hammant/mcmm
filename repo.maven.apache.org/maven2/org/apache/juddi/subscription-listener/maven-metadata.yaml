@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.juddi
+ artifactId: subscription-listener
+ versioning:
+  latest: 3.0.0.rc1
+  release: 3.0.0.rc1
+  versions:
+   version: 3.0.0.rc1
+  lastUpdated: '20101014123646'
+

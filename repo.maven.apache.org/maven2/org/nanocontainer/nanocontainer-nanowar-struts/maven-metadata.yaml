@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.nanocontainer
+ artifactId: nanocontainer-nanowar-struts
+ version: 1.1-RC-1
+ versioning:
+  release: 1.1.1
+  versions:
+   version:
+   - 1.1-RC-1
+   - '1.1'
+   - 1.1.1
+  lastUpdated: '20071212221849'
+

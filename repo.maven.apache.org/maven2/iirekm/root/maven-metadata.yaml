@@ -1,0 +1,9 @@
+metadata:
+ groupId: iirekm
+ artifactId: root
+ version: 0.0.1-SNAPSHOT
+ versioning:
+  versions:
+   version: 0.0.1-SNAPSHOT
+  lastUpdated: '20091209093618'
+

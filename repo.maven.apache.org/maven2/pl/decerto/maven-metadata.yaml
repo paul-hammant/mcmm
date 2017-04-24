@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Decerto Liquibase Maven Plugin
+   prefix: decerto-liquibase
+   artifactId: decerto-liquibase-maven-plugin
+

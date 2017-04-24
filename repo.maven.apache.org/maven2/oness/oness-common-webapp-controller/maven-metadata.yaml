@@ -1,0 +1,8 @@
+metadata:
+ groupId: oness
+ artifactId: oness-common-webapp-controller
+ version: '0.4'
+ versioning:
+  versions:
+   version: '0.4'
+

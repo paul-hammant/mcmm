@@ -1,0 +1,10 @@
+metadata:
+ groupId: excalibur-concurrent
+ artifactId: excalibur-concurrent
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '20020820'
+

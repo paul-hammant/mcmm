@@ -1,0 +1,12 @@
+metadata:
+ groupId: gr.ekt
+ artifactId: biblio-transformation-engine
+ versioning:
+  latest: '0.82'
+  release: '0.82'
+  versions:
+   version:
+   - '0.81'
+   - '0.82'
+  lastUpdated: '20120921114542'
+

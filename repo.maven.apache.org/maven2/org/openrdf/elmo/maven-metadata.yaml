@@ -1,0 +1,8 @@
+metadata:
+ groupId: org.openrdf
+ artifactId: elmo
+ version: '0.3'
+ versioning:
+  versions:
+   version: '0.3'
+

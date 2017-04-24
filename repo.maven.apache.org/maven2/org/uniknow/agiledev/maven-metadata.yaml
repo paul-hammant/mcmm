@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.uniknow
+ artifactId: agiledev
+ versioning:
+  latest: 0.1.14
+  release: 0.1.14
+  versions:
+   version:
+   - 0.1.7
+   - 0.1.8
+   - 0.1.13
+   - 0.1.14
+  lastUpdated: '20161213065556'
+

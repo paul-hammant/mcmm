@@ -1,0 +1,15 @@
+metadata:
+ groupId: io.fastjson
+ artifactId: slumberdb-leveldb
+ versioning:
+  latest: '0.34'
+  release: '0.34'
+  versions:
+   version:
+   - '0.1'
+   - '0.5'
+   - '0.29'
+   - '0.30'
+   - '0.34'
+  lastUpdated: '20160831214644'
+

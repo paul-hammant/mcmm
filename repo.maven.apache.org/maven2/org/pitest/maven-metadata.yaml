@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: classycle
+   prefix: classycle
+   artifactId: classycle
+  - name: classycle-maven-plugin
+   prefix: classycle
+   artifactId: classycle-maven-plugin
+  - name: highwheel-bytecode
+   prefix: highwheel-bytecode
+   artifactId: highwheel-bytecode
+  - name: highwheel-maven
+   prefix: highwheel
+   artifactId: highwheel-maven
+  - name: pitest-maven
+   prefix: pitest
+   artifactId: pitest-maven
+

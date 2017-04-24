@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.rxtx
+ artifactId: rxtx
+ versioning:
+  versions:
+   version: 2.1.7
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.atlas
+ artifactId: atlas-titan
+ versioning:
+  latest: 0.7.1-incubating
+  release: 0.7.1-incubating
+  versions:
+   version:
+   - 0.6-incubating
+   - 0.7-incubating
+   - 0.7.1-incubating
+  lastUpdated: '20170130002849'
+

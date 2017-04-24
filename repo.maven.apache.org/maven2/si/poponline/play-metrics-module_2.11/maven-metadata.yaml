@@ -1,0 +1,12 @@
+metadata:
+ groupId: si.poponline
+ artifactId: play-metrics-module_2.11
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20161130091033'
+

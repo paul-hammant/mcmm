@@ -1,0 +1,9 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: githead
+   artifactId: githead-maven-plugin
+  - name: ${project.artifactId}
+   prefix: messageextractor
+   artifactId: messageextractor-maven-plugin
+

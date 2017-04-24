@@ -1,0 +1,7 @@
+metadata:
+ groupId: jetty
+ artifactId: javadoc
+ versioning:
+  versions:
+   version: 4.2.23RC0
+

@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Atomic deployment of files
+   prefix: atomicdeploy
+   artifactId: atomicdeploy
+  - name: License Installer Plugin
+   prefix: license-installer
+   artifactId: license-installer
+  - name: JavaDoc Tag Replacer Plugin
+   prefix: tag-replacer
+   artifactId: tag-replacer
+

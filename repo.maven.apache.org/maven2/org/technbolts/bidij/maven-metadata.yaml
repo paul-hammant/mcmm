@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.technbolts
+ artifactId: bidij
+ versioning:
+  latest: 0.3.1
+  release: 0.3.1
+  versions:
+   version:
+   - 0.2.1
+   - 0.3.1
+  lastUpdated: '20141106234805'
+

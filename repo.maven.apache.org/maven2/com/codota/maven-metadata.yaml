@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Codota Uploader Maven Plugin
+   prefix: codota-uploader
+   artifactId: codota-uploader
+

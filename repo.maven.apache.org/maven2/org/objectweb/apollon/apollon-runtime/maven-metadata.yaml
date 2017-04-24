@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.apollon
+ artifactId: apollon-runtime
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20060123072506'
+

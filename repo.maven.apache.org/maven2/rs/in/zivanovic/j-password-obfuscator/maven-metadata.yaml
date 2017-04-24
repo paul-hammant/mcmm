@@ -1,0 +1,12 @@
+metadata:
+ groupId: rs.in.zivanovic
+ artifactId: j-password-obfuscator
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+  lastUpdated: '20150312121956'
+

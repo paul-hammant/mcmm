@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sackfix
+ artifactId: sackfix-messages-fix50sp2_2.11
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20170409140015'
+

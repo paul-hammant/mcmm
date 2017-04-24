@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.smart4j
+ artifactId: smart-plugin-soap
+ versioning:
+  latest: '2.2'
+  release: '2.2'
+  versions:
+   version:
+   - '1.0'
+   - '2.2'
+  lastUpdated: '20140603075907'
+

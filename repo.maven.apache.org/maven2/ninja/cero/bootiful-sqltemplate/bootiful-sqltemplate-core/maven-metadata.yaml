@@ -1,0 +1,14 @@
+metadata:
+ groupId: ninja.cero.bootiful-sqltemplate
+ artifactId: bootiful-sqltemplate-core
+ versioning:
+  latest: 1.0.3
+  release: 1.0.3
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+  lastUpdated: '20160520140240'
+

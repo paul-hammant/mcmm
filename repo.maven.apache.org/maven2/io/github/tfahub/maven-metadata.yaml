@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Local Repository Maven Plugin
+   prefix: local-repository
+   artifactId: local-repository-maven-plugin
+

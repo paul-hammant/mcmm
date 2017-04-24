@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.scala-lang.modules
+ artifactId: scala-partest_2.12
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - 1.0.17
+   - 1.0.18
+   - 1.1.0
+   - 1.1.1
+  lastUpdated: '20170413085729'
+

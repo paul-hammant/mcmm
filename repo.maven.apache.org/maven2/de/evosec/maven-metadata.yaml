@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: export-dependencies-maven-plugin
+   prefix: export-dependencies
+   artifactId: export-dependencies-maven-plugin
+

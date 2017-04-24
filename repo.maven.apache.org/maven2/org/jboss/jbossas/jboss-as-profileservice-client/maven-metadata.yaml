@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.jboss.jbossas
+ artifactId: jboss-as-profileservice-client
+ versioning:
+  latest: 6.1.0.Final
+  release: 6.1.0.Final
+  versions:
+   version:
+   - 6.0.0.Final
+   - 6.1.0.Final
+  lastUpdated: '20110816132531'
+

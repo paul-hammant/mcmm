@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.confluex
+ artifactId: qpid-in-a-can
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version: 0.2.0
+  lastUpdated: '20131107233436'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.unit8.enkan
+ artifactId: kotowari-crud-scaffold
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version:
+   - 0.1.0-beta1
+   - 0.1.0
+  lastUpdated: '20160825035414'
+

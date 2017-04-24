@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.apisense.network
+ artifactId: android-network-measures
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20170419132823'
+

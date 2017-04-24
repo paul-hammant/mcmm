@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.att.ajsc
+ artifactId: sdk-java-camunda-core
+ versioning:
+  latest: 6.1.0.3
+  release: 6.1.0.3
+  versions:
+   version: 6.1.0.3
+  lastUpdated: '20170331200539'
+

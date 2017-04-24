@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: xtend
+   artifactId: xtend-maven-plugin
+

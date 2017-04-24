@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Transform XML Maven Plugin
+   prefix: transform-xml
+   artifactId: transform-xml-maven-plugin
+

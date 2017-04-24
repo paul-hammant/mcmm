@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.anc
+ artifactId: common
+ versioning:
+  latest: 3.6.0
+  release: 3.6.0
+  versions:
+   version: 3.6.0
+  lastUpdated: '20160928220155'
+

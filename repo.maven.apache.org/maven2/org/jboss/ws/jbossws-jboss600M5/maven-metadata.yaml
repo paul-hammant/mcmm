@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.ws
+ artifactId: jbossws-jboss600M5
+ versioning:
+  latest: 3.4.0.CR1
+  release: 3.4.0.CR1
+  versions:
+   version: 3.4.0.CR1
+  lastUpdated: '20101013073306'
+

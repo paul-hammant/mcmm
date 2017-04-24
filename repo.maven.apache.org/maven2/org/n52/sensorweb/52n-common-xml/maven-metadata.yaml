@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.n52.sensorweb
+ artifactId: 52n-common-xml
+ versioning:
+  latest: 2.2.0
+  release: 2.2.0
+  versions:
+   version:
+   - 2.0.0
+   - 2.1.0
+   - 2.2.0
+  lastUpdated: '20161109100709'
+

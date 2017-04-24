@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.codelawine.wit4j
+ artifactId: wit4j-core
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20160905175401'
+

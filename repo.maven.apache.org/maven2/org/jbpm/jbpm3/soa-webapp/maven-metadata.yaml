@@ -1,0 +1,18 @@
+metadata:
+ groupId: org.jbpm.jbpm3
+ artifactId: soa-webapp
+ versioning:
+  latest: 3.3.1.GA
+  release: 3.3.1.GA
+  versions:
+   version:
+   - 3.2.6.GA
+   - 3.2.6.SP1
+   - 3.2.6.SP2
+   - 3.2.6.SP3
+   - 3.2.7
+   - 3.2.8
+   - 3.2.9
+   - 3.3.1.GA
+  lastUpdated: '20100426071859'
+

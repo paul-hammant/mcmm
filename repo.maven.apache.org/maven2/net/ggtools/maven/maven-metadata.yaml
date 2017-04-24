@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'DDL Generator: Maven Plugin'
+   prefix: ddlgenerator
+   artifactId: ddlgenerator-maven-plugin
+

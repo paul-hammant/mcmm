@@ -1,0 +1,13 @@
+metadata:
+ groupId: fr.irit.smac.lib.may
+ artifactId: parent-speadl
+ versioning:
+  latest: 3.5.0
+  release: 3.5.0
+  versions:
+   version:
+   - 3.4.0
+   - 3.4.1
+   - 3.5.0
+  lastUpdated: '20170211172232'
+

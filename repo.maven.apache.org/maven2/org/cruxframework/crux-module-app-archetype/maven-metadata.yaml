@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.cruxframework
+ artifactId: crux-module-app-archetype
+ versioning:
+  latest: 5.0.4
+  release: 5.0.4
+  versions:
+   version: 5.0.4
+  lastUpdated: '20140127152040'
+

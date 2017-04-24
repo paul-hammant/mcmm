@@ -1,0 +1,12 @@
+metadata:
+ groupId: top.bekit
+ artifactId: service
+ versioning:
+  latest: 1.1.0.RELEASE
+  release: 1.1.0.RELEASE
+  versions:
+   version:
+   - 1.0.0.RELEASE
+   - 1.1.0.RELEASE
+  lastUpdated: '20170410115414'
+

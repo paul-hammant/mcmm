@@ -1,0 +1,15 @@
+metadata:
+ groupId: no.difi.vefa
+ artifactId: peppol-evidence
+ versioning:
+  latest: 0.9.8
+  release: 0.9.8
+  versions:
+   version:
+   - 0.9.4
+   - 0.9.5
+   - 0.9.6
+   - 0.9.7
+   - 0.9.8
+  lastUpdated: '20170323154803'
+

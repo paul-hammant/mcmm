@@ -1,0 +1,10 @@
+metadata:
+ groupId: tomcat
+ artifactId: catalina-storeconfig
+ version: 5.5.12
+ versioning:
+  versions:
+   version:
+   - 5.5.12
+   - 5.5.15
+

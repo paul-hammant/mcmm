@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.everit.templating
+ artifactId: org.everit.templating.text
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.1.1
+  lastUpdated: '20160602134606'
+

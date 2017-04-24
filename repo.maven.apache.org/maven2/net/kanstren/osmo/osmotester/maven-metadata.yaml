@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.kanstren.osmo
+ artifactId: osmotester
+ versioning:
+  latest: 3.5.0
+  release: 3.5.0
+  versions:
+   version:
+   - 3.4.0
+   - 3.5.0
+  lastUpdated: '20151115175418'
+

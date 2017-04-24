@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.rajawali3d
+ artifactId: wear
+ versioning:
+  latest: 1.1.777
+  release: 1.1.777
+  versions:
+   version:
+   - 1.1.610
+   - 1.1.668
+   - 1.1.777
+  lastUpdated: '20161116205953'
+

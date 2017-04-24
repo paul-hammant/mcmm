@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.ino
+ artifactId: solrs_2.12
+ versioning:
+  latest: 2.0.0-RC4
+  release: 2.0.0-RC4
+  versions:
+   version:
+   - 2.0.0-RC2
+   - 2.0.0-RC3
+   - 2.0.0-RC4
+  lastUpdated: '20170224104445'
+

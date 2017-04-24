@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: IzPack Maven Plugin
+   prefix: izpack
+   artifactId: izpack-maven-plugin
+

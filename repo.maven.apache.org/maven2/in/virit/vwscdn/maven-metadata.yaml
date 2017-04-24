@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: vwscdn
+   artifactId: vwscdn-maven-plugin
+

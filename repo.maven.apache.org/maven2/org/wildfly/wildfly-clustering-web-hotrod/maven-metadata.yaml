@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.wildfly
+ artifactId: wildfly-clustering-web-hotrod
+ versioning:
+  latest: 11.0.0.Alpha1
+  release: 11.0.0.Alpha1
+  versions:
+   version: 11.0.0.Alpha1
+  lastUpdated: '20170330124115'
+

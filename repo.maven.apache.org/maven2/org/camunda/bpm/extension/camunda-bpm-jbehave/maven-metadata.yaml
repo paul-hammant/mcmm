@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.camunda.bpm.extension
+ artifactId: camunda-bpm-jbehave
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20141031133428'
+

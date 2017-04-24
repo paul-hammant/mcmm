@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: eclipselink-staticweave-maven-plugin Maven Mojo
+   prefix: eclipselink-staticweave
+   artifactId: eclipselink-staticweave-maven-plugin
+

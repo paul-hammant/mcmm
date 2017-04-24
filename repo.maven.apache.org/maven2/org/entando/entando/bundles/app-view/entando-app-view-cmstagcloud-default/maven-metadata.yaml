@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.entando.entando.bundles.app-view
+ artifactId: entando-app-view-cmstagcloud-default
+ versioning:
+  latest: 4.2.0-TP1
+  release: 4.2.0-TP1
+  versions:
+   version: 4.2.0-TP1
+  lastUpdated: '20150222155618'
+

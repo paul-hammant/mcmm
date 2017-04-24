@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.cantaa
+ artifactId: cantaa-commons
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '1.1'
+   - '1.5'
+   - '1.6'
+   - '1.7'
+   - '1.9'
+   - '2.0'
+  lastUpdated: '20150730081425'
+

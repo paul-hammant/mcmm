@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.derquinse.j8
+ artifactId: derquinse-j8-pom
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20150818163158'
+

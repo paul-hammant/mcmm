@@ -1,0 +1,8 @@
+metadata:
+ groupId: tablelayout
+ artifactId: TableLayoutPersistenceDelegate
+ version: '20020517'
+ versioning:
+  versions:
+   version: '20020517'
+

@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Kevoree :: Maven :: Settings CI'
+   prefix: org.kevoree..settings.ci
+   artifactId: org.kevoree.maven.settings.ci
+  - name: 'Kevoree :: Tools :: Annotation MavenPlugin'
+   prefix: org.kevoree.tools.annotation.
+   artifactId: org.kevoree.tools.annotation.mavenplugin
+  - name: 'Kevoree :: Tools :: MarShell MavenPlugin'
+   prefix: org.kevoree.tools.marshell.
+   artifactId: org.kevoree.tools.marshell.mavenplugin
+  - name: 'Kevoree :: Tools :: MavenPlugin'
+   prefix: kev
+   artifactId: org.kevoree.tools.mavenplugin
+  - name: 'Kevoree :: Tools :: MavenPlugin'
+   prefix: org.kevoree.tools.
+   artifactId: org.kevoree.tools.mavenplugin
+  - name: 'Kevoree :: Tools :: Merger MavenPlugin'
+   prefix: org.kevoree.tools.merger.
+   artifactId: org.kevoree.tools.merger.mavenplugin
+

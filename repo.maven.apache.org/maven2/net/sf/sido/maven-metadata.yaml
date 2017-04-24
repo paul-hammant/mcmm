@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: SiDO Generation Maven Plug-in
+   prefix: sido-gen
+   artifactId: sido-gen-maven
+  - name: SiDO POJO Maven Plug-in
+   prefix: sido-pojo
+   artifactId: sido-pojo-maven-plugin
+

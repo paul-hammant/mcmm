@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ploin.web
+ artifactId: ploinFaces
+ versioning:
+  latest: 2.2.1
+  release: 2.2.1
+  versions:
+   version: 2.2.1
+  lastUpdated: '20120402210538'
+

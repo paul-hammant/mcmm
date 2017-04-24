@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jenkins-ci
+ artifactId: annotation-indexer
+ versioning:
+  latest: '1.4'
+  release: '1.4'
+  versions:
+   version: '1.4'
+  lastUpdated: '20150322173550'
+

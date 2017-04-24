@@ -1,0 +1,10 @@
+metadata:
+ groupId: cactus
+ artifactId: cactus-framework
+ version: 13-1.5dev-20030322
+ versioning:
+  versions:
+   version:
+   - 13-1.5dev-20030322
+   - 13-1.5dev-20030407
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.osnz.tiles
+ artifactId: groovy-tile
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20170328235139'
+

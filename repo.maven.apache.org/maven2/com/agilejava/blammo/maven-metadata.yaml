@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Blammo Plug-in
+   prefix: blammo
+   artifactId: blammo-maven-plugin
+

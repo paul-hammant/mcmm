@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.norad.bootstrap
+ artifactId: bootstrap-sample-jar
+ versioning:
+  latest: 1.1-jdk6
+  release: 1.1-jdk6
+  versions:
+   version: 1.1-jdk6
+  lastUpdated: '20140212115926'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Spring Boot Maven Plugin
+   prefix: spring-boot
+   artifactId: spring-boot-maven-plugin
+

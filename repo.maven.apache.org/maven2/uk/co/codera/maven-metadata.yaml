@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: codera-test-reporting
+   artifactId: codera-test-reporting-maven-plugin
+

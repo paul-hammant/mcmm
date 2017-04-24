@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.http4s
+ artifactId: http4s-blaze_2.11
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version: 0.2.0
+  lastUpdated: '20140716031043'
+

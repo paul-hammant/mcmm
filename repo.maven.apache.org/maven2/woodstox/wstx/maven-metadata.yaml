@@ -1,0 +1,8 @@
+metadata:
+ groupId: woodstox
+ artifactId: wstx
+ version: src
+ versioning:
+  versions:
+   version: src
+

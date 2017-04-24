@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: javax.ejb
+ artifactId: ejb-api
+ versioning:
+  latest: 3.0-alpha-1
+  release: 3.0-alpha-1
+  versions:
+   version: 3.0-alpha-1
+  lastUpdated: '20110815192727'
+

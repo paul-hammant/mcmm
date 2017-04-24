@@ -1,0 +1,17 @@
+metadata:
+ groupId: br.com.esec.icpm
+ artifactId: mss-ws-client
+ versioning:
+  latest: 1.13.4
+  release: 1.13.4
+  versions:
+   version:
+   - 1.8.4
+   - 1.8.5
+   - 1.8.6
+   - 1.9.2
+   - 1.10.0
+   - 1.13.0
+   - 1.13.4
+  lastUpdated: '20170215182013'
+

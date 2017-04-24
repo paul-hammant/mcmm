@@ -1,0 +1,10 @@
+metadata:
+ groupId: saxon
+ artifactId: saxon-jdom
+ version: 6.5.2
+ versioning:
+  versions:
+   version:
+   - 6.5.2
+   - 6.5.3
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.alibaba
+ artifactId: SimpleEL
+ versioning:
+  latest: 0.1.7
+  release: 0.1.7
+  versions:
+   version: 0.1.7
+  lastUpdated: '20141217150434'
+

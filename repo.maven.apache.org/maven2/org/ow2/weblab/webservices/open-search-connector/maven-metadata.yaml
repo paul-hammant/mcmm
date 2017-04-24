@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.weblab.webservices
+ artifactId: open-search-connector
+ version: 1.0.0
+ versioning:
+  versions:
+   version: 1.0.0
+  lastUpdated: '20120711134741'
+

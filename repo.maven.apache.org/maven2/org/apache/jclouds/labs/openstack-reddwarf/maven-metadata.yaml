@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.jclouds.labs
+ artifactId: openstack-reddwarf
+ versioning:
+  latest: 1.6.1-incubating
+  release: 1.6.1-incubating
+  versions:
+   version: 1.6.1-incubating
+  lastUpdated: '20130620020509'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.hive.hcatalog
+ artifactId: hcatalog-core
+ versioning:
+  latest: 0.12.0
+  release: 0.12.0
+  versions:
+   version: 0.12.0
+  lastUpdated: '20131015233842'
+

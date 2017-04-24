@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Vorto Maven Generator Plugin
+   prefix: vorto
+   artifactId: vorto-maven-plugin
+

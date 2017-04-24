@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.everit.osgi
+ artifactId: org.everit.osgi.liquibase.bundle
+ versioning:
+  latest: 3.1.1-v20140507
+  release: 3.1.1-v20140507
+  versions:
+   version:
+   - 3.1.1-v20140219
+   - 3.1.1-v20140324
+   - 3.1.1-v20140507
+  lastUpdated: '20140507124319'
+

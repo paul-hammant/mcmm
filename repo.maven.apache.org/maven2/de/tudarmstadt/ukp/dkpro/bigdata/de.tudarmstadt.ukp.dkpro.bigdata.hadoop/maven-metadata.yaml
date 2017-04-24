@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.tudarmstadt.ukp.dkpro.bigdata
+ artifactId: de.tudarmstadt.ukp.dkpro.bigdata.hadoop
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20131105215151'
+

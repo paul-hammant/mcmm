@@ -1,0 +1,10 @@
+metadata:
+ groupId: uk.org.ponder.pure-poms
+ artifactId: rsf-components-test-base
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version: 0.8.0
+  lastUpdated: '20140529222544'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.portals.bridges
+ artifactId: portals-bridges-common
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version:
+   - '2.0'
+   - '2.1'
+  lastUpdated: '20150419201446'
+

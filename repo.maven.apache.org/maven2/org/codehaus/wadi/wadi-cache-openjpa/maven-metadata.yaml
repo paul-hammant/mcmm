@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.codehaus.wadi
+ artifactId: wadi-cache-openjpa
+ version: 2.1.2
+ versioning:
+  versions:
+   version: 2.1.2
+  lastUpdated: '20091114063527'
+

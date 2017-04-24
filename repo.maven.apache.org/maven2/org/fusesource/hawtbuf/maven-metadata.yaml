@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'HawtBuf :: Proto'
+   prefix: hawtbuf-proto
+   artifactId: hawtbuf-proto
+  - name: ${project.artifactId}
+   prefix: hawtbuf-protoc
+   artifactId: hawtbuf-protoc
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: eu.webtoolkit
+ artifactId: jwt
+ versioning:
+  latest: 3.2.0
+  release: 3.2.0
+  versions:
+   version:
+   - 3.1.11
+   - 3.2.0
+  lastUpdated: '20111220161112'
+

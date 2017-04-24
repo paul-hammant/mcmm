@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jbundle-app-program-plugin Maven Mojo
+   prefix: org.jbundle.app.program.
+   artifactId: org.jbundle.app.program.plugin
+

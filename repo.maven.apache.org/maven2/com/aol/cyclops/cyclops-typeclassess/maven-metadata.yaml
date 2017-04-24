@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.aol.cyclops
+ artifactId: cyclops-typeclassess
+ versioning:
+  latest: 8.3.0
+  release: 8.3.0
+  versions:
+   version: 8.3.0
+  lastUpdated: '20161124210641'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: git-changelog
+   artifactId: git-changelog-maven-plugin
+

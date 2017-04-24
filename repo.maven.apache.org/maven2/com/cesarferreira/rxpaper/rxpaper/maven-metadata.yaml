@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.cesarferreira.rxpaper
+ artifactId: rxpaper
+ versioning:
+  latest: 0.4.1
+  release: 0.4.1
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.2
+   - 0.3.1
+   - 0.3.2
+   - 0.3.3
+   - 0.4.1
+  lastUpdated: '20160703230206'
+

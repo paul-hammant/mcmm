@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.nutz
+ artifactId: nutz-vfs
+ versioning:
+  latest: 1.r.60
+  release: 1.r.60
+  versions:
+   version: 1.r.60
+  lastUpdated: '20170116040104'
+

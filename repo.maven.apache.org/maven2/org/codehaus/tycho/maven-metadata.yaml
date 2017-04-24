@@ -1,0 +1,27 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Tycho OSGi Compiler Plugin
+   prefix: osgi-compiler
+   artifactId: maven-osgi-compiler-plugin
+  - name: Tycho OSGi Packaging Plugin
+   prefix: osgi-packaging
+   artifactId: maven-osgi-packaging-plugin
+  - name: Tycho OSGi Source Plugin
+   prefix: osgi-source
+   artifactId: maven-osgi-source-plugin
+  - name: Tycho OSGi Test Plugin
+   prefix: osgi-test
+   artifactId: maven-osgi-test-plugin
+  - name: Tycho Maven Plugin
+   prefix: tycho
+   artifactId: maven-tycho-plugin
+  - name: Tycho Target Platform Configuration Plugin
+   prefix: target-platform-configuration
+   artifactId: target-platform-configuration
+  - prefix: tycho-bootstrap
+   artifactId: tycho-bootstrap-maven-plugin
+  - name: Tycho Maven Plugin
+   prefix: tycho
+   artifactId: tycho-maven-plugin
+

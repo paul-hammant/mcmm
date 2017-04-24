@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.featherfly
+ artifactId: bccs-api
+ versioning:
+  latest: 3.0.1
+  release: 3.0.1
+  versions:
+   version: 3.0.1
+  lastUpdated: '20150908104453'
+

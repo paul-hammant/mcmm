@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.scala-sbt
+ artifactId: contraband_2.11
+ versioning:
+  latest: 0.3.0-M4
+  release: 0.3.0-M4
+  versions:
+   version:
+   - 0.3.0-M1
+   - 0.3.0-M2
+   - 0.3.0-M3
+   - 0.3.0-M4
+  lastUpdated: '20170125202359'
+

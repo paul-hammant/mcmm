@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.ow2.wildcat
+ artifactId: wildcat-assemblies
+ version: 2.0.2
+ versioning:
+  release: 2.1.2
+  versions:
+   version:
+   - 2.0.2
+   - 2.0.3
+   - 2.1.1
+   - 2.1.2
+   - 2.3.0
+  lastUpdated: '20100811083756'
+

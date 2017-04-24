@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.protege
+ artifactId: protege-editor-owl
+ versioning:
+  latest: 4.1.0
+  release: 4.1.0
+  versions:
+   version: 4.1.0
+  lastUpdated: '20120716134016'
+

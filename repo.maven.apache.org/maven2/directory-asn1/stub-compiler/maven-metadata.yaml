@@ -1,0 +1,10 @@
+metadata:
+ groupId: directory-asn1
+ artifactId: stub-compiler
+ version: '0.3'
+ versioning:
+  versions:
+   version:
+   - '0.3'
+   - 0.3.2
+

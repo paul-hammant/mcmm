@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Capsule Maven Plugin
+   prefix: capsule
+   artifactId: capsule-maven-plugin
+

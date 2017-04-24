@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.xhtmlrenderer
+ artifactId: flying-saucer-pdf-osgi
+ versioning:
+  latest: 9.1.5
+  release: 9.1.5
+  versions:
+   version:
+   - 9.1.1
+   - 9.1.2
+   - 9.1.3
+   - 9.1.4
+   - 9.1.5
+  lastUpdated: '20170328161929'
+

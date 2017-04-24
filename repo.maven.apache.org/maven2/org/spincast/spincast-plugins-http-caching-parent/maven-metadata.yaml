@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.spincast
+ artifactId: spincast-plugins-http-caching-parent
+ versioning:
+  latest: 0.9.31
+  release: 0.9.31
+  versions:
+   version:
+   - 0.9.25
+   - 0.9.26
+   - 0.9.27
+   - 0.9.28
+   - 0.9.29
+   - 0.9.30
+   - 0.9.31
+  lastUpdated: '20170102181852'
+

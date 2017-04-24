@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.apache.directory.shared
+ artifactId: shared-cursor
+ versioning:
+  latest: 0.9.19
+  release: 0.9.19
+  versions:
+   version:
+   - 0.9.15
+   - 0.9.16
+   - 0.9.17
+   - 0.9.18
+   - 0.9.19
+  lastUpdated: '20100409084055'
+

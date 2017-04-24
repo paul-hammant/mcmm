@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.divconq
+ artifactId: divconq-core
+ versioning:
+  latest: 0.9.5
+  release: 0.9.5
+  versions:
+   version:
+   - 0.9.4-BETA-2
+   - 0.9.4
+   - 0.9.5
+  lastUpdated: '20141129215639'
+

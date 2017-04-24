@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: FastNate Maven Plugin
+   prefix: fastnate
+   artifactId: fastnate-maven-plugin
+

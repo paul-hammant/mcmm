@@ -1,0 +1,15 @@
+metadata:
+ groupId: petridish
+ artifactId: petridish
+ version: 1.0-beta-1-dev.20021009.125204
+ versioning:
+  versions:
+   version:
+   - 1.0-beta-1-dev.20021009.125204
+   - 1.0-beta-1-dev.20021010.034930
+   - 1.0-beta-1-dev.20021013.052005
+   - 1.0-beta-1-dev.20021014.020934
+   - 1.0-beta-1-dev.20021015.043339
+   - 1.0-beta-1-dev.20021119.155547
+   - 1.0-beta-1-dev.20021121.204706
+

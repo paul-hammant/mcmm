@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Modulizer Maven Plugin
+   prefix: modulizer
+   artifactId: modulizer-plugin
+

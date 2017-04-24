@@ -1,0 +1,13 @@
+metadata:
+ groupId: ru.sbtqa
+ artifactId: monte-media
+ versioning:
+  latest: 1.1.0-JAVA7
+  release: 1.1.0-JAVA7
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.1.0-JAVA7
+  lastUpdated: '20170118073944'
+

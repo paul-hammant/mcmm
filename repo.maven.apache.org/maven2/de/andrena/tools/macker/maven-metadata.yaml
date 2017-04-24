@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Macker Maven Plugin
+   prefix: macker
+   artifactId: macker-maven-plugin
+

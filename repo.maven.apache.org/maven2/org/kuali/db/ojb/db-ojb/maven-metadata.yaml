@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.kuali.db.ojb
+ artifactId: db-ojb
+ versioning:
+  latest: 1.0.4-patch9
+  release: 1.0.4-patch9
+  versions:
+   version:
+   - 1.0.4-patch6
+   - 1.0.4-patch7
+   - 1.0.4-patch8
+   - 1.0.4-patch9
+  lastUpdated: '20150706210157'
+

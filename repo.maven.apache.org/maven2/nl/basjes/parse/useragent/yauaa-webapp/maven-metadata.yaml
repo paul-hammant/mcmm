@@ -1,0 +1,12 @@
+metadata:
+ groupId: nl.basjes.parse.useragent
+ artifactId: yauaa-webapp
+ versioning:
+  latest: '0.6'
+  release: '0.6'
+  versions:
+   version:
+   - '0.5'
+   - '0.6'
+  lastUpdated: '20160912091742'
+

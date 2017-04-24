@@ -1,0 +1,17 @@
+metadata:
+ groupId: io.shaka
+ artifactId: naive-http_2.10
+ versioning:
+  latest: '58'
+  release: '58'
+  versions:
+   version:
+   - '18'
+   - '21'
+   - '35'
+   - '45'
+   - '48'
+   - '51'
+   - '58'
+  lastUpdated: '20141027120715'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.dheid
+ artifactId: blowfishj
+ versioning:
+  latest: '2.16'
+  release: '2.16'
+  versions:
+   version: '2.16'
+  lastUpdated: '20160726002128'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: ru.pavkin
+ artifactId: dtc-core_2.12
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version:
+   - 0.8.0
+   - 1.0.0
+  lastUpdated: '20170422124338'
+

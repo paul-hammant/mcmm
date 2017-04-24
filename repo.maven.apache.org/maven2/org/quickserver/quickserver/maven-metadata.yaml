@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.quickserver
+ artifactId: quickserver
+ versioning:
+  versions:
+   version: 1.4.5
+

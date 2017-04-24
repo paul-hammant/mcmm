@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.bendb.thrifty
+ artifactId: thrifty-test-server
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20160107034614'
+

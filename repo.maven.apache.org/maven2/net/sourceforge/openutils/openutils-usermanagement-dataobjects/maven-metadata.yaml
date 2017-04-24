@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.sourceforge.openutils
+ artifactId: openutils-usermanagement-dataobjects
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '1.1'
+   - 1.1.1
+   - '2.0'
+  lastUpdated: '20101207082338'
+

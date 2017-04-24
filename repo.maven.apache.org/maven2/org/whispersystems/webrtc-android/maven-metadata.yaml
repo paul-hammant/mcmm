@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.whispersystems
+ artifactId: webrtc-android
+ versioning:
+  latest: '14579'
+  release: '14579'
+  versions:
+   version:
+   - M56
+   - M56-S1
+   - M57
+   - M57-S1
+   - M57-S2
+   - '14579'
+  lastUpdated: '20170323230227'
+

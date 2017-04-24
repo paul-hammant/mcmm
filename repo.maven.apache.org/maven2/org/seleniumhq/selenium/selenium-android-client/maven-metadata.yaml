@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.seleniumhq.selenium
+ artifactId: selenium-android-client
+ versioning:
+  latest: 2.0b1
+  release: 2.0b1
+  versions:
+   version:
+   - 2.0a7
+   - 2.0b1
+  lastUpdated: '20110101212945'
+

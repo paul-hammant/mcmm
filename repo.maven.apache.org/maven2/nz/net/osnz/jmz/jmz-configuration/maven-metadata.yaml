@@ -1,0 +1,10 @@
+metadata:
+ groupId: nz.net.osnz.jmz
+ artifactId: jmz-configuration
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20140404094549'
+

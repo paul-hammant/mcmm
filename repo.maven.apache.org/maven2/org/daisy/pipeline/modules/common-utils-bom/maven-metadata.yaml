@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.daisy.pipeline.modules
+ artifactId: common-utils-bom
+ versioning:
+  latest: 1.10.2
+  release: 1.10.2
+  versions:
+   version:
+   - 1.10.0
+   - 1.10.1
+   - 1.10.2
+  lastUpdated: '20170321112449'
+

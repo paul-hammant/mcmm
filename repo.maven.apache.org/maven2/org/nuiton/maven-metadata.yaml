@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Helper Maven Plugin
+   prefix: helper
+   artifactId: helper-maven-plugin
+  - name: Maven helper plugin
+   prefix: helper
+   artifactId: maven-helper-plugin
+  - name: Maven License Plugin
+   prefix: license
+   artifactId: maven-license-plugin
+  - name: Nuiton Maven reports plugin
+   prefix: nuitonreport
+   artifactId: nuiton-maven-report-plugin
+  - name: 'Nuiton Utils :: Maven Report Plugin'
+   prefix: nuiton-utilsreport
+   artifactId: nuiton-utils-maven-report-plugin
+  - name: 'Nuiton Config :: Maven plugin'
+   prefix: nuiton-config
+   artifactId: nuiton-config-maven-plugin
+

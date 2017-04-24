@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.cra.figaro
+ artifactId: figaro
+ versioning:
+  latest: 2.1.0.0
+  release: 2.1.0.0
+  versions:
+   version: 2.1.0.0
+  lastUpdated: '20140404184501'
+

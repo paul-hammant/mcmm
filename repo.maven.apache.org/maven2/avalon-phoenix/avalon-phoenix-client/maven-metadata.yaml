@@ -1,0 +1,10 @@
+metadata:
+ groupId: avalon-phoenix
+ artifactId: avalon-phoenix-client
+ version: '4.0'
+ versioning:
+  versions:
+   version:
+   - '4.0'
+   - 4.0.4
+

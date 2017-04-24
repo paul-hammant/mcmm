@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.eclipse
+ artifactId: osgi
+ versioning:
+  latest: 3.10.0-v20140606-1445
+  release: 3.10.0-v20140606-1445
+  versions:
+   version:
+   - 3.9.1-v20130814-1242
+   - 3.9.1-v20140110-1610
+   - 3.10.0-v20140606-1445
+  lastUpdated: '20140801141454'
+

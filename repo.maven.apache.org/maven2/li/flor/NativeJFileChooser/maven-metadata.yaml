@@ -1,0 +1,10 @@
+metadata:
+ groupId: li.flor
+ artifactId: NativeJFileChooser
+ versioning:
+  latest: 1.6.3
+  release: 1.6.3
+  versions:
+   version: 1.6.3
+  lastUpdated: '20170312135400'
+

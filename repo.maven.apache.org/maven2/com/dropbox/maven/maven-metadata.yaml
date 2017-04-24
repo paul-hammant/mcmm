@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: PEM Converter Maven Plugin
+   prefix: pem-converter
+   artifactId: pem-converter-maven-plugin
+  - name: PEM to JKS Maven Plugin
+   prefix: pem-to-jks
+   artifactId: pem-to-jks-maven-plugin
+

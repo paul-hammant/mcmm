@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Genesis Maven Plugin
+   prefix: genesis
+   artifactId: genesis-maven-plugin
+

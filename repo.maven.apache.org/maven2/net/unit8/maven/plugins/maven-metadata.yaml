@@ -1,0 +1,15 @@
+metadata:
+ plugins:
+  plugin:
+  - name: assets-maven-plugin
+   prefix: assets
+   artifactId: assets-maven-plugin
+  - name: handlebars-maven-plugin
+   prefix: handlebars
+   artifactId: handlebars-maven-plugin
+  - name: job-streamer-maven-plugin
+   prefix: job-streamer
+   artifactId: job-streamer-maven-plugin
+  - prefix: waitt
+   artifactId: waitt-maven-plugin
+

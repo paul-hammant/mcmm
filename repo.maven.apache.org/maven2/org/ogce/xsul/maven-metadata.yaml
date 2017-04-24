@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ogce
+ artifactId: xsul
+ versioning:
+  latest: 2.10.7
+  release: 2.10.7
+  versions:
+   version:
+   - 2.10.6
+   - 2.10.7
+  lastUpdated: '20130817135823'
+

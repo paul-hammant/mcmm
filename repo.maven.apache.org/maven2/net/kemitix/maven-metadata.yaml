@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Digraph Dependency Maven Plugin
+   prefix: digraph-dependency
+   artifactId: digraph-dependency-maven-plugin
+  - name: Kemitix Checkstyle Ruleset Maven Plugin
+   prefix: kemitix-checkstyle-ruleset
+   artifactId: kemitix-checkstyle-ruleset-maven-plugin
+

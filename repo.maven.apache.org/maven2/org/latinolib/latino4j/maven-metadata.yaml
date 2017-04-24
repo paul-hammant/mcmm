@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.latinolib
+ artifactId: latino4j
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version: 0.1.2
+  lastUpdated: '20160212224644'
+

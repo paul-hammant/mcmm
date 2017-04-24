@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.floggy.3rd.org.eclipse
+ artifactId: osgi
+ versioning:
+  latest: 3.3.2.R33x_v20080105
+  release: 3.3.2.R33x_v20080105
+  versions:
+   version: 3.3.2.R33x_v20080105
+  lastUpdated: '20110119000018'
+

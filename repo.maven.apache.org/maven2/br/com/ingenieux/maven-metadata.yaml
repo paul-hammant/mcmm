@@ -1,0 +1,20 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: apigateway
+   artifactId: apigateway-maven-plugin
+  - prefix: beanstalk
+   artifactId: beanstalk-maven-plugin
+  - prefix: cloudformation
+   artifactId: cloudformation-maven-plugin
+  - prefix: cloudfront
+   artifactId: cloudfront-maven-plugin
+  - prefix: jbake
+   artifactId: jbake-maven-plugin
+  - prefix: lambda
+   artifactId: lambda-maven-plugin
+  - prefix: mapreduce
+   artifactId: mapreduce-maven-plugin
+  - prefix: simpledb
+   artifactId: simpledb-maven-plugin
+

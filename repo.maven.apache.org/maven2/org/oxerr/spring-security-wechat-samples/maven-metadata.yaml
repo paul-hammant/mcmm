@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.oxerr
+ artifactId: spring-security-wechat-samples
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20161003092608'
+

@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: robolectric-velocity
+   artifactId: robolectric-velocity-plugin
+

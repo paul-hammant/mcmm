@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.injava.lang
+ artifactId: DesignByContract
+ versioning:
+  latest: '0'
+  release: '0'
+  versions:
+   version: '0'
+  lastUpdated: '20150106235225'
+

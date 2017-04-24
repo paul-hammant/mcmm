@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.emc.vipr
+ artifactId: vipr-object-transformations
+ versioning:
+  latest: 2.0.3.1
+  release: 2.0.3.1
+  versions:
+   version:
+   - 1.1.1
+   - '2.0'
+   - 2.0.1
+   - 2.0.2
+   - 2.0.3
+   - 2.0.3.1
+  lastUpdated: '20150219203038'
+

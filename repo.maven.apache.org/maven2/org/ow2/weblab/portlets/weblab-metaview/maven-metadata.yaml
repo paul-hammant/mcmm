@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ow2.weblab.portlets
+ artifactId: weblab-metaview
+ version: 1.1-RC1
+ versioning:
+  release: '1.1'
+  versions:
+   version:
+   - 1.1-RC1
+   - '1.1'
+  lastUpdated: '20120713171846'
+

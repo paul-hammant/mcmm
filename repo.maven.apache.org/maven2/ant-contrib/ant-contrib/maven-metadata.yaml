@@ -1,0 +1,8 @@
+metadata:
+ groupId: ant-contrib
+ artifactId: ant-contrib
+ version: '20020829'
+ versioning:
+  versions:
+   version: '20020829'
+

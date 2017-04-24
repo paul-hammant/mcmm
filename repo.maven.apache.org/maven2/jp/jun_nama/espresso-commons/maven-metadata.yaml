@@ -1,0 +1,10 @@
+metadata:
+ groupId: jp.jun_nama
+ artifactId: espresso-commons
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20170317144932'
+

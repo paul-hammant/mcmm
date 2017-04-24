@@ -1,0 +1,9 @@
+metadata:
+ groupId: it.cnr.isti.domoware.tinyos
+ artifactId: tinyos-java
+ version: '2.1'
+ versioning:
+  versions:
+   version: '2.1'
+  lastUpdated: '20080918131709'
+

@@ -1,0 +1,7 @@
+metadata:
+ groupId: avalon-logging
+ artifactId: avalon-logging-logkit-socket
+ versioning:
+  versions:
+   version: 1.0.dev-0
+

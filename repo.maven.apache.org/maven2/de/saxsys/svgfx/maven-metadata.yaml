@@ -1,0 +1,14 @@
+metadata:
+ groupId: de.saxsys
+ artifactId: svgfx
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 0.8.0
+   - 0.9.0
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20161216214122'
+

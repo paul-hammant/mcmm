@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.orchestra.eclipse.core
+ artifactId: org.ow2.orchestra.eclipse.core.expressions
+ versioning:
+  release: 3.4.300
+  versions:
+   version: 3.4.300
+  lastUpdated: '20110921133706'
+

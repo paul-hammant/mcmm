@@ -1,0 +1,8 @@
+metadata:
+ groupId: xdoclet
+ artifactId: xdoclet-openejb-module
+ version: 1.2.3
+ versioning:
+  versions:
+   version: 1.2.3
+

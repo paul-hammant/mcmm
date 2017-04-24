@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bouncycastle
+ artifactId: bcprov-debug-jdk14
+ versioning:
+  latest: '1.55'
+  release: '1.55'
+  versions:
+   version: '1.55'
+  lastUpdated: '20160821072849'
+

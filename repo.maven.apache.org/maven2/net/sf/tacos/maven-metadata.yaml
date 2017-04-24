@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Tapdoc Maven Plugin
+   prefix: tapdoc
+   artifactId: tapdoc-maven-plugin
+

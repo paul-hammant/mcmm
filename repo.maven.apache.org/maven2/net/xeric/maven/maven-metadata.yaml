@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: h2 Maven Mojo
+   prefix: h2
+   artifactId: h2-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: uk.ac.ebi.ena.taxonomy
+ artifactId: ena-taxonomy-client
+ versioning:
+  latest: 2.1.2
+  release: 2.1.2
+  versions:
+   version: 2.1.2
+  lastUpdated: '20160825082020'
+

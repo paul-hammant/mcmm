@@ -1,0 +1,10 @@
+metadata:
+ groupId: to.etc.domui
+ artifactId: to.etc.webapp.core
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20170327210645'
+

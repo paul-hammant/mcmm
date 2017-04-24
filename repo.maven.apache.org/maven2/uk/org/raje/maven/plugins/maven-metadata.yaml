@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: MSBuild Maven Plugin - maven-msbuild-plugin
+   prefix: msbuild
+   artifactId: msbuild-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Robot Framework Maven Plugin
+   prefix: robotframework
+   artifactId: robotframework-maven-plugin
+

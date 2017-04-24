@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.jboss.weld.integration
+ artifactId: weld-jboss-int-deployer-mc-int
+ versioning:
+  latest: 6.0.0.Beta11
+  release: 6.0.0.Beta11
+  versions:
+   version:
+   - 6.0.0.Beta7
+   - 6.0.0.Beta8
+   - 6.0.0.Beta9
+   - 6.0.0.Beta10
+   - 6.0.0.Beta11
+  lastUpdated: '20100426024758'
+

@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: js
+   artifactId: mavenjs-maven-plugin
+

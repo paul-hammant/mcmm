@@ -1,0 +1,8 @@
+metadata:
+ groupId: maven
+ artifactId: wagon-ssh-external
+ version: 1.0-alpha-3
+ versioning:
+  versions:
+   version: 1.0-alpha-3
+

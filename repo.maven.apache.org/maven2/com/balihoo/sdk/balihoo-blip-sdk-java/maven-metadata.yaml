@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.balihoo.sdk
+ artifactId: balihoo-blip-sdk-java
+ versioning:
+  latest: 1.7.0
+  release: 1.7.0
+  versions:
+   version:
+   - 1.1.1
+   - 1.6.0
+   - 1.7.0
+  lastUpdated: '20160629211312'
+

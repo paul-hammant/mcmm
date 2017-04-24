@@ -1,0 +1,8 @@
+metadata:
+ groupId: acegisecurity
+ artifactId: acegi-security-resin-lib
+ version: 0.6.1
+ versioning:
+  versions:
+   version: 0.6.1
+

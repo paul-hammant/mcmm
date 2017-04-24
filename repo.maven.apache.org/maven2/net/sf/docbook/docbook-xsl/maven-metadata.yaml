@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.sf.docbook
+ artifactId: docbook-xsl
+ versioning:
+  latest: 1.79.1
+  release: 1.79.1
+  versions:
+   version:
+   - 1.77.1
+   - 1.78.0
+   - 1.78.1
+   - 1.79.1
+  lastUpdated: '20160214200359'
+

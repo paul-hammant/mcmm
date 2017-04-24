@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ScalaTest Maven Plugin
+   prefix: scalatest
+   artifactId: scalatest-maven-plugin
+

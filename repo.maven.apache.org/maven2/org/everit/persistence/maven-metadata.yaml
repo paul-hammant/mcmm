@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Everit - LQMG Maven Plugin
+   prefix: lqmg
+   artifactId: lqmg-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.provis
+ artifactId: provisio-model
+ versioning:
+  latest: 0.1.48
+  release: 0.1.48
+  versions:
+   version: 0.1.48
+  lastUpdated: '20170420005153'
+

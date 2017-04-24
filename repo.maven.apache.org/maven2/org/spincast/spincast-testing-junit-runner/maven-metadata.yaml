@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.spincast
+ artifactId: spincast-testing-junit-runner
+ versioning:
+  latest: 0.9.31
+  release: 0.9.31
+  versions:
+   version:
+   - 0.9.22
+   - 0.9.23
+   - 0.9.25
+   - 0.9.26
+   - 0.9.27
+   - 0.9.28
+   - 0.9.29
+   - 0.9.30
+   - 0.9.31
+  lastUpdated: '20170102181901'
+

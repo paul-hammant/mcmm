@@ -1,0 +1,15 @@
+metadata:
+ groupId: br.com.thiagomoreira.liferay.plugins
+ artifactId: lorem-ipsum-button-hook
+ versioning:
+  latest: 1.3.0.0
+  release: 1.3.0.0
+  versions:
+   version:
+   - '0.1'
+   - 1.0.0.0
+   - 1.1.0.0
+   - 1.2.0.0
+   - 1.3.0.0
+  lastUpdated: '20141120020230'
+

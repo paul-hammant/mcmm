@@ -1,0 +1,10 @@
+metadata:
+ groupId: works.lmz.util
+ artifactId: lmz-services
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20160223233732'
+

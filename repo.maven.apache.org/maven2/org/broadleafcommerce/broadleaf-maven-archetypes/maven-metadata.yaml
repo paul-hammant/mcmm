@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.broadleafcommerce
+ artifactId: broadleaf-maven-archetypes
+ versioning:
+  latest: 1.6.0-GA
+  release: 1.6.0-GA
+  versions:
+   version: 1.6.0-GA
+  lastUpdated: '20120501164418'
+

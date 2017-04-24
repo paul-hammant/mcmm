@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: tvarit-maven-plugin
+   prefix: tvarit
+   artifactId: tvarit-maven-plugin
+

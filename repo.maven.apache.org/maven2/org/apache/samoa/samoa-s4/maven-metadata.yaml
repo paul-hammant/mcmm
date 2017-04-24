@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.samoa
+ artifactId: samoa-s4
+ versioning:
+  latest: 0.3.0-incubating
+  release: 0.3.0-incubating
+  versions:
+   version: 0.3.0-incubating
+  lastUpdated: '20150721082201'
+

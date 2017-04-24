@@ -1,0 +1,13 @@
+metadata:
+ groupId: de.cinovo.cloudconductor
+ artifactId: cloudconductor-server-parent
+ versioning:
+  latest: '2.7'
+  release: '2.7'
+  versions:
+   version:
+   - '2.3'
+   - '2.6'
+   - '2.7'
+  lastUpdated: '20140521140419'
+

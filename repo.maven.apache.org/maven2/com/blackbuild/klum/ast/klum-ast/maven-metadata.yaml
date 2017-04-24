@@ -1,0 +1,18 @@
+metadata:
+ groupId: com.blackbuild.klum.ast
+ artifactId: klum-ast
+ versioning:
+  latest: 0.97.5
+  release: 0.97.5
+  versions:
+   version:
+   - 0.96.0
+   - 0.96.1
+   - 0.97.0
+   - 0.97.1
+   - 0.97.2
+   - 0.97.3
+   - 0.97.4
+   - 0.97.5
+  lastUpdated: '20170315101932'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: tomcat
+ artifactId: tomcat4-coyote
+ version: 4.1.34
+ versioning:
+  versions:
+   version: 4.1.34
+

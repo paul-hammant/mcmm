@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.emc.ecs
+ artifactId: atmos-client
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version:
+   - 2.2.2.1
+   - 2.2.3
+   - 3.0.0
+  lastUpdated: '20161007154308'
+

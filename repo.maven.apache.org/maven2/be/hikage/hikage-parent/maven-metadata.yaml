@@ -1,0 +1,10 @@
+metadata:
+ groupId: be.hikage
+ artifactId: hikage-parent
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20111228222511'
+

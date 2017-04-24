@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.stickycode.ws
+ artifactId: sticky-ws-cxf
+ versioning:
+  latest: '4.1'
+  release: '4.1'
+  versions:
+   version:
+   - '3.2'
+   - '4.1'
+  lastUpdated: '20120812221744'
+

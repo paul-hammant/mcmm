@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.javers
+ artifactId: javers-spring-data
+ versioning:
+  latest: 1.1.0-RC1
+  release: 1.1.0-RC1
+  versions:
+   version:
+   - 1.0.7
+   - 1.1.0-RC1
+  lastUpdated: '20150227231058'
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Closure Compiler Plugin
+   prefix: closure-compiler
+   artifactId: closure-compiler-maven-plugin
+  - name: Sass Compiler Plugin
+   prefix: sass
+   artifactId: sass-maven-plugin
+

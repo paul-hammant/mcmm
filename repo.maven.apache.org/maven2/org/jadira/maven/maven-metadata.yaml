@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Jadira FMPP Maven Plugin
+   prefix: fmpp
+   artifactId: fmpp-maven-plugin
+

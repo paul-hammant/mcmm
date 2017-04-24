@@ -1,0 +1,8 @@
+metadata:
+ groupId: commons-services
+ artifactId: commons-services
+ version: 1.0-dev
+ versioning:
+  versions:
+   version: 1.0-dev
+

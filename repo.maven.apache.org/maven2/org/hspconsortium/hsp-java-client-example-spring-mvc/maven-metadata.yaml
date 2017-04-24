@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.hspconsortium
+ artifactId: hsp-java-client-example-spring-mvc
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version: '0.8'
+  lastUpdated: '20150824044135'
+

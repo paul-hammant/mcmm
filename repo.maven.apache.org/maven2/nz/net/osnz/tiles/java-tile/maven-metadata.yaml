@@ -1,0 +1,10 @@
+metadata:
+ groupId: nz.net.osnz.tiles
+ artifactId: java-tile
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20170112110123'
+

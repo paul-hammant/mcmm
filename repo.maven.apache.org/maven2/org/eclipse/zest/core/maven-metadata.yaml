@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.eclipse.zest
+ artifactId: core
+ version: 0.7.0-200711240245
+ versioning:
+  versions:
+   version: 0.7.0-200711240245
+  lastUpdated: '20071127071000'
+

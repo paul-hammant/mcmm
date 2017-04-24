@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.fao.sola.admin.web
+ artifactId: sola-web-admin
+ versioning:
+  latest: 1411a
+  release: 1411a
+  versions:
+   version: 1411a
+  lastUpdated: '20141113064746'
+

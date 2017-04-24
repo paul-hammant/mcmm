@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: org.modeone.releasenote - MavenMojo
+   prefix: ${prefix}
+   artifactId: ${plugin-prefix}-maven-plugin
+

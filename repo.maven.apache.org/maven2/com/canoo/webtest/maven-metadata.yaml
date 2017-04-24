@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.canoo
+ artifactId: webtest
+ version: '586'
+ versioning:
+  versions:
+   version:
+   - '586'
+   - '268'
+   - '277'
+   - '1193'
+

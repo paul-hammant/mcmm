@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SonarQube Scanner for Maven
+   prefix: sonar
+   artifactId: sonar-maven-plugin
+

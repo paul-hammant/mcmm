@@ -1,0 +1,8 @@
+metadata:
+ groupId: taglibs
+ artifactId: dbtags
+ version: 1.0.0
+ versioning:
+  versions:
+   version: 1.0.0
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scala-lang.modules
+ artifactId: scala-partest_2.12.0-RC1-ceaf419
+ versioning:
+  latest: 1.0.17
+  release: 1.0.17
+  versions:
+   version: 1.0.17
+  lastUpdated: '20160927130306'
+

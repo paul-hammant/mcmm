@@ -1,0 +1,10 @@
+metadata:
+ groupId: tv.kazu
+ artifactId: chatwork4s_2.11
+ versioning:
+  latest: 0.2.5
+  release: 0.2.5
+  versions:
+   version: 0.2.5
+  lastUpdated: '20160925143522'
+

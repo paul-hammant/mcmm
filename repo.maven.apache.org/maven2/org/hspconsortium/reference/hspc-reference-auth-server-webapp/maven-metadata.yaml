@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.hspconsortium.reference
+ artifactId: hspc-reference-auth-server-webapp
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '0.11'
+   - '0.12'
+   - '1.1'
+  lastUpdated: '20170420034945'
+

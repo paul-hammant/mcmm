@@ -1,0 +1,11 @@
+metadata:
+ groupId: net.sf.buildbox
+ artifactId: strictlogging-log4j
+ version: 1.0.1-rc
+ versioning:
+  versions:
+   version:
+   - 1.0.1-rc
+   - 1.0.1
+  lastUpdated: '20101113223114'
+

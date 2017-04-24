@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.eduworks
+ artifactId: ew.levr.rdf
+ versioning:
+  latest: 5.2.0
+  release: 5.2.0
+  versions:
+   version: 5.2.0
+  lastUpdated: '20170404185302'
+

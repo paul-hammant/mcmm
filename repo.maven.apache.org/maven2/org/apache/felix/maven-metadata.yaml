@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven Bundle Plugin
+   prefix: bundle
+   artifactId: maven-bundle-plugin
+  - name: Apache Felix iPOJO Maven Plugin
+   prefix: ipojo
+   artifactId: maven-ipojo-plugin
+  - name: Junit4OSGi Maven Plugin
+   prefix: junit4osgi
+   artifactId: maven-junit4osgi-plugin
+  - name: OBR Maven Plugin
+   prefix: obr
+   artifactId: maven-obr-plugin
+  - name: Maven SCR Plugin
+   prefix: scr
+   artifactId: maven-scr-plugin
+  - name: Apache Felix Dependency Manager Annotation
+   prefix: org.apache.felix.dependencymanager.annotation
+   artifactId: org.apache.felix.dependencymanager.annotation
+

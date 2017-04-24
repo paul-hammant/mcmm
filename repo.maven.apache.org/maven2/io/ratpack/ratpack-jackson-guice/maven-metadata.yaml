@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.ratpack
+ artifactId: ratpack-jackson-guice
+ versioning:
+  latest: 0.9.19
+  release: 0.9.19
+  versions:
+   version:
+   - 0.9.18
+   - 0.9.19
+  lastUpdated: '20150801221230'
+

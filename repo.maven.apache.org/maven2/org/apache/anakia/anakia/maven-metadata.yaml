@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.anakia
+ artifactId: anakia
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20070429100439'
+

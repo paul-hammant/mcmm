@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.escalatesoft.subcut
+ artifactId: subcut_2.11
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version: '2.1'
+  lastUpdated: '20140701211814'
+

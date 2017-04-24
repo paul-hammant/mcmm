@@ -1,0 +1,12 @@
+metadata:
+ groupId: commons-jelly
+ artifactId: commons-jelly-tags-junit
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '20030211.141731'
+   - '20040902.064627'
+   - '20040902.070920'
+

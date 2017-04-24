@@ -1,0 +1,8 @@
+metadata:
+ groupId: jparsec
+ artifactId: groovyparse
+ version: '0.1'
+ versioning:
+  versions:
+   version: '0.1'
+

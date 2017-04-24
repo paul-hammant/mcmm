@@ -1,0 +1,9 @@
+metadata:
+ groupId: tanukisoft
+ artifactId: wrapper-delta-pack
+ version: 3.2.3
+ versioning:
+  versions:
+   version: 3.2.3
+  lastUpdated: '20080307020859'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.inmite.android.lib
+ artifactId: android-validation-komensky-demo
+ versioning:
+  latest: 0.9.2
+  release: 0.9.2
+  versions:
+   version: 0.9.2
+  lastUpdated: '20140110125548'
+

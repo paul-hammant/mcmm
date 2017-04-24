@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.sf3jswing
+ artifactId: asl-descriptors
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20160522152531'
+

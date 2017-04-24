@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.j8unit
+ artifactId: core
+ versioning:
+  latest: 4.12.1
+  release: 4.12.1
+  versions:
+   version:
+   - '4.12'
+   - 4.12.1
+  lastUpdated: '20161202141447'
+

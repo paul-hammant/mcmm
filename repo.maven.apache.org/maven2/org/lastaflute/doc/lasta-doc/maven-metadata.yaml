@@ -1,0 +1,22 @@
+metadata:
+ groupId: org.lastaflute.doc
+ artifactId: lasta-doc
+ versioning:
+  latest: 0.2.3-RC4
+  release: 0.2.3-RC4
+  versions:
+   version:
+   - 0.2.0-RC1
+   - 0.2.0-RC2
+   - 0.2.0
+   - 0.2.1-RC1
+   - 0.2.1-RC2
+   - 0.2.1
+   - 0.2.2-RC1
+   - 0.2.2
+   - 0.2.3-RC1
+   - 0.2.3-RC2
+   - 0.2.3-RC3
+   - 0.2.3-RC4
+  lastUpdated: '20170420154552'
+

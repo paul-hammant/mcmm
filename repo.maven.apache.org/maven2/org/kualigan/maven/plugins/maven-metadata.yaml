@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Kuali Coeus Maven Plugin
+   prefix: kc
+   artifactId: kc-maven-plugin
+  - name: Kuali Financials Maven Plugin
+   prefix: kfs
+   artifactId: kfs-maven-plugin
+  - name: Kuali Financials Maven Plugin
+   prefix: kfs
+   artifactId: kfs-maven-plugin
+  - name: Kuali Maven Plugin
+   prefix: kuali
+   artifactId: kuali-maven-plugin
+  - name: Maven Liquibase Migrate Plugin
+   prefix: lb
+   artifactId: lb-maven-plugin
+  - name: redis-maven-plugin Maven Plugin
+   prefix: redis
+   artifactId: redis-maven-plugin
+

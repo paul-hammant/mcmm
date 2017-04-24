@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.opengis.cite
+ artifactId: teamengine
+ versioning:
+  latest: '4.10'
+  release: '4.10'
+  versions:
+   version:
+   - 4.0.5
+   - 4.0.6
+   - '4.5'
+   - '4.7'
+   - 4.7.1
+   - '4.9'
+   - '4.10'
+  lastUpdated: '20161123213853'
+

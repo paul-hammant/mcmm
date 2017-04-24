@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.zipkin.reporter
+ artifactId: zipkin-reporter-kafka08
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+  lastUpdated: '20160818151425'
+

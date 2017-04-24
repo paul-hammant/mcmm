@@ -1,0 +1,8 @@
+metadata:
+ groupId: commons-transaction
+ artifactId: commons-transaction
+ version: '1.1'
+ versioning:
+  versions:
+   version: '1.1'
+

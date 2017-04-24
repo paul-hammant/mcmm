@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: TeaVM maven plugin
+   prefix: teavm
+   artifactId: teavm-maven-plugin
+

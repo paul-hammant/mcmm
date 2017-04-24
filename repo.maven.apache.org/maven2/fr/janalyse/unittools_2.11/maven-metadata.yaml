@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.janalyse
+ artifactId: unittools_2.11
+ versioning:
+  latest: 0.3.1
+  release: 0.3.1
+  versions:
+   version: 0.3.1
+  lastUpdated: '20170402205049'
+

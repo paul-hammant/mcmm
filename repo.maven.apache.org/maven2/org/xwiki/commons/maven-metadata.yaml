@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: XWiki Commons - Tools - Extension Plugin
+   prefix: xwiki-commons-tool-extension
+   artifactId: xwiki-commons-tool-extension-plugin
+  - name: XWiki Commons - Tools - XAR Tools - XAR Plugin
+   prefix: xwiki-commons-tool-xar
+   artifactId: xwiki-commons-tool-xar-plugin
+  - name: XWiki Commons - Tools - XAR Tools - XAR Plugin
+   prefix: xwiki-commons-tool-xar
+   artifactId: xwiki-commons-tool-xar-plugin
+

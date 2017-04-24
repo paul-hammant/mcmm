@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: XML Format Maven Plugin
+   prefix: xml-format
+   artifactId: xml-format-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: xalan
+ artifactId: xalanservlet
+ version: 2.4.1
+ versioning:
+  versions:
+   version:
+   - 2.4.1
+   - 2.5.1
+

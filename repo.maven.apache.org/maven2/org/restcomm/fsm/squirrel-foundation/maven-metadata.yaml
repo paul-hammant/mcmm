@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.restcomm.fsm
+ artifactId: squirrel-foundation
+ versioning:
+  latest: 0.3.9.11
+  release: 0.3.9.11
+  versions:
+   version: 0.3.9.11
+  lastUpdated: '20161128181544'
+

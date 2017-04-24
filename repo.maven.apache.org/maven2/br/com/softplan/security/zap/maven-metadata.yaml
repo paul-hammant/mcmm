@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ZAP Maven Plugin
+   prefix: zap
+   artifactId: zap-maven-plugin
+

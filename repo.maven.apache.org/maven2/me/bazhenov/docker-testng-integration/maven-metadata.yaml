@@ -1,0 +1,12 @@
+metadata:
+ groupId: me.bazhenov
+ artifactId: docker-testng-integration
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+  lastUpdated: '20170421044924'
+

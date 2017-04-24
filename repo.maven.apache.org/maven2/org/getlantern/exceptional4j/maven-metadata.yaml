@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.getlantern
+ artifactId: exceptional4j
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version:
+   - 0.0.4
+   - '0.1'
+  lastUpdated: '20131007144952'
+

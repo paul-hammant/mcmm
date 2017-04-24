@@ -1,0 +1,10 @@
+metadata:
+ groupId: nu.zoom
+ artifactId: desktop-aggregator
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version: '2'
+  lastUpdated: '20101101052955'
+

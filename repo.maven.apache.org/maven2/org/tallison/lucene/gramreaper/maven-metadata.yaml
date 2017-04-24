@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.tallison.lucene
+ artifactId: gramreaper
+ versioning:
+  latest: 6.5-0.1
+  release: 6.5-0.1
+  versions:
+   version: 6.5-0.1
+  lastUpdated: '20170327115935'
+

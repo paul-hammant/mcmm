@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: majala-maven-plugin
+   prefix: majala
+   artifactId: majala-maven-plugin
+

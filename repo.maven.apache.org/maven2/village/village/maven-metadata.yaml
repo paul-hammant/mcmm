@@ -1,0 +1,14 @@
+metadata:
+ groupId: village
+ artifactId: village
+ version: 1.5.3
+ versioning:
+  versions:
+   version:
+   - 1.5.3
+   - 1.5.3-dev
+   - 2.0-dev-20021111
+   - 2.0-dev-20030625
+   - 2.0-dev-20030825
+   - '2.0'
+

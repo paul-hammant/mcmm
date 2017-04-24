@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.scalarelational
+ artifactId: scalarelational-versioning_2.12
+ versioning:
+  latest: 1.3.9
+  release: 1.3.9
+  versions:
+   version:
+   - 1.3.6
+   - 1.3.7
+   - 1.3.8
+   - 1.3.9
+  lastUpdated: '20170329163849'
+

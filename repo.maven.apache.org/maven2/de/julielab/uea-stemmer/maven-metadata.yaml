@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.julielab
+ artifactId: uea-stemmer
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20151110151032'
+

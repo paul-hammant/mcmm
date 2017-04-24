@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Cathcart Maven plugin
+   prefix: cathcart
+   artifactId: maven-cathcart-plugin
+

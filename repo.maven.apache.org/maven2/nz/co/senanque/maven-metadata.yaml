@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: madura-objects-maven-plugin
+   prefix: madura-objects
+   artifactId: madura-objects-maven-plugin
+  - name: madura-rules-maven-plugin
+   prefix: madura-rules
+   artifactId: madura-rules-maven-plugin
+  - name: MaduraDocs
+   prefix: maduradocs
+   artifactId: maduradocs
+  - name: SchemaTranslatorMavenPlugin
+   prefix: schema-translator
+   artifactId: schema-translator-maven-plugin
+

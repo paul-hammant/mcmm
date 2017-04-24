@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JavaScript Zip Maven Plugin
+   prefix: jszip
+   artifactId: jszip-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: fish.payara.api
+ artifactId: payara-api
+ versioning:
+  latest: 4.1.1.171.1
+  release: 4.1.1.171.1
+  versions:
+   version:
+   - 4.1.1.171
+   - 4.1.1.171.1
+  lastUpdated: '20170324170031'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.camunda.bpm.extension
+ artifactId: camunda-bpm-process-test-coverage-test
+ versioning:
+  latest: 0.2.9
+  release: 0.2.9
+  versions:
+   version:
+   - 0.2.8
+   - 0.2.9
+  lastUpdated: '20170119154747'
+

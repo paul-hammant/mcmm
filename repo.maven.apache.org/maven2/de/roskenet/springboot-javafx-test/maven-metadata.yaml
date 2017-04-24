@@ -1,0 +1,15 @@
+metadata:
+ groupId: de.roskenet
+ artifactId: springboot-javafx-test
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+   - 0.0.4
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20170324010153'
+

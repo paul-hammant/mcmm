@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.dragon
+ artifactId: dragon-quality
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20110120111443'
+

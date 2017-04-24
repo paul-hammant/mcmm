@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: OpenJPA Maven Plugin
+   prefix: openjpa
+   artifactId: openjpa-maven-plugin
+

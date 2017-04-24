@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Nukleus Maven Plugin
+   prefix: nukleus
+   artifactId: nukleus-maven-plugin
+

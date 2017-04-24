@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-properties-plugin Maven Mojo
+   prefix: properties
+   artifactId: maven-properties-plugin
+

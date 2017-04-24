@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.wildfly.archetype
+ artifactId: wildfly-javaee7-webapp-ear-blank-archetype
+ versioning:
+  latest: 8.2.0.Final
+  release: 8.2.0.Final
+  versions:
+   version:
+   - 8.1.0.Final
+   - 8.2.0.Final
+  lastUpdated: '20150131001715'
+

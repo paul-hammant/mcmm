@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.think.minus.test
+ artifactId: parent
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20071105150557'
+

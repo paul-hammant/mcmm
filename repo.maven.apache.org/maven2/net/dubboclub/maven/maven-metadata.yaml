@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: dubbom-maven-plugin
+   prefix: dubbom
+   artifactId: dubbom-maven-plugin
+

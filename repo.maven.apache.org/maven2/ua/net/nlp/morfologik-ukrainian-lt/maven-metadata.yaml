@@ -1,0 +1,10 @@
+metadata:
+ groupId: ua.net.nlp
+ artifactId: morfologik-ukrainian-lt
+ versioning:
+  latest: 3.7.0
+  release: 3.7.0
+  versions:
+   version: 3.7.0
+  lastUpdated: '20170319230708'
+

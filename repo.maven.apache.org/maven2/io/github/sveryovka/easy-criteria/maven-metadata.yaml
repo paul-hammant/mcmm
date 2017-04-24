@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.github.sveryovka
+ artifactId: easy-criteria
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version:
+   - '1.0'
+   - '2.0'
+   - 2.0.1
+  lastUpdated: '20170421120329'
+

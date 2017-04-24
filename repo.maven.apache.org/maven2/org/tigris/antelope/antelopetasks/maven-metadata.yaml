@@ -1,0 +1,8 @@
+metadata:
+ groupId: org.tigris.antelope
+ artifactId: antelopetasks
+ version: 3.2.10
+ versioning:
+  versions:
+   version: 3.2.10
+

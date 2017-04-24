@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scala-rules
+ artifactId: scala-rules
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20160416114100'
+

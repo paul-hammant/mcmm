@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.opencms
+ artifactId: opencms-upload
+ versioning:
+  latest: 8.0.3-rev
+  release: 8.0.3-rev
+  versions:
+   version:
+   - 8.0.3
+   - 8.0.3-rev
+  lastUpdated: '20111207215609'
+

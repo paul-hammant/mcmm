@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ShrinkWrap Descriptors Metadata Parser
+   prefix: shrinkwrap-descriptors-metadata-parser
+   artifactId: shrinkwrap-descriptors-metadata-parser
+

@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.sakaiproject.mailsender
+ artifactId: mailsender-base
+ versioning:
+  latest: 1.7.1
+  release: 1.7.1
+  versions:
+   version:
+   - 1.7.0-b03
+   - 1.7.0-b04
+   - 1.7.0-b05
+   - 1.7.0-b06
+   - 1.7.0-b07
+   - 1.7.0-rc1
+   - 1.7.0-rc02
+   - 1.7.1-rc03
+   - 1.7.1
+  lastUpdated: '20121109163841'
+

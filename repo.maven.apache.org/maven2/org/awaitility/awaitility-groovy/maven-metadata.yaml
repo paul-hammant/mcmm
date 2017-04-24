@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.awaitility
+ artifactId: awaitility-groovy
+ versioning:
+  latest: 3.0.0-rc3
+  release: 3.0.0-rc3
+  versions:
+   version:
+   - 2.0.0
+   - 3.0.0-rc1
+   - 3.0.0-rc3
+  lastUpdated: '20170407053238'
+

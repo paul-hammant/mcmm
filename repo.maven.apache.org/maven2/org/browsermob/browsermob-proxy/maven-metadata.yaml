@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.browsermob
+ artifactId: browsermob-proxy
+ versioning:
+  latest: 2.0-beta-2
+  release: 2.0-beta-2
+  versions:
+   version:
+   - 2.0-beta-1
+   - 2.0-beta-2
+  lastUpdated: '20110804021142'
+

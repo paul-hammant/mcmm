@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.circuitwall.ml
+ artifactId: platform-monolithic
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version: 1.1.1
+  lastUpdated: '20161005073620'
+

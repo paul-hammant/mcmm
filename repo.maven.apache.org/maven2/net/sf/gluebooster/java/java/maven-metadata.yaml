@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.gluebooster.java
+ artifactId: java
+ versioning:
+  latest: 0.7.1
+  release: 0.7.1
+  versions:
+   version:
+   - '0.7'
+   - 0.7.1
+  lastUpdated: '20161108163432'
+

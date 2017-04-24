@@ -1,0 +1,8 @@
+metadata:
+ groupId: commons-jelly
+ artifactId: commons-jelly-tags-regexp
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

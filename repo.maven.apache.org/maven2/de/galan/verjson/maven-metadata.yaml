@@ -1,0 +1,13 @@
+metadata:
+ groupId: de.galan
+ artifactId: verjson
+ versioning:
+  latest: 0.8.1
+  release: 0.8.1
+  versions:
+   version:
+   - 0.7.0
+   - 0.8.0
+   - 0.8.1
+  lastUpdated: '20170218124152'
+

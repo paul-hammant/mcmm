@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.brooklyn
+ artifactId: brooklyn-software-monitoring
+ versioning:
+  latest: 0.7.0-M1
+  release: 0.7.0-M1
+  versions:
+   version: 0.7.0-M1
+  lastUpdated: '20140331174734'
+

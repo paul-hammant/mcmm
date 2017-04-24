@@ -1,0 +1,10 @@
+metadata:
+ groupId: commons-naming
+ artifactId: commons-naming-factory
+ version: '20031116.223742'
+ versioning:
+  versions:
+   version:
+   - '20031116.223742'
+   - '20031201.015542'
+

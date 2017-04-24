@@ -1,0 +1,52 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Bundler Maven Mojo
+   prefix: bundler
+   artifactId: bundler-maven-plugin
+  - name: Cucumber Maven Mojo
+   prefix: cucumber
+   artifactId: cucumber-maven-plugin
+  - name: Gem Maven Mojo
+   prefix: gem
+   artifactId: gem-maven-plugin
+  - name: Gemify Maven Mojo
+   prefix: gemify
+   artifactId: gemify-maven-plugin
+  - name: JRuby Maven Mojo
+   prefix: ruby
+   artifactId: jruby-maven-plugin
+  - name: JRuby Maven Mojo
+   prefix: jruby
+   artifactId: jruby-maven-plugin
+  - name: JRuby9 Exec Maven Mojo
+   prefix: jruby9-exec
+   artifactId: jruby9-exec-maven-plugin
+  - name: JRuby9 Jar Maven Mojo
+   prefix: jruby9-jar
+   artifactId: jruby9-jar-maven-plugin
+  - name: JRuby Exec Maven Mojo
+   prefix: jruby9
+   artifactId: jruby9-maven-plugin
+  - name: JRuby9 War Maven Mojo
+   prefix: jruby9-war
+   artifactId: jruby9-war-maven-plugin
+  - name: Minitest Maven Mojo
+   prefix: minitest
+   artifactId: minitest-maven-plugin
+  - name: Rails 2.3.x Maven Mojo
+   prefix: rails2
+   artifactId: rails2-maven-plugin
+  - name: Rails3 Maven Mojo
+   prefix: rails3
+   artifactId: rails3-maven-plugin
+  - name: Rake Maven Mojo
+   prefix: rake
+   artifactId: rake-maven-plugin
+  - name: RSpec Maven Mojo
+   prefix: rspec
+   artifactId: rspec-maven-plugin
+  - name: RUnit Maven Mojo
+   prefix: runit
+   artifactId: runit-maven-plugin
+

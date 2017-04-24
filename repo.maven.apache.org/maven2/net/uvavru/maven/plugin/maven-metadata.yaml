@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jetty-conf-maven-plugin Maven Plugin
+   prefix: jetty-conf
+   artifactId: jetty-conf-maven-plugin
+

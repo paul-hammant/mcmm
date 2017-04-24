@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sonarsource.sslr-squid-bridge
+ artifactId: sslr-squid-bridge
+ versioning:
+  latest: 2.6.1
+  release: 2.6.1
+  versions:
+   version: 2.6.1
+  lastUpdated: '20151028074939'
+

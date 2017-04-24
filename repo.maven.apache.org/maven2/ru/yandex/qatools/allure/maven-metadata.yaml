@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Allure JUnit Plugin
+   prefix: allure-junit
+   artifactId: allure-junit-plugin
+  - name: Allure Maven Plugin
+   prefix: allure
+   artifactId: allure-maven-plugin
+  - name: Allure TestNG Plugin
+   prefix: allure-testng
+   artifactId: allure-testng-plugin
+

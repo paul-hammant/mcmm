@@ -1,0 +1,14 @@
+metadata:
+ groupId: me.id.webverify
+ artifactId: webverifylib
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - 2.0.0
+  lastUpdated: '20170329180851'
+

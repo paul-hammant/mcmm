@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Loci plugin
+   prefix: loci
+   artifactId: loci-plugin
+

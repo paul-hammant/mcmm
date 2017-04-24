@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Sculptor :: Maven :: Plugin'
+   prefix: sculptor
+   artifactId: sculptor-maven-plugin
+

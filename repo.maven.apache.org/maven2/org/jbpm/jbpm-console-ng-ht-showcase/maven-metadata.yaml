@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.jbpm
+ artifactId: jbpm-console-ng-ht-showcase
+ versioning:
+  latest: 6.3.0.Final
+  release: 6.3.0.Final
+  versions:
+   version:
+   - 6.3.0.Beta1
+   - 6.3.0.Beta2
+   - 6.3.0.CR1
+   - 6.3.0.CR2
+   - 6.3.0.Final
+  lastUpdated: '20150925140947'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.datumbox
+ artifactId: libsvm
+ versioning:
+  latest: '3.22'
+  release: '3.22'
+  versions:
+   version:
+   - '3.21'
+   - '3.22'
+  lastUpdated: '20161231175653'
+

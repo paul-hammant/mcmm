@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.sciss
+ artifactId: wolkenpumpe_2.12
+ versioning:
+  latest: 2.13.0
+  release: 2.13.0
+  versions:
+   version:
+   - 2.12.1
+   - 2.13.0
+  lastUpdated: '20170217091145'
+

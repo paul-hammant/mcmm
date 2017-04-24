@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.nutz
+ artifactId: nutz-plugins-jedis
+ versioning:
+  latest: 1.r.59
+  release: 1.r.59
+  versions:
+   version:
+   - 1.r.57
+   - 1.r.58
+   - 1.r.59
+  lastUpdated: '20161130100938'
+

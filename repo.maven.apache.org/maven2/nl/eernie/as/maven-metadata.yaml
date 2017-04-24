@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: ASConfigCreator
+   artifactId: ASConfigCreator-maven-plugin
+

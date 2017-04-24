@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.trinea.android.common
+ artifactId: trinea-android-common
+ versioning:
+  latest: 4.2.15
+  release: 4.2.15
+  versions:
+   version: 4.2.15
+  lastUpdated: '20140513161720'
+

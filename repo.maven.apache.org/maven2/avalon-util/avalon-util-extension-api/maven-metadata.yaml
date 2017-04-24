@@ -1,0 +1,10 @@
+metadata:
+ groupId: avalon-util
+ artifactId: avalon-util-extension-api
+ version: '1.1'
+ versioning:
+  versions:
+   version:
+   - '1.1'
+   - 1.2.0
+

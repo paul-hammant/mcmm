@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.eclipse.core
+ artifactId: resources
+ version: 3.3.0-v20070604
+ versioning:
+  versions:
+   version:
+   - 3.3.0-v20070604
+   - 3.2.1-R32x_v20060914
+  lastUpdated: '20071127073215'
+

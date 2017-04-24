@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.corpus-tools
+ artifactId: pepperModules-TreetaggerModules
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.2.8
+   - 2.0.0
+  lastUpdated: '20170227202302'
+

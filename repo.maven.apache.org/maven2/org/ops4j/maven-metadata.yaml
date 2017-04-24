@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: OPS4J - Support Maven Mojo inheritance
+   prefix: inherit
+   artifactId: maven-inherit-plugin
+  - name: 'OPS4J - Pax Mojos: OSGi project helpers'
+   prefix: pax
+   artifactId: maven-pax-plugin
+

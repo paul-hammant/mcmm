@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.mybatis.caches
+ artifactId: mybatis-memcached
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version:
+   - 1.0.0-beta1
+   - 1.0.0
+  lastUpdated: '20140321170724'
+

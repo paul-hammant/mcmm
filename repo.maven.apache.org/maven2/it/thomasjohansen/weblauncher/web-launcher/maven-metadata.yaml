@@ -1,0 +1,12 @@
+metadata:
+ groupId: it.thomasjohansen.weblauncher
+ artifactId: web-launcher
+ versioning:
+  latest: 1.0-RC2
+  release: 1.0-RC2
+  versions:
+   version:
+   - 1.0-RC1
+   - 1.0-RC2
+  lastUpdated: '20160305213037'
+

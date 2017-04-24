@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: webservice-generator-plugin
+   prefix: webservice-generator
+   artifactId: webservice-generator-plugin
+

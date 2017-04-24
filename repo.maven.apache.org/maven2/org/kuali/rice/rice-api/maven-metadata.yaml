@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.kuali.rice
+ artifactId: rice-api
+ versioning:
+  latest: 1.0.8
+  release: 1.0.8
+  versions:
+   version:
+   - 1.0.3.1-BX
+   - 1.0.3.2
+   - 1.0.3.3
+   - 1.0.4
+   - 1.0.7
+   - 1.0.8
+  lastUpdated: '20150527163855'
+

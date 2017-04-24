@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Magisto
+   prefix: magisto
+   artifactId: magisto
+

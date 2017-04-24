@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sonarsource.sonar-findbugs-plugin
+ artifactId: sonar-findbugs-plugin
+ versioning:
+  latest: '3.3'
+  release: '3.3'
+  versions:
+   version: '3.3'
+  lastUpdated: '20150902062009'
+

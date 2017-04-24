@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Syringe Maven Plugin
+   prefix: syringe
+   artifactId: syringe-maven-plugin
+

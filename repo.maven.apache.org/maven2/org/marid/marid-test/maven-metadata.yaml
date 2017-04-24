@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.marid
+ artifactId: marid-test
+ versioning:
+  latest: 0.9.5.2
+  release: 0.9.5.2
+  versions:
+   version:
+   - 0.8.8.1
+   - 0.9.2
+   - 0.9.4.4
+   - 0.9.4.5
+   - 0.9.5.1
+   - 0.9.5.2
+  lastUpdated: '20170305052927'
+

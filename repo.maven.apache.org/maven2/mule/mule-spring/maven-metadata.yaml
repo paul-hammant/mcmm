@@ -1,0 +1,8 @@
+metadata:
+ groupId: mule
+ artifactId: mule-spring
+ version: configuration
+ versioning:
+  versions:
+   version: configuration
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: hu.supercluster
+ artifactId: overpasser-retrofit-legacy-adapter
+ versioning:
+  latest: 0.2.2
+  release: 0.2.2
+  versions:
+   version:
+   - 0.2.0
+   - 0.2.2
+  lastUpdated: '20160728111153'
+

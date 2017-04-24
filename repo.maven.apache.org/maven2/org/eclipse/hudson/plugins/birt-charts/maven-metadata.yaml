@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eclipse.hudson.plugins
+ artifactId: birt-charts
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20120112183351'
+

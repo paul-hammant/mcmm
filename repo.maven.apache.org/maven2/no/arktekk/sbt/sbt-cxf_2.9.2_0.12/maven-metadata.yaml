@@ -1,0 +1,10 @@
+metadata:
+ groupId: no.arktekk.sbt
+ artifactId: sbt-cxf_2.9.2_0.12
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20120807105902'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: herd swaggergen maven plugin
+   prefix: herd-swaggergen
+   artifactId: herd-swaggergen-maven-plugin
+

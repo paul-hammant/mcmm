@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.picketlink.quickstarts
+ artifactId: idp-metadata
+ versioning:
+  latest: 2.1.9.Final
+  release: 2.1.9.Final
+  versions:
+   version:
+   - 2.1.6.Final
+   - 2.1.8.Final
+   - 2.1.9.Final
+  lastUpdated: '20131009140911'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.cloudhopper.proxool
+ artifactId: proxool
+ versioning:
+  latest: 0.9.1
+  release: 0.9.1
+  versions:
+   version: 0.9.1
+  lastUpdated: '20131108235933'
+

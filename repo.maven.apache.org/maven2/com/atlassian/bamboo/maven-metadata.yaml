@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Bamboo Specs Runner Maven Plugin
+   prefix: bamboo-specs-runner
+   artifactId: bamboo-specs-runner
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: ca.umontreal.iro
+ artifactId: ssj
+ versioning:
+  latest: '2.5'
+  release: '2.5'
+  versions:
+   version: '2.5'
+  lastUpdated: '20121213175923'
+

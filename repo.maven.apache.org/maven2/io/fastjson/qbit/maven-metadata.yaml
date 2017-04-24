@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.fastjson
+ artifactId: qbit
+ versioning:
+  latest: '0.29'
+  release: '0.29'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - '0.29'
+  lastUpdated: '20141013112715'
+

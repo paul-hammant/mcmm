@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.greenrobot
+ artifactId: eventbus-annotation-processor
+ versioning:
+  latest: 3.0.1
+  release: 3.0.1
+  versions:
+   version:
+   - 3.0.0
+   - 3.0.1
+  lastUpdated: '20160210204038'
+

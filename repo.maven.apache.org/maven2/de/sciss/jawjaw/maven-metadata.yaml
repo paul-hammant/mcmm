@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.sciss
+ artifactId: jawjaw
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20151028011322'
+

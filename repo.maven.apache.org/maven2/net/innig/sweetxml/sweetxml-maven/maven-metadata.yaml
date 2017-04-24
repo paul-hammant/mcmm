@@ -1,0 +1,7 @@
+metadata:
+ groupId: net.innig.sweetxml
+ artifactId: sweetxml-maven
+ versioning:
+  versions:
+   version: '0.2'
+

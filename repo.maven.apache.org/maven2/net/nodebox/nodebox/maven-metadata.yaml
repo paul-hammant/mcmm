@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.nodebox
+ artifactId: nodebox
+ versioning:
+  latest: 3.0.44
+  release: 3.0.44
+  versions:
+   version: 3.0.44
+  lastUpdated: '20160407142944'
+

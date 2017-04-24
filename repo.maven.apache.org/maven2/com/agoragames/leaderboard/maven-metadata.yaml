@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.agoragames
+ artifactId: leaderboard
+ versioning:
+  latest: 2.0.2
+  release: 2.0.2
+  versions:
+   version:
+   - 1.0.0
+   - 2.0.0
+   - 2.0.1
+   - 2.0.2
+  lastUpdated: '20151211162707'
+

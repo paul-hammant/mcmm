@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: feature-zip-plugin Maven Plugin
+   prefix: feature-zip
+   artifactId: feature-zip-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: mdaprocess Maven Mojo
+   prefix: mdaprocess
+   artifactId: mdaprocess
+

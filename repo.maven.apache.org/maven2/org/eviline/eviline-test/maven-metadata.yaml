@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eviline
+ artifactId: eviline-test
+ versioning:
+  latest: 1.0.10
+  release: 1.0.10
+  versions:
+   version: 1.0.10
+  lastUpdated: '20121109025024'
+

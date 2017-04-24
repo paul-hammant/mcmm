@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.jbundle.util.other
+ artifactId: org.jbundle.util.other.weblook
+ versioning:
+  latest: 0.7.9
+  release: 0.7.9
+  versions:
+   version:
+   - 0.7.7
+   - 0.7.8
+   - 0.7.9
+  lastUpdated: '20150103043910'
+

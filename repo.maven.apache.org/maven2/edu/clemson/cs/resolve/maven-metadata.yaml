@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: RSRG git plugin
+   prefix: rsrg-git
+   artifactId: git-plugin
+

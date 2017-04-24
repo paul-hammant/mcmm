@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.sf.jped
+ artifactId: jedit-syntax
+ version: 2.2.2
+ versioning:
+  versions:
+   version: 2.2.2
+  lastUpdated: '20080520092310'
+

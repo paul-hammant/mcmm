@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.eclipselabs
+ artifactId: net4j.jvm
+ versioning:
+  latest: 4.4.0
+  release: 4.4.0
+  versions:
+   version:
+   - 4.3.0
+   - 4.4.0
+  lastUpdated: '20151014132014'
+

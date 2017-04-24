@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.yestech
+ artifactId: yesevent
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 2.0.0
+  lastUpdated: '20101204015213'
+

@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Jenkins Maven Plugin
+   prefix: jenkins
+   artifactId: jenkins-maven-plugin
+  - name: The Multi Module Maven Release Plugin
+   prefix: multi-module-release
+   artifactId: multi-module-release-maven-plugin
+  - name: Repository Builder Maven Plugin
+   prefix: repository-builder
+   artifactId: repository-builder-plugin
+

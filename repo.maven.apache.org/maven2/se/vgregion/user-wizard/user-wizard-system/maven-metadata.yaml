@@ -1,0 +1,10 @@
+metadata:
+ groupId: se.vgregion.user-wizard
+ artifactId: user-wizard-system
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20120308143122'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.cubeisland.spoon
+ artifactId: spoon-core
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version: '2.1'
+  lastUpdated: '20140808171216'
+

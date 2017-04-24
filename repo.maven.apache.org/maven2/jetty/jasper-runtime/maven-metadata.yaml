@@ -1,0 +1,8 @@
+metadata:
+ groupId: jetty
+ artifactId: jasper-runtime
+ version: 4.2.20RC0
+ versioning:
+  versions:
+   version: 4.2.20RC0
+

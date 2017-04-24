@@ -1,0 +1,11 @@
+metadata:
+ groupId: net.sf.formlayoutmaker
+ artifactId: formlayoutmakerx
+ version: rc7
+ versioning:
+  versions:
+   version:
+   - rc7
+   - rc8.2.1
+  lastUpdated: '20080322204818'
+

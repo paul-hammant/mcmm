@@ -1,0 +1,10 @@
+metadata:
+ groupId: co.cask.cdap
+ artifactId: hive-exec
+ versioning:
+  latest: 0.13.0
+  release: 0.13.0
+  versions:
+   version: 0.13.0
+  lastUpdated: '20140925030624'
+

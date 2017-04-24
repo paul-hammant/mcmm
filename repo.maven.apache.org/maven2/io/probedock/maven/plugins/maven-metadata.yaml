@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Glassfish Maven Plugin
+   prefix: glassfish
+   artifactId: glassfish-maven-plugin
+  - name: Probe Dock Report UID Plugin
+   prefix: probedock-uid
+   artifactId: probedock-uid-maven-plugin
+  - name: Probe Dock UUID Plugin
+   prefix: probedock-uuid
+   artifactId: probedock-uuid-maven-plugin
+

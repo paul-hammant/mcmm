@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ${project.artifactId}
+   prefix: mydalgen
+   artifactId: maven-mydalgen-plugin
+  - name: ${project.groupId}:${project.artifactId}
+   prefix: mybatisdalgen
+   artifactId: mybatisdalgen
+

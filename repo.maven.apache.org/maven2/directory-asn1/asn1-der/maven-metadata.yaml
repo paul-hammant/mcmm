@@ -1,0 +1,11 @@
+metadata:
+ groupId: directory-asn1
+ artifactId: asn1-der
+ version: '0.3'
+ versioning:
+  versions:
+   version:
+   - '0.3'
+   - 0.3.2
+   - 0.3.3
+

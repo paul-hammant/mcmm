@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.logspace
+ artifactId: logspace-hq-core-api
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version: 0.3.0
+  lastUpdated: '20151218202757'
+

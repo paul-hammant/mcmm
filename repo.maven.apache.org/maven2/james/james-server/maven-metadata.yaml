@@ -1,0 +1,8 @@
+metadata:
+ groupId: james
+ artifactId: james-server
+ version: 3.0a
+ versioning:
+  versions:
+   version: 3.0a
+

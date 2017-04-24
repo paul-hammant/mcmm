@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Apache Avro Maven Plugin
+   prefix: avro
+   artifactId: avro-maven-plugin
+

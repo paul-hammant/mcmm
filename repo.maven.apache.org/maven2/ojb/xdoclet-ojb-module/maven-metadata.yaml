@@ -1,0 +1,10 @@
+metadata:
+ groupId: ojb
+ artifactId: xdoclet-ojb-module
+ version: 1.2.1
+ versioning:
+  versions:
+   version:
+   - 1.2.1
+   - 1.2.3
+

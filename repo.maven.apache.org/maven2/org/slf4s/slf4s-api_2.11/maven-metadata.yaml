@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.slf4s
+ artifactId: slf4s-api_2.11
+ versioning:
+  latest: 1.7.25
+  release: 1.7.25
+  versions:
+   version:
+   - 1.7.7
+   - 1.7.10
+   - 1.7.12
+   - 1.7.13
+   - 1.7.25
+  lastUpdated: '20170412195912'
+

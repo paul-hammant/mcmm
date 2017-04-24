@@ -1,0 +1,28 @@
+metadata:
+ groupId: org.scala-sbt
+ artifactId: librarymanagement_2.11
+ versioning:
+  latest: 1.0.0-X10
+  release: 1.0.0-X10
+  versions:
+   version:
+   - 0.1.0-M1
+   - 0.1.0-M2
+   - 0.1.0-M3
+   - 0.1.0-M4
+   - 0.1.0-M7
+   - 0.1.0-M8
+   - 0.1.0-M9
+   - 0.1.0-M10
+   - 0.1.0-M11
+   - 0.1.0-M12
+   - 0.1.0-X1
+   - 0.1.0-X2
+   - 0.1.0-X3
+   - 1.0.0-X4
+   - 1.0.0-X5
+   - 1.0.0-X7
+   - 1.0.0-X9
+   - 1.0.0-X10
+  lastUpdated: '20170417175602'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.daikit
+ artifactId: daikit-commons
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20140107150148'
+

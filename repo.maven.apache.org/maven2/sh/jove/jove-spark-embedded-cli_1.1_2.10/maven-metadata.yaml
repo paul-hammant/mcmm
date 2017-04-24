@@ -1,0 +1,10 @@
+metadata:
+ groupId: sh.jove
+ artifactId: jove-spark-embedded-cli_1.1_2.10
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20150217011707'
+

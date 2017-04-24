@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jhades
+ artifactId: jhades-standalone-report
+ versioning:
+  latest: 1.0.4
+  release: 1.0.4
+  versions:
+   version: 1.0.4
+  lastUpdated: '20131014213556'
+

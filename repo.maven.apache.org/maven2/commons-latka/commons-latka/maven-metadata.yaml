@@ -1,0 +1,13 @@
+metadata:
+ groupId: commons-latka
+ artifactId: commons-latka
+ version: 1.0-dev.20021208.082252
+ versioning:
+  versions:
+   version:
+   - 1.0-dev.20021208.082252
+   - 1.0-dev.20021208.125541
+   - 1.0-dev.20021208.130300
+   - 1.0-dev.20021217.141322
+   - 1.0-dev.20030107.163533
+

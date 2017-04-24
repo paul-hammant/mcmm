@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.tessilab.oss
+ artifactId: HyPop
+ versioning:
+  latest: 0.2.3.0
+  release: 0.2.3.0
+  versions:
+   version: 0.2.3.0
+  lastUpdated: '20170302134658'
+

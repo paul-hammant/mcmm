@@ -1,0 +1,10 @@
+metadata:
+ groupId: pmd
+ artifactId: pmd
+ versioning:
+  latest: '4.3'
+  release: '4.3'
+  versions:
+   version: '4.3'
+  lastUpdated: '20111111163357'
+

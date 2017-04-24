@@ -1,0 +1,13 @@
+metadata:
+ groupId: se.skltp.adapterservices.ehr.accesscontrol
+ artifactId: DominoHttp10Adapter-parent
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version:
+   - 2.0.0-RC3
+   - 2.0.0
+   - 2.0.1
+  lastUpdated: '20140901055819'
+

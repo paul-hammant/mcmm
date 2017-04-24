@@ -1,0 +1,16 @@
+metadata:
+ groupId: io.apptik.json
+ artifactId: json-core
+ versioning:
+  latest: 1.1.0-alpha1
+  release: 1.1.0-alpha1
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+   - 1.0.4
+   - 1.1.0-alpha1
+  lastUpdated: '20170213002211'
+

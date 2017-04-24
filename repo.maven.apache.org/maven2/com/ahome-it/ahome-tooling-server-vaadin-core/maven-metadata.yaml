@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.ahome-it
+ artifactId: ahome-tooling-server-vaadin-core
+ versioning:
+  latest: 1.0.112-RELEASE
+  release: 1.0.112-RELEASE
+  versions:
+   version: 1.0.112-RELEASE
+  lastUpdated: '20150919220027'
+

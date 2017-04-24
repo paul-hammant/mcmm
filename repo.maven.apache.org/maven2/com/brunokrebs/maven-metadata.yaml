@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: fastweb Maven Mojo
+   prefix: fastweb
+   artifactId: fastweb
+

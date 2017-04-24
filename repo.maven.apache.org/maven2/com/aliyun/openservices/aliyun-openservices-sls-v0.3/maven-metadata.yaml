@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.aliyun.openservices
+ artifactId: aliyun-openservices-sls-v0.3
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20140708030038'
+

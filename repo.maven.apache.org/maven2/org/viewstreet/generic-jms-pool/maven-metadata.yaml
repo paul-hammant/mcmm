@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.viewstreet
+ artifactId: generic-jms-pool
+ versioning:
+  latest: 5.14.5.0
+  release: 5.14.5.0
+  versions:
+   version: 5.14.5.0
+  lastUpdated: '20170419051744'
+

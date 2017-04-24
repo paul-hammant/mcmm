@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.arquillian.extension
+ artifactId: arquillian-persistence-spi
+ versioning:
+  latest: 1.0.0.Alpha7
+  release: 1.0.0.Alpha7
+  versions:
+   version: 1.0.0.Alpha7
+  lastUpdated: '20140512124628'
+

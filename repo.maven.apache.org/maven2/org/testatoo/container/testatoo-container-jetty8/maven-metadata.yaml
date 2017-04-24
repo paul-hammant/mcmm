@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.testatoo.container
+ artifactId: testatoo-container-jetty8
+ versioning:
+  latest: 2.1.ga
+  release: 2.1.ga
+  versions:
+   version:
+   - 2.0.ga
+   - 2.1.ga
+  lastUpdated: '20121127171124'
+

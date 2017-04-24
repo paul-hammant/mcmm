@@ -1,0 +1,9 @@
+metadata:
+ groupId: javax.transaction
+ artifactId: jta
+ version: 1.0.1B
+ versioning:
+  versions:
+   version: 1.0.1B
+  lastUpdated: '20061001170740'
+

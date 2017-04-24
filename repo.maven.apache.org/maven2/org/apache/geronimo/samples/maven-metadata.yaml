@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Geronimo Samples  ::  Archetype'
+   prefix: geronimo-samples-archetype
+   artifactId: geronimo-samples-archetype
+

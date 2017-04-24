@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: EA Async-Await Maven Plugin
+   prefix: ea-async
+   artifactId: ea-async-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.oozie
+ artifactId: oozie-hbase
+ versioning:
+  latest: 0.94.2.oozie-4.1.0
+  release: 0.94.2.oozie-4.1.0
+  versions:
+   version: 0.94.2.oozie-4.1.0
+  lastUpdated: '20141219015917'
+

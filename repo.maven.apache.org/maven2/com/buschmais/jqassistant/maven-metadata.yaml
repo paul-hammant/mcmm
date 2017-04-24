@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jQAssistant Plugin for Apache Maven
+   prefix: jqassistant
+   artifactId: jqassistant-maven-plugin
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.openscore.lang
+ artifactId: score-lang-compiler
+ versioning:
+  latest: 0.1.16
+  release: 0.1.16
+  versions:
+   version:
+   - 0.1.5
+   - 0.1.8
+   - 0.1.16
+  lastUpdated: '20150305152736'
+

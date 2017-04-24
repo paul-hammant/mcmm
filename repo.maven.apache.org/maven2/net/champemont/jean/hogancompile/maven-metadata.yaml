@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: hogancompile-maven-plugin Maven Mojo
+   prefix: hogancompile
+   artifactId: hogancompile-maven-plugin
+

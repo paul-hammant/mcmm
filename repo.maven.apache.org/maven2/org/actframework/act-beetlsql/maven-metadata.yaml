@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.actframework
+ artifactId: act-beetlsql
+ versioning:
+  latest: 1.1.0a
+  release: 1.1.0a
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.1.0a
+  lastUpdated: '20170420072407'
+

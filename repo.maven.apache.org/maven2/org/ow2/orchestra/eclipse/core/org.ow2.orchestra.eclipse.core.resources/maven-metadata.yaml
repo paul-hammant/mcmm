@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.orchestra.eclipse.core
+ artifactId: org.ow2.orchestra.eclipse.core.resources
+ versioning:
+  release: 3.7.100
+  versions:
+   version: 3.7.100
+  lastUpdated: '20110921133712'
+

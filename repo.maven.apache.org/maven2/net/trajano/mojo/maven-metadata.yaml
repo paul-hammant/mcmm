@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Batik Maven Plugin
+   prefix: batik
+   artifactId: batik-maven-plugin
+  - name: Clean POM Maven Plugin
+   prefix: cleanpom
+   artifactId: cleanpom-maven-plugin
+  - name: Maven JAXWS 2.x Plugin
+   prefix: jaxws
+   artifactId: jaxws-maven-plugin
+  - name: Apache Maven Linkcheck Plugin
+   prefix: linkcheck
+   artifactId: linkcheck-maven-plugin
+  - name: Maven M2E Code Style plugin
+   prefix: m2e-codestyle
+   artifactId: m2e-codestyle-maven-plugin
+

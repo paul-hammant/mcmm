@@ -1,0 +1,13 @@
+metadata:
+ groupId: de.grobmeier.json
+ artifactId: parent
+ versioning:
+  latest: '7'
+  release: '7'
+  versions:
+   version:
+   - '3'
+   - '5'
+   - '7'
+  lastUpdated: '20160709180415'
+

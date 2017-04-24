@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.slieb.closure
+ artifactId: soy-closure-optimizations
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20170117144145'
+

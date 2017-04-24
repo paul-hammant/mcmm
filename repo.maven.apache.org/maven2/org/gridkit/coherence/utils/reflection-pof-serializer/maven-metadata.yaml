@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.gridkit.coherence.utils
+ artifactId: reflection-pof-serializer
+ versioning:
+  latest: '1.4'
+  release: '1.4'
+  versions:
+   version: '1.4'
+  lastUpdated: '20130329112300'
+

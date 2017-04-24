@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.arcticicestudio
+ artifactId: northem-java
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version: 0.2.0
+  lastUpdated: '20160802191726'
+

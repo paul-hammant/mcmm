@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: mvn2nix
+   prefix: mvn2nix
+   artifactId: mvn2nix-maven-plugin
+

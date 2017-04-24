@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.apache.hive.shims
+ artifactId: hive-shims-common-secure
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 0.13.0
+   - 0.13.1
+   - 0.14.0
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20150522034656'
+

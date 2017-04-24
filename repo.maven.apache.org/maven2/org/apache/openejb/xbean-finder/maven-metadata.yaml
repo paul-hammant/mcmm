@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.openejb
+ artifactId: xbean-finder
+ versioning:
+  latest: 3.4-r636442
+  release: 3.4-r636442
+  versions:
+   version: 3.4-r636442
+  lastUpdated: '20090322140247'
+

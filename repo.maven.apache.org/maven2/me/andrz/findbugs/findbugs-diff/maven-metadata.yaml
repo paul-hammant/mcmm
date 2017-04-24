@@ -1,0 +1,10 @@
+metadata:
+ groupId: me.andrz.findbugs
+ artifactId: findbugs-diff
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20161006221001'
+

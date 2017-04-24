@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.pbit
+ artifactId: jen_fsm
+ versioning:
+  latest: 0.3.1
+  release: 0.3.1
+  versions:
+   version:
+   - '0.3'
+   - 0.3.1
+  lastUpdated: '20131114112604'
+

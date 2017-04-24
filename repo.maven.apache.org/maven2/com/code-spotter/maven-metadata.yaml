@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Code Spotter Maven Plugin
+   prefix: codespotter
+   artifactId: codespotter-maven-plugin
+

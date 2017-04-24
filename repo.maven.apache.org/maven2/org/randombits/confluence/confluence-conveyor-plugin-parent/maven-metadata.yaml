@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.randombits.confluence
+ artifactId: confluence-conveyor-plugin-parent
+ versioning:
+  latest: 1.0.6
+  release: 1.0.6
+  versions:
+   version: 1.0.6
+  lastUpdated: '20141017070545'
+

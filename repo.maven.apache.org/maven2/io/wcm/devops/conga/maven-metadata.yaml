@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: CONGA Maven Plugin
+   prefix: conga
+   artifactId: conga-maven-plugin
+

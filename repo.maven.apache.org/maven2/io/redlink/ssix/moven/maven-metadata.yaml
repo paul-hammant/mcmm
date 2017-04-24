@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Moven Maven Plugin
+   prefix: moven
+   artifactId: moven-maven-plugin
+

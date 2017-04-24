@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.codehaus.doxia
+ artifactId: doxia-sink-api
+ version: 1.0-alpha-6-SNAPSHOT
+ versioning:
+  versions:
+   version: 1.0-alpha-6-SNAPSHOT
+  lastUpdated: '20051021094247'
+

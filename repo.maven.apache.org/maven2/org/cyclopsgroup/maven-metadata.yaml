@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Flatsite Maven2 Plugin
+   prefix: flatsite
+   artifactId: flatsite-maven-plugin
+  - name: S3 Upload Maven Plugin
+   prefix: s3upload
+   artifactId: s3upload-maven-plugin
+  - name: UberJar Maven2 Plugin
+   prefix: uberjar
+   artifactId: uberjar-maven-plugin
+

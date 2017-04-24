@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.sessl
+ artifactId: sessl-mlrules
+ versioning:
+  latest: '0.12'
+  release: '0.12'
+  versions:
+   version:
+   - '0.11'
+   - 0.11.1
+   - '0.12'
+  lastUpdated: '20170324144349'
+

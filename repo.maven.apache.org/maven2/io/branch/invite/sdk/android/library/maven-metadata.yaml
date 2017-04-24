@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.branch.invite.sdk.android
+ artifactId: library
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20150828200751'
+

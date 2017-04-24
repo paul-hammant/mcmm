@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Appverse Web Tools Archetype Generator Plugin
+   prefix: appverse-web-tools-archetype-generator
+   artifactId: appverse-web-tools-archetype-generator
+

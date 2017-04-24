@@ -1,0 +1,10 @@
+metadata:
+ groupId: info.magnolia
+ artifactId: magnolia-parent-pom-internal
+ version: '5'
+ versioning:
+  release: '5'
+  versions:
+   version: '5'
+  lastUpdated: '20080908190925'
+

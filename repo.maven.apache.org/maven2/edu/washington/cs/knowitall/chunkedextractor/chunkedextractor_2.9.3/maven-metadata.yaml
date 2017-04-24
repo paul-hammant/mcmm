@@ -1,0 +1,13 @@
+metadata:
+ groupId: edu.washington.cs.knowitall.chunkedextractor
+ artifactId: chunkedextractor_2.9.3
+ versioning:
+  latest: 1.0.6
+  release: 1.0.6
+  versions:
+   version:
+   - 1.0.4
+   - 1.0.5
+   - 1.0.6
+  lastUpdated: '20131003200210'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.openehealth.ipf.platform-camel
+ artifactId: ipf-platform-camel-ihe-hpd
+ versioning:
+  latest: 3.2.1
+  release: 3.2.1
+  versions:
+   version:
+   - 3.2.0
+   - 3.2.1
+  lastUpdated: '20170327112023'
+

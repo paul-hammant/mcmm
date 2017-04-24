@@ -1,0 +1,8 @@
+metadata:
+ groupId: wsrf
+ artifactId: j2ee-xbeans
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

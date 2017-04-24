@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ronsmits
+ artifactId: omdbapi
+ versioning:
+  latest: 0.5.0
+  release: 0.5.0
+  versions:
+   version: 0.5.0
+  lastUpdated: '20140304065708'
+

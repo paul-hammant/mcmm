@@ -1,0 +1,10 @@
+metadata:
+ groupId: nl.uva.sne
+ artifactId: sne-xacml-core
+ versioning:
+  latest: 0.0.3
+  release: 0.0.3
+  versions:
+   version: 0.0.3
+  lastUpdated: '20141120155635'
+

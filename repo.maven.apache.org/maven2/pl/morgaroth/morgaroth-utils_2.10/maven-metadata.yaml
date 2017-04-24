@@ -1,0 +1,13 @@
+metadata:
+ groupId: pl.morgaroth
+ artifactId: morgaroth-utils_2.10
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - 1.0.1
+   - 1.1.0
+   - 1.1.1
+  lastUpdated: '20140915210751'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.ctakes
+ artifactId: ctakes-gui
+ versioning:
+  latest: 4.0.0
+  release: 4.0.0
+  versions:
+   version: 4.0.0
+  lastUpdated: '20170423143926'
+

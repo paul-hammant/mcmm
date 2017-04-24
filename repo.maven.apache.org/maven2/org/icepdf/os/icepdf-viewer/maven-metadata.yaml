@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.icepdf.os
+ artifactId: icepdf-viewer
+ versioning:
+  latest: 6.2.2
+  release: 6.2.2
+  versions:
+   version:
+   - 6.1.2
+   - 6.1.3
+   - 6.2.0
+   - 6.2.1_P01
+   - 6.2.2
+  lastUpdated: '20170309235729'
+

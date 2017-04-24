@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.crawljax.plugins
+ artifactId: crawloverview
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version: '1.2'
+  lastUpdated: '20121222183201'
+

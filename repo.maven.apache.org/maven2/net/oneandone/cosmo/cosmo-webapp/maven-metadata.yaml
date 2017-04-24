@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.oneandone.cosmo
+ artifactId: cosmo-webapp
+ versioning:
+  latest: 1.0.5
+  release: 1.0.5
+  versions:
+   version: 1.0.5
+  lastUpdated: '20160322095004'
+

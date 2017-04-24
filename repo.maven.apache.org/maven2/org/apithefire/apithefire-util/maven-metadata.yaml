@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apithefire
+ artifactId: apithefire-util
+ version: 0.1.0
+ versioning:
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 0.1.2
+  lastUpdated: '20080810083117'
+

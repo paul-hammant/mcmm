@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.logging.log4j
+ artifactId: log4j-osgi
+ versioning:
+  latest: 2.8.2
+  release: 2.8.2
+  versions:
+   version:
+   - '2.8'
+   - 2.8.1
+   - 2.8.2
+  lastUpdated: '20170406015213'
+

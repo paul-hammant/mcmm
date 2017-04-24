@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Lessc2java Maven Plugin
+   prefix: lessc2java
+   artifactId: lessc2java-maven-plugin
+  - name: Logdoc Maven Plugins
+   prefix: logdoc
+   artifactId: logdoc-maven-plugin
+

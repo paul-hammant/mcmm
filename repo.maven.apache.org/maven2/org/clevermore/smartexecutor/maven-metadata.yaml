@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.clevermore
+ artifactId: smartexecutor
+ versioning:
+  latest: 1.0.9
+  release: 1.0.9
+  versions:
+   version:
+   - 1.0.8
+   - 1.0.9
+  lastUpdated: '20131204133308'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.vaadin.spring
+ artifactId: spring-vaadin-sidebar
+ versioning:
+  latest: 0.0.5.RELEASE
+  release: 0.0.5.RELEASE
+  versions:
+   version:
+   - 0.0.4.RELEASE
+   - 0.0.5.RELEASE
+  lastUpdated: '20150317142141'
+

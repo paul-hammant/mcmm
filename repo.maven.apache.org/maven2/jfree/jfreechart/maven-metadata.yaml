@@ -1,0 +1,12 @@
+metadata:
+ groupId: jfree
+ artifactId: jfreechart
+ version: 0.9.21
+ versioning:
+  versions:
+   version:
+   - 0.9.21
+   - 1.0.0-rc1
+   - 1.0.0
+   - 1.0.1
+

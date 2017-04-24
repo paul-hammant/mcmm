@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.vrallev.gradle
+ artifactId: jarjar-gradle
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version: 1.1.0
+  lastUpdated: '20150524140207'
+

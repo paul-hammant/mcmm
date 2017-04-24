@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: sit-wt-maven-plugin Maven Plugin
+   prefix: sit-wt
+   artifactId: sit-wt-maven-plugin
+

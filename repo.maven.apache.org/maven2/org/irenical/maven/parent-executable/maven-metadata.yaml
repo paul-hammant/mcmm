@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.irenical.maven
+ artifactId: parent-executable
+ versioning:
+  latest: 1.1.5
+  release: 1.1.5
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.1
+   - 1.1.2
+   - 1.1.4
+   - 1.1.5
+  lastUpdated: '20170120180059'
+

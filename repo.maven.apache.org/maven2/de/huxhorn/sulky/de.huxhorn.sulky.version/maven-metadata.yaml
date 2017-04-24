@@ -1,0 +1,13 @@
+metadata:
+ groupId: de.huxhorn.sulky
+ artifactId: de.huxhorn.sulky.version
+ versioning:
+  latest: 8.1.1
+  release: 8.1.1
+  versions:
+   version:
+   - 8.0.0
+   - 8.1.0
+   - 8.1.1
+  lastUpdated: '20170317115707'
+

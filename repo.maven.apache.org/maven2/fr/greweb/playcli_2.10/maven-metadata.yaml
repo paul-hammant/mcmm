@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.greweb
+ artifactId: playcli_2.10
+ versioning:
+  latest: '0.11'
+  release: '0.11'
+  versions:
+   version:
+   - '0.1'
+   - '0.11'
+  lastUpdated: '20140115152822'
+

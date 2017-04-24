@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.blueoxygen.cimande
+ artifactId: cimande
+ versioning:
+  latest: 2.0-RC2-RELEASE
+  release: 2.0-RC2-RELEASE
+  versions:
+   version: 2.0-RC2-RELEASE
+  lastUpdated: '20110626152108'
+

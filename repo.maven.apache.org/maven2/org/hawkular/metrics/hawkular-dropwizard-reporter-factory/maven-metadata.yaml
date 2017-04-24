@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.hawkular.metrics
+ artifactId: hawkular-dropwizard-reporter-factory
+ versioning:
+  latest: 0.26.1.Final
+  release: 0.26.1.Final
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 0.25.0.Final
+   - 0.26.0.Final
+   - 0.26.1.Final
+  lastUpdated: '20170413154744'
+

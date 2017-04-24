@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.sciss
+ artifactId: lucredata-views_2.10.0-RC5
+ versioning:
+  latest: 1.4.2
+  release: 1.4.2
+  versions:
+   version: 1.4.2
+  lastUpdated: '20121210154704'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Use Case Tool Maven plugin
+   prefix: uctool
+   artifactId: uctool-maven-plugin
+

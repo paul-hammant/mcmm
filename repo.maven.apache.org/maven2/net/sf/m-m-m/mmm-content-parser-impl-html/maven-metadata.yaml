@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.m-m-m
+ artifactId: mmm-content-parser-impl-html
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20101207105221'
+

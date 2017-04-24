@@ -1,0 +1,28 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Apache Trinidad Maven Faces Plugin
+   prefix: faces
+   artifactId: maven-faces-plugin
+  - name: Apache Trinidad Maven i18n Plugin
+   prefix: i18n
+   artifactId: maven-i18n-plugin
+  - name: Apache Trinidad Maven Javacc Plugin
+   prefix: javacc
+   artifactId: maven-javacc-plugin
+  - name: Apache Trinidad Maven Javascript Plugin
+   prefix: javascript
+   artifactId: maven-javascript-plugin
+  - name: Apache Trinidad Maven JDev Plugin
+   prefix: jdev
+   artifactId: maven-jdev-plugin
+  - name: Apache Trinidad Maven Tag Documentation Report
+   prefix: tagdoc
+   artifactId: maven-tagdoc-plugin
+  - name: Apache Trinidad Maven XRTS Plugin
+   prefix: xrts
+   artifactId: maven-xrts-plugin
+  - name: Apache MyFaces Trinidad Archetype
+   prefix: myfaces-archetype-trinidad
+   artifactId: myfaces-archetype-trinidad
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.apache.tomee
+ artifactId: cdi-tomee-embedded
+ versioning:
+  latest: 7.0.1
+  release: 7.0.1
+  versions:
+   version:
+   - 7.0.0-M1
+   - 7.0.0-M2
+   - 7.0.0-M3
+   - 7.0.0
+   - 7.0.1
+  lastUpdated: '20160627103335'
+

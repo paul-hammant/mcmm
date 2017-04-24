@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scala-stm
+ artifactId: scala-stm_2.12
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version: '0.8'
+  lastUpdated: '20161117174344'
+

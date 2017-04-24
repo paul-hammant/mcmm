@@ -1,0 +1,12 @@
+metadata:
+ groupId: nl.hsac
+ artifactId: allure-fitnesse-listener
+ versioning:
+  latest: 1.0.0a
+  release: 1.0.0a
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.0a
+  lastUpdated: '20170221094047'
+

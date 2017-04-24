@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bitbucket.gkutiel
+ artifactId: fb4j
+ versioning:
+  latest: 1-RELEASE
+  release: 1-RELEASE
+  versions:
+   version: 1-RELEASE
+  lastUpdated: '20160822103229'
+

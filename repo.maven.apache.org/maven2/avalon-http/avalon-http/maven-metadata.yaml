@@ -1,0 +1,7 @@
+metadata:
+ groupId: avalon-http
+ artifactId: avalon-http
+ versioning:
+  versions:
+   version: '1.3'
+

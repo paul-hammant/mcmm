@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.saxon
+ artifactId: Saxon-B
+ versioning:
+  latest: '9.0'
+  release: '9.0'
+  versions:
+   version: '9.0'
+  lastUpdated: '20121114162752'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.crypteron
+ artifactId: crypteron-jce
+ versioning:
+  latest: 2016.8.1.0
+  release: 2016.8.1.0
+  versions:
+   version: 2016.8.1.0
+  lastUpdated: '20160818072041'
+

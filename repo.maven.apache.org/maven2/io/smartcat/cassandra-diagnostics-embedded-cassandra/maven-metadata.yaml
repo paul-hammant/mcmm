@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.smartcat
+ artifactId: cassandra-diagnostics-embedded-cassandra
+ versioning:
+  latest: 1.4.1
+  release: 1.4.1
+  versions:
+   version: 1.4.1
+  lastUpdated: '20170406064835'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.att.ajsc
+ artifactId: sdk-java-spring-cloud-file
+ versioning:
+  latest: 0.0.10
+  release: 0.0.10
+  versions:
+   version: 0.0.10
+  lastUpdated: '20170330164858'
+

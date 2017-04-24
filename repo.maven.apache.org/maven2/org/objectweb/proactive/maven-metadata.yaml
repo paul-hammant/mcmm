@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: proactive-maven-plugin
+   prefix: proactive
+   artifactId: proactive-maven-plugin
+

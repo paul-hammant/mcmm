@@ -1,0 +1,8 @@
+metadata:
+ groupId: net.sf.jdatabaseimport
+ artifactId: jdatabaseimport
+ version: '0.1'
+ versioning:
+  versions:
+   version: '0.1'
+

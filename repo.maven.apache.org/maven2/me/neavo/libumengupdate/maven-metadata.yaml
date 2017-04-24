@@ -1,0 +1,10 @@
+metadata:
+ groupId: me.neavo
+ artifactId: libumengupdate
+ versioning:
+  latest: 2.4.2
+  release: 2.4.2
+  versions:
+   version: 2.4.2
+  lastUpdated: '20140527090410'
+

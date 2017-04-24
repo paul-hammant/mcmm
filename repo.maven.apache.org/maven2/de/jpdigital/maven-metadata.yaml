@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven DDL generator plugin for Hibernate 4
+   prefix: hibernate4-ddl
+   artifactId: hibernate4-ddl-maven-plugin
+  - name: Maven DDL generator plugin for Hibernate 5
+   prefix: hibernate5-ddl
+   artifactId: hibernate5-ddl-maven-plugin
+

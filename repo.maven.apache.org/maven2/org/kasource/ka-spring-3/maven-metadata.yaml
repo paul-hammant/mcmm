@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.kasource
+ artifactId: ka-spring-3
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version: '0.9'
+  lastUpdated: '20120428180556'
+

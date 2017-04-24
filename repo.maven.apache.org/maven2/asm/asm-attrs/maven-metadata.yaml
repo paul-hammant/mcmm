@@ -1,0 +1,18 @@
+metadata:
+ groupId: asm
+ artifactId: asm-attrs
+ version: 1.4.1
+ versioning:
+  versions:
+   version:
+   - 1.4.1
+   - 1.4.3
+   - 1.5.1
+   - 1.5.2
+   - 1.5.3
+   - '2.0'
+   - '20041228.180559'
+   - '2.1'
+   - '2.2'
+   - 2.2.1
+

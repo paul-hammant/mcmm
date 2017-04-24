@@ -1,0 +1,10 @@
+metadata:
+ groupId: ru.leon0399
+ artifactId: dao-manager-core
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20160824192231'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.devnull
+ artifactId: zuul-parent
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - 1.0-RC1
+   - '1.0'
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20121218025616'
+

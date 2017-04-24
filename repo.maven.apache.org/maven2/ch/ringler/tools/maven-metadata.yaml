@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: m2cachecleanup Maven Plugin
+   prefix: m2cachecleanup
+   artifactId: m2cachecleanup
+

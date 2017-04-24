@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.github.morgaroth
+ artifactId: akka-rabbitmq_2.11
+ versioning:
+  latest: 1.2.8
+  release: 1.2.8
+  versions:
+   version:
+   - 1.2.6
+   - 1.2.7
+   - 1.2.8
+  lastUpdated: '20150427091456'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Liquibase Maven Plugin
+   prefix: liquibase
+   artifactId: liquibase-maven-plugin
+

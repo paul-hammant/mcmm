@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Reusable style for docbkx
+   prefix: wikbook.docbkxstyle
+   artifactId: wikbook.docbkxstyle
+  - name: Wikbook html2pdf plugin
+   prefix: wikbook.html2pdf
+   artifactId: wikbook.html2pdf
+  - name: Wikbook maven plugin
+   prefix: wikbook.
+   artifactId: wikbook.maven
+

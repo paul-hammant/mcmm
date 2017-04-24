@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.streams.osgi.components
+ artifactId: activity-consumer
+ versioning:
+  latest: 0.2-incubating
+  release: 0.2-incubating
+  versions:
+   version:
+   - 0.1-incubating
+   - 0.2-incubating
+  lastUpdated: '20150426025131'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: mcServer-maven-plugin
+   prefix: mcServer
+   artifactId: mcServer-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: nz.ac.waikato.modeljunit
+ artifactId: paramedit
+ versioning:
+  latest: '1.5'
+  release: '1.5'
+  versions:
+   version: '1.5'
+  lastUpdated: '20140113120932'
+

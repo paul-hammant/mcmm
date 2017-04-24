@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Jython Maven Plugin
+   prefix: jython
+   artifactId: jython-maven-plugin
+

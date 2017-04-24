@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.geode
+ artifactId: gemfire-json
+ versioning:
+  latest: 1.0.0-incubating.M1
+  release: 1.0.0-incubating.M1
+  versions:
+   version: 1.0.0-incubating.M1
+  lastUpdated: '20160206163910'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: QiAnalyzeDroolsCompiler
+   prefix: QiAnalyzeDroolsCompiler
+   artifactId: QiAnalyzeDroolsCompiler
+

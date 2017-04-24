@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.extrema-sistemas
+ artifactId: simpleds
+ versioning:
+  latest: 1.3.0
+  release: 1.3.0
+  versions:
+   version:
+   - '0.9'
+   - '1.0'
+   - 1.0_RC1
+   - '1.1'
+   - '1.2'
+   - 1.3.0
+  lastUpdated: '20131121231807'
+

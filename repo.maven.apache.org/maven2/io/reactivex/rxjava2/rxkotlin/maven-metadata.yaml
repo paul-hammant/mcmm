@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.reactivex.rxjava2
+ artifactId: rxkotlin
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 2.0.0-RC3
+   - 2.0.0
+  lastUpdated: '20170320030239'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: gov.va.oia
+ artifactId: HK2Utilities
+ versioning:
+  latest: 1.4.1
+  release: 1.4.1
+  versions:
+   version: 1.4.1
+  lastUpdated: '20151203081835'
+

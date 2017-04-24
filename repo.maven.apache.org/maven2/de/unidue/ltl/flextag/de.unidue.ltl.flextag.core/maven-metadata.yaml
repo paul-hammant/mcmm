@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.unidue.ltl.flextag
+ artifactId: de.unidue.ltl.flextag.core
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160705140833'
+

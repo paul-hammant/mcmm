@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.xj4
+ artifactId: xj4-complete
+ version: '0.4'
+ versioning:
+  release: '0.6'
+  versions:
+   version:
+   - '0.4'
+   - '0.5'
+   - '0.6'
+  lastUpdated: '20101019212647'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.geronimo.bundles
+ artifactId: httpcore
+ versioning:
+  latest: 4.0.1_1
+  release: 4.0.1_1
+  versions:
+   version: 4.0.1_1
+  lastUpdated: '20100501174841'
+

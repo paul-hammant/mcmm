@@ -1,0 +1,8 @@
+metadata:
+ groupId: fulcrum
+ artifactId: fulcrum-mimetype
+ version: 1.0.4
+ versioning:
+  versions:
+   version: 1.0.4
+

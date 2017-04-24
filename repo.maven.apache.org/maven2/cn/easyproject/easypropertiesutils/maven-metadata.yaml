@@ -1,0 +1,12 @@
+metadata:
+ groupId: cn.easyproject
+ artifactId: easypropertiesutils
+ versioning:
+  latest: 1.4.1-RELEASE
+  release: 1.4.1-RELEASE
+  versions:
+   version:
+   - 1.4.1
+   - 1.4.1-RELEASE
+  lastUpdated: '20150928093748'
+

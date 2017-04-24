@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Struts 2 Archetypes - Starter
+   prefix: struts2-archetype-starter
+   artifactId: struts2-archetype-starter
+

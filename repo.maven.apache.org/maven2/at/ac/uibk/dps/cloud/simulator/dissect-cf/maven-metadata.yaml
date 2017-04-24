@@ -1,0 +1,12 @@
+metadata:
+ groupId: at.ac.uibk.dps.cloud.simulator
+ artifactId: dissect-cf
+ versioning:
+  latest: 0.9.6
+  release: 0.9.6
+  versions:
+   version:
+   - 0.9.5
+   - 0.9.6
+  lastUpdated: '20150817085218'
+

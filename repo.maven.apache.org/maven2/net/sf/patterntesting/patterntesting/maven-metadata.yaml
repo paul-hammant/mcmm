@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.patterntesting
+ artifactId: patterntesting
+ version: 0.5.0
+ versioning:
+  versions:
+   version:
+   - 0.5.0
+   - 0.6.0
+   - 0.6.1
+  lastUpdated: '20081103212506'
+

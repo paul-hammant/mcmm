@@ -1,0 +1,14 @@
+metadata:
+ groupId: tranql
+ artifactId: tranql-connector-derby-embed-xa
+ version: 1.0-20050923.015004
+ versioning:
+  versions:
+   version:
+   - 1.0-20050923.015004
+   - '1.0'
+   - 1.0-20050908.005531
+   - 1.0-20050908.015959
+   - 1.0-20050923.014831
+   - '1.1'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Android Plugin - maven-android-plugin
+   prefix: android
+   artifactId: maven-android-plugin
+

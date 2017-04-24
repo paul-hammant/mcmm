@@ -1,0 +1,22 @@
+metadata:
+ groupId: eu.scasefp7
+ artifactId: scase-build
+ versioning:
+  latest: 1.0.24
+  release: 1.0.24
+  versions:
+   version:
+   - 1.0.2
+   - 1.0.3
+   - 1.0.5
+   - 1.0.6
+   - 1.0.7
+   - 1.0.8
+   - 1.0.18
+   - 1.0.19
+   - 1.0.20
+   - 1.0.21
+   - 1.0.23
+   - 1.0.24
+  lastUpdated: '20151109083643'
+

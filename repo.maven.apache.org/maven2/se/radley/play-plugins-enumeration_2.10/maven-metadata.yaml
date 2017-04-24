@@ -1,0 +1,12 @@
+metadata:
+ groupId: se.radley
+ artifactId: play-plugins-enumeration_2.10
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.2
+   - 1.1.0
+  lastUpdated: '20130225072233'
+

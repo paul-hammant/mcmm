@@ -1,0 +1,22 @@
+metadata:
+ groupId: org.hawkular.apm
+ artifactId: hawkular-apm-server
+ versioning:
+  latest: 0.14.4.Final
+  release: 0.14.4.Final
+  versions:
+   version:
+   - 0.9.0.Final
+   - 0.9.1.Final
+   - 0.9.2.Final
+   - 0.10.0.Final
+   - 0.11.0.Final
+   - 0.12.0.Final
+   - 0.13.0.Final
+   - 0.14.0.Final
+   - 0.14.1.Final
+   - 0.14.2.Final
+   - 0.14.3.Final
+   - 0.14.4.Final
+  lastUpdated: '20170321150536'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.jdrupes.httpcodec
+ artifactId: httpcodec
+ versioning:
+  latest: 0.9.8
+  release: 0.9.8
+  versions:
+   version:
+   - 0.9.7
+   - 0.9.8
+  lastUpdated: '20170328132822'
+

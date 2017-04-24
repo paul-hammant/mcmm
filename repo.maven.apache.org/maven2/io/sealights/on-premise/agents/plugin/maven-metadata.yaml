@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: sealights-maven-plugin
+   prefix: sealights
+   artifactId: sealights-maven-plugin
+

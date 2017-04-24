@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.codehaus.jtstand
+ artifactId: jtstand
+ versioning:
+  latest: 1.5.13
+  release: 1.5.13
+  versions:
+   version: 1.5.13
+  lastUpdated: '20150718151336'
+

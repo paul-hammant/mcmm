@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.objectlab
+ artifactId: maven-qalab-plugin
+ version: 0.7.1
+ versioning:
+  versions:
+   version:
+   - 0.7.1
+   - 0.7.2
+   - '0.7'
+   - '2.0'
+   - '2.1'
+

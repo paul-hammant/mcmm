@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: sparkpackage-maven-plugin
+   prefix: sparkpackage
+   artifactId: sparkpackage-maven-plugin
+

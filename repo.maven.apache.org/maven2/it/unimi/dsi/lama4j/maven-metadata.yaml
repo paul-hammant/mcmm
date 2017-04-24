@@ -1,0 +1,12 @@
+metadata:
+ groupId: it.unimi.dsi
+ artifactId: lama4j
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - 1.1.0
+   - 1.1.1
+  lastUpdated: '20160617100355'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.motown.ocpp
+ artifactId: ocpp-v15-soap
+ versioning:
+  latest: 0.8.2
+  release: 0.8.2
+  versions:
+   version: 0.8.2
+  lastUpdated: '20140516123903'
+

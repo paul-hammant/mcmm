@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: maven-jemosProtoc-plugin
+   prefix: jemosProtoc
+   artifactId: maven-jemosProtoc-plugin
+  - name: maven-protomak-plugin
+   prefix: protomak
+   artifactId: maven-protomak-plugin
+

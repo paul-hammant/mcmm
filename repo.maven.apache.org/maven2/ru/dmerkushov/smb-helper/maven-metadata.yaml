@@ -1,0 +1,10 @@
+metadata:
+ groupId: ru.dmerkushov
+ artifactId: smb-helper
+ versioning:
+  latest: 1.5.1
+  release: 1.5.1
+  versions:
+   version: 1.5.1
+  lastUpdated: '20131216154657'
+

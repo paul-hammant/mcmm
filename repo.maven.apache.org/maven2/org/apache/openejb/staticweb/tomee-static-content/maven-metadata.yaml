@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.openejb.staticweb
+ artifactId: tomee-static-content
+ versioning:
+  latest: 1.6.0.2
+  release: 1.6.0.2
+  versions:
+   version:
+   - 1.6.0
+   - 1.6.0.1
+   - 1.6.0.2
+  lastUpdated: '20140512125030'
+

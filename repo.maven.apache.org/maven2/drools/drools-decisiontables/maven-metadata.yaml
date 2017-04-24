@@ -1,0 +1,10 @@
+metadata:
+ groupId: drools
+ artifactId: drools-decisiontables
+ version: '2.1'
+ versioning:
+  versions:
+   version:
+   - '2.1'
+   - 2.5-beta-1
+

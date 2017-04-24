@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.cantrowitz
+ artifactId: rxbroadcast
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 0.1.0
+   - 1.0.0
+   - 1.0.1
+   - 1.1.0
+   - 1.1.1
+   - 2.0.0
+  lastUpdated: '20170120014153'
+

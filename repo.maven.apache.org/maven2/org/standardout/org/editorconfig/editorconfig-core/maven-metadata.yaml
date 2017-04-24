@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.standardout.org.editorconfig
+ artifactId: editorconfig-core
+ versioning:
+  latest: 0.12.1.Final
+  release: 0.12.1.Final
+  versions:
+   version: 0.12.1.Final
+  lastUpdated: '20160820153102'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.groupId}:${project.artifactId}
+   prefix: dropwizard-launcher
+   artifactId: dropwizard-launcher-maven-plugin
+

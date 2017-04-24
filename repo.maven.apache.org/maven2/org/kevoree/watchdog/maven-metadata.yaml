@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Kevoree :: Watchdog :: MavenRunner'
+   prefix: org.kevoree.watchdog.runner
+   artifactId: org.kevoree.watchdog.mavenrunner
+

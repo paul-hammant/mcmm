@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.authzforce
+ artifactId: authzforce-pdp-ext-model
+ versioning:
+  latest: 3.2.8
+  release: 3.2.8
+  versions:
+   version: 3.2.8
+  lastUpdated: '20151025005755'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ulrice-webstarter-maven-plugin Maven Mojo
+   prefix: ulrice-webstarter
+   artifactId: ulrice-webstarter-maven-plugin
+

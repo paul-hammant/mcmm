@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.scalaz.stream
+ artifactId: scalaz-stream_2.12.0-M5
+ versioning:
+  latest: 0.8.4a
+  release: 0.8.4a
+  versions:
+   version:
+   - 0.8.3
+   - 0.8.3a
+   - 0.8.4
+   - 0.8.4a
+  lastUpdated: '20160823124405'
+

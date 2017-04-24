@@ -1,0 +1,8 @@
+metadata:
+ groupId: maven-plugins
+ artifactId: maven-deb-plugin
+ version: '0.5'
+ versioning:
+  versions:
+   version: '0.5'
+

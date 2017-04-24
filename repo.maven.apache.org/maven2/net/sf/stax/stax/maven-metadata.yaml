@@ -1,0 +1,8 @@
+metadata:
+ groupId: net.sf.stax
+ artifactId: stax
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

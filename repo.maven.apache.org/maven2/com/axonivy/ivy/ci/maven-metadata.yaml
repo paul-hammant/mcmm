@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Axon.ivy Project Build Plugin
+   prefix: project-build
+   artifactId: project-build-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.cketti.fileprovider
+ artifactId: public-fileprovider
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20170403070821'
+

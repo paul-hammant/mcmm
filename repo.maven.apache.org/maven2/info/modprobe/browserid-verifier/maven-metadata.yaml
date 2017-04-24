@@ -1,0 +1,12 @@
+metadata:
+ groupId: info.modprobe
+ artifactId: browserid-verifier
+ versioning:
+  latest: 0.8.9
+  release: 0.8.9
+  versions:
+   version:
+   - '0.2'
+   - 0.8.9
+  lastUpdated: '20151020092545'
+

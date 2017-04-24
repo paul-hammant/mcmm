@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Apache Karaf :: Tooling :: Maven Karaf Plugin'
+   prefix: karaf-sling
+   artifactId: karaf-sling-maven-plugin
+

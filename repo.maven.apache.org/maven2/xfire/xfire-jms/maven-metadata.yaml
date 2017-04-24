@@ -1,0 +1,10 @@
+metadata:
+ groupId: xfire
+ artifactId: xfire-jms
+ version: 1.0-20050917.230855
+ versioning:
+  versions:
+   version:
+   - 1.0-20050917.230855
+   - 1.0-20050917.230841
+

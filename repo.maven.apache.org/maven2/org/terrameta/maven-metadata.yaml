@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Plasma Maven Plugins
+   prefix: plasma
+   artifactId: plasma-maven-plugin
+

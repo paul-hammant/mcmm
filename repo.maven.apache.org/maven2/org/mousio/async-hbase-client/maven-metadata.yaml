@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.mousio
+ artifactId: async-hbase-client
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version:
+   - 0.7.0
+   - 0.7.1
+   - 0.8.0
+   - 0.9.0
+  lastUpdated: '20150102143549'
+

@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: envers-schema
+   artifactId: envers-schema-maven-plugin
+

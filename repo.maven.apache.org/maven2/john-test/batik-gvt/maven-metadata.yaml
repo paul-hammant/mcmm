@@ -1,0 +1,9 @@
+metadata:
+ groupId: john-test
+ artifactId: batik-gvt
+ versioning:
+  versions:
+   version:
+   - '1.6'
+   - '1.5'
+

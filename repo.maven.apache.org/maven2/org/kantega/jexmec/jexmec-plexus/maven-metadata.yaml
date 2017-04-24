@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.kantega.jexmec
+ artifactId: jexmec-plexus
+ version: '1.25'
+ versioning:
+  release: '1.25'
+  versions:
+   version: '1.25'
+  lastUpdated: '20091126095122'
+

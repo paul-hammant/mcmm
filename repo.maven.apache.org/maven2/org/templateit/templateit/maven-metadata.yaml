@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.templateit
+ artifactId: templateit
+ version: 1.0-beta3
+ versioning:
+  versions:
+   version:
+   - 1.0-beta3
+   - 1.0-beta4
+  lastUpdated: '20090217131143'
+

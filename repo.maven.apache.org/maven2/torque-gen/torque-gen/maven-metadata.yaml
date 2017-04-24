@@ -1,0 +1,8 @@
+metadata:
+ groupId: torque-gen
+ artifactId: torque-gen
+ version: 3.1.1-dev
+ versioning:
+  versions:
+   version: 3.1.1-dev
+

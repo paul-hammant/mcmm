@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.mini2Dx
+ artifactId: gdx-input
+ versioning:
+  latest: 1.9.5.1
+  release: 1.9.5.1
+  versions:
+   version:
+   - 1.9.5
+   - 1.9.5.1
+  lastUpdated: '20170122155336'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: it.cnr.isti.domoware.tinyos
+ artifactId: tinyos
+ version: '1'
+ versioning:
+  versions:
+   version:
+   - '1'
+   - 1.0.1
+   - 1.0.2
+  lastUpdated: '20080313181810'
+

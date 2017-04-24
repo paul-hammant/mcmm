@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven inserter Mojo
+   prefix: mgaip
+   artifactId: mgaip
+

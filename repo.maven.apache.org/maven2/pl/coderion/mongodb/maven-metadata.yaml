@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Mongeez Maven Plugin
+   prefix: mongeez
+   artifactId: mongeez-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Orchestrator :: Maven Plugin'
+   prefix: orchestrator
+   artifactId: orchestrator-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scalamacros
+ artifactId: paradise_2.12.0
+ versioning:
+  latest: 2.1.0
+  release: 2.1.0
+  versions:
+   version: 2.1.0
+  lastUpdated: '20161102044909'
+

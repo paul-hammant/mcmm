@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: GMaven Plugin
+   prefix: groovy
+   artifactId: gmaven-plugin
+  - name: ${project.groupId}:${project.artifactId}
+   prefix: groovy
+   artifactId: groovy-maven-plugin
+

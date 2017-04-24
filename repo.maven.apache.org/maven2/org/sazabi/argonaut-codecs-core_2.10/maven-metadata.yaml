@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sazabi
+ artifactId: argonaut-codecs-core_2.10
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160126065720'
+

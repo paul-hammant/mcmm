@@ -1,0 +1,12 @@
+metadata:
+ groupId: graphics.scenery
+ artifactId: spirvcrossj
+ versioning:
+  latest: 0.2.5
+  release: 0.2.5
+  versions:
+   version:
+   - 0.2.4
+   - 0.2.5
+  lastUpdated: '20170422160754'
+

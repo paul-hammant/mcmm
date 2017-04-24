@@ -1,0 +1,15 @@
+metadata:
+ groupId: it.tidalwave.geo
+ artifactId: it-tidalwave-geo-location-elmo
+ versioning:
+  latest: 1.0.68
+  release: 1.0.68
+  versions:
+   version:
+   - 1.0.64
+   - 1.0.65
+   - 1.0.66
+   - 1.0.67
+   - 1.0.68
+  lastUpdated: '20120925163834'
+

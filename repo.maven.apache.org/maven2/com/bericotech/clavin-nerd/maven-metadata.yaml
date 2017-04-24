@@ -1,0 +1,17 @@
+metadata:
+ groupId: com.bericotech
+ artifactId: clavin-nerd
+ versioning:
+  latest: 2.1.0
+  release: 2.1.0
+  versions:
+   version:
+   - 1.0.0rc1
+   - 1.0.0rc2
+   - 1.0.0
+   - 1.0.1
+   - 2.0.0rc1
+   - 2.0.0
+   - 2.1.0
+  lastUpdated: '20160826194058'
+

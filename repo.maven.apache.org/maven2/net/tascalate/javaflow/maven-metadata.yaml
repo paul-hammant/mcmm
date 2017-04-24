@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Tascalate JavaFlow / Tools / Apache Maven
+   prefix: net.tascalate.javaflow.tools.
+   artifactId: net.tascalate.javaflow.tools.maven
+

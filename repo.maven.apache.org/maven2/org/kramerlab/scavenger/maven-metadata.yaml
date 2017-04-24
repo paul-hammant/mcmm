@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.kramerlab
+ artifactId: scavenger
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version: '2.1'
+  lastUpdated: '20151215194837'
+

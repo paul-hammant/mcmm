@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.commonjava.aprox
+ artifactId: aprox-subsys-template
+ versioning:
+  latest: 0.11.3
+  release: 0.11.3
+  versions:
+   version:
+   - 0.11.0
+   - 0.11.1
+   - 0.11.2
+   - 0.11.3
+  lastUpdated: '20140228041113'
+

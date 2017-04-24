@@ -1,0 +1,9 @@
+metadata:
+ groupId: backport175
+ artifactId: backport175-intellij
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0.RC1
+

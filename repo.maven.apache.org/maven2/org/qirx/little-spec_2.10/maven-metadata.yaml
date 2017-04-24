@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.qirx
+ artifactId: little-spec_2.10
+ versioning:
+  latest: '0.4'
+  release: '0.4'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - '0.3'
+   - '0.4'
+  lastUpdated: '20141220123927'
+

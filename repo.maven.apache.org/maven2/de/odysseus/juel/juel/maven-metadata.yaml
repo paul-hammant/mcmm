@@ -1,0 +1,7 @@
+metadata:
+ groupId: de.odysseus.juel
+ artifactId: juel
+ versioning:
+  versions:
+   version: 2.1.0
+

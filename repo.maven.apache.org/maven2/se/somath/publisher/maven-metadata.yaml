@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: null
+   prefix: null
+   artifactId: maven-plugin
+

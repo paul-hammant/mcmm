@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.wcm.tooling.netbeans
+ artifactId: io.wcm.tooling.netbeans.sightly
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+  lastUpdated: '20141219111704'
+

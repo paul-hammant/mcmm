@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.chasen.mecab
+ artifactId: mecab-java
+ versioning:
+  latest: '0.993'
+  release: '0.993'
+  versions:
+   version: '0.993'
+  lastUpdated: '20121002152735'
+

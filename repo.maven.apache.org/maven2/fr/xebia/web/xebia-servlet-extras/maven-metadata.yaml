@@ -1,0 +1,13 @@
+metadata:
+ groupId: fr.xebia.web
+ artifactId: xebia-servlet-extras
+ versioning:
+  latest: 1.0.8
+  release: 1.0.8
+  versions:
+   version:
+   - 1.0.6
+   - 1.0.7
+   - 1.0.8
+  lastUpdated: '20120819165110'
+

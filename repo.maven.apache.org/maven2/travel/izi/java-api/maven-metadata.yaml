@@ -1,0 +1,10 @@
+metadata:
+ groupId: travel.izi
+ artifactId: java-api
+ versioning:
+  latest: 1.5.0
+  release: 1.5.0
+  versions:
+   version: 1.5.0
+  lastUpdated: '20150429141627'
+

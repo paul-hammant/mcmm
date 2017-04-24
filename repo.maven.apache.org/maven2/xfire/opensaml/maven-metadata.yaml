@@ -1,0 +1,8 @@
+metadata:
+ groupId: xfire
+ artifactId: opensaml
+ version: 1.0.1
+ versioning:
+  versions:
+   version: 1.0.1
+

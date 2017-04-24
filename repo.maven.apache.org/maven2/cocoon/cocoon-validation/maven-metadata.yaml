@@ -1,0 +1,10 @@
+metadata:
+ groupId: cocoon
+ artifactId: cocoon-validation
+ version: 2.1.8
+ versioning:
+  versions:
+   version:
+   - 2.1.8
+   - 2.1.9
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.bootique.jersey
+ artifactId: bootique-jersey-jackson
+ versioning:
+  latest: '0.21'
+  release: '0.21'
+  versions:
+   version: '0.21'
+  lastUpdated: '20170331122919'
+

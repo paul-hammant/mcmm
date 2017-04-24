@@ -1,0 +1,11 @@
+metadata:
+ groupId: javax.management
+ artifactId: jmx_remote
+ version: 1.0.1_01
+ versioning:
+  versions:
+   version:
+   - 1.0.1_01
+   - 1.0.1_03
+   - '1.0'
+

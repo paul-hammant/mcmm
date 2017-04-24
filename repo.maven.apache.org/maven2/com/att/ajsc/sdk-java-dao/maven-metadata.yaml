@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.att.ajsc
+ artifactId: sdk-java-dao
+ versioning:
+  latest: 6.2.0.5
+  release: 6.2.0.5
+  versions:
+   version:
+   - 6.2.0.3
+   - 6.2.0.5
+  lastUpdated: '20170329171805'
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: brainslug-maven-bpmn-plugin
+   prefix: brainslugbpmn
+   artifactId: brainslug-maven-bpmn
+  - name: brainslug-maven-renderer-plugin
+   prefix: brainslugrenderer
+   artifactId: brainslug-maven-renderer
+

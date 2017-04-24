@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.api-typeable-pojos
+ artifactId: api-typeable-pojos
+ versioning:
+  latest: 0.6.1
+  release: 0.6.1
+  versions:
+   version:
+   - '0.6'
+   - 0.6.1
+  lastUpdated: '20101004010759'
+

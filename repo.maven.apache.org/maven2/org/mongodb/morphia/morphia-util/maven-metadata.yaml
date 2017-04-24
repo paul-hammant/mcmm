@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.mongodb.morphia
+ artifactId: morphia-util
+ versioning:
+  latest: '0.111'
+  release: '0.111'
+  versions:
+   version:
+   - '0.109'
+   - '0.110'
+   - '0.111'
+  lastUpdated: '20150401142215'
+

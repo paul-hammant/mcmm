@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: config-generation-maven-plugin
+   prefix: config-generation
+   artifactId: config-generation-maven-plugin
+  - name: config-processor-maven-plugin
+   prefix: config-processor
+   artifactId: config-processor-maven-plugin
+

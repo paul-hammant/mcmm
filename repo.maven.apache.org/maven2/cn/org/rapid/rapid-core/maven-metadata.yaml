@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: cn.org.rapid
+ artifactId: rapid-core
+ versioning:
+  latest: '4.0'
+  release: '4.0'
+  versions:
+   version: '4.0'
+  lastUpdated: '20110815180104'
+

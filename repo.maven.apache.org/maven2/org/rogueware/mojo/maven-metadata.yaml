@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Ssh Exec Maven Plugin
+   prefix: ssh-exec
+   artifactId: ssh-exec-maven-plugin
+

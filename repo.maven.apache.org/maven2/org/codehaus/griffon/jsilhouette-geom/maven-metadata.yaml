@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.codehaus.griffon
+ artifactId: jsilhouette-geom
+ version: '0.4'
+ versioning:
+  versions:
+   version: '0.4'
+  lastUpdated: '20110405161949'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Bundle Plugin
+   prefix: bundle
+   artifactId: maven-bundle-plugin
+

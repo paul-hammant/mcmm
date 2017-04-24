@@ -1,0 +1,33 @@
+metadata:
+ plugins:
+  plugin:
+  - name: IkasanEIP Maven Archetype for a build parent
+   prefix: ikasan-build-parent
+   artifactId: ikasan-build-parent-maven-plugin
+  - name: IkasanEIP Maven Archetype for a AMQ Integration Module
+   prefix: ikasan-im-jboss6-activemq
+   artifactId: ikasan-im-jboss6-activemq-maven-plugin
+  - name: IkasanEIP Maven Archetype for a Schedule Driven Database Integration Module
+   prefix: ikasan-im-jboss6-db
+   artifactId: ikasan-im-jboss6-db-maven-plugin
+  - name: IkasanEIP Maven Archetype for a Schedule Driven Local File System Integration
+    Module
+   prefix: ikasan-im-jboss6-filesystem
+   artifactId: ikasan-im-jboss6-filesystem-maven-plugin
+  - name: IkasanEIP Maven Archetype for a JMS Integration Module
+   prefix: ikasan-im-jboss6-jms
+   artifactId: ikasan-im-jboss6-jms-maven-plugin
+  - name: IkasanEIP Maven Archetype for a Schedule Driven SFTP Integration Module
+   prefix: ikasan-im-jboss6-sftp
+   artifactId: ikasan-im-jboss6-sftp-maven-plugin
+  - name: IkasanEIP Maven Archetype for an Integration Module
+   prefix: ikasan-integration-module-jboss6
+   artifactId: ikasan-integration-module-jboss6-maven-plugin
+  - name: IkasanEIP Maven Archetype for the Ikasan Runtime configuration within
+    JBoss6
+   prefix: ikasan-rt-conf-jboss6
+   artifactId: ikasan-rt-conf-jboss6-maven-plugin
+  - name: IkasanEIP Maven Archetype for a Jboss module supporting ActiveMQ
+   prefix: jboss6-module-activemq
+   artifactId: jboss6-module-activemq-maven-plugin
+

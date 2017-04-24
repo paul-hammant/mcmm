@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: sphinx-maven
+   prefix: sphinx
+   artifactId: sphinx-maven-plugin
+

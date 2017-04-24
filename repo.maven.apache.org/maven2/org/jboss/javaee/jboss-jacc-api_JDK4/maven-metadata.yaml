@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.javaee
+ artifactId: jboss-jacc-api_JDK4
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version: 1.1.0
+  lastUpdated: '20100425053021'
+

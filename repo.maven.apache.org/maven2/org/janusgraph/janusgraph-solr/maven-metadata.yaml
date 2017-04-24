@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.janusgraph
+ artifactId: janusgraph-solr
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20170419173734'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: prevayler
+ artifactId: prevayler
+ version: 1.02.001
+ versioning:
+  versions:
+   version:
+   - 1.02.001
+   - 2.00.000-alpha
+   - 2.00.000dev1
+   - 2.00.000dev2
+   - 2.02.005
+   - '20040409'
+   - '20040427'
+

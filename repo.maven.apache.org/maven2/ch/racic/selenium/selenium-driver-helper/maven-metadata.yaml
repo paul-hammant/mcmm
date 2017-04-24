@@ -1,0 +1,10 @@
+metadata:
+ groupId: ch.racic.selenium
+ artifactId: selenium-driver-helper
+ versioning:
+  latest: 2.45.0
+  release: 2.45.0
+  versions:
+   version: 2.45.0
+  lastUpdated: '20150324235934'
+

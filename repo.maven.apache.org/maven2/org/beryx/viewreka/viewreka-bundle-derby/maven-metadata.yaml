@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.beryx.viewreka
+ artifactId: viewreka-bundle-derby
+ versioning:
+  latest: 0.2.1-alpha-2
+  release: 0.2.1-alpha-2
+  versions:
+   version: 0.2.1-alpha-2
+  lastUpdated: '20160302172340'
+

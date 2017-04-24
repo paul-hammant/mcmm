@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.synyx.hades
+ artifactId: org.synyx.hades.extensions
+ versioning:
+  latest: 2.0.3.RELEASE
+  release: 2.0.3.RELEASE
+  versions:
+   version:
+   - 2.0.0.RC3
+   - 2.0.0.RELEASE
+   - 2.0.1.RELEASE
+   - 2.0.2.RELEASE
+   - 2.0.3.RELEASE
+  lastUpdated: '20110501161857'
+

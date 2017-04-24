@@ -1,0 +1,43 @@
+metadata:
+ plugins:
+  plugin:
+  - name: AWS Integration Test Plugin
+   prefix: aws-integration-test
+   artifactId: aws-integration-test-plugin
+  - name: Maven Clover Plugin
+   prefix: clover
+   artifactId: clover-maven-plugin
+  - name: Maven AMPS Dispatcher Plugin
+   prefix: amps-dispatcher
+   artifactId: maven-amps-dispatcher-plugin
+  - name: Maven AMPS Plugin
+   prefix: amps
+   artifactId: maven-amps-plugin
+  - name: Maven Bamboo Plugin
+   prefix: bamboo
+   artifactId: maven-bamboo-plugin
+  - name: Maven Clover Plugin
+   prefix: clover2
+   artifactId: maven-clover2-plugin
+  - name: Maven Confluence Plugin
+   prefix: confluence
+   artifactId: maven-confluence-plugin
+  - name: Maven Crowd Plugin
+   prefix: crowd
+   artifactId: maven-crowd-plugin
+  - name: Maven FishEye/Crucible Plugin
+   prefix: fecru
+   artifactId: maven-fecru-plugin
+  - name: Maven JIRA Plugin
+   prefix: jira
+   artifactId: maven-jira-plugin
+  - name: Maven Refapp Plugin
+   prefix: refapp
+   artifactId: maven-refapp-plugin
+  - name: Maven Stash Plugin
+   prefix: stash
+   artifactId: maven-stash-plugin
+  - name: Maven Smart Assembly Plugin
+   prefix: smartass
+   artifactId: smartass-maven-plugin
+

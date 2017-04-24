@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.agiletestingframework
+ artifactId: atf-toolbox
+ versioning:
+  latest: 5.0.4
+  release: 5.0.4
+  versions:
+   version:
+   - 5.0.1
+   - 5.0.2
+   - 5.0.3
+   - 5.0.4
+  lastUpdated: '20170124033231'
+

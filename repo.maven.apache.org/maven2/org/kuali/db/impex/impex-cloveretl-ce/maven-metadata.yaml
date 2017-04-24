@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.kuali.db.impex
+ artifactId: impex-cloveretl-ce
+ versioning:
+  latest: 2.8.1-kuali
+  release: 2.8.1-kuali
+  versions:
+   version:
+   - 2.8.0-kuali
+   - 2.8.1-kuali
+  lastUpdated: '20120728124938'
+

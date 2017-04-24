@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.javacrumbs.json-unit
+ artifactId: json-unit-assertj
+ versioning:
+  latest: 0.0.15
+  release: 0.0.15
+  versions:
+   version: 0.0.15
+  lastUpdated: '20131006082028'
+

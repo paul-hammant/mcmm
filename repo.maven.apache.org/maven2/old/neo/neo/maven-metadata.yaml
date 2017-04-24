@@ -1,0 +1,9 @@
+metadata:
+ groupId: old.neo
+ artifactId: neo
+ versioning:
+  versions:
+   version:
+   - 1.1.1
+   - 1.1.0
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.aol.cyclops
+ artifactId: pattern-matching
+ versioning:
+  latest: 4.0.1
+  release: 4.0.1
+  versions:
+   version: 4.0.1
+  lastUpdated: '20150604091722'
+

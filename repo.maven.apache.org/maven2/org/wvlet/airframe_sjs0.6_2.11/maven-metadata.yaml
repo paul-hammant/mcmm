@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.wvlet
+ artifactId: airframe_sjs0.6_2.11
+ versioning:
+  latest: '0.13'
+  release: '0.13'
+  versions:
+   version:
+   - '0.11'
+   - '0.12'
+   - '0.13'
+  lastUpdated: '20170408020437'
+

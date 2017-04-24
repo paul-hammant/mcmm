@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: hydromatic-resource
+   prefix: hydromatic-resource
+   artifactId: hydromatic-resource-maven-plugin
+

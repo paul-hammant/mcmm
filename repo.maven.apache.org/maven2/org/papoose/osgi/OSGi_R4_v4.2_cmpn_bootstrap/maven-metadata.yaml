@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.papoose.osgi
+ artifactId: OSGi_R4_v4.2_cmpn_bootstrap
+ version: 4.2.0.200908310645
+ versioning:
+  versions:
+   version: 4.2.0.200908310645
+  lastUpdated: '20090919150810'
+

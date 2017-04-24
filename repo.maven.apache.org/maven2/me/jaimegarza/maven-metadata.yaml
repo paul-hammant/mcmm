@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Syntax Maven Plugin
+   prefix: syntax
+   artifactId: syntax-maven-plugin
+

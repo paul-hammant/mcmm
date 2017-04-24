@@ -1,0 +1,7 @@
+metadata:
+ groupId: directory
+ artifactId: apacheds
+ versioning:
+  versions:
+   version: '0.9'
+

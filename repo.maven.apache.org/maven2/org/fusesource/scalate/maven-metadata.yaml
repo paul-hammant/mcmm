@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Scalate :: LinkChecker :: Maven Plugin'
+   prefix: linkchecker
+   artifactId: maven-linkchecker-plugin
+  - name: ${project.artifactId}
+   prefix: scalate
+   artifactId: maven-scalate-plugin
+  - name: ${project.artifactId}
+   prefix: scalate_2.10
+   artifactId: maven-scalate-plugin_2.10
+  - name: ${project.artifactId}
+   prefix: scalate_2.9
+   artifactId: maven-scalate-plugin_2.9
+

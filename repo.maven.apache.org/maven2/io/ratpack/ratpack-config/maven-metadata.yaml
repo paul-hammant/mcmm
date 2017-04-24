@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.ratpack
+ artifactId: ratpack-config
+ versioning:
+  latest: 0.9.15
+  release: 0.9.15
+  versions:
+   version:
+   - 0.9.13
+   - 0.9.14
+   - 0.9.15
+  lastUpdated: '20150401124326'
+

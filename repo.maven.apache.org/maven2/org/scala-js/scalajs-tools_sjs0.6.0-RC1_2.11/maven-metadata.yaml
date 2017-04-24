@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scala-js
+ artifactId: scalajs-tools_sjs0.6.0-RC1_2.11
+ versioning:
+  latest: 0.6.0-RC2
+  release: 0.6.0-RC2
+  versions:
+   version:
+   - 0.6.0-RC1
+   - 0.6.0-RC2
+  lastUpdated: '20150122215329'
+

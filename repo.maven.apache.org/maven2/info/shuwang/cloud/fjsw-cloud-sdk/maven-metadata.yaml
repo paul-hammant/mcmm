@@ -1,0 +1,12 @@
+metadata:
+ groupId: info.shuwang.cloud
+ artifactId: fjsw-cloud-sdk
+ versioning:
+  latest: 1.0.4
+  release: 1.0.4
+  versions:
+   version:
+   - 1.0.3
+   - 1.0.4
+  lastUpdated: '20170421060243'
+

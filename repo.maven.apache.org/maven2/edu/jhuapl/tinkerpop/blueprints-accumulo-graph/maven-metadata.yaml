@@ -1,0 +1,15 @@
+metadata:
+ groupId: edu.jhuapl.tinkerpop
+ artifactId: blueprints-accumulo-graph
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+   - 0.1.0
+   - 0.2.0
+   - 0.2.1
+  lastUpdated: '20150220173129'
+

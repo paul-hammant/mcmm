@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.deeplearning4j
+ artifactId: deeplearning4j-scaleout-akka__2.11
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version:
+   - 0.4-rc3.10
+   - 0.4.0
+  lastUpdated: '20160711084059'
+

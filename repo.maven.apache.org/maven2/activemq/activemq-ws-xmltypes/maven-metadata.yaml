@@ -1,0 +1,8 @@
+metadata:
+ groupId: activemq
+ artifactId: activemq-ws-xmltypes
+ version: dev-1
+ versioning:
+  versions:
+   version: dev-1
+

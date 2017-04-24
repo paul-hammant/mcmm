@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.openspml
+ artifactId: openspml
+ versioning:
+  versions:
+   version: '0.5'
+

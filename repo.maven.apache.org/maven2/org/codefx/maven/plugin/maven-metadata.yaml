@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JDeps Maven Plugin
+   prefix: jdeps
+   artifactId: jdeps-maven-plugin
+

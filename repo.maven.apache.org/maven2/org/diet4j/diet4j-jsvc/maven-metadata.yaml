@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.diet4j
+ artifactId: diet4j-jsvc
+ versioning:
+  latest: '0.15'
+  release: '0.15'
+  versions:
+   version:
+   - '0.14'
+   - '0.15'
+  lastUpdated: '20170129042729'
+

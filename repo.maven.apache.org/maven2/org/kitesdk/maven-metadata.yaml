@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Kite Maven Plugin
+   prefix: kite
+   artifactId: kite-maven-plugin
+

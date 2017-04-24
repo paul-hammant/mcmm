@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.ws
+ artifactId: jbossws-wildfly1010-server-integration
+ versioning:
+  latest: 5.1.6.Final
+  release: 5.1.6.Final
+  versions:
+   version: 5.1.6.Final
+  lastUpdated: '20161123235558'
+

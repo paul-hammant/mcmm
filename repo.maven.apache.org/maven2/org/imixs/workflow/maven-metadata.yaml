@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: imixs-workflow-jsf-sample-archetype
+   prefix: imixs-workflow-jsf-sample-archetype
+   artifactId: imixs-workflow-jsf-sample-archetype
+

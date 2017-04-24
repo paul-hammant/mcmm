@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Taglib Plugin
+   prefix: taglib
+   artifactId: maven-taglib-plugin
+

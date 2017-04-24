@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: FindBugs Maven Plugin
+   prefix: findbugs
+   artifactId: findbugs-maven-plugin
+  - name: Velocity Maven Plugin
+   prefix: velocity
+   artifactId: velocity-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.orchestra.installer.izpack
+ artifactId: izpack-installer
+ version: 4.2.0
+ versioning:
+  release: 4.2.0
+  versions:
+   version: 4.2.0
+  lastUpdated: '20091028100036'
+

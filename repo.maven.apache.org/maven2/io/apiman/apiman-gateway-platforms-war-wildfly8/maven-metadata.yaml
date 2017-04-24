@@ -1,0 +1,26 @@
+metadata:
+ groupId: io.apiman
+ artifactId: apiman-gateway-platforms-war-wildfly8
+ versioning:
+  latest: 1.2.9.Final
+  release: 1.2.9.Final
+  versions:
+   version:
+   - 1.2.0.Beta2
+   - 1.2.0.Beta3
+   - 1.2.0.Final
+   - 1.2.1.Final
+   - 1.2.2.Final
+   - 1.2.3.CR1
+   - 1.2.3.Final
+   - 1.2.4.Final
+   - 1.2.5.Final
+   - 1.2.6.Beta1
+   - 1.2.6.Beta3
+   - 1.2.6.Final
+   - 1.2.7.Beta1
+   - 1.2.7.Final
+   - 1.2.8.Final
+   - 1.2.9.Final
+  lastUpdated: '20170106195652'
+

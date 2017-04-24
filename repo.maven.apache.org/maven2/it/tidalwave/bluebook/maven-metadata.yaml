@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: BlueBook - Maven 2 Plugin
+   prefix: bluebook
+   artifactId: bluebook-maven-plugin
+

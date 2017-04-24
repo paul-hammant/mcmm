@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.eclipse.equinox
+ artifactId: registry
+ versioning:
+  latest: 3.5.400-v20140428-1507
+  release: 3.5.400-v20140428-1507
+  versions:
+   version:
+   - 3.5.301-v20130717-1549
+   - 3.5.400-v20140428-1507
+  lastUpdated: '20140801141613'
+

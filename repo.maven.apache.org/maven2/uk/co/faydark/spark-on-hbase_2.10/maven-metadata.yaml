@@ -1,0 +1,12 @@
+metadata:
+ groupId: uk.co.faydark
+ artifactId: spark-on-hbase_2.10
+ versioning:
+  latest: 0.10.0
+  release: 0.10.0
+  versions:
+   version:
+   - 0.9.3
+   - 0.10.0
+  lastUpdated: '20170218105539'
+

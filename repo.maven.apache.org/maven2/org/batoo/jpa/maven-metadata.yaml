@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Batoo JPA Maven Plugin
+   prefix: batoo
+   artifactId: batoo-maven-plugin
+

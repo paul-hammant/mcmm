@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.bidib.com.jidesoft
+ artifactId: jide-common
+ versioning:
+  latest: 3.6.15
+  release: 3.6.15
+  versions:
+   version:
+   - 3.6.12
+   - 3.6.15
+  lastUpdated: '20160924082648'
+

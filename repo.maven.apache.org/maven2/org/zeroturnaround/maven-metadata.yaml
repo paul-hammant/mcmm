@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ZeroTurnaround JRebel Maven plugin
+   prefix: jrebel
+   artifactId: jrebel-maven-plugin
+

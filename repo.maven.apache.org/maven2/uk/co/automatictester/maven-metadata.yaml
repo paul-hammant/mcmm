@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: jmeter-lightning-maven-plugin
+   prefix: jmeter-lightning
+   artifactId: jmeter-lightning-maven-plugin
+  - name: wiremock-maven-plugin
+   prefix: wiremock
+   artifactId: wiremock-maven-plugin
+

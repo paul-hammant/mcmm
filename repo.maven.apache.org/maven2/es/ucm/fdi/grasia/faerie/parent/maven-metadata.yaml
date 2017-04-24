@@ -1,0 +1,12 @@
+metadata:
+ groupId: es.ucm.fdi.grasia.faerie
+ artifactId: parent
+ versioning:
+  latest: 1.2.7
+  release: 1.2.7
+  versions:
+   version:
+   - 1.2.6
+   - 1.2.7
+  lastUpdated: '20120730115533'
+

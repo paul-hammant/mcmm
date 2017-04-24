@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.arcbees
+ artifactId: website-assets
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version: '1.2'
+  lastUpdated: '20140122173338'
+

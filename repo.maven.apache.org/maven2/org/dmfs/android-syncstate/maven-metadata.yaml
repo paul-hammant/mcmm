@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.dmfs
+ artifactId: android-syncstate
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+  lastUpdated: '20150824150554'
+

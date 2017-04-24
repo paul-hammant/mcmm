@@ -1,0 +1,12 @@
+metadata:
+ groupId: edu.berkeley.cs.shark
+ artifactId: hive-contrib
+ versioning:
+  latest: 0.11.0-shark-0.9.1
+  release: 0.11.0-shark-0.9.1
+  versions:
+   version:
+   - 0.11.0-shark
+   - 0.11.0-shark-0.9.1
+  lastUpdated: '20140409000812'
+

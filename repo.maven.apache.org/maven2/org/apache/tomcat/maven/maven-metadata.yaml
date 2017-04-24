@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Apache Tomcat Maven Plugin :: Tomcat 6.x'
+   prefix: tomcat6
+   artifactId: tomcat6-maven-plugin
+  - name: 'Apache Tomcat Maven Plugin :: Tomcat 7.x'
+   prefix: tomcat7
+   artifactId: tomcat7-maven-plugin
+

@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.semispace
+ artifactId: semispace-google
+ version: '0.9'
+ versioning:
+  versions:
+   version:
+   - '0.9'
+   - 1.0.0
+  lastUpdated: '20090627130012'
+

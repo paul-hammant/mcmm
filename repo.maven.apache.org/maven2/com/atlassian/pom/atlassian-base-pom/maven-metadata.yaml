@@ -1,0 +1,9 @@
+metadata:
+ groupId: com.atlassian.pom
+ artifactId: atlassian-base-pom
+ version: '20'
+ versioning:
+  versions:
+   version: '20'
+  lastUpdated: '20080827055608'
+

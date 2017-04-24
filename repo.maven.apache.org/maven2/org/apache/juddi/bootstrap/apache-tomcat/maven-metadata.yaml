@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.juddi.bootstrap
+ artifactId: apache-tomcat
+ versioning:
+  latest: 6.0.26
+  release: 6.0.26
+  versions:
+   version:
+   - 5.5.27
+   - 6.0.20
+   - 6.0.26
+  lastUpdated: '20100512165743'
+

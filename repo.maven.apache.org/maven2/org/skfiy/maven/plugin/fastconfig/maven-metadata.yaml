@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Fastconfig Maven Plugin
+   prefix: fastconfig
+   artifactId: fastconfig-maven-plugin
+

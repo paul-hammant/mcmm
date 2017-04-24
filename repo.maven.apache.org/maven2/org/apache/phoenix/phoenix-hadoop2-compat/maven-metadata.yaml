@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.phoenix
+ artifactId: phoenix-hadoop2-compat
+ versioning:
+  latest: 4.1.0
+  release: 4.1.0
+  versions:
+   version: 4.1.0
+  lastUpdated: '20140829212037'
+

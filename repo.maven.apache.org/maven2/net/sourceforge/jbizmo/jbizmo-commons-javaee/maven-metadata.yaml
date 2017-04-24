@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.sourceforge.jbizmo
+ artifactId: jbizmo-commons-javaee
+ versioning:
+  latest: 2.3.0
+  release: 2.3.0
+  versions:
+   version:
+   - 2.0.0
+   - 2.1.0
+   - 2.2.0
+   - 2.3.0
+  lastUpdated: '20161122211529'
+

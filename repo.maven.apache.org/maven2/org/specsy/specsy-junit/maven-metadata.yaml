@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.specsy
+ artifactId: specsy-junit
+ versioning:
+  latest: 2.3.2
+  release: 2.3.2
+  versions:
+   version:
+   - 2.3.0
+   - 2.3.1
+   - 2.3.2
+  lastUpdated: '20170126141350'
+

@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: satisfy
+   artifactId: satisfy-maven-plugin
+

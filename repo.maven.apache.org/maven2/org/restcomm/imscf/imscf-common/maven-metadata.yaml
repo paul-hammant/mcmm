@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.restcomm.imscf
+ artifactId: imscf-common
+ versioning:
+  latest: 1.0.8
+  release: 1.0.8
+  versions:
+   version: 1.0.8
+  lastUpdated: '20161205183344'
+

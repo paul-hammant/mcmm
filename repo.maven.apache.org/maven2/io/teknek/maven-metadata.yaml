@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: farsandra
+   artifactId: farsandra-maven-plugin
+

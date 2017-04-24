@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scala-js
+ artifactId: scalajs-junit-test-plugin_2.11.10
+ versioning:
+  latest: 0.6.15
+  release: 0.6.15
+  versions:
+   version: 0.6.15
+  lastUpdated: '20170408072900'
+

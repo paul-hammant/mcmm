@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.atomicleopard.thundr
+ artifactId: thundr-contrib-freemarker
+ versioning:
+  latest: 2.0.0-alpha
+  release: 2.0.0-alpha
+  versions:
+   version: 2.0.0-alpha
+  lastUpdated: '20160406215758'
+

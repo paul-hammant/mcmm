@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.arpnetworking.metrics.extras
+ artifactId: codahale-extra-parent
+ versioning:
+  latest: 0.4.3
+  release: 0.4.3
+  versions:
+   version:
+   - 0.3.6
+   - 0.4.0
+   - 0.4.1
+   - 0.4.2
+   - 0.4.3
+  lastUpdated: '20160108200758'
+

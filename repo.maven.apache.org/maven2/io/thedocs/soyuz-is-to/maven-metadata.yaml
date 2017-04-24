@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.thedocs
+ artifactId: soyuz-is-to
+ versioning:
+  latest: '0.58'
+  release: '0.58'
+  versions:
+   version: '0.58'
+  lastUpdated: '20170421150420'
+

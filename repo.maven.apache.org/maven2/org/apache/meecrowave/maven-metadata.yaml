@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Meecrowave :: Maven'
+   prefix: meecrowave
+   artifactId: meecrowave-maven-plugin
+

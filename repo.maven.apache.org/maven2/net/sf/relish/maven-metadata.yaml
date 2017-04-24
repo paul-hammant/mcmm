@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf
+ artifactId: relish
+ versioning:
+  latest: 0.5.1
+  release: 0.5.1
+  versions:
+   version: 0.5.1
+  lastUpdated: '20131205183712'
+

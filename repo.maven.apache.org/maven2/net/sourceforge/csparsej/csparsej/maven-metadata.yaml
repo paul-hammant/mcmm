@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sourceforge.csparsej
+ artifactId: csparsej
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - 1.1.0
+   - 1.1.1
+  lastUpdated: '20120516193940'
+

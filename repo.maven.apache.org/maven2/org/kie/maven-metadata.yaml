@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: KIE EAP - Maven plugin
+   prefix: jboss-modules
+   artifactId: jboss-modules
+  - name: Kie Maven Plugin
+   prefix: kie
+   artifactId: kie-maven-plugin
+

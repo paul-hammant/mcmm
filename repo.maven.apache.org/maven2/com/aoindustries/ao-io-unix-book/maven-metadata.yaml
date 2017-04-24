@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.aoindustries
+ artifactId: ao-io-unix-book
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.0.2
+   - 2.0.0
+  lastUpdated: '20161130224246'
+

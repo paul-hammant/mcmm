@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.lightful.poms
+ artifactId: java-library
+ versioning:
+  latest: '11'
+  release: '11'
+  versions:
+   version: '11'
+  lastUpdated: '20120605003435'
+

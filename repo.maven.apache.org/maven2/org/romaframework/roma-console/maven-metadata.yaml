@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.romaframework
+ artifactId: roma-console
+ versioning:
+  latest: 3.0.0-BETA
+  release: 3.0.0-BETA
+  versions:
+   version: 3.0.0-BETA
+  lastUpdated: '20120214200749'
+

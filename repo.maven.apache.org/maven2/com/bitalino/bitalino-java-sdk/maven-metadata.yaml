@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.bitalino
+ artifactId: bitalino-java-sdk
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0-RC1
+   - 1.0-RC2
+   - '1.0'
+   - 1.0.1
+   - 1.1.0
+  lastUpdated: '20160322230417'
+

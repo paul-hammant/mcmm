@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.trajano.auth
+ artifactId: jaspic-tester-war
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.1.0
+  lastUpdated: '20150920063633'
+

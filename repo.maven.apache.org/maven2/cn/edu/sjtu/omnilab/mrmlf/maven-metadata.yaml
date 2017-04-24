@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.edu.sjtu.omnilab
+ artifactId: mrmlf
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version: 0.1.2
+  lastUpdated: '20150120014239'
+

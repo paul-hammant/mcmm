@@ -1,0 +1,14 @@
+metadata:
+ groupId: se.transmode.gradle
+ artifactId: gradle-docker
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - 1.1.1
+   - '1.2'
+  lastUpdated: '20140728002203'
+

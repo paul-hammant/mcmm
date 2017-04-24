@@ -1,0 +1,15 @@
+metadata:
+ groupId: cn.featherfly
+ artifactId: featherfly-sorm
+ versioning:
+  latest: 1.3.8
+  release: 1.3.8
+  versions:
+   version:
+   - 1.3.4
+   - 1.3.5
+   - 1.3.6
+   - 1.3.7
+   - 1.3.8
+  lastUpdated: '20160811090614'
+

@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.hammurapi
+ artifactId: historyoutput-db
+ versioning:
+  versions:
+   version: 3.17.0
+

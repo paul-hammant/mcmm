@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: xls2drl-print-maven-plugin
+   prefix: xls2drl-print
+   artifactId: xls2drl-print-maven-plugin
+

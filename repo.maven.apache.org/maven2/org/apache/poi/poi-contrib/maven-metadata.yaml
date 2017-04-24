@@ -1,0 +1,19 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.apache.poi
+ artifactId: poi-contrib
+ versioning:
+  latest: 3.7-beta3
+  release: 3.7-beta3
+  versions:
+   version:
+   - 3.5-beta4
+   - 3.5-beta5
+   - 3.5-beta6
+   - 3.5-FINAL
+   - '3.6'
+   - 3.7-beta1
+   - 3.7-beta2
+   - 3.7-beta3
+  lastUpdated: '20141121152812'
+

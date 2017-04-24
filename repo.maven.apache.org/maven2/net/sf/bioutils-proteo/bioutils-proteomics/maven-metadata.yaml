@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.bioutils-proteo
+ artifactId: bioutils-proteomics
+ versioning:
+  latest: 2.3.1
+  release: 2.3.1
+  versions:
+   version: 2.3.1
+  lastUpdated: '20121218172945'
+

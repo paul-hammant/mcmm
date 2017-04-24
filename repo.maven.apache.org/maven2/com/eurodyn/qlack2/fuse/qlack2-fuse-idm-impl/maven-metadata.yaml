@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.eurodyn.qlack2.fuse
+ artifactId: qlack2-fuse-idm-impl
+ versioning:
+  latest: 2.2.2
+  release: 2.2.2
+  versions:
+   version:
+   - 2.2.1
+   - 2.2.2
+  lastUpdated: '20170404165427'
+

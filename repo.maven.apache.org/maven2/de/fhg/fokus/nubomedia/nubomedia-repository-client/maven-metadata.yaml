@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.fhg.fokus.nubomedia
+ artifactId: nubomedia-repository-client
+ versioning:
+  latest: 6.5.0
+  release: 6.5.0
+  versions:
+   version:
+   - '1.0'
+   - 6.5.0
+  lastUpdated: '20160829204951'
+

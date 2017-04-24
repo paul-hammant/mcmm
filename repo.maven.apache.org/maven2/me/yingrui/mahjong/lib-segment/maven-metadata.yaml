@@ -1,0 +1,12 @@
+metadata:
+ groupId: me.yingrui.mahjong
+ artifactId: lib-segment
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version:
+   - 1.0-rc1
+   - '1.0'
+  lastUpdated: '20170305074759'
+

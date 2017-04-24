@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.ddavison
+ artifactId: getting-started-with-selenium-framework
+ versioning:
+  latest: '1.3'
+  release: '1.3'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - '1.3'
+  lastUpdated: '20141105200530'
+

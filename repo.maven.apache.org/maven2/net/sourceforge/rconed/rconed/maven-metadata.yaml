@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sourceforge.rconed
+ artifactId: rconed
+ versioning:
+  latest: 2.4.0
+  release: 2.4.0
+  versions:
+   version: 2.4.0
+  lastUpdated: '20120119163849'
+

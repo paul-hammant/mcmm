@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Docufier Maven Plugin
+   prefix: docufier
+   artifactId: docufier-plugin
+

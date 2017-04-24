@@ -1,0 +1,13 @@
+metadata:
+ groupId: nz.ac.auckland.composite
+ artifactId: composite-spring-aspects
+ versioning:
+  latest: '6.1'
+  release: '6.1'
+  versions:
+   version:
+   - '5.2'
+   - '5.3'
+   - '6.1'
+  lastUpdated: '20140628232752'
+

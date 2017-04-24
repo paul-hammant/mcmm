@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.mongodb.scala
+ artifactId: mongo-scala-driver_2.12
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.2.0
+   - 1.2.1
+   - 2.0.0
+  lastUpdated: '20170330163739'
+

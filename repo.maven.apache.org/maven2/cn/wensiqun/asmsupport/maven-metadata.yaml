@@ -1,0 +1,15 @@
+metadata:
+ groupId: cn.wensiqun
+ artifactId: asmsupport
+ versioning:
+  latest: 0.4.3
+  release: 0.4.3
+  versions:
+   version:
+   - '0.3'
+   - '0.4'
+   - 0.4.1
+   - 0.4.2
+   - 0.4.3
+  lastUpdated: '20150820154324'
+

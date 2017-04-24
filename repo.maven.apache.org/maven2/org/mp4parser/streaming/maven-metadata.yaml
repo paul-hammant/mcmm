@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mp4parser
+ artifactId: streaming
+ versioning:
+  latest: 1.9.27
+  release: 1.9.27
+  versions:
+   version: 1.9.27
+  lastUpdated: '20151215155722'
+

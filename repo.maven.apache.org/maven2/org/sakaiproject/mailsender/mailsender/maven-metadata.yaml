@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.sakaiproject.mailsender
+ artifactId: mailsender
+ versioning:
+  latest: '11.3'
+  release: '11.3'
+  versions:
+   version:
+   - 1.7.2
+   - 1.7.3
+   - 1.7.4
+   - '10.1'
+   - '10.2'
+   - '11.0'
+   - '11.1'
+   - '11.2'
+   - '11.3'
+  lastUpdated: '20170225000034'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Hightide Plugin
+   prefix: hightide
+   artifactId: maven-hightide-plugin
+

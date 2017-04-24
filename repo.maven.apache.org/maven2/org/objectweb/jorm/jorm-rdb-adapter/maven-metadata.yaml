@@ -1,0 +1,14 @@
+metadata:
+ '@xsi:schemaLocation': http://maven.apache.org/METADATA/1.0.0 http://maven.apache.org/xsd/metadata-1.0.0.xsd
+ '@xmlns': http://maven.apache.org/METADATA/1.0.0
+ '@xmlns:xsi': http://www.w3.org/2001/XMLSchema-instance
+ groupId: org.objectweb.jorm
+ artifactId: jorm-rdb-adapter
+ version: 3.2.2
+ versioning:
+  versions:
+   version:
+   - 3.2.2
+   - 3.2.5
+  lastUpdated: '20091019141002'
+

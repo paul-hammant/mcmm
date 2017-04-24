@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: UOA Git Log Plugin
+   prefix: gitlog
+   artifactId: uoa-gitlog-plugin
+  - name: UOA Git Log Plugin
+   prefix: uoa-gitlog
+   artifactId: uoa-gitlog-plugin
+

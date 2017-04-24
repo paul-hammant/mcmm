@@ -1,0 +1,16 @@
+metadata:
+ groupId: net.sf.sociaal
+ artifactId: basicscenario
+ versioning:
+  latest: 1.0.7
+  release: 1.0.7
+  versions:
+   version:
+   - 1.0.2
+   - 1.0.3
+   - 1.0.4
+   - 1.0.5
+   - 1.0.6
+   - 1.0.7
+  lastUpdated: '20160919071406'
+

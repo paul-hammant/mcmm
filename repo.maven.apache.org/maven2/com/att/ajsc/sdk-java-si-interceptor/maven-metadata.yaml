@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.att.ajsc
+ artifactId: sdk-java-si-interceptor
+ versioning:
+  latest: 6.2.0.1
+  release: 6.2.0.1
+  versions:
+   version: 6.2.0.1
+  lastUpdated: '20170329180549'
+

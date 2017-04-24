@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.fnlp
+ artifactId: fnlp-core
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version:
+   - '2.0'
+   - '2.1'
+  lastUpdated: '20141231165516'
+

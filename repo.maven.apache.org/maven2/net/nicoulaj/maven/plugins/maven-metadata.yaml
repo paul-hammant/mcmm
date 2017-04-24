@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: checksum-maven-plugin
+   prefix: checksum
+   artifactId: checksum-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: example-archetype
+   prefix: jsf2-simple-example-archetype
+   artifactId: jsf2-simple-example-archetype
+  - name: example-archetype
+   prefix: jsf2-simple-composite-component-example-archetype
+   artifactId: jsf2-simple-composite-component-example-archetype
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.jadretro
+ artifactId: jadretro
+ versioning:
+  latest: 1.6.1
+  release: 1.6.1
+  versions:
+   version:
+   - '1.6'
+   - 1.6.1
+  lastUpdated: '20120405193432'
+

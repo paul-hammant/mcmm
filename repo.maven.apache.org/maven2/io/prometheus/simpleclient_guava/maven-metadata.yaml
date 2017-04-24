@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.prometheus
+ artifactId: simpleclient_guava
+ versioning:
+  latest: 0.0.21
+  release: 0.0.21
+  versions:
+   version: 0.0.21
+  lastUpdated: '20170220141354'
+

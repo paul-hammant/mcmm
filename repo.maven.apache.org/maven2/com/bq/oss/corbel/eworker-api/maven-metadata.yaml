@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.bq.oss.corbel
+ artifactId: eworker-api
+ versioning:
+  latest: 1.20.0
+  release: 1.20.0
+  versions:
+   version: 1.20.0
+  lastUpdated: '20150720095545'
+

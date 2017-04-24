@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.palaima.debugdrawer
+ artifactId: debugdrawer-glide
+ versioning:
+  latest: 0.7.0
+  release: 0.7.0
+  versions:
+   version: 0.7.0
+  lastUpdated: '20160213085559'
+

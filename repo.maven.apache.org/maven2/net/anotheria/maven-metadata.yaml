@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: AnoDoc Generator for Maven
+   prefix: ano-doc
+   artifactId: maven-ano-doc-plugin
+

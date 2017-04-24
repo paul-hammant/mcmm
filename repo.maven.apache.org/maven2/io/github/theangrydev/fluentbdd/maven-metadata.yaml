@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: assertj-extensions-generator
+   artifactId: assertj-extensions-generator
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'HIStream : Maven plugin'
+   prefix: histream
+   artifactId: histream-maven-plugin
+

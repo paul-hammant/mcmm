@@ -1,0 +1,10 @@
+metadata:
+ groupId: cc.mallet
+ artifactId: mallet
+ versioning:
+  latest: 2.0.8
+  release: 2.0.8
+  versions:
+   version: 2.0.8
+  lastUpdated: '20160505162730'
+

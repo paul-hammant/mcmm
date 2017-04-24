@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.avalon.cornerstone.store
+ artifactId: cornerstone-store-api
+ version: 2.2.2
+ versioning:
+  release: 2.2.2
+  versions:
+   version: 2.2.2
+  lastUpdated: '20070902182159'
+

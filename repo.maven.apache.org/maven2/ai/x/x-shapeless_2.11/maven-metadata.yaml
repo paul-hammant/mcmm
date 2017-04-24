@@ -1,0 +1,10 @@
+metadata:
+ groupId: ai.x
+ artifactId: x-shapeless_2.11
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20170216221243'
+

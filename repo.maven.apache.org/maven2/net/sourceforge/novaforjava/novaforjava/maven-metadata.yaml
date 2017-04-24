@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sourceforge.novaforjava
+ artifactId: novaforjava
+ versioning:
+  latest: 0.15.0.0
+  release: 0.15.0.0
+  versions:
+   version: 0.15.0.0
+  lastUpdated: '20140815121949'
+

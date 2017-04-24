@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.docx4j
+ artifactId: docx4j-MOXy-JAXBContext
+ versioning:
+  latest: 3.3.2
+  release: 3.3.2
+  versions:
+   version:
+   - 3.0.0
+   - 3.3.0
+   - 3.3.2
+  lastUpdated: '20161220194638'
+

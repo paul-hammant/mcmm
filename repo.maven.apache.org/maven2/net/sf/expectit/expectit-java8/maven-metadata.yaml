@@ -1,0 +1,16 @@
+metadata:
+ groupId: net.sf.expectit
+ artifactId: expectit-java8
+ versioning:
+  latest: 0.8.2
+  release: 0.8.2
+  versions:
+   version:
+   - 0.6.0
+   - 0.6.1
+   - 0.7.0
+   - 0.8.0
+   - 0.8.1
+   - 0.8.2
+  lastUpdated: '20161224140608'
+

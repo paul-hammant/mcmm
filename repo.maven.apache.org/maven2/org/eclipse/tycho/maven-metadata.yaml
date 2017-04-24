@@ -1,0 +1,76 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Tycho Target Platform Configuration Plugin
+   prefix: target-platform-configuration
+   artifactId: target-platform-configuration
+  - name: Tycho Target Platform Configuration Plugin (Incubation)
+   prefix: target-platform-configuration
+   artifactId: target-platform-configuration
+  - name: Tycho OSGi Compiler Plugin
+   prefix: tycho-compiler
+   artifactId: tycho-compiler-plugin
+  - name: Tycho OSGi Compiler Plugin (Incubation)
+   prefix: tycho-compiler
+   artifactId: tycho-compiler-plugin
+  - name: Tycho Maven Build Extension
+   prefix: tycho
+   artifactId: tycho-maven-plugin
+  - name: Tycho Maven Build Extension (Incubation)
+   prefix: tycho
+   artifactId: tycho-maven-plugin
+  - name: Tycho p2 Director Plugin
+   prefix: tycho-p2-director
+   artifactId: tycho-p2-director-plugin
+  - name: Tycho p2 Director Plugin (Incubation)
+   prefix: tycho-p2-director
+   artifactId: tycho-p2-director-plugin
+  - name: Tycho p2 Metadata Plugin
+   prefix: tycho-p2
+   artifactId: tycho-p2-plugin
+  - name: Tycho p2 Metadata Plugin (Incubation)
+   prefix: tycho-p2
+   artifactId: tycho-p2-plugin
+  - name: Tycho p2 Publisher Plugin
+   prefix: tycho-p2-publisher
+   artifactId: tycho-p2-publisher-plugin
+  - name: Tycho p2 Publisher Plugin (Incubation)
+   prefix: tycho-p2-publisher
+   artifactId: tycho-p2-publisher-plugin
+  - name: Tycho p2 Repository Plugin
+   prefix: tycho-p2-repository
+   artifactId: tycho-p2-repository-plugin
+  - name: Tycho p2 Repository Plugin (Incubation)
+   prefix: tycho-p2-repository
+   artifactId: tycho-p2-repository-plugin
+  - name: Tycho OSGi Packaging Plugin
+   prefix: tycho-packaging
+   artifactId: tycho-packaging-plugin
+  - name: Tycho OSGi Packaging Plugin (Incubation)
+   prefix: tycho-packaging
+   artifactId: tycho-packaging-plugin
+  - name: Tycho POM Generator Plugin
+   prefix: tycho-pomgenerator
+   artifactId: tycho-pomgenerator-plugin
+  - name: Tycho POM Generator Plugin (Incubation)
+   prefix: tycho-pomgenerator
+   artifactId: tycho-pomgenerator-plugin
+  - name: Tycho OSGi Source Plugin
+   prefix: tycho-source
+   artifactId: tycho-source-plugin
+  - name: Tycho OSGi Source Plugin (Incubation)
+   prefix: tycho-source
+   artifactId: tycho-source-plugin
+  - name: Tycho Surefire Plugin
+   prefix: tycho-surefire
+   artifactId: tycho-surefire-plugin
+  - name: Tycho Surefire Plugin (Incubation)
+   prefix: tycho-surefire
+   artifactId: tycho-surefire-plugin
+  - name: Tycho Versions Plugin
+   prefix: tycho-versions
+   artifactId: tycho-versions-plugin
+  - name: Tycho Versions Plugin (Incubation)
+   prefix: tycho-versions
+   artifactId: tycho-versions-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.chabala.brick
+ artifactId: brick-control-lab
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160625181053'
+

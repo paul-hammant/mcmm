@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: DDF Maven Plugin
+   prefix: ddf-maven-plugin
+   artifactId: ddf-maven-plugin
+  - name: DDF Maven Plugin
+   prefix: ddf
+   artifactId: ddf-maven-plugin
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.fluttercode.datafactory
+ artifactId: datafactory
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version:
+   - 0.7.1
+   - 0.7.2
+   - '0.8'
+  lastUpdated: '20110204051428'
+

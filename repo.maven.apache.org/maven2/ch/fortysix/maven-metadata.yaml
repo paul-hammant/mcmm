@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Postman mail plugin
+   prefix: postman
+   artifactId: maven-postman-plugin
+

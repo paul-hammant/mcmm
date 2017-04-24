@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.softwareforge.airship
+ artifactId: dropwizard-launcher
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20141115012855'
+

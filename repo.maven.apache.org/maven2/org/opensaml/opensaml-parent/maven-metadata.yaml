@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.opensaml
+ artifactId: opensaml-parent
+ versioning:
+  latest: 3.3.0
+  release: 3.3.0
+  versions:
+   version:
+   - 3.1.0
+   - 3.2.0
+   - 3.3.0
+  lastUpdated: '20170314140542'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.sf.jason
+ artifactId: jason
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - 1.3.9
+   - 1.3.10
+   - 1.4.1
+   - 1.4.2
+   - '2.0'
+  lastUpdated: '20160720113017'
+

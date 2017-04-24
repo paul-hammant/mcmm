@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.geronimo.modules
+ artifactId: geronimo-upgrade
+ versioning:
+  latest: 2.0.2
+  release: 2.0.2
+  versions:
+   version:
+   - 1.2-beta
+   - 2.0.1
+   - 2.0.2
+  lastUpdated: '20101014044128'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.perigee
+ artifactId: commons-vfs-truezip
+ versioning:
+  latest: 0.0.5
+  release: 0.0.5
+  versions:
+   version:
+   - 0.0.2
+   - 0.0.5
+  lastUpdated: '20140911131119'
+

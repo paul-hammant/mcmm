@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.joram
+ artifactId: jftp
+ version: '1.52'
+ versioning:
+  versions:
+   version: '1.52'
+  lastUpdated: '20100622084252'
+

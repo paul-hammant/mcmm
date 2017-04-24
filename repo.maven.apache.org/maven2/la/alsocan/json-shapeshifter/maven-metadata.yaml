@@ -1,0 +1,12 @@
+metadata:
+ groupId: la.alsocan
+ artifactId: json-shapeshifter
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+  lastUpdated: '20150413144659'
+

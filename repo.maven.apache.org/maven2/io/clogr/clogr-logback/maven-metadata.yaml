@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.clogr
+ artifactId: clogr-logback
+ versioning:
+  latest: 0.7.0
+  release: 0.7.0
+  versions:
+   version: 0.7.0
+  lastUpdated: '20160712143550'
+

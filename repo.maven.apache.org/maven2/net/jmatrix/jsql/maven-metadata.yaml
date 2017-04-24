@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.jmatrix
+ artifactId: jsql
+ versioning:
+  latest: 1.2.8
+  release: 1.2.8
+  versions:
+   version:
+   - 1.2.2
+   - 1.2.4
+   - 1.2.8
+  lastUpdated: '20150225215931'
+

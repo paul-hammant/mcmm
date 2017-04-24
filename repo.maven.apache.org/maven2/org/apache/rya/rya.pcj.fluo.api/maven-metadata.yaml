@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.rya
+ artifactId: rya.pcj.fluo.api
+ versioning:
+  latest: 3.2.10-incubating
+  release: 3.2.10-incubating
+  versions:
+   version: 3.2.10-incubating
+  lastUpdated: '20161028213824'
+

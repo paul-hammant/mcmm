@@ -1,0 +1,7 @@
+metadata:
+ groupId: us.blanshard.stubout
+ artifactId: stubout
+ versioning:
+  versions:
+   version: '1.0'
+

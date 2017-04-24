@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.apache.any23
+ artifactId: apache-any23-csvutils
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - 0.8.0
+   - 0.9.0
+   - '1.0'
+   - '1.1'
+   - '2.0'
+  lastUpdated: '20170227024817'
+

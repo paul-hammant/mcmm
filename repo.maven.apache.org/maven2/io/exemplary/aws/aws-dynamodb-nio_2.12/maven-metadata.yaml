@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.exemplary.aws
+ artifactId: aws-dynamodb-nio_2.12
+ versioning:
+  latest: 1.10.5.1
+  release: 1.10.5.1
+  versions:
+   version: 1.10.5.1
+  lastUpdated: '20170404175651'
+

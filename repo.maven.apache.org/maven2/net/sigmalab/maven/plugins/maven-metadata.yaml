@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven JIRA Plugin
+   prefix: jira
+   artifactId: jira-maven-plugin
+

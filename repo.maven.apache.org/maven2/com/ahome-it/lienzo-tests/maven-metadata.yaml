@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.ahome-it
+ artifactId: lienzo-tests
+ versioning:
+  latest: 2.0.286-RELEASE
+  release: 2.0.286-RELEASE
+  versions:
+   version:
+   - 1.0.0-RC1
+   - 1.0.0-RC3
+   - 1.0.0-RC4
+   - 1.0.0-RC5
+   - 2.0.286-RELEASE
+  lastUpdated: '20170317234038'
+

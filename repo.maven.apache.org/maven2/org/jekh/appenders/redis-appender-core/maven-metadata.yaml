@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jekh.appenders
+ artifactId: redis-appender-core
+ versioning:
+  latest: '0.5'
+  release: '0.5'
+  versions:
+   version: '0.5'
+  lastUpdated: '20160930022226'
+

@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.xBaseJ
+ artifactId: xbasej
+ versioning:
+  latest: '20091203'
+  release: '20091203'
+  versions:
+   version: '20091203'
+  lastUpdated: '20110815134250'
+

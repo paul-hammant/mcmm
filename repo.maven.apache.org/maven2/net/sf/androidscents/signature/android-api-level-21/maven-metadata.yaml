@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.androidscents.signature
+ artifactId: android-api-level-21
+ versioning:
+  latest: 5.0.1_r2
+  release: 5.0.1_r2
+  versions:
+   version: 5.0.1_r2
+  lastUpdated: '20150103141226'
+

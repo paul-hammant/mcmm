@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.kamino
+ artifactId: sanguijuela_2.11
+ versioning:
+  latest: 0.17.0
+  release: 0.17.0
+  versions:
+   version:
+   - '0.16'
+   - 0.17.0
+  lastUpdated: '20160719144546'
+

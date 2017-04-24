@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.aerse
+ artifactId: gcless
+ versioning:
+  latest: '11.2'
+  release: '11.2'
+  versions:
+   version:
+   - '11.1'
+   - '11.2'
+  lastUpdated: '20161125082151'
+

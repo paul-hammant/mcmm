@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.liftmodules
+ artifactId: google-maps_2.6_2.10
+ versioning:
+  latest: '0.13'
+  release: '0.13'
+  versions:
+   version: '0.13'
+  lastUpdated: '20131024140746'
+

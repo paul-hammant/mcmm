@@ -1,0 +1,10 @@
+metadata:
+ groupId: xyz.itbang
+ artifactId: gspider
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20170313225447'
+

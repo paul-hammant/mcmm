@@ -1,0 +1,8 @@
+metadata:
+ groupId: milyn
+ artifactId: httpunit
+ version: meterware
+ versioning:
+  versions:
+   version: meterware
+

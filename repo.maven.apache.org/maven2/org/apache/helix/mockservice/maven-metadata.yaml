@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.helix
+ artifactId: mockservice
+ versioning:
+  latest: 0.6.1-incubating
+  release: 0.6.1-incubating
+  versions:
+   version:
+   - 0.6.0-incubating
+   - 0.6.1-incubating
+  lastUpdated: '20130521164958'
+

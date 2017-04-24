@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.scalameta
+ artifactId: inputs_2.12
+ versioning:
+  latest: 1.7.0
+  release: 1.7.0
+  versions:
+   version:
+   - 1.4.0
+   - 1.5.0
+   - 1.6.0
+   - 1.7.0
+  lastUpdated: '20170411213614'
+

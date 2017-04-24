@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jOOQ Codegen Maven
+   prefix: jooq-codegen
+   artifactId: jooq-codegen-maven
+

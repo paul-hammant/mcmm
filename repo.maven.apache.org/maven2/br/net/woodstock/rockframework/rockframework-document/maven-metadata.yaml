@@ -1,0 +1,12 @@
+metadata:
+ groupId: br.net.woodstock.rockframework
+ artifactId: rockframework-document
+ versioning:
+  latest: 3.0.1
+  release: 3.0.1
+  versions:
+   version:
+   - 3.0.0
+   - 3.0.1
+  lastUpdated: '20141123154913'
+

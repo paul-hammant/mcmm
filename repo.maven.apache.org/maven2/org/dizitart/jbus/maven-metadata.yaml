@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.dizitart
+ artifactId: jbus
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20160622063230'
+

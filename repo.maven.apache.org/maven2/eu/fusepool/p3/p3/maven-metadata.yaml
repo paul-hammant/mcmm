@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.fusepool.p3
+ artifactId: p3
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20140805155745'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.spark-project
+ artifactId: akka-remote
+ versioning:
+  latest: 2.0.5-protobuf-2.5-java-1.5
+  release: 2.0.5-protobuf-2.5-java-1.5
+  versions:
+   version:
+   - 2.0.5-pb-2.5
+   - 2.0.5-protobuf-2.5
+   - 2.0.5-protobuf-2.5-java-1.5
+  lastUpdated: '20131204032326'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.shiro
+ artifactId: shiro-groovy
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0-incubating
+   - 1.1.0
+  lastUpdated: '20101102030811'
+

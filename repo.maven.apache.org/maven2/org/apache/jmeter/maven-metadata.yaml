@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-jmeter-plugin JDK14 compliant Maven Mojo
+   prefix: jmeter-jdk14
+   artifactId: maven-jmeter-jdk14-plugin
+

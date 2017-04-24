@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: CODA Maven Plugin
+   prefix: coda
+   artifactId: coda-maven-plugin
+

@@ -1,0 +1,25 @@
+metadata:
+ groupId: org.sklsft.commons
+ artifactId: commons-crypto
+ versioning:
+  latest: 2.1.2
+  release: 2.1.2
+  versions:
+   version:
+   - 1.0.0-M1
+   - 1.0.0-M2
+   - 1.0.0-M2-1
+   - 1.0.0
+   - 1.0.1
+   - 1.1.0
+   - 1.1.1
+   - 2.0.0-M1
+   - 2.0.0-M2
+   - 2.0.0-M2-1
+   - 2.0.0-M2-2
+   - 2.0.0
+   - 2.1.0
+   - 2.1.1
+   - 2.1.2
+  lastUpdated: '20170309162458'
+

@@ -1,0 +1,16 @@
+metadata:
+ groupId: net.cassite
+ artifactId: daf4j-ds-jpa
+ versioning:
+  latest: 0.1.2-SNAPSHOT-2
+  release: 0.1.2-SNAPSHOT-2
+  versions:
+   version:
+   - 0.0.2-RELEASE
+   - 0.0.3-RELEASE
+   - 0.1.0-RELEASE
+   - 0.1.1-RELEASE
+   - 0.1.2-SNAPSHOT-1
+   - 0.1.2-SNAPSHOT-2
+  lastUpdated: '20151219061715'
+

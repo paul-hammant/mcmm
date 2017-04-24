@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.docbook
+ artifactId: docbook-xsl-saxon
+ versioning:
+  latest: 1.0.1-pre
+  release: 1.0.1-pre
+  versions:
+   version: 1.0.1-pre
+  lastUpdated: '20120824135749'
+

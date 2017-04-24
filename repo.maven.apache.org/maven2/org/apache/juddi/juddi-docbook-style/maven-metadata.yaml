@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.juddi
+ artifactId: juddi-docbook-style
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+  lastUpdated: '20120229145344'
+

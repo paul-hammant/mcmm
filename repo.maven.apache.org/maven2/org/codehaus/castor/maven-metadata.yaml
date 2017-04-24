@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Castor XML - Maven Mojos for executing XMLCTF tests
+   prefix: castors
+   artifactId: castor-maven-plugins
+  - name: Castor XML - Code generator JUnit test archetype
+   prefix: codegen-testcase
+   artifactId: codegen-testcase
+  - name: Castor CPA - JUnit test archetype
+   prefix: cpa-testcase
+   artifactId: cpa-testcase
+

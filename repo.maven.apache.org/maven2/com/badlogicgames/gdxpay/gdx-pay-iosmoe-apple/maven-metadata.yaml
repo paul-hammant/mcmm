@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.badlogicgames.gdxpay
+ artifactId: gdx-pay-iosmoe-apple
+ versioning:
+  latest: 0.11.0
+  release: 0.11.0
+  versions:
+   version: 0.11.0
+  lastUpdated: '20170420144209'
+

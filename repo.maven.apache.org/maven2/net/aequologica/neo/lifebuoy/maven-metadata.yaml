@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.aequologica.neo
+ artifactId: lifebuoy
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20170109112542'
+

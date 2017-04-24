@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Tiles Maven Plugin
+   prefix: tiles
+   artifactId: tiles-maven-plugin
+

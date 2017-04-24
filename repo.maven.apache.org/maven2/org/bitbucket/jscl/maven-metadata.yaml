@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: jscover-legacy
+   artifactId: jscover-legacy-plugin
+

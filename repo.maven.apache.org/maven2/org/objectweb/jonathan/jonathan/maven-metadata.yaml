@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.jonathan
+ artifactId: jonathan
+ version: 3.0.10
+ versioning:
+  versions:
+   version: 3.0.10
+  lastUpdated: '20060123071053'
+

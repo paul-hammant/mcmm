@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.wildcat
+ artifactId: wildcat-examples-sca
+ version: 2.3.0
+ versioning:
+  versions:
+   version: 2.3.0
+  lastUpdated: '20100811083742'
+

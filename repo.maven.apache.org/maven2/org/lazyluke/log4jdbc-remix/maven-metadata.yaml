@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.lazyluke
+ artifactId: log4jdbc-remix
+ versioning:
+  latest: 0.2.7
+  release: 0.2.7
+  versions:
+   version:
+   - 0.2.3
+   - 0.2.4
+   - 0.2.5
+   - 0.2.6
+   - 0.2.7
+  lastUpdated: '20120127004536'
+

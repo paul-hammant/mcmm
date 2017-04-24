@@ -1,0 +1,10 @@
+metadata:
+ groupId: nl.bitwalker
+ artifactId: UserAgentUtils
+ versioning:
+  latest: 1.2.4
+  release: 1.2.4
+  versions:
+   version: 1.2.4
+  lastUpdated: '20110429064012'
+

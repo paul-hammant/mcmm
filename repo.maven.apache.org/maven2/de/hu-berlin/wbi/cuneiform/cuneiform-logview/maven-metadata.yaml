@@ -1,0 +1,14 @@
+metadata:
+ groupId: de.hu-berlin.wbi.cuneiform
+ artifactId: cuneiform-logview
+ versioning:
+  latest: 2.0.4-RELEASE
+  release: 2.0.4-RELEASE
+  versions:
+   version:
+   - 2.0.0-beta
+   - 2.0.2-RELEASE
+   - 2.0.3-RELEASE
+   - 2.0.4-RELEASE
+  lastUpdated: '20160517140539'
+

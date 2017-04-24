@@ -1,0 +1,15 @@
+metadata:
+ groupId: io.projectreactor.addons
+ artifactId: reactor-adapter
+ versioning:
+  latest: 3.0.6.RELEASE
+  release: 3.0.6.RELEASE
+  versions:
+   version:
+   - 3.0.2.RELEASE
+   - 3.0.3.RELEASE
+   - 3.0.4.RELEASE
+   - 3.0.5.RELEASE
+   - 3.0.6.RELEASE
+  lastUpdated: '20170404112151'
+

@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.couchbase.client
+ artifactId: kafka-connector
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.2.0
+   - 1.2.1
+   - 2.0.0
+   - 2.0.1
+  lastUpdated: '20160808155941'
+

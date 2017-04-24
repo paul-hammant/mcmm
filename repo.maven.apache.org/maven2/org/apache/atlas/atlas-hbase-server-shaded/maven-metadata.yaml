@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.atlas
+ artifactId: atlas-hbase-server-shaded
+ versioning:
+  latest: 0.8-incubating
+  release: 0.8-incubating
+  versions:
+   version: 0.8-incubating
+  lastUpdated: '20170317065856'
+

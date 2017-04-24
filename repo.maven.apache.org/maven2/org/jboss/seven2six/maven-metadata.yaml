@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: seven2six
+   artifactId: seven2six
+

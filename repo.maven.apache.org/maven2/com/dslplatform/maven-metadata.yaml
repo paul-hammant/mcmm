@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: DSL Platform - Maven plugin
+   prefix: dsl-platform
+   artifactId: dsl-platform-maven-plugin
+

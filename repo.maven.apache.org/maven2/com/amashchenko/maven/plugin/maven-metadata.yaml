@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: gitflow-maven-plugin
+   prefix: gitflow
+   artifactId: gitflow-maven-plugin
+

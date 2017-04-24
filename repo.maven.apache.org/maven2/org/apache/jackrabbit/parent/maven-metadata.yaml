@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.apache.jackrabbit
+ artifactId: parent
+ versioning:
+  latest: '5'
+  release: '5'
+  versions:
+   version:
+   - '2'
+   - '3'
+   - '4'
+   - '5'
+  lastUpdated: '20091004213156'
+

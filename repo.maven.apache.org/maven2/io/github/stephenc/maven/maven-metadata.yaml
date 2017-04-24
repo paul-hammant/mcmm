@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Release From My Machine Maven Plugin
+   prefix: rfmm
+   artifactId: rfmm-maven-plugin
+

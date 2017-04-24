@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.openscore
+ artifactId: score-tests
+ versioning:
+  latest: 0.1.266
+  release: 0.1.266
+  versions:
+   version:
+   - 0.1.264
+   - 0.1.266
+  lastUpdated: '20150305134747'
+

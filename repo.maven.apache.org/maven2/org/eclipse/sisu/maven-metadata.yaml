@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Sisu Maven Plugin
+   prefix: sisu
+   artifactId: sisu-maven-plugin
+

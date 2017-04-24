@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: zephyr-sync
+   artifactId: zephyr-sync-maven-plugin
+

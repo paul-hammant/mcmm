@@ -1,0 +1,10 @@
+metadata:
+ groupId: tv.cntt
+ artifactId: netty41-router
+ versioning:
+  latest: '1.10'
+  release: '1.10'
+  versions:
+   version: '1.10'
+  lastUpdated: '20150525085257'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: se.vgregion.rss-client
+ artifactId: rss-client-bc-core-composite-webcomp
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20100628141626'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: pluto-container
+ artifactId: pluto
+ version: '0.46'
+ versioning:
+  versions:
+   version: '0.46'
+

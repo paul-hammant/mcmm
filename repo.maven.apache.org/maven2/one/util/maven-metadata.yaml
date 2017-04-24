@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: huntbugs-maven-plugin Maven Plugin
+   prefix: huntbugs
+   artifactId: huntbugs-maven-plugin
+

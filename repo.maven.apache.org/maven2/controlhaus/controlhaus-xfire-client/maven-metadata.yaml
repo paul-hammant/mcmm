@@ -1,0 +1,11 @@
+metadata:
+ groupId: controlhaus
+ artifactId: controlhaus-xfire-client
+ version: 1.0-alpha-1
+ versioning:
+  versions:
+   version:
+   - 1.0-alpha-1
+   - 1.0-alpha-2
+   - 1.0-alpha-3
+

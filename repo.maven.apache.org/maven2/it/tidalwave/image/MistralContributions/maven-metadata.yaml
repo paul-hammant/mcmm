@@ -1,0 +1,9 @@
+metadata:
+ groupId: it.tidalwave.image
+ artifactId: MistralContributions
+ version: 0.9.8-SNAPSHOT
+ versioning:
+  versions:
+   version: 0.9.8-SNAPSHOT
+  lastUpdated: '20090706115307'
+

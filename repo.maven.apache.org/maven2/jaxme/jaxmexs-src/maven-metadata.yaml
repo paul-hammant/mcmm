@@ -1,0 +1,9 @@
+metadata:
+ groupId: jaxme
+ artifactId: jaxmexs-src
+ versioning:
+  versions:
+   version:
+   - 0.5beta
+   - '0.5'
+

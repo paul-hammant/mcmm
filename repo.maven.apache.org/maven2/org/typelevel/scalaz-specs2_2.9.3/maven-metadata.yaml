@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.typelevel
+ artifactId: scalaz-specs2_2.9.3
+ versioning:
+  latest: 0.1.5
+  release: 0.1.5
+  versions:
+   version:
+   - 0.1.4
+   - 0.1.5
+  lastUpdated: '20130911043652'
+

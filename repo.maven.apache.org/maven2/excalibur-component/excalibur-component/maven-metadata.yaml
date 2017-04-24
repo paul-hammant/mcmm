@@ -1,0 +1,13 @@
+metadata:
+ groupId: excalibur-component
+ artifactId: excalibur-component
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - '20020916'
+   - '2.1'
+

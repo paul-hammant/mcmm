@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sourceforge.tuio
+ artifactId: tuio
+ versioning:
+  latest: '1.4'
+  release: '1.4'
+  versions:
+   version: '1.4'
+  lastUpdated: '20101014105518'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.typelevel
+ artifactId: scala-actors
+ versioning:
+  latest: 2.11.8
+  release: 2.11.8
+  versions:
+   version:
+   - 2.11.7
+   - 2.11.8
+  lastUpdated: '20160821051109'
+

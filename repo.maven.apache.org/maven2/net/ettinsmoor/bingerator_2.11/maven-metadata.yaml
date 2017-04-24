@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.ettinsmoor
+ artifactId: bingerator_2.11
+ versioning:
+  latest: 0.2.4
+  release: 0.2.4
+  versions:
+   version:
+   - 0.2.3
+   - 0.2.4
+  lastUpdated: '20151007200356'
+

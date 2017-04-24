@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.restcomm
+ artifactId: media
+ versioning:
+  latest: 7.0.16
+  release: 7.0.16
+  versions:
+   version:
+   - 6.0.29
+   - 7.0.6
+   - 7.0.8
+   - 7.0.13
+   - 7.0.14
+   - 7.0.16
+  lastUpdated: '20170420193257'
+

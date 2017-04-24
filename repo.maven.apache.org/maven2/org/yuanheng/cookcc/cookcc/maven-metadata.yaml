@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.yuanheng.cookcc
+ artifactId: cookcc
+ versioning:
+  latest: 0.3.3
+  release: 0.3.3
+  versions:
+   version: 0.3.3
+  lastUpdated: '20160529200737'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.att.ajsc
+ artifactId: sdk-java-common-logging
+ versioning:
+  latest: 0.0.3
+  release: 0.0.3
+  versions:
+   version: 0.0.3
+  lastUpdated: '20170327222110'
+

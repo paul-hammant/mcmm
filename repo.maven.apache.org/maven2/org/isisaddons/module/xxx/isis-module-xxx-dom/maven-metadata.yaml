@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.isisaddons.module.xxx
+ artifactId: isis-module-xxx-dom
+ versioning:
+  latest: 1.10.0
+  release: 1.10.0
+  versions:
+   version: 1.10.0
+  lastUpdated: '20151111012629'
+

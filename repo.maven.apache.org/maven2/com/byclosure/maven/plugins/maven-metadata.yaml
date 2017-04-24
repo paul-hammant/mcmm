@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ${project.groupId}:${project.artifactId}
+   prefix: bundle
+   artifactId: bundler-maven-plugin
+  - name: com.byclosure.maven.plugins:google-storage-upload
+   prefix: byclosure-plugins
+   artifactId: google-storage-upload
+  - name: phonegap-maven-plugin
+   prefix: phonegap
+   artifactId: phonegap-maven-plugin
+

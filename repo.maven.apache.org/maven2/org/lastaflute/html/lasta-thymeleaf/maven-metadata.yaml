@@ -1,0 +1,31 @@
+metadata:
+ groupId: org.lastaflute.html
+ artifactId: lasta-thymeleaf
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version:
+   - 0.2.0-RC1
+   - 0.2.0
+   - 0.2.1-RC1
+   - 0.2.1-RC2
+   - 0.2.1
+   - 0.2.2-RC1
+   - 0.2.2
+   - 0.2.3
+   - 0.2.4
+   - 0.2.5-RC2
+   - 0.2.5
+   - 0.2.6
+   - 0.2.7
+   - 0.2.8-RC2
+   - 0.2.8-RC3
+   - 0.2.8
+   - 0.2.9-RC1
+   - 0.2.9
+   - 0.3.0-RC1
+   - 0.3.0-RC2
+   - 0.3.0
+  lastUpdated: '20170325150043'
+

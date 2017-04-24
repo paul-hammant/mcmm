@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.caoilte
+ artifactId: sbt-scala-defaults_2.10
+ versioning:
+  latest: 0.1.3
+  release: 0.1.3
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 0.1.2
+   - 0.1.3
+  lastUpdated: '20170414115258'
+

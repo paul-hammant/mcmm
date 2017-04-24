@@ -1,0 +1,8 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: webdoc
+   artifactId: webdoc-maven-plugin
+  - prefix: webdoc-upload
+   artifactId: webdoc-upload-maven-plugin
+

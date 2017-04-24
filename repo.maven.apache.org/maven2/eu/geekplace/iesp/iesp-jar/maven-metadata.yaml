@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.geekplace.iesp
+ artifactId: iesp-jar
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20140731073902'
+

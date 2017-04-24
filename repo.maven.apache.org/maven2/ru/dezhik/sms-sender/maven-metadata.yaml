@@ -1,0 +1,10 @@
+metadata:
+ groupId: ru.dezhik
+ artifactId: sms-sender
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20170423201506'
+

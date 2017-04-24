@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.sf.mmm
+ artifactId: mmm
+ version: 1.0.0
+ versioning:
+  versions:
+   version: 1.0.0
+  lastUpdated: '20080119201725'
+

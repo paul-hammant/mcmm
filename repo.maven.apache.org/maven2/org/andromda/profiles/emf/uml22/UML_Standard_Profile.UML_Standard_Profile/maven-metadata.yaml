@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.andromda.profiles.emf.uml22
+ artifactId: UML_Standard_Profile.UML_Standard_Profile
+ versioning:
+  latest: '3.4'
+  release: '3.4'
+  versions:
+   version: '3.4'
+  lastUpdated: '20120908162211'
+

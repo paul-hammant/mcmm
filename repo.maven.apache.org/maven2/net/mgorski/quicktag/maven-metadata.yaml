@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Quicktag Maven Plugin
+   prefix: quicktag
+   artifactId: quicktag
+

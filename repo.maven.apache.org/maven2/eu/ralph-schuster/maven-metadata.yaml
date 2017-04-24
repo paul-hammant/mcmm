@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.groupId}.${project.artifactId}
+   prefix: uploadfiles
+   artifactId: uploadfiles-maven-plugin
+

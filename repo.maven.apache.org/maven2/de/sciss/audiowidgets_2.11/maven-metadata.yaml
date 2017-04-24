@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.sciss
+ artifactId: audiowidgets_2.11
+ versioning:
+  latest: '0.13'
+  release: '0.13'
+  versions:
+   version: '0.13'
+  lastUpdated: '20161001135558'
+

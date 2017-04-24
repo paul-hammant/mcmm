@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.emitrom
+ artifactId: lienzo-core
+ versioning:
+  latest: 1.2-RELEASE
+  release: 1.2-RELEASE
+  versions:
+   version: 1.2-RELEASE
+  lastUpdated: '20130816170233'
+

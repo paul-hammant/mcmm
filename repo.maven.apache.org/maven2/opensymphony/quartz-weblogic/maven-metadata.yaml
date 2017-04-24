@@ -1,0 +1,10 @@
+metadata:
+ groupId: opensymphony
+ artifactId: quartz-weblogic
+ version: 1.5.0
+ versioning:
+  versions:
+   version:
+   - 1.5.0
+   - 1.5.2
+

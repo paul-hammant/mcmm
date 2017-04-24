@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.knero
+ artifactId: base
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20150523090803'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.smartcosmos
+ artifactId: smartcosmos-build-tools
+ versioning:
+  latest: 3.1.2
+  release: 3.1.2
+  versions:
+   version:
+   - 3.0.0
+   - 3.1.2
+  lastUpdated: '20161117195607'
+

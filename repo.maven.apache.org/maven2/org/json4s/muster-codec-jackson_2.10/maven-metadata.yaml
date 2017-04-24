@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.json4s
+ artifactId: muster-codec-jackson_2.10
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version: 0.3.0
+  lastUpdated: '20140804064324'
+

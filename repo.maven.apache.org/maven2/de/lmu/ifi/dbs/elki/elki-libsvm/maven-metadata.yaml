@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.lmu.ifi.dbs.elki
+ artifactId: elki-libsvm
+ versioning:
+  latest: 0.7.1
+  release: 0.7.1
+  versions:
+   version:
+   - 0.7.0
+   - 0.7.1
+  lastUpdated: '20160211103058'
+

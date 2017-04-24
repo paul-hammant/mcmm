@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.evojam
+ artifactId: mongo-driver-scala_2.11
+ versioning:
+  latest: 0.5.0
+  release: 0.5.0
+  versions:
+   version:
+   - 0.4.1
+   - 0.5.0
+  lastUpdated: '20150724085410'
+

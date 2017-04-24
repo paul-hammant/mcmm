@@ -1,0 +1,12 @@
+metadata:
+ groupId: nl.palolem
+ artifactId: pebble-timeline
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20160116144351'
+

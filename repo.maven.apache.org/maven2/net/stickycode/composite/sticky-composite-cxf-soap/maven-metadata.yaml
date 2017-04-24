@@ -1,0 +1,16 @@
+metadata:
+ groupId: net.stickycode.composite
+ artifactId: sticky-composite-cxf-soap
+ versioning:
+  latest: '6.1'
+  release: '6.1'
+  versions:
+   version:
+   - '2.3'
+   - '3.1'
+   - '4.2'
+   - '5.1'
+   - '5.2'
+   - '6.1'
+  lastUpdated: '20120812221714'
+

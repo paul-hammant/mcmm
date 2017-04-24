@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mycontroller.standalone
+ artifactId: mycontroller-dist
+ versioning:
+  latest: 0.0.3.Alpha2
+  release: 0.0.3.Alpha2
+  versions:
+   version: 0.0.3.Alpha2
+  lastUpdated: '20160729193951'
+

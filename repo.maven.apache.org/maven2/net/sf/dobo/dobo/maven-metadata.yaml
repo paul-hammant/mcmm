@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.sf.dobo
+ artifactId: dobo
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20080227101328'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.glamey
+ artifactId: autocode
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20160110011749'
+

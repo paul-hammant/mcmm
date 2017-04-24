@@ -1,0 +1,14 @@
+metadata:
+ groupId: it.tidalwave.bluebill
+ artifactId: it-tidalwave-bluebill-stats-rest
+ versioning:
+  latest: 1.0.3
+  release: 1.0.3
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+  lastUpdated: '20110811170747'
+

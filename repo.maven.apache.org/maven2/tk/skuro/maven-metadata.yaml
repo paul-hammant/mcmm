@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven plugin to analyse the execution plan
+   prefix: plan
+   artifactId: plan-maven-plugin
+

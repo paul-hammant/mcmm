@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.airavata
+ artifactId: airavata-registry-tools
+ versioning:
+  latest: '0.16'
+  release: '0.16'
+  versions:
+   version: '0.16'
+  lastUpdated: '20160718044435'
+

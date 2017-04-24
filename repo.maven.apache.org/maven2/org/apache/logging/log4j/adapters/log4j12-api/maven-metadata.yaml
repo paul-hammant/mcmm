@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.logging.log4j.adapters
+ artifactId: log4j12-api
+ versioning:
+  latest: 2.0-beta3
+  release: 2.0-beta3
+  versions:
+   version:
+   - 2.0-beta1
+   - 2.0-beta2
+   - 2.0-beta3
+  lastUpdated: '20121115002017'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.clif
+ artifactId: clif-full
+ version: 1.2.2
+ versioning:
+  versions:
+   version: 1.2.2
+  lastUpdated: '20080205090333'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: EmoDB SDK Maven Plugin
+   prefix: emodb-sdk
+   artifactId: emodb-sdk
+

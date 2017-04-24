@@ -1,0 +1,15 @@
+metadata:
+ groupId: de.alpharogroup
+ artifactId: wicket-channel-chat
+ versioning:
+  latest: 7.3.1
+  release: 7.3.1
+  versions:
+   version:
+   - 6.18.0
+   - 6.20.0
+   - 7.1.0
+   - 7.3.0
+   - 7.3.1
+  lastUpdated: '20170423130915'
+

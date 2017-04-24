@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jitsi
+ artifactId: org.otr4j
+ versioning:
+  latest: '0.22'
+  release: '0.22'
+  versions:
+   version: '0.22'
+  lastUpdated: '20150222115030'
+

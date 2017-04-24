@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven GWT Plugin
+   prefix: gwt
+   artifactId: maven-gwt-plugin
+  - name: Maven unused classes plugin
+   prefix: unclasses
+   artifactId: maven-unclasses-plugin
+

@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: CRX Maven Plugin
+   prefix: crx
+   artifactId: crx-maven-plugin
+  - name: e-Mail Server Plugin
+   prefix: emailserver
+   artifactId: emailserver-maven-plugin
+  - name: Plugin
+   prefix: ldap
+   artifactId: ldap-maven-plugin
+  - name: Spoon Maven Plugin
+   prefix: spoon
+   artifactId: spoon-maven-plugin
+

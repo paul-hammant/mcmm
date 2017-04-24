@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.openmuc.framework
+ artifactId: openmuc-datalogger-slotsdb
+ versioning:
+  latest: 0.16.0
+  release: 0.16.0
+  versions:
+   version: 0.16.0
+  lastUpdated: '20161011085130'
+

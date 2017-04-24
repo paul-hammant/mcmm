@@ -1,0 +1,10 @@
+metadata:
+ groupId: netbeans
+ artifactId: cvslib
+ version: '200310240100'
+ versioning:
+  versions:
+   version:
+   - '200310240100'
+   - '3.6'
+

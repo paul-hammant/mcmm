@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Fakereplace Maven Plugin
+   prefix: fakereplace
+   artifactId: fakereplace-maven-plugin
+

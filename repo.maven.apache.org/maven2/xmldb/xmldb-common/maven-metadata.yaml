@@ -1,0 +1,8 @@
+metadata:
+ groupId: xmldb
+ artifactId: xmldb-common
+ version: '20021220'
+ versioning:
+  versions:
+   version: '20021220'
+

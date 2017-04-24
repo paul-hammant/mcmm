@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Dependency-Check Maven Plugin
+   prefix: dependency-check
+   artifactId: dependency-check-maven
+

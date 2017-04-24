@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Modello Maven Plugin
+   prefix: modello
+   artifactId: modello-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.carrotgarden.a
+ artifactId: carrot-a
+ versioning:
+  latest: 1.5.31
+  release: 1.5.31
+  versions:
+   version: 1.5.31
+  lastUpdated: '20141119044954'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.alien95
+ artifactId: resthttp
+ versioning:
+  latest: 1.0.1-beta3
+  release: 1.0.1-beta3
+  versions:
+   version: 1.0.1-beta3
+  lastUpdated: '20160505171554'
+

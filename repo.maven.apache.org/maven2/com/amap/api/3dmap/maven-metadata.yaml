@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.amap.api
+ artifactId: 3dmap
+ versioning:
+  latest: 5.0.0
+  release: 5.0.0
+  versions:
+   version: 5.0.0
+  lastUpdated: '20170323053422'
+

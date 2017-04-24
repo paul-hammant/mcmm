@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Juliac MOJO Maven 2
+   prefix: juliac
+   artifactId: juliac-maven-plugin
+  - name: Juliac MOJO Maven 2
+   prefix: juliac
+   artifactId: maven-juliac-plugin
+

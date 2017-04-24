@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.box
+ artifactId: json-patch-box-metadata
+ versioning:
+  latest: '1.12'
+  release: '1.12'
+  versions:
+   version: '1.12'
+  lastUpdated: '20151008202448'
+

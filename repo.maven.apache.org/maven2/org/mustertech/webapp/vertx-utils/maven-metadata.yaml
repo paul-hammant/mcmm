@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mustertech.webapp
+ artifactId: vertx-utils
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160227055953'
+

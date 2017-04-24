@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.effectus
+ artifactId: effectus-dependencies-exam
+ versioning:
+  latest: 0.0.8
+  release: 0.0.8
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.8
+  lastUpdated: '20170217125232'
+

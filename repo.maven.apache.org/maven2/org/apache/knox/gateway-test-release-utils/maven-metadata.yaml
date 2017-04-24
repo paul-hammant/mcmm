@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.knox
+ artifactId: gateway-test-release-utils
+ versioning:
+  latest: 0.12.0
+  release: 0.12.0
+  versions:
+   version: 0.12.0
+  lastUpdated: '20170320152941'
+

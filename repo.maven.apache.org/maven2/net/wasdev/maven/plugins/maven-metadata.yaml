@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Swagger Document Generator Maven Tool
+   prefix: swaggerdocgen
+   artifactId: swaggerdocgen-maven-plugin
+

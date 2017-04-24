@@ -1,0 +1,10 @@
+metadata:
+ groupId: commons-jelly
+ artifactId: commons-jelly-tags-jface
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '20040902.073130'
+

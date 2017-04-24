@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.ebiznext.sbt.plugins.andromda
+ artifactId: mappings
+ versioning:
+  latest: '3.2'
+  release: '3.2'
+  versions:
+   version: '3.2'
+  lastUpdated: '20131024111313'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.github.leshan
+ artifactId: leshan
+ versioning:
+  latest: 0.1.9
+  release: 0.1.9
+  versions:
+   version:
+   - 0.1.8
+   - 0.1.9
+  lastUpdated: '20150116134702'
+

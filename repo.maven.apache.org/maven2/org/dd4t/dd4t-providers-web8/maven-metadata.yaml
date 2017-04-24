@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.dd4t
+ artifactId: dd4t-providers-web8
+ versioning:
+  latest: 2.0.8
+  release: 2.0.8
+  versions:
+   version:
+   - 2.0.5
+   - 2.0.6
+   - 2.0.7
+   - 2.0.8
+  lastUpdated: '20170419075424'
+

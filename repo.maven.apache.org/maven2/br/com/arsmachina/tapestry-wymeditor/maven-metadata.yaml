@@ -1,0 +1,12 @@
+metadata:
+ groupId: br.com.arsmachina
+ artifactId: tapestry-wymeditor
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version:
+   - 0.0.1
+   - 0.1.0
+  lastUpdated: '20130930185206'
+

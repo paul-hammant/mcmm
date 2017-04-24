@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Plexus Maven Plugin
+   prefix: plexus
+   artifactId: plexus-maven-plugin
+  - name: Plexus App Server Maven Plugin
+   prefix: plexus-appserver
+   artifactId: plexus-appserver-maven-plugin
+  - name: 'Plexus :: Component Metadata'
+   prefix: plexus-component-metadata
+   artifactId: plexus-component-metadata
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'JaCoCo :: Maven Plugin'
+   prefix: jacoco
+   artifactId: jacoco-maven-plugin
+

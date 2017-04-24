@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.directwebremoting
+ artifactId: dwr-webwork
+ version: 3.0.0-rc2-SNAPSHOT
+ versioning:
+  versions:
+   version: 3.0.0-rc2-SNAPSHOT
+  lastUpdated: '20090904201104'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.sciss
+ artifactId: audiowidgets-swing_2.12
+ versioning:
+  latest: 1.10.2
+  release: 1.10.2
+  versions:
+   version: 1.10.2
+  lastUpdated: '20161229134324'
+

@@ -1,0 +1,14 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: contentcheck
+   artifactId: contentcheck-maven-plugin
+  - prefix: gitsite
+   artifactId: gitsite-maven-plugin
+  - name: ${project.artifactId}
+   prefix: npmpack
+   artifactId: npmpack-maven-plugin
+  - name: ${project.artifactId}
+   prefix: runjar
+   artifactId: runjar-maven-plugin
+

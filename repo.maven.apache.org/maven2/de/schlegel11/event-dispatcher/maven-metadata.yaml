@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.schlegel11
+ artifactId: event-dispatcher
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20150430225750'
+

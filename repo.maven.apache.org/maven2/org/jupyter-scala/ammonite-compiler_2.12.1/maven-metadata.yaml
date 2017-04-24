@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.jupyter-scala
+ artifactId: ammonite-compiler_2.12.1
+ versioning:
+  latest: 0.8.2-2
+  release: 0.8.2-2
+  versions:
+   version:
+   - 0.8.1
+   - 0.8.2
+   - 0.8.2-1
+   - 0.8.2-2
+  lastUpdated: '20170308105734'
+

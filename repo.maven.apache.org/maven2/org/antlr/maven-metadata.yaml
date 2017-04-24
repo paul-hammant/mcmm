@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ANTLR 3 Maven plugin
+   prefix: antlr3
+   artifactId: antlr3-maven-plugin
+  - name: ANTLR 4 Maven plugin
+   prefix: antlr4
+   artifactId: antlr4-maven-plugin
+  - name: ANTLR 3 gUnit Maven plugin
+   prefix: gunit
+   artifactId: maven-gunit-plugin
+

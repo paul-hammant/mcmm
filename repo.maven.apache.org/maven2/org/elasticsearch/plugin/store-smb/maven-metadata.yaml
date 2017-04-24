@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.elasticsearch.plugin
+ artifactId: store-smb
+ versioning:
+  latest: 5.0.0-alpha5
+  release: 5.0.0-alpha5
+  versions:
+   version:
+   - 5.0.0-alpha1
+   - 5.0.0-alpha2
+   - 5.0.0-alpha3
+   - 5.0.0-alpha4
+   - 5.0.0-alpha5
+  lastUpdated: '20160809163004'
+

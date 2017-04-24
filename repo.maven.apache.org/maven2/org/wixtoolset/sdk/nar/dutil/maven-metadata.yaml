@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.wixtoolset.sdk.nar
+ artifactId: dutil
+ versioning:
+  latest: 3.10.2
+  release: 3.10.2
+  versions:
+   version:
+   - 3.9.2
+   - 3.10.2
+  lastUpdated: '20161122081552'
+

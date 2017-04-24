@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.adito.propertly
+ artifactId: propertly.parent
+ versioning:
+  latest: '0.4'
+  release: '0.4'
+  versions:
+   version: '0.4'
+  lastUpdated: '20170321185210'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.springside
+ artifactId: springside-utils
+ versioning:
+  latest: 5.0.0-RC1
+  release: 5.0.0-RC1
+  versions:
+   version:
+   - 5.0.0-BETA1
+   - 5.0.0-RC1
+  lastUpdated: '20170124052251'
+

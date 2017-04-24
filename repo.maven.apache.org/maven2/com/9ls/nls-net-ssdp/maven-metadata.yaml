@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.9ls
+ artifactId: nls-net-ssdp
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version: 0.1.2
+  lastUpdated: '20150511231019'
+

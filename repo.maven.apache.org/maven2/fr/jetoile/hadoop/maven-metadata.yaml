@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: hadoop-unit-maven-plugin
+   prefix: hadoop-unit
+   artifactId: hadoop-unit-maven-plugin
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: args4j
+ artifactId: args4j
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20110328163419'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: edu.stanford.swrl
+ artifactId: swrlapi-example
+ versioning:
+  latest: 1.0.3
+  release: 1.0.3
+  versions:
+   version:
+   - 1.0.0-beta-52
+   - 1.0.3
+  lastUpdated: '20160504235321'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.huxhorn.lilith
+ artifactId: de.huxhorn.lilith.3rdparty.jmdns
+ versioning:
+  latest: '3.0'
+  release: '3.0'
+  versions:
+   version:
+   - 2.0-patched
+   - '3.0'
+  lastUpdated: '20101110102609'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.maxthomas
+ artifactId: mvn-oss-parent
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20160515200107'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: maven-proxy
+ artifactId: maven-proxy-webapp
+ version: '0.1'
+ versioning:
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+

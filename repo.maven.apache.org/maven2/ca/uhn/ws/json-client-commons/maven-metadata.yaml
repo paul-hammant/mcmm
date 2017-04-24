@@ -1,0 +1,10 @@
+metadata:
+ groupId: ca.uhn.ws
+ artifactId: json-client-commons
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version: '2.1'
+  lastUpdated: '20121120230017'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: eu.payzen.sdk
+ artifactId: payzen-ws-sdk
+ versioning:
+  latest: 1.0.6
+  release: 1.0.6
+  versions:
+   version:
+   - 1.0.5
+   - 1.0.6
+  lastUpdated: '20161123101834'
+

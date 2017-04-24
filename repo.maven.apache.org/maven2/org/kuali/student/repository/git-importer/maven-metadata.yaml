@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.kuali.student.repository
+ artifactId: git-importer
+ versioning:
+  latest: 0.0.4
+  release: 0.0.4
+  versions:
+   version:
+   - 0.0.2
+   - 0.0.3
+   - 0.0.4
+  lastUpdated: '20141006200130'
+

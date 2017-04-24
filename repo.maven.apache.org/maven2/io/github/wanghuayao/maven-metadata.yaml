@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven plugin oaktree
+   prefix: oaktree
+   artifactId: maven-plugin-oaktree
+

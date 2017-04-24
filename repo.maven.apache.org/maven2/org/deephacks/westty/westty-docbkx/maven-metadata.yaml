@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.deephacks.westty
+ artifactId: westty-docbkx
+ versioning:
+  latest: 0.1.6
+  release: 0.1.6
+  versions:
+   version:
+   - 0.1.1
+   - 0.1.4
+   - 0.1.5
+   - 0.1.6
+  lastUpdated: '20131020191257'
+

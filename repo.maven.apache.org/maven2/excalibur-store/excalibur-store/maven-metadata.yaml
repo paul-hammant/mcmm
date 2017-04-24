@@ -1,0 +1,11 @@
+metadata:
+ groupId: excalibur-store
+ artifactId: excalibur-store
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '20020820'
+   - '2.1'
+

@@ -1,0 +1,7 @@
+metadata:
+ groupId: maven
+ artifactId: maven-source-plugin
+ versioning:
+  versions:
+   version: '1.0'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.xml-cml
+ artifactId: jumbo
+ versioning:
+  latest: '6.0'
+  release: '6.0'
+  versions:
+   version: '6.0'
+  lastUpdated: '20110713162822'
+

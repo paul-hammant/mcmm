@@ -1,0 +1,9 @@
+metadata:
+ groupId: boo
+ artifactId: booxw
+ versioning:
+  versions:
+   version:
+   - '1203'
+   - '1202'
+

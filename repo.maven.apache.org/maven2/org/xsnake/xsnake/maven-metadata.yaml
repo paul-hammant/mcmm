@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.xsnake
+ artifactId: xsnake
+ versioning:
+  latest: '1.90'
+  release: '1.90'
+  versions:
+   version:
+   - '1.21'
+   - '1.22'
+   - '1.90'
+  lastUpdated: '20170403141448'
+

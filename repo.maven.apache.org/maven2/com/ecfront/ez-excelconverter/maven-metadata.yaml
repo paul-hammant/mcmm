@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.ecfront
+ artifactId: ez-excelconverter
+ versioning:
+  latest: 0.3.1
+  release: 0.3.1
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - '0.3'
+   - 0.3.1
+  lastUpdated: '20170317031650'
+

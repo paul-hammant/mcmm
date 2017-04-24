@@ -1,0 +1,10 @@
+metadata:
+ groupId: tk.hongkailiu
+ artifactId: test-webapp
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version: 0.0.2
+  lastUpdated: '20150602030300'
+

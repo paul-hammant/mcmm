@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.openinstaller
+ artifactId: engine
+ versioning:
+  latest: 0.9.5.5
+  release: 0.9.5.5
+  versions:
+   version:
+   - 0.9.5.4
+   - 0.9.5.5
+  lastUpdated: '20120108222304'
+

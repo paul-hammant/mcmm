@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.jboss.narayana.blacktie
+ artifactId: jatmibroker-xatmi
+ versioning:
+  latest: 5.0.0.M1
+  release: 5.0.0.M1
+  versions:
+   version:
+   - 3.0.0.Final
+   - 5.0.0.M1
+  lastUpdated: '20110826144312'
+

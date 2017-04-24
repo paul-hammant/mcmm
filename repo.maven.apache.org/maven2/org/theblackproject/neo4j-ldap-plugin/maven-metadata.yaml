@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.theblackproject
+ artifactId: neo4j-ldap-plugin
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20140307081159'
+

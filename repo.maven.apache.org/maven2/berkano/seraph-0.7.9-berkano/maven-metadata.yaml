@@ -1,0 +1,10 @@
+metadata:
+ groupId: berkano
+ artifactId: seraph-0.7.9-berkano
+ version: '20050805.013448'
+ versioning:
+  versions:
+   version:
+   - '20050805.013448'
+   - '20050805.013418'
+

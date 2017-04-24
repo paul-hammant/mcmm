@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.jbundle.thin.base.screen
+ artifactId: jcalendarbutton
+ versioning:
+  latest: 1.4.6
+  release: 1.4.6
+  versions:
+   version:
+   - 1.4.5
+   - 1.4.6
+  lastUpdated: '20101215162700'
+

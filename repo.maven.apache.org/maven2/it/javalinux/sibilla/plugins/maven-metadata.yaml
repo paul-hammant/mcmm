@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Sibilla Test Maven Plugin
+   prefix: sibilla
+   artifactId: maven-sibilla-plugin
+

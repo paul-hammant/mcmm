@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.antiaction
+ artifactId: raptor-dbl
+ versioning:
+  latest: 0.1.0-RC2
+  release: 0.1.0-RC2
+  versions:
+   version:
+   - 0.1.0-RC1
+   - 0.1.0-RC2
+  lastUpdated: '20151220120357'
+

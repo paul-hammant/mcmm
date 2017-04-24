@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.dozer
+ artifactId: dozer-osgi
+ versioning:
+  latest: 5.5.1
+  release: 5.5.1
+  versions:
+   version:
+   - 5.4.0
+   - 5.5.1
+  lastUpdated: '20140422200342'
+

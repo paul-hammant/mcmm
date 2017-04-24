@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.gradle.api.plugins
+ artifactId: gradle-appengine-geb-plugin
+ versioning:
+  latest: '0.5'
+  release: '0.5'
+  versions:
+   version:
+   - '0.4'
+   - '0.5'
+  lastUpdated: '20160626121946'
+

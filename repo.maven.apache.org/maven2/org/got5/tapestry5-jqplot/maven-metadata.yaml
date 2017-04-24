@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.got5
+ artifactId: tapestry5-jqplot
+ versioning:
+  latest: 3.4.2
+  release: 3.4.2
+  versions:
+   version: 3.4.2
+  lastUpdated: '20160206104216'
+

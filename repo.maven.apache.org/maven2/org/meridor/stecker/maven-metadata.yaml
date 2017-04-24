@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Stecker Plugin Generator
+   prefix: plugin
+   artifactId: stecker-plugin-generator
+  - name: Stecker Plugin Generator
+   prefix: steckergenerator
+   artifactId: stecker-plugin-generator
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: ws-commons
+ artifactId: tcpmon
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

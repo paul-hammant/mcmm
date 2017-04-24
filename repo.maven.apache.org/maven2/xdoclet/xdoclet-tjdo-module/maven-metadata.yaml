@@ -1,0 +1,11 @@
+metadata:
+ groupId: xdoclet
+ artifactId: xdoclet-tjdo-module
+ version: 1.2.3
+ versioning:
+  versions:
+   version:
+   - 1.2.3
+   - 1.2b2
+   - 1.2b4
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: nz.ac.auckland.groupapps.common
+ artifactId: common-ebean
+ versioning:
+  latest: '3.4'
+  release: '3.4'
+  versions:
+   version:
+   - '2.2'
+   - '3.1'
+   - '3.2'
+   - '3.3'
+   - '3.4'
+  lastUpdated: '20150630014249'
+

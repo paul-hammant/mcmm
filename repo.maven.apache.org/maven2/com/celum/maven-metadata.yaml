@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: celum DB Plugin
+   prefix: db
+   artifactId: db-maven-plugin
+  - name: celum DB Maven Plugin
+   prefix: db
+   artifactId: db-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.tensorflow
+ artifactId: proto
+ versioning:
+  latest: 1.1.0-rc2
+  release: 1.1.0-rc2
+  versions:
+   version: 1.1.0-rc2
+  lastUpdated: '20170417051652'
+

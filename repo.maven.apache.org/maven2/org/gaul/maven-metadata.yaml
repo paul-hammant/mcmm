@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Modernizer Maven Plugin
+   prefix: modernizer
+   artifactId: modernizer-maven-plugin
+

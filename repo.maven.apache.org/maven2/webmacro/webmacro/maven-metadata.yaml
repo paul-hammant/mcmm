@@ -1,0 +1,10 @@
+metadata:
+ groupId: webmacro
+ artifactId: webmacro
+ version: '0.94'
+ versioning:
+  versions:
+   version:
+   - '0.94'
+   - 1.1final
+

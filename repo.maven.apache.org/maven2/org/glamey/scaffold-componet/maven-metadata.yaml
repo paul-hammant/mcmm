@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.glamey
+ artifactId: scaffold-componet
+ versioning:
+  latest: 2.0.5
+  release: 2.0.5
+  versions:
+   version: 2.0.5
+  lastUpdated: '20160531113619'
+

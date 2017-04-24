@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Woden - converter Maven plugin
+   prefix: woden-converter
+   artifactId: woden-converter-maven-plugin
+

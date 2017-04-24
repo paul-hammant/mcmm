@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.sharegov
+ artifactId: mjson
+ versioning:
+  latest: 1.4.1
+  release: 1.4.1
+  versions:
+   version:
+   - '1.1'
+   - '1.2'
+   - '1.3'
+   - 1.4.0
+   - 1.4.1
+  lastUpdated: '20170227210313'
+

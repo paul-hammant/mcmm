@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.fusesource.mqtt-client
+ artifactId: mqtt-client
+ versioning:
+  latest: '1.14'
+  release: '1.14'
+  versions:
+   version:
+   - '1.13'
+   - '1.14'
+  lastUpdated: '20160531130751'
+

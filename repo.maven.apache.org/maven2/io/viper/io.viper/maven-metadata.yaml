@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.viper
+ artifactId: io.viper
+ versioning:
+  latest: '8'
+  release: '8'
+  versions:
+   version: '8'
+  lastUpdated: '20120318221823'
+

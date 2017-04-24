@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scf4j
+ artifactId: scf4j-core
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20120723155706'
+

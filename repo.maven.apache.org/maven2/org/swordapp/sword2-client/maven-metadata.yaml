@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.swordapp
+ artifactId: sword2-client
+ versioning:
+  latest: 0.9.3
+  release: 0.9.3
+  versions:
+   version: 0.9.3
+  lastUpdated: '20170302101754'
+

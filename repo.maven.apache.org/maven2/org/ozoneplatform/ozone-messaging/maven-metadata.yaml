@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ozoneplatform
+ artifactId: ozone-messaging
+ versioning:
+  latest: '1.19'
+  release: '1.19'
+  versions:
+   version: '1.19'
+  lastUpdated: '20150514150122'
+

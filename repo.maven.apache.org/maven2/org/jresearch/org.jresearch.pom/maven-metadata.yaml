@@ -1,0 +1,20 @@
+metadata:
+ groupId: org.jresearch
+ artifactId: org.jresearch.pom
+ versioning:
+  latest: '28'
+  release: '28'
+  versions:
+   version:
+   - '19'
+   - '20'
+   - '21'
+   - '22'
+   - '23'
+   - '24'
+   - '25'
+   - '26'
+   - '27'
+   - '28'
+  lastUpdated: '20161002020013'
+

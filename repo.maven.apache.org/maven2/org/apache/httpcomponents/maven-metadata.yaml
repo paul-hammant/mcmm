@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven NOTICE and LICENSE plugin
+   prefix: notice
+   artifactId: maven-notice-plugin
+

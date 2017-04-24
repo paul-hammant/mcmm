@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.jukito
+ artifactId: jukito-samples
+ versioning:
+  latest: '1.5'
+  release: '1.5'
+  versions:
+   version:
+   - '1.2'
+   - '1.3'
+   - '1.4'
+   - 1.4.1
+   - '1.5'
+  lastUpdated: '20170112220930'
+

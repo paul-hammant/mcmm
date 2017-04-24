@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.controlsjs
+ artifactId: controlsjs
+ versioning:
+  latest: 5.0.0
+  release: 5.0.0
+  versions:
+   version: 5.0.0
+  lastUpdated: '20140925131848'
+

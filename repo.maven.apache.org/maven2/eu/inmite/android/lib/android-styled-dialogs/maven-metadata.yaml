@@ -1,0 +1,17 @@
+metadata:
+ groupId: eu.inmite.android.lib
+ artifactId: android-styled-dialogs
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version:
+   - 0.5.7
+   - '1.0'
+   - 1.0.1
+   - '1.1'
+   - 1.1.1
+   - 1.1.2
+   - 1.2.0
+  lastUpdated: '20140717143415'
+

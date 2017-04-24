@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: solr-maven-plugin Maven Plugin
+   prefix: solr
+   artifactId: solr-maven-plugin
+

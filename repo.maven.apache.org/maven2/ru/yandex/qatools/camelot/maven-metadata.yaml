@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Camelot Test Maven Plugin
+   prefix: camelot-test
+   artifactId: camelot-test-maven-plugin
+

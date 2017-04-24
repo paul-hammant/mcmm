@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'OpenEngSB :: Tooling :: OpenEngSB-Maven-Plugin'
+   prefix: openengsb
+   artifactId: openengsb-maven-plugin
+  - name: 'OpenEngSB :: OpenEngSB-Maven-Plugin'
+   prefix: openengsb
+   artifactId: openengsb-maven-plugin
+  - name: OpenEngSB Maven Plugin
+   prefix: openengsb
+   artifactId: openengsb-maven-plugin
+

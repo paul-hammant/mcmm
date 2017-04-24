@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Coos-plugin-actor-archetype
+   prefix: coos-plugin-actor
+   artifactId: coos-plugin-actor
+  - name: Coos-plugin-noapi-archetype
+   prefix: coos-plugin-noapi
+   artifactId: coos-plugin-noapi
+  - name: Coos-plugin-api-archetype
+   prefix: coos-plugin-api
+   artifactId: coos-plugin-api
+

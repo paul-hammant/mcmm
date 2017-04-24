@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.alloyggp
+ artifactId: escape-rope
+ versioning:
+  latest: 0.0.5
+  release: 0.0.5
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+   - 0.0.3
+   - 0.0.4
+   - 0.0.5
+  lastUpdated: '20161024060102'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.vx68k
+ artifactId: pretty-permalink-filter
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '2.0'
+  lastUpdated: '20150110072109'
+

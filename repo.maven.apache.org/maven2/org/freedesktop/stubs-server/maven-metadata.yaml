@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.freedesktop
+ artifactId: stubs-server
+ versioning:
+  latest: 1.5.1
+  release: 1.5.1
+  versions:
+   version:
+   - 1.5.0
+   - 1.5.1
+  lastUpdated: '20161113220159'
+

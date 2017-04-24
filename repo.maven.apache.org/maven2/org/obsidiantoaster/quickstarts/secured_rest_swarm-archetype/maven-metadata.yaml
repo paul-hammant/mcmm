@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.obsidiantoaster.quickstarts
+ artifactId: secured_rest_swarm-archetype
+ versioning:
+  latest: 1.0.0.Alpha2
+  release: 1.0.0.Alpha2
+  versions:
+   version: 1.0.0.Alpha2
+  lastUpdated: '20170213153854'
+

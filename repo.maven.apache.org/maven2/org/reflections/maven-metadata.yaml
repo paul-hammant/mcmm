@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Reflections Maven plugin
+   prefix: reflections
+   artifactId: reflections-maven
+

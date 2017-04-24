@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.cache2k
+ artifactId: cache2k-xml-config
+ versioning:
+  latest: 0.28-BETA
+  release: 0.28-BETA
+  versions:
+   version:
+   - 0.24-BETA
+   - 0.25-BETA
+   - 0.26-BETA
+   - 0.27-BETA
+   - 0.28-BETA
+  lastUpdated: '20160902125239'
+

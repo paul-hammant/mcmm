@@ -1,0 +1,14 @@
+metadata:
+ groupId: se.vgregion.daoframework
+ artifactId: dao-framework-system
+ versioning:
+  latest: '3.5'
+  release: '3.5'
+  versions:
+   version:
+   - '3.2'
+   - '3.3'
+   - '3.4'
+   - '3.5'
+  lastUpdated: '20110909085345'
+

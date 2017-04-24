@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.tranql
+ artifactId: tranql-connector-db2-local
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20100817082350'
+

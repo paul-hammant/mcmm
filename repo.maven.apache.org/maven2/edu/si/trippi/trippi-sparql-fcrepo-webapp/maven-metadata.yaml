@@ -1,0 +1,13 @@
+metadata:
+ groupId: edu.si.trippi
+ artifactId: trippi-sparql-fcrepo-webapp
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - 0.4.4
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20170228223656'
+

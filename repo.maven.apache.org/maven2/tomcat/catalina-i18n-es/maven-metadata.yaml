@@ -1,0 +1,11 @@
+metadata:
+ groupId: tomcat
+ artifactId: catalina-i18n-es
+ version: 5.0.16
+ versioning:
+  versions:
+   version:
+   - 5.0.16
+   - 5.0.18
+   - 5.0.28
+

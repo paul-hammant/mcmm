@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Archetype - tynamo-archetype
+   prefix: tynamo-archetype
+   artifactId: tynamo-archetype
+

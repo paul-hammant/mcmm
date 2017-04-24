@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sourceforge.xsparql
+ artifactId: xsparql-rewriter
+ versioning:
+  latest: '20140722'
+  release: '20140722'
+  versions:
+   version: '20140722'
+  lastUpdated: '20140728125746'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.legal
+ artifactId: legal-asl-resources
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20120727095246'
+

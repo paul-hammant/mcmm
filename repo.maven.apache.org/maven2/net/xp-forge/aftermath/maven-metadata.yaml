@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.xp-forge
+ artifactId: aftermath
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version: 2.0.0
+  lastUpdated: '20130314171202'
+

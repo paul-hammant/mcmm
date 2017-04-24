@@ -1,0 +1,13 @@
+metadata:
+ groupId: asm
+ artifactId: kasm
+ version: 1.3.5
+ versioning:
+  versions:
+   version:
+   - 1.3.5
+   - 1.5.1
+   - 1.5.2
+   - 1.5.3
+   - '20041228.180559'
+

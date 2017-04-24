@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: buildversion-plugin
+   prefix: buildversion
+   artifactId: buildversion-plugin
+

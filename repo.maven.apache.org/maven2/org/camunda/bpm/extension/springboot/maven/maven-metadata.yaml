@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: camunda-bpm-spring-boot-webjar
+   artifactId: camunda-bpm-spring-boot-webjar-maven-plugin
+

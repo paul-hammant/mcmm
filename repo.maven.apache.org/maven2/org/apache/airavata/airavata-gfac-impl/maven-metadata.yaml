@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.airavata
+ artifactId: airavata-gfac-impl
+ versioning:
+  latest: '0.16'
+  release: '0.16'
+  versions:
+   version: '0.16'
+  lastUpdated: '20160718044430'
+

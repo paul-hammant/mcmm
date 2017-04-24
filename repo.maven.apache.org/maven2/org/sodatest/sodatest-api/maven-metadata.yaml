@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sodatest
+ artifactId: sodatest-api
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version: 0.2.1
+  lastUpdated: '20111219100942'
+

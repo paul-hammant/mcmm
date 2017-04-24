@@ -1,0 +1,18 @@
+metadata:
+ groupId: tranql
+ artifactId: tranql-connector
+ version: 1.0-M3
+ versioning:
+  versions:
+   version:
+   - 1.0-M3
+   - 1.0-20050716
+   - 1.0-20050923.013917
+   - 1.0-20050923.014245
+   - '1.0'
+   - 1.0-20050908.003749
+   - 1.0-20050923.013739
+   - 1.0-20050923.014111
+   - 1.0-M2
+   - '1.1'
+

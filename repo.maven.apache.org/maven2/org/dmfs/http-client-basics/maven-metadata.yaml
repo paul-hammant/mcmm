@@ -1,0 +1,21 @@
+metadata:
+ groupId: org.dmfs
+ artifactId: http-client-basics
+ versioning:
+  latest: 0.10.3
+  release: 0.10.3
+  versions:
+   version:
+   - '0.6'
+   - 0.6.1
+   - 0.6.2
+   - '0.7'
+   - '0.8'
+   - '0.9'
+   - 0.9.1
+   - '0.10'
+   - 0.10.1
+   - 0.10.2
+   - 0.10.3
+  lastUpdated: '20170406135114'
+

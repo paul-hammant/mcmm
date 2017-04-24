@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: de.ebf:oneskyapp-maven-plugin
+   prefix: oneskyapp
+   artifactId: oneskyapp-maven-plugin
+

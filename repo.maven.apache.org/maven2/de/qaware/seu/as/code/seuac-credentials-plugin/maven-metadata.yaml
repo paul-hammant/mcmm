@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.qaware.seu.as.code
+ artifactId: seuac-credentials-plugin
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version: 2.0.1
+  lastUpdated: '20150815114020'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Artifact Lookup/Search Maven Plugin
+   prefix: artifact-lookup
+   artifactId: artifact-lookup-maven-plugin
+

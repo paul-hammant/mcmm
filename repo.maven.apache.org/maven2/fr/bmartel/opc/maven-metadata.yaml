@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.bmartel
+ artifactId: opc
+ versioning:
+  latest: '1.08'
+  release: '1.08'
+  versions:
+   version: '1.08'
+  lastUpdated: '20170112135817'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.hudsonci.plugins
+ artifactId: disk-usage
+ versioning:
+  latest: 0.19-h-1
+  release: 0.19-h-1
+  versions:
+   version:
+   - 0.17-h-1
+   - 0.19-h-1
+  lastUpdated: '20130402192744'
+

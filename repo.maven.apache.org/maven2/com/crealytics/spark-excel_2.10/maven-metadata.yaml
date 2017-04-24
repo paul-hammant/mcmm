@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.crealytics
+ artifactId: spark-excel_2.10
+ versioning:
+  latest: 0.8.3
+  release: 0.8.3
+  versions:
+   version:
+   - 0.8.2
+   - 0.8.3
+  lastUpdated: '20170323163142'
+

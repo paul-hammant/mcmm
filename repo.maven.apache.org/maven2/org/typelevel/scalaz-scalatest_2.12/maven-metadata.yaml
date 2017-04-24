@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.typelevel
+ artifactId: scalaz-scalatest_2.12
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 0.5.1
+   - 0.5.2
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20170219015037'
+

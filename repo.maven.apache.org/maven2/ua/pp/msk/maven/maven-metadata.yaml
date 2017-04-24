@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Dependency publish maven pluing
+   prefix: dependency-publish
+   artifactId: dependency-publish-maven-plugin
+

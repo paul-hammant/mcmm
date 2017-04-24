@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-autotag-plugin Maven Mojo
+   prefix: autotag
+   artifactId: maven-autotag-plugin
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: poi
+ artifactId: poi-contrib-2.0-final
+ version: '20040126'
+ versioning:
+  versions:
+   version: '20040126'
+

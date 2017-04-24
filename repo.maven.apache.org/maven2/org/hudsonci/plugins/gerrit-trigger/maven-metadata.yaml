@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.hudsonci.plugins
+ artifactId: gerrit-trigger
+ versioning:
+  latest: 2.5.3-h-2
+  release: 2.5.3-h-2
+  versions:
+   version:
+   - 2.5.3-h-1
+   - 2.5.3-h-2
+  lastUpdated: '20150326073720'
+

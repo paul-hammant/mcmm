@@ -1,0 +1,8 @@
+metadata:
+ groupId: code316
+ artifactId: code316-core
+ version: '0.8'
+ versioning:
+  versions:
+   version: '0.8'
+

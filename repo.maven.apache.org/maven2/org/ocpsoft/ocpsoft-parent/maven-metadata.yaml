@@ -1,0 +1,18 @@
+metadata:
+ groupId: org.ocpsoft
+ artifactId: ocpsoft-parent
+ versioning:
+  latest: '14'
+  release: '14'
+  versions:
+   version:
+   - '3'
+   - '4'
+   - '5'
+   - '6'
+   - '8'
+   - '9'
+   - '10'
+   - '14'
+  lastUpdated: '20160819062306'
+

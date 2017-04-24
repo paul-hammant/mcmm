@@ -1,0 +1,13 @@
+metadata:
+ groupId: groovy
+ artifactId: groovy-1.0-jsr
+ version: '01'
+ versioning:
+  versions:
+   version:
+   - '01'
+   - '02'
+   - '03'
+   - '04'
+   - '05'
+

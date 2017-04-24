@@ -1,0 +1,12 @@
+metadata:
+ groupId: at.newmedialab.ldpath
+ artifactId: ldpath-core-bundle
+ versioning:
+  latest: 0.9.7
+  release: 0.9.7
+  versions:
+   version:
+   - 0.9.5
+   - 0.9.7
+  lastUpdated: '20120323131634'
+

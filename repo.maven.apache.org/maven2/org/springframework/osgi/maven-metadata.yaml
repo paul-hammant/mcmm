@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Spring OSGi Archetype
+   prefix: spring-osgi-bundle-archetype
+   artifactId: spring-osgi-bundle-archetype
+

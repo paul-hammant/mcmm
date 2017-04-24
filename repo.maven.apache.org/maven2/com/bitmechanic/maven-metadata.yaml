@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Barrister RPC Maven Plugin
+   prefix: barrister
+   artifactId: barrister-maven-plugin
+

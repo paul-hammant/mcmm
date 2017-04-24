@@ -1,0 +1,16 @@
+metadata:
+ groupId: fr.manastria
+ artifactId: jUtilities
+ versioning:
+  latest: 1.0.3
+  release: 1.0.3
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.4
+   - 0.0.11
+   - 1.0.0
+   - 1.0.2
+   - 1.0.3
+  lastUpdated: '20151209093009'
+

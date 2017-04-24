@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.choco-solver
+ artifactId: choco-geost
+ versioning:
+  latest: 3.3.2
+  release: 3.3.2
+  versions:
+   version:
+   - 3.3.0
+   - 3.3.2
+  lastUpdated: '20151218133857'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.sourceforge.openutils
+ artifactId: openutils-testing4web
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - 1.2.1
+  lastUpdated: '20101207082616'
+

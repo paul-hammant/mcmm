@@ -1,0 +1,10 @@
+metadata:
+ groupId: hu.inbuss
+ artifactId: thymeleaf-jersey
+ versioning:
+  latest: 0.0.9
+  release: 0.0.9
+  versions:
+   version: 0.0.9
+  lastUpdated: '20161004153928'
+

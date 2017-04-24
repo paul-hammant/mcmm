@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: i18split-maven-plugin Maven Mojo
+   prefix: i18split
+   artifactId: i18split-maven-plugin
+

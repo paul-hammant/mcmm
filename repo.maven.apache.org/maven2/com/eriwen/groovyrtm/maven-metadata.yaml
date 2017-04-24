@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.eriwen
+ artifactId: groovyrtm
+ versioning:
+  latest: 2.1.2
+  release: 2.1.2
+  versions:
+   version:
+   - 2.1.1
+   - 2.1.2
+  lastUpdated: '20120729225523'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.tesla.aether.test
+ artifactId: aether-test-harness
+ versioning:
+  latest: 0.5.1
+  release: 0.5.1
+  versions:
+   version:
+   - 0.5.0
+   - 0.5.1
+  lastUpdated: '20130429182648'
+

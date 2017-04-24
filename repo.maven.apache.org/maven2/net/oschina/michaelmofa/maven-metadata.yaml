@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: rd-maven-plugin Maven Plugin
+   prefix: rd
+   artifactId: rd-maven-plugin
+  - name: zip-maven-plugin Maven Mojo
+   prefix: zip
+   artifactId: zip-maven-plugin
+

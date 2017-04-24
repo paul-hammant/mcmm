@@ -1,0 +1,8 @@
+metadata:
+ groupId: javax.persistence
+ artifactId: ejb-3.0-public-draft
+ version: '20050623'
+ versioning:
+  versions:
+   version: '20050623'
+

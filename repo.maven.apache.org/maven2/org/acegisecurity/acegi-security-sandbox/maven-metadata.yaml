@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.acegisecurity
+ artifactId: acegi-security-sandbox
+ version: 1.0.2
+ versioning:
+  versions:
+   version: 1.0.2
+  lastUpdated: '20061004220335'
+

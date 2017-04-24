@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.solovyev.android.views
+ artifactId: linear-layout-manager
+ versioning:
+  latest: '0.5'
+  release: '0.5'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - '0.3'
+   - '0.5'
+  lastUpdated: '20150720083756'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.daviddenton
+ artifactId: databob_2.12
+ versioning:
+  latest: 1.6.0
+  release: 1.6.0
+  versions:
+   version: 1.6.0
+  lastUpdated: '20161117092342'
+

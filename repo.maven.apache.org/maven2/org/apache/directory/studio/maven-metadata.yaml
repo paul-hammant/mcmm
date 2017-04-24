@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Apache Directory Studio Plugin
+   prefix: studio
+   artifactId: maven-studio-plugin
+  - name: Apache Directory Studio Plugin
+   prefix: studio
+   artifactId: studio-maven-plugin
+

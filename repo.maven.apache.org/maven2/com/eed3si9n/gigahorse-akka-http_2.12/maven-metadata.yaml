@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.eed3si9n
+ artifactId: gigahorse-akka-http_2.12
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version: 0.2.0
+  lastUpdated: '20170109115035'
+

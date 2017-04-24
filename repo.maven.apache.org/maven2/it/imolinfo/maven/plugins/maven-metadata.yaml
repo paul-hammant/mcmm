@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JBoss Fuse Maven Plugin
+   prefix: jboss-fuse
+   artifactId: jboss-fuse-maven-plugin
+

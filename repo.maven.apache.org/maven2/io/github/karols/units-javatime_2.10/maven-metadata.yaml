@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.karols
+ artifactId: units-javatime_2.10
+ versioning:
+  latest: 0.2.2
+  release: 0.2.2
+  versions:
+   version: 0.2.2
+  lastUpdated: '20161228233206'
+

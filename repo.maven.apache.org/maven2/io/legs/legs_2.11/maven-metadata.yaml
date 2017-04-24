@@ -1,0 +1,15 @@
+metadata:
+ groupId: io.legs
+ artifactId: legs_2.11
+ versioning:
+  latest: 0.8.4.2
+  release: 0.8.4.2
+  versions:
+   version:
+   - '0.8'
+   - 0.8.1
+   - 0.8.3
+   - 0.8.4.1
+   - 0.8.4.2
+  lastUpdated: '20141101164031'
+

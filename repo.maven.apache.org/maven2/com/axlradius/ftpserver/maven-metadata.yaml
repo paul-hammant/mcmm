@@ -1,0 +1,7 @@
+metadata:
+ groupId: com.axlradius
+ artifactId: ftpserver
+ versioning:
+  versions:
+   version: '3.09'
+

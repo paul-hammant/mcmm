@@ -1,0 +1,12 @@
+metadata:
+ groupId: ro.go.kpaxplanet
+ artifactId: jsonpersister
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 1.0.0-RELEASE
+   - 1.0.1
+  lastUpdated: '20150203090648'
+

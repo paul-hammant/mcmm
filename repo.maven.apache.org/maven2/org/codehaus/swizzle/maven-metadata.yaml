@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Dependency Report Plugin
+   prefix: dependency-report
+   artifactId: dependency-report-plugin
+

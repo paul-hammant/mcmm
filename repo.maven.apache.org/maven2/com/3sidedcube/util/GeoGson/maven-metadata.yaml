@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.3sidedcube.util
+ artifactId: GeoGson
+ versioning:
+  latest: '1.6'
+  release: '1.6'
+  versions:
+   version:
+   - '1.5'
+   - '1.6'
+  lastUpdated: '20160512131443'
+

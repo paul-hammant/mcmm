@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.gaixie.json
+ artifactId: json
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20120605073545'
+

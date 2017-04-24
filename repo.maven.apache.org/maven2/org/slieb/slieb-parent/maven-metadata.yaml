@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.slieb
+ artifactId: slieb-parent
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20170324095558'
+

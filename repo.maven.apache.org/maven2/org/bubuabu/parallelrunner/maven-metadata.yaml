@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: parallel-runner-plugin Maven Mojo
+   prefix: parallel-runner
+   artifactId: parallel-runner-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.devfigas
+ artifactId: marshmallow-permission
+ versioning:
+  latest: 0.0.9
+  release: 0.0.9
+  versions:
+   version:
+   - 0.0.3
+   - 0.0.9
+  lastUpdated: '20160104171903'
+

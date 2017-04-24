@@ -1,0 +1,13 @@
+metadata:
+ groupId: it.unitn.disi
+ artifactId: s-match
+ versioning:
+  latest: 0.9.21
+  release: 0.9.21
+  versions:
+   version:
+   - 0.9.12
+   - 0.9.19
+   - 0.9.21
+  lastUpdated: '20130924164620'
+

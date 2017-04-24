@@ -1,0 +1,11 @@
+metadata:
+ groupId: jruby
+ artifactId: jruby-bin
+ versioning:
+  versions:
+   version:
+   - 0.9.1
+   - 0.9.0
+   - 0.9.8
+   - 0.9.9
+

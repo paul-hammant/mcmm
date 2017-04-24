@@ -1,0 +1,10 @@
+metadata:
+ groupId: be.redlab.jaxb
+ artifactId: swagger-jaxb
+ versioning:
+  latest: '1.5'
+  release: '1.5'
+  versions:
+   version: '1.5'
+  lastUpdated: '20170210145642'
+

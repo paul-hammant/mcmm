@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.api-typeable-pojos
+ artifactId: atp-api
+ versioning:
+  latest: 0.6.1
+  release: 0.6.1
+  versions:
+   version:
+   - '0.6'
+   - 0.6.1
+  lastUpdated: '20101004010758'
+

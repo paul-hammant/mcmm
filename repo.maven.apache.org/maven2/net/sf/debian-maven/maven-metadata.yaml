@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Debian Maven Plugin
+   prefix: deb
+   artifactId: debian-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.clapper
+ artifactId: grizzled-slf4j_2.12
+ versioning:
+  latest: 1.3.0
+  release: 1.3.0
+  versions:
+   version: 1.3.0
+  lastUpdated: '20161103232958'
+

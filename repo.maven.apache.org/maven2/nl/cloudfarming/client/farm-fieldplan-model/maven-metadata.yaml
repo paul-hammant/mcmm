@@ -1,0 +1,12 @@
+metadata:
+ groupId: nl.cloudfarming.client
+ artifactId: farm-fieldplan-model
+ versioning:
+  latest: 1.0.21
+  release: 1.0.21
+  versions:
+   version:
+   - 1.0.20
+   - 1.0.21
+  lastUpdated: '20120226224942'
+

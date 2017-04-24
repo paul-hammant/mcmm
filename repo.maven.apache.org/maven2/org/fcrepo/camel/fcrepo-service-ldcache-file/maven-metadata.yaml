@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.fcrepo.camel
+ artifactId: fcrepo-service-ldcache-file
+ versioning:
+  latest: 4.7.2
+  release: 4.7.2
+  versions:
+   version:
+   - 4.6.0
+   - 4.6.1
+   - 4.6.2
+   - 4.7.0
+   - 4.7.1
+   - 4.7.2
+  lastUpdated: '20170303192127'
+

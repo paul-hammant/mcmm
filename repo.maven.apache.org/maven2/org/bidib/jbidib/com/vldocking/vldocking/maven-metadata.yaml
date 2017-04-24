@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.bidib.jbidib.com.vldocking
+ artifactId: vldocking
+ versioning:
+  latest: 3.0.4
+  release: 3.0.4
+  versions:
+   version:
+   - 3.0.2
+   - 3.0.3
+   - 3.0.4
+  lastUpdated: '20140708053305'
+

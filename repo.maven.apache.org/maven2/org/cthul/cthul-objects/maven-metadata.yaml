@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.cthul
+ artifactId: cthul-objects
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - 1.1.0
+   - '1.2'
+  lastUpdated: '20151123201648'
+

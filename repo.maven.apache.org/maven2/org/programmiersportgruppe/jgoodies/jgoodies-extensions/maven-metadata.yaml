@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.programmiersportgruppe.jgoodies
+ artifactId: jgoodies-extensions
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20150326005407'
+

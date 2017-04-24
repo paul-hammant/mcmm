@@ -1,0 +1,16 @@
+metadata:
+ groupId: net.gotev
+ artifactId: recycleradapter
+ versioning:
+  latest: 1.5.2
+  release: 1.5.2
+  versions:
+   version:
+   - 1.0.2
+   - 1.0.3
+   - 1.0.4
+   - '1.4'
+   - '1.5'
+   - 1.5.2
+  lastUpdated: '20170129103728'
+

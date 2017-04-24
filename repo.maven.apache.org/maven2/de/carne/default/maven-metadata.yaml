@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.carne
+ artifactId: default
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version:
+   - '1'
+   - '2'
+  lastUpdated: '20170129125627'
+

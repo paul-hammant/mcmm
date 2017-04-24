@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.oncoblocks.centromere
+ artifactId: centromere-core
+ versioning:
+  latest: 0.4.2
+  release: 0.4.2
+  versions:
+   version:
+   - 0.3.0
+   - 0.4.0
+   - 0.4.1
+   - 0.4.2
+  lastUpdated: '20160720195632'
+

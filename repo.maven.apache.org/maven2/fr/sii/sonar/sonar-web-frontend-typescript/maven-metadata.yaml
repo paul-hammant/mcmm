@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.sii.sonar
+ artifactId: sonar-web-frontend-typescript
+ versioning:
+  latest: 2.1.0
+  release: 2.1.0
+  versions:
+   version: 2.1.0
+  lastUpdated: '20160606131602'
+

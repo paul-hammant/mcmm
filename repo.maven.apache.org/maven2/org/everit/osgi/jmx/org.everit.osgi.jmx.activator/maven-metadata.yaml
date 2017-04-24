@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.everit.osgi.jmx
+ artifactId: org.everit.osgi.jmx.activator
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20160422060815'
+

@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.togglz
+ artifactId: togglz-spring-core
+ versioning:
+  latest: 2.4.1.Final
+  release: 2.4.1.Final
+  versions:
+   version:
+   - 2.2.0.Final
+   - 2.3.0.RC1
+   - 2.3.0.RC2
+   - 2.3.0.Final
+   - 2.4.0.RC1
+   - 2.4.0.Final
+   - 2.4.1.Final
+  lastUpdated: '20170308133950'
+

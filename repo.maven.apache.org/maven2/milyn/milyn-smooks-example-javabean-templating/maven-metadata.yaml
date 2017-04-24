@@ -1,0 +1,7 @@
+metadata:
+ groupId: milyn
+ artifactId: milyn-smooks-example-javabean-templating
+ versioning:
+  versions:
+   version: '1.0'
+

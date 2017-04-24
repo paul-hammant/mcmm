@@ -1,0 +1,14 @@
+metadata:
+ groupId: co.cask.cdap
+ artifactId: cdap-tms
+ versioning:
+  latest: 4.1.1
+  release: 4.1.1
+  versions:
+   version:
+   - 4.0.0
+   - 4.0.1
+   - 4.1.0
+   - 4.1.1
+  lastUpdated: '20170417184026'
+

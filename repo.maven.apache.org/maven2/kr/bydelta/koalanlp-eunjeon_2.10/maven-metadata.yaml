@@ -1,0 +1,10 @@
+metadata:
+ groupId: kr.bydelta
+ artifactId: koalanlp-eunjeon_2.10
+ versioning:
+  latest: 1.5.1
+  release: 1.5.1
+  versions:
+   version: 1.5.1
+  lastUpdated: '20170421184824'
+

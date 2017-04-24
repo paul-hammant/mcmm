@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bidib.com.surelogic
+ artifactId: promises
+ versioning:
+  latest: 5.6.0
+  release: 5.6.0
+  versions:
+   version: 5.6.0
+  lastUpdated: '20170217101912'
+

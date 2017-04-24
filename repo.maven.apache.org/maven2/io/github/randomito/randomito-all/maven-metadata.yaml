@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.github.randomito
+ artifactId: randomito-all
+ versioning:
+  latest: 1.0.0-alpha2
+  release: 1.0.0-alpha2
+  versions:
+   version:
+   - 1.0.0-alpha1
+   - 1.0.0-alpha2
+  lastUpdated: '20170422191727'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.devivo
+ artifactId: gen_java
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+  lastUpdated: '20141210174942'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eclipse.neoscada.hmi
+ artifactId: org.eclipse.scada.da.ui.widgets
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version: 0.2.1
+  lastUpdated: '20161026205217'
+

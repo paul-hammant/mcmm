@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.htmlparser.jericho
+ artifactId: jericho-html
+ versioning:
+  latest: '3.4'
+  release: '3.4'
+  versions:
+   version:
+   - '3.3'
+   - '3.4'
+  lastUpdated: '20151025044416'
+

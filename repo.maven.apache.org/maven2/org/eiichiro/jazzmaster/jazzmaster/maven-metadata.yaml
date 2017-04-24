@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.eiichiro.jazzmaster
+ artifactId: jazzmaster
+ versioning:
+  latest: 2.0-rc1
+  release: 2.0-rc1
+  versions:
+   version:
+   - 1.4.0
+   - 1.5.0
+   - 1.5.1
+   - 1.6.0
+   - 1.6.1
+   - 2.0-rc1
+  lastUpdated: '20120512170232'
+

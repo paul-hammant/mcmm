@@ -1,0 +1,8 @@
+metadata:
+ groupId: westhawk
+ artifactId: snmp
+ version: '4_13'
+ versioning:
+  versions:
+   version: '4_13'
+

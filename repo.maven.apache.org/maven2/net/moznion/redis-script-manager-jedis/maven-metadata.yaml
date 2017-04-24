@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.moznion
+ artifactId: redis-script-manager-jedis
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version:
+   - 0.0.1
+   - 0.1.0
+  lastUpdated: '20160511035407'
+

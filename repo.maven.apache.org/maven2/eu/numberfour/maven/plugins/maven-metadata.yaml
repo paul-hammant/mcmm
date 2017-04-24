@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: File Listing Plugin
+   prefix: file-list
+   artifactId: file-list-maven-plugin
+  - name: jscoverage to Cobertura XML Plugin
+   prefix: jscoverage-cobertura
+   artifactId: jscoverage-cobertura-maven-plugin
+

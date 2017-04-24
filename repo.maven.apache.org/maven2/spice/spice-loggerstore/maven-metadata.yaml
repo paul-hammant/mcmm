@@ -1,0 +1,12 @@
+metadata:
+ groupId: spice
+ artifactId: spice-loggerstore
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - 1.1-dev
+   - 1.0-b3
+

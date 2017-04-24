@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.vootoo
+ artifactId: vootoo-client
+ versioning:
+  latest: 0.5.2
+  release: 0.5.2
+  versions:
+   version:
+   - 0.4.0
+   - 0.4.1
+   - 0.5.0
+   - 0.5.1
+   - 0.5.2
+  lastUpdated: '20170101122130'
+

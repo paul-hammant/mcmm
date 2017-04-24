@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.kitei.internal
+ artifactId: kitei-policy
+ versioning:
+  latest: '6'
+  release: '6'
+  versions:
+   version:
+   - '1'
+   - '2'
+   - '3'
+   - '4'
+   - '5'
+   - '6'
+  lastUpdated: '20160616002415'
+

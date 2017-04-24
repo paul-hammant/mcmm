@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.gatein
+ artifactId: gatein-dep-all
+ versioning:
+  latest: 1.2.0.Alpha02
+  release: 1.2.0.Alpha02
+  versions:
+   version:
+   - 1.2.0.Alpha01
+   - 1.2.0.Alpha02
+  lastUpdated: '20120904203510'
+

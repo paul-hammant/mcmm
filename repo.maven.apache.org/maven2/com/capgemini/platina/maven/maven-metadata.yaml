@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: AspectJ compiler Maven Plugin
+   prefix: aspectj
+   artifactId: aspectj-maven-plugin
+  - name: Maven Release Plugin
+   prefix: release
+   artifactId: maven-release-plugin
+

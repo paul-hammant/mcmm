@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.commonjava.rwx
+ artifactId: rwx-experimental
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '0.3'
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20161017173541'
+

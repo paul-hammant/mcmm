@@ -1,0 +1,10 @@
+metadata:
+ groupId: be.cetic
+ artifactId: tsimulus_2.11
+ versioning:
+  latest: 0.1.14
+  release: 0.1.14
+  versions:
+   version: 0.1.14
+  lastUpdated: '20170102110716'
+

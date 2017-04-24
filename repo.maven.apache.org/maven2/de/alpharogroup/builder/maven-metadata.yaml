@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.alpharogroup
+ artifactId: builder
+ versioning:
+  latest: 4.9.0
+  release: 4.9.0
+  versions:
+   version: 4.9.0
+  lastUpdated: '20170419090012'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-svuid-plugin
+   prefix: svuid
+   artifactId: maven-svuid-plugin
+

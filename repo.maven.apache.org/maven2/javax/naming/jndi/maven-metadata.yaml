@@ -1,0 +1,8 @@
+metadata:
+ groupId: javax.naming
+ artifactId: jndi
+ version: 1.2.1
+ versioning:
+  versions:
+   version: 1.2.1
+

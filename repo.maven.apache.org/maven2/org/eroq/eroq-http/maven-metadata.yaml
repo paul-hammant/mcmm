@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eroq
+ artifactId: eroq-http
+ versioning:
+  latest: 0.1.1-RELEASE
+  release: 0.1.1-RELEASE
+  versions:
+   version: 0.1.1-RELEASE
+  lastUpdated: '20160118191736'
+

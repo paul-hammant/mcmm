@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.actelion.research
+ artifactId: lib-orbit-common
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.0.8
+   - 1.0.9
+   - 1.0.10
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20170316145636'
+

@@ -1,0 +1,19 @@
+metadata:
+ groupId: com.adrianhurt
+ artifactId: play-bootstrap_2.11
+ versioning:
+  latest: 1.1-P25-B4
+  release: 1.1-P25-B4
+  versions:
+   version:
+   - 1.0-P23-B3
+   - 1.0-P24-B3
+   - 1.0-P24-B4
+   - 1.0-P25-B3
+   - 1.0-P25-B4
+   - 1.1-P24-B3
+   - 1.1-P24-B4
+   - 1.1-P25-B3
+   - 1.1-P25-B4
+  lastUpdated: '20160828190640'
+

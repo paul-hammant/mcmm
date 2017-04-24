@@ -1,0 +1,10 @@
+metadata:
+ groupId: cewolf
+ artifactId: cewolf
+ versioning:
+  latest: 1.2.4-java7
+  release: 1.2.4-java7
+  versions:
+   version: 1.2.4-java7
+  lastUpdated: '20170105181213'
+

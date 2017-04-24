@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.axis
+ artifactId: axis-jaxrpc
+ version: '1.4'
+ versioning:
+  versions:
+   version: '1.4'
+  lastUpdated: '20060423051742'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: property-loader-plugin
+   prefix: property-loader
+   artifactId: property-loader-plugin
+

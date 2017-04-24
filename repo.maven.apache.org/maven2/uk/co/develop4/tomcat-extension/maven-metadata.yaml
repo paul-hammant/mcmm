@@ -1,0 +1,12 @@
+metadata:
+ groupId: uk.co.develop4
+ artifactId: tomcat-extension
+ versioning:
+  latest: 0.5.1
+  release: 0.5.1
+  versions:
+   version:
+   - 0.3.0
+   - 0.5.1
+  lastUpdated: '20170403234012'
+

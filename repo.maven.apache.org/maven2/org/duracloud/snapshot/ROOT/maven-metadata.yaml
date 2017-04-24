@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.duracloud.snapshot
+ artifactId: ROOT
+ versioning:
+  latest: 1.7.5
+  release: 1.7.5
+  versions:
+   version:
+   - 1.7.4
+   - 1.7.5
+  lastUpdated: '20170215224636'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.brandao
+ artifactId: brutos-core
+ versioning:
+  latest: 2.0-rc1
+  release: 2.0-rc1
+  versions:
+   version:
+   - 2.0-b5
+   - 2.0-rc1
+  lastUpdated: '20150701001603'
+

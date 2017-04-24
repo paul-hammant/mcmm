@@ -1,0 +1,11 @@
+metadata:
+ groupId: jetty
+ artifactId: jsp
+ version: 2.1-6.0.0beta14
+ versioning:
+  versions:
+   version:
+   - 2.1-6.0.0beta14
+   - 2.1-6.0.0beta15
+   - 2.1-6.0.0beta16
+

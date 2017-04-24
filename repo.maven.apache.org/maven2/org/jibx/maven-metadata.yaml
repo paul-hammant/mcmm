@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven JiBX Plugin
+   prefix: jibx
+   artifactId: jibx-maven-plugin
+  - name: Maven JiBX Plugin
+   prefix: jibx
+   artifactId: maven-jibx-plugin
+

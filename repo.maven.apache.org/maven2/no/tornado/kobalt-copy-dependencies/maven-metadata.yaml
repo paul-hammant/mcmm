@@ -1,0 +1,10 @@
+metadata:
+ groupId: no.tornado
+ artifactId: kobalt-copy-dependencies
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version: '0.2'
+  lastUpdated: '20151214072553'
+

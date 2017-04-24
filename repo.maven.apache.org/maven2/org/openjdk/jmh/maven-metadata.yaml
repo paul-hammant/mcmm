@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JMH Generator Maven Plugin
+   prefix: jmh-generator
+   artifactId: jmh-generator-maven-plugin
+

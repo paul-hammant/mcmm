@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.aicer
+ artifactId: oss-pom-java-app
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version: '2'
+  lastUpdated: '20140217050204'
+

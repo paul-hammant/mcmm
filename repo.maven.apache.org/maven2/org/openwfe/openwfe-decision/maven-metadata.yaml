@@ -1,0 +1,8 @@
+metadata:
+ groupId: org.openwfe
+ artifactId: openwfe-decision
+ version: 1.7.1pre7
+ versioning:
+  versions:
+   version: 1.7.1pre7
+

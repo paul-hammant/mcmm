@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SeimiCrawler Package Plugin
+   prefix: seimicrawler
+   artifactId: maven-seimicrawler-plugin
+

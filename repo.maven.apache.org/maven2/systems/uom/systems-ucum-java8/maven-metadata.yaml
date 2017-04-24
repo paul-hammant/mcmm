@@ -1,0 +1,10 @@
+metadata:
+ groupId: systems.uom
+ artifactId: systems-ucum-java8
+ versioning:
+  latest: '0.7'
+  release: '0.7'
+  versions:
+   version: '0.7'
+  lastUpdated: '20170408003403'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: MAven FItnesse Adaptor
+   prefix: mafia
+   artifactId: mafia-maven-plugin
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: maven
+ artifactId: wagon-provider-parent
+ version: 1.0-alpha-1
+ versioning:
+  versions:
+   version: 1.0-alpha-1
+

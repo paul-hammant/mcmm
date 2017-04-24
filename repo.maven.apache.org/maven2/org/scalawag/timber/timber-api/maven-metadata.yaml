@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scalawag.timber
+ artifactId: timber-api
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version: 0.4.0
+  lastUpdated: '20140429151556'
+

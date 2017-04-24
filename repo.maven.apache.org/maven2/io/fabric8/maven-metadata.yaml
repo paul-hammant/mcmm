@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Fabric8 :: Swagger Maven Plugins'
+   prefix: fabric-cxfs
+   artifactId: fabric-cxf-plugins
+  - name: 'Fabric8 :: Maven Plugin'
+   prefix: fabric8
+   artifactId: fabric8-maven-plugin
+

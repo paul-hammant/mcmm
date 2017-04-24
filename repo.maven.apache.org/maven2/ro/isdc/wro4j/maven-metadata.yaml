@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: wro4j maven plugin
+   prefix: wro4j
+   artifactId: wro4j-maven-plugin
+

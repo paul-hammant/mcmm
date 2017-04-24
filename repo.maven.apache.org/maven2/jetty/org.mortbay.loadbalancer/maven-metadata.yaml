@@ -1,0 +1,8 @@
+metadata:
+ groupId: jetty
+ artifactId: org.mortbay.loadbalancer
+ version: 5.0.RC0
+ versioning:
+  versions:
+   version: 5.0.RC0
+

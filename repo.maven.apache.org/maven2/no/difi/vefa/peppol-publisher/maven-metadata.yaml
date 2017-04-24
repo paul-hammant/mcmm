@@ -1,0 +1,10 @@
+metadata:
+ groupId: no.difi.vefa
+ artifactId: peppol-publisher
+ versioning:
+  latest: 0.9.8
+  release: 0.9.8
+  versions:
+   version: 0.9.8
+  lastUpdated: '20170323154806'
+

@@ -1,0 +1,17 @@
+metadata:
+ groupId: io.ifar.skid-road
+ artifactId: skid-road
+ versioning:
+  latest: '9'
+  release: '9'
+  versions:
+   version:
+   - '3'
+   - '4'
+   - '4.1'
+   - '6'
+   - '7'
+   - '8'
+   - '9'
+  lastUpdated: '20150324171530'
+

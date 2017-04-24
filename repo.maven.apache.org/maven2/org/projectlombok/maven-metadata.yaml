@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Lombok Maven Plugin
+   prefix: lombok
+   artifactId: lombok-maven-plugin
+  - name: Maven Lombok Plugin
+   prefix: lombok
+   artifactId: maven-lombok-plugin
+

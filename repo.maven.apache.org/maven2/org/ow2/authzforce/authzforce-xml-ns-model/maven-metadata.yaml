@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.authzforce
+ artifactId: authzforce-xml-ns-model
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version: '1.2'
+  lastUpdated: '20151025005756'
+

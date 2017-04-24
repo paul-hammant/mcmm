@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.secodo.besecurefirewall
+ artifactId: besecurefirewall
+ versioning:
+  latest: 1.0-RC2
+  release: 1.0-RC2
+  versions:
+   version: 1.0-RC2
+  lastUpdated: '20170105075819'
+

@@ -1,0 +1,22 @@
+metadata:
+ groupId: org.opencms
+ artifactId: org.opencms.workplace.tools.accounts
+ versioning:
+  latest: 10.5.1
+  release: 10.5.1
+  versions:
+   version:
+   - 8.0.3
+   - 8.0.3-rev
+   - 9.0.0
+   - 9.0.1
+   - 9.5.0
+   - 9.5.1
+   - 9.5.2
+   - 9.5.3
+   - 10.0.0
+   - 10.0.1
+   - 10.5.0
+   - 10.5.1
+  lastUpdated: '20170215153517'
+

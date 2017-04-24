@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.scalaz
+ artifactId: scalaz-xml_2.12.0-M1
+ versioning:
+  latest: 7.1.4
+  release: 7.1.4
+  versions:
+   version:
+   - 7.0.7
+   - 7.0.8
+   - 7.1.2
+   - 7.1.4
+  lastUpdated: '20150918161401'
+

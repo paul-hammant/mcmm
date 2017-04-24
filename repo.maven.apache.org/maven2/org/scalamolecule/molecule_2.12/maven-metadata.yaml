@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scalamolecule
+ artifactId: molecule_2.12
+ versioning:
+  latest: 0.10.2
+  release: 0.10.2
+  versions:
+   version:
+   - 0.10.1
+   - 0.10.2
+  lastUpdated: '20170418185205'
+

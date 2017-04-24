@@ -1,0 +1,19 @@
+metadata:
+ groupId: fr.smallcrew.foundation
+ artifactId: smallcrew-pom
+ versioning:
+  latest: '9'
+  release: '9'
+  versions:
+   version:
+   - '1'
+   - 1.0.2
+   - '2'
+   - '3'
+   - '4'
+   - '5'
+   - '6'
+   - '7'
+   - '9'
+  lastUpdated: '20130317221646'
+

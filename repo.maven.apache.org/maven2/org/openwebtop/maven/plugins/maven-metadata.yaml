@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-precheck-plugin
+   prefix: precheck
+   artifactId: maven-precheck-plugin
+

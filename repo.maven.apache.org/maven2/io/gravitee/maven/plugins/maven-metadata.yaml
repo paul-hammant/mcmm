@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JSON Schema generator Maven plugin
+   prefix: json-schema-generator
+   artifactId: json-schema-generator-maven-plugin
+

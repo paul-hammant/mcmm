@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.dentrassi.eclipse.neoscada.core
+ artifactId: org.eclipse.scada.ae.monitor.script
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160929113835'
+

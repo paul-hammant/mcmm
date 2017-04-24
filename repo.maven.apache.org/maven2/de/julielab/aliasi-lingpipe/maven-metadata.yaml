@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.julielab
+ artifactId: aliasi-lingpipe
+ versioning:
+  latest: 4.1.0
+  release: 4.1.0
+  versions:
+   version: 4.1.0
+  lastUpdated: '20151110150630'
+

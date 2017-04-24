@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.cinchapi
+ artifactId: concourse-api
+ versioning:
+  latest: 0.2.0.841-BETA
+  release: 0.2.0.841-BETA
+  versions:
+   version:
+   - 0.2.0.176-BETA
+   - 0.2.0.841-BETA
+  lastUpdated: '20131120140632'
+

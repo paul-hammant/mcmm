@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jensoft
+ artifactId: jensoft-core
+ versioning:
+  latest: 2.0.4
+  release: 2.0.4
+  versions:
+   version: 2.0.4
+  lastUpdated: '20150509114921'
+

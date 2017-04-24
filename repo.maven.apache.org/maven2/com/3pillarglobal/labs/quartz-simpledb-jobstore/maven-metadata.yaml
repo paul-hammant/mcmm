@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.3pillarglobal.labs
+ artifactId: quartz-simpledb-jobstore
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version:
+   - 0.0.1
+   - '1.0'
+  lastUpdated: '20131115140352'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.xins
+ artifactId: xins-server
+ versioning:
+  latest: '3.0'
+  release: '3.0'
+  versions:
+   version:
+   - '2.3'
+   - '3.0'
+  lastUpdated: '20121006140418'
+

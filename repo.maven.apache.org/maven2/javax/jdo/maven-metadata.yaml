@@ -1,0 +1,11 @@
+metadata:
+ groupId: javax.jdo
+ artifactId: jdo2-api
+ versioning:
+  versions:
+   version:
+   - '2.2'
+   - '2.1'
+   - '2.0'
+  lastUpdated: '20090331170000'
+

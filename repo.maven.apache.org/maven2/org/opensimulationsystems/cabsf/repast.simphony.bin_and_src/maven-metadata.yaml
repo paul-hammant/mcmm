@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.opensimulationsystems.cabsf
+ artifactId: repast.simphony.bin_and_src
+ versioning:
+  latest: 2.3.1
+  release: 2.3.1
+  versions:
+   version: 2.3.1
+  lastUpdated: '20160405042807'
+

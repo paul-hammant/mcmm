@@ -1,0 +1,8 @@
+metadata:
+ groupId: readline
+ artifactId: libreadline-java
+ version: SNAPSHOT-250804
+ versioning:
+  versions:
+   version: SNAPSHOT-250804
+

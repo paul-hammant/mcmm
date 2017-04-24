@@ -1,0 +1,10 @@
+metadata:
+ groupId: tapestry
+ artifactId: vlibbeans
+ version: 4.0-beta-4
+ versioning:
+  versions:
+   version:
+   - 4.0-beta-4
+   - 4.0-beta-5
+

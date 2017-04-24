@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Javascript Compiler Plugin
+   prefix: compiler-javascript
+   artifactId: plugin-compiler-javascript
+

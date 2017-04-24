@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.openejb
+ artifactId: org.apache.openejb.feature
+ versioning:
+  latest: 1.0.0.alpha
+  release: 1.0.0.alpha
+  versions:
+   version: 1.0.0.alpha
+  lastUpdated: '20091025112653'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.xlightweb
+ artifactId: xlightweb-HTML5Preview
+ version: 2.12-HTML5Preview10
+ versioning:
+  versions:
+   version:
+   - 2.12-HTML5Preview6
+   - 2.12-HTML5Preview7
+   - 2.12-HTML5Preview8
+   - 2.12-HTML5Preview9
+   - 2.12-HTML5Preview10
+  lastUpdated: '20100502170931'
+

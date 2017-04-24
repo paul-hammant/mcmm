@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.aicer
+ artifactId: aicer-oss-parent
+ versioning:
+  latest: '37'
+  release: '37'
+  versions:
+   version:
+   - '36'
+   - '37'
+  lastUpdated: '20131006014916'
+

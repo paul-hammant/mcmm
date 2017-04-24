@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.antoniocappiello.library
+ artifactId: custom-widgets
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20151102215724'
+

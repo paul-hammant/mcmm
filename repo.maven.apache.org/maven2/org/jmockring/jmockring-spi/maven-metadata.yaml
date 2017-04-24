@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.jmockring
+ artifactId: jmockring-spi
+ versioning:
+  latest: 0.7.0
+  release: 0.7.0
+  versions:
+   version:
+   - 0.5.10
+   - 0.6.2
+   - 0.7.0
+  lastUpdated: '20170313015757'
+

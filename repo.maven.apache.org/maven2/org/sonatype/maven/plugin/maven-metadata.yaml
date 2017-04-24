@@ -1,0 +1,15 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: cobertura4it
+   artifactId: cobertura4it-maven-plugin
+  - name: Maven Emma Plugin
+   prefix: emma
+   artifactId: emma-maven-plugin
+  - name: emma4it Maven Mojo
+   prefix: emma4it
+   artifactId: emma4it-maven-plugin
+  - name: Maven Selenium Grid Plugin
+   prefix: selenium-grid
+   artifactId: selenium-grid-maven-plugin
+

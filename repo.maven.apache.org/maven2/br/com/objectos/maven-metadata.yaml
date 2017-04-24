@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'objectos :: aws :: rds maven plugin'
+   prefix: aws-rds
+   artifactId: aws-rds-maven-plugin
+  - name: 'objectos :: db9 :: maven plugin'
+   prefix: db9
+   artifactId: db9-maven-plugin
+  - name: 'objectos :: masche :: maven plugin'
+   prefix: masche
+   artifactId: masche-maven-plugin
+  - name: 'objectos :: sql :: maven plugin'
+   prefix: sql
+   artifactId: sql-maven-plugin
+  - name: 'objectos :: sql :: meta :: maven plugin'
+   prefix: sql-meta
+   artifactId: sql-meta-maven-plugin
+

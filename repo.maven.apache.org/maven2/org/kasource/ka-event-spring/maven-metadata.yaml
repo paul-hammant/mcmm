@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.kasource
+ artifactId: ka-event-spring
+ versioning:
+  latest: 0.8.1
+  release: 0.8.1
+  versions:
+   version:
+   - '0.5'
+   - '0.6'
+   - '0.7'
+   - 0.7.1
+   - '0.8'
+   - 0.8.1
+  lastUpdated: '20120405151646'
+

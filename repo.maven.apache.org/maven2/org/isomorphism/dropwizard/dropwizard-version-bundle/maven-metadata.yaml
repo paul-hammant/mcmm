@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.isomorphism.dropwizard
+ artifactId: dropwizard-version-bundle
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20150129014415'
+

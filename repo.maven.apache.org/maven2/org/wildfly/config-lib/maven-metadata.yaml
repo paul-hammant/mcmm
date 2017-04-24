@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.wildfly
+ artifactId: config-lib
+ versioning:
+  latest: 0.1.0.Final
+  release: 0.1.0.Final
+  versions:
+   version: 0.1.0.Final
+  lastUpdated: '20150731132418'
+

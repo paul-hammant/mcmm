@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.javabits.jgrapht
+ artifactId: jgrapht-ext-bundle
+ versioning:
+  latest: 0.9.3
+  release: 0.9.3
+  versions:
+   version: 0.9.3
+  lastUpdated: '20140708132657'
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: package-json-maven-plugin
+   prefix: package-json
+   artifactId: package-json-maven-plugin
+  - name: rename-file-maven-plugin
+   prefix: rename-file
+   artifactId: rename-file-maven-plugin
+

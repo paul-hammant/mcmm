@@ -1,0 +1,12 @@
+metadata:
+ groupId: co.cask.cdap
+ artifactId: cdap-authentication-client-javascript
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - 1.1.0
+   - 1.1.1
+  lastUpdated: '20150317233849'
+

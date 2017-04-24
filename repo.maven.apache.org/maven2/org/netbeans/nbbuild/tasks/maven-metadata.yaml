@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.netbeans.nbbuild
+ artifactId: tasks
+ versioning:
+  versions:
+   version:
+   - '5.0'
+   - '5.5'
+

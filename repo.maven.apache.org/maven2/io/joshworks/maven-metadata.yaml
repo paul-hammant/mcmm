@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: snappy
+   artifactId: snappy-maven-plugin
+

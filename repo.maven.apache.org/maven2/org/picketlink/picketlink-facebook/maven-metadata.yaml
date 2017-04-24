@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.picketlink
+ artifactId: picketlink-facebook
+ versioning:
+  latest: 2.0.0.2012sep25
+  release: 2.0.0.2012sep25
+  versions:
+   version:
+   - 1.0.0.Final
+   - 2.0.0.Beta1
+   - 2.0.0.2012sep25
+  lastUpdated: '20120925192554'
+

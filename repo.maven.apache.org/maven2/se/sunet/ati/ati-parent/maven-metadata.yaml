@@ -1,0 +1,10 @@
+metadata:
+ groupId: se.sunet.ati
+ artifactId: ati-parent
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version: '2'
+  lastUpdated: '20170202193404'
+

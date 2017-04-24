@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'OpooPress Framework :: opoopress-archetype-plugin'
+   prefix: opoopress-archetype
+   artifactId: opoopress-archetype-plugin
+  - name: 'OpooPress Framework :: opoopress-maven-plugin'
+   prefix: opoopress
+   artifactId: opoopress-maven-plugin
+  - name: 'OpooPress Framework :: theme-maven-plugin'
+   prefix: theme
+   artifactId: theme-maven-plugin
+

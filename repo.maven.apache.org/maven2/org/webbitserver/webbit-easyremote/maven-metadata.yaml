@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.webbitserver
+ artifactId: webbit-easyremote
+ versioning:
+  latest: 0.1.3
+  release: 0.1.3
+  versions:
+   version:
+   - 0.1.2
+   - 0.1.3
+  lastUpdated: '20110511080737'
+

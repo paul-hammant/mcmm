@@ -1,0 +1,8 @@
+metadata:
+ groupId: jgen
+ artifactId: jgen
+ version: 1.4-dev
+ versioning:
+  versions:
+   version: 1.4-dev
+

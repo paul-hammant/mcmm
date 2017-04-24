@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.swarmic
+ artifactId: swarmic-core
+ versioning:
+  latest: 1.0.0.Alpha1
+  release: 1.0.0.Alpha1
+  versions:
+   version: 1.0.0.Alpha1
+  lastUpdated: '20160615204842'
+

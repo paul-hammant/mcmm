@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: oVirt JBoss Modules Maven Plugin
+   prefix: ovirt-jboss-modules
+   artifactId: ovirt-jboss-modules-maven-plugin
+

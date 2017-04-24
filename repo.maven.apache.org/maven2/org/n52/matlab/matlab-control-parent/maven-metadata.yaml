@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.n52.matlab
+ artifactId: matlab-control-parent
+ versioning:
+  latest: 5.0.0
+  release: 5.0.0
+  versions:
+   version: 5.0.0
+  lastUpdated: '20150903104415'
+

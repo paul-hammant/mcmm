@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'SonarQube :: Packaging Maven Plugin'
+   prefix: sonar-packaging
+   artifactId: sonar-packaging-maven-plugin
+

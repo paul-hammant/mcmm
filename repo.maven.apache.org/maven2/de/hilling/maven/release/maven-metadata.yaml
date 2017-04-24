@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: The Multi Module Maven Release Plugin
+   prefix: smart-release
+   artifactId: smart-release-plugin
+

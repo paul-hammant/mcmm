@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Groovy-Eclipse compiler
+   prefix: groovy-eclipse-compiler
+   artifactId: groovy-eclipse-compiler
+

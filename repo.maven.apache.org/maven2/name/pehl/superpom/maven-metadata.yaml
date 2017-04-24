@@ -1,0 +1,15 @@
+metadata:
+ groupId: name.pehl
+ artifactId: superpom
+ versioning:
+  latest: '23'
+  release: '23'
+  versions:
+   version:
+   - '19'
+   - '20'
+   - '21'
+   - '22'
+   - '23'
+  lastUpdated: '20150406150602'
+

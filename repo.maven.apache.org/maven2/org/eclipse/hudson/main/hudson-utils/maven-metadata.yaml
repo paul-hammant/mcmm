@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.eclipse.hudson.main
+ artifactId: hudson-utils
+ versioning:
+  latest: 3.0.0-M2
+  release: 3.0.0-M2
+  versions:
+   version:
+   - 3.0.0-M0
+   - 3.0.0-M0-1
+   - 3.0.0-M1
+   - 3.0.0-M1-1
+   - 3.0.0-M2
+  lastUpdated: '20120420012724'
+

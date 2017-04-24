@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.portswigger.burp.extender
+ artifactId: burp-extender-api
+ versioning:
+  latest: 1.7.13
+  release: 1.7.13
+  versions:
+   version: 1.7.13
+  lastUpdated: '20170117070306'
+

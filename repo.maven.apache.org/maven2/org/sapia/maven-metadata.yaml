@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Sapia Doc Plugin
+   prefix: sapia_site_doc_
+   artifactId: sapia_site_doc_plugin
+

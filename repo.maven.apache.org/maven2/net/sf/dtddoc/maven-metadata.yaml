@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: DTDDoc Maven plugin
+   prefix: dtddoc
+   artifactId: dtddoc-maven-plugin
+

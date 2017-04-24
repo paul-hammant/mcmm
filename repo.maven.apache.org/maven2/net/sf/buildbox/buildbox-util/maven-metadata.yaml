@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.sf.buildbox
+ artifactId: buildbox-util
+ version: 1.0.0-1
+ versioning:
+  versions:
+   version: 1.0.0-1
+  lastUpdated: '20100811233002'
+

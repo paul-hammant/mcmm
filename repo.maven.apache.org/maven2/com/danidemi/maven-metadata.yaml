@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: template-generator-maven-plugin
+   prefix: template-generator
+   artifactId: template-generator-maven-plugin
+

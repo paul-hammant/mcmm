@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.functionaljava
+ artifactId: functionaljava_1.8
+ versioning:
+  latest: '4.7'
+  release: '4.7'
+  versions:
+   version: '4.7'
+  lastUpdated: '20170327192129'
+

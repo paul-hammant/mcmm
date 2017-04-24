@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SONIA Maven native2utf8 Plugin
+   prefix: sonianative2utf8
+   artifactId: sonia-maven-native2utf8-plugin
+

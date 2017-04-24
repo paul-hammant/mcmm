@@ -1,0 +1,10 @@
+metadata:
+ groupId: commons-primitives
+ artifactId: commons-primitives
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '20041207.202534'
+

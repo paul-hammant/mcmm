@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SchemaSpy Maven Plugin
+   prefix: schemaspy
+   artifactId: schemaspy-maven-plugin
+

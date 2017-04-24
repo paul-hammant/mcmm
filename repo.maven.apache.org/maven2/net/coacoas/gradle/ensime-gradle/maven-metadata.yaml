@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.coacoas.gradle
+ artifactId: ensime-gradle
+ versioning:
+  latest: 0.2.8
+  release: 0.2.8
+  versions:
+   version:
+   - 0.2.6
+   - 0.2.7
+   - 0.2.8
+  lastUpdated: '20160522001137'
+

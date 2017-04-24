@@ -1,0 +1,20 @@
+metadata:
+ groupId: fr.iscpif.gridscale
+ artifactId: egi_2.11
+ versioning:
+  latest: '1.94'
+  release: '1.94'
+  versions:
+   version:
+   - '1.85'
+   - '1.86'
+   - 1.87.0
+   - '1.88'
+   - '1.89'
+   - '1.90'
+   - '1.91'
+   - '1.92'
+   - '1.93'
+   - '1.94'
+  lastUpdated: '20170420150554'
+

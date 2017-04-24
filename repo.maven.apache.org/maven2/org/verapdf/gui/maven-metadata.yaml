@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.verapdf
+ artifactId: gui
+ versioning:
+  latest: 1.4.1-PDFBOX
+  release: 1.4.1-PDFBOX
+  versions:
+   version:
+   - 1.4.1
+   - 1.4.1-PDFBOX
+  lastUpdated: '20170420075950'
+

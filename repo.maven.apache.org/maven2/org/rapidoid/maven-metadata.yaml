@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Rapidoid App Plugin
+   prefix: app
+   artifactId: app
+

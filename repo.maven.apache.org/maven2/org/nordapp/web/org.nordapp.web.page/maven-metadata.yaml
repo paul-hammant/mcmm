@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.nordapp.web
+ artifactId: org.nordapp.web.page
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20150710164525'
+

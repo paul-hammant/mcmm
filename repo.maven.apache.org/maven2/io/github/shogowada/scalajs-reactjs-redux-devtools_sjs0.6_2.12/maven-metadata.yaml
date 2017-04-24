@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.github.shogowada
+ artifactId: scalajs-reactjs-redux-devtools_sjs0.6_2.12
+ versioning:
+  latest: 0.11.0
+  release: 0.11.0
+  versions:
+   version:
+   - 0.9.1
+   - 0.10.0
+   - 0.11.0
+  lastUpdated: '20170422151857'
+

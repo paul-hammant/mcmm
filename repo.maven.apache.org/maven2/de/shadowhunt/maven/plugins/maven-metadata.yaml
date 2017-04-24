@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven package-info.java Plugin
+   prefix: package-info
+   artifactId: package-info-maven-plugin
+  - name: Maven Sonar-Ignore Plugin
+   prefix: sonarignore
+   artifactId: sonarignore-maven-plugin
+

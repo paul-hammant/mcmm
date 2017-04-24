@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: HAPI - 02 - Source Generator Plugin
+   prefix: hapi-sourcegen
+   artifactId: hapi-sourcegen
+

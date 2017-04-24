@@ -1,0 +1,12 @@
+metadata:
+ groupId: co.openfin
+ artifactId: openfin-snap-dock
+ versioning:
+  latest: 1.0.0.1
+  release: 1.0.0.1
+  versions:
+   version:
+   - 1.0.0.0
+   - 1.0.0.1
+  lastUpdated: '20170207190516'
+

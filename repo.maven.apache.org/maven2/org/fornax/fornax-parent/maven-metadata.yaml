@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.fornax
+ artifactId: fornax-parent
+ versioning:
+  latest: '5'
+  release: '5'
+  versions:
+   version: '5'
+  lastUpdated: '20141202211734'
+

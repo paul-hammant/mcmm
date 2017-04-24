@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: VT Crypt Maven Plugin
+   prefix: crypt
+   artifactId: maven-crypt-plugin
+

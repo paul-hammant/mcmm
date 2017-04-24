@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.leanix.poms
+ artifactId: leanix-dropwizard-dependencies
+ versioning:
+  latest: 0.8.1
+  release: 0.8.1
+  versions:
+   version:
+   - 0.8.0
+   - 0.8.1
+  lastUpdated: '20151110072408'
+

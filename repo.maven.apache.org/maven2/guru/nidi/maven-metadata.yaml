@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: code-assert
+   artifactId: code-assert-maven-plugin
+

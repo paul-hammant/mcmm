@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.apigee.opensaml
+ artifactId: opensaml
+ versioning:
+  latest: 2.6.2
+  release: 2.6.2
+  versions:
+   version:
+   - 2.6.0
+   - 2.6.2
+  lastUpdated: '20141003010054'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jeuron
+ artifactId: jeuron
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version: 0.4.0
+  lastUpdated: '20140424053753'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.carmanconsulting.cassidy
+ artifactId: cassidy-parent
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - '2.0'
+  lastUpdated: '20140522025547'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.easywsdl
+ artifactId: easywsdl-ext-sawsdl
+ versioning:
+  latest: 2.4.0
+  release: 2.4.0
+  versions:
+   version: 2.4.0
+  lastUpdated: '20160517133037'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: mule
+ artifactId: mini-mule
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0-rc3
+

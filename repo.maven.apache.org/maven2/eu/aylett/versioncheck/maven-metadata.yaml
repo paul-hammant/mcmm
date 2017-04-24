@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: versioncheck-maven-plugin Maven Plugin
+   prefix: versioncheck
+   artifactId: versioncheck-maven-plugin
+

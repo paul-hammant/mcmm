@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ${project.artifactId}
+   prefix: search
+   artifactId: search-maven-plugin
+  - name: ${project.artifactId}
+   prefix: validate
+   artifactId: validate-maven-plugin
+

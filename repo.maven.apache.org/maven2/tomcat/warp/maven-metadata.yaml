@@ -1,0 +1,8 @@
+metadata:
+ groupId: tomcat
+ artifactId: warp
+ version: 4.0.6
+ versioning:
+  versions:
+   version: 4.0.6
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.toolchain.scribe
+ artifactId: scribe-annotations-datastore
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version: 0.2.0
+  lastUpdated: '20160901013726'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: gridvise-maven-plugin
+   prefix: gridvise
+   artifactId: gridvise-maven-plugin
+

@@ -1,0 +1,25 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Sonar maven2 core plugins
+   prefix: sonar-core
+   artifactId: sonar-core-maven-plugin
+  - name: 'Sonar :: Development Maven Plugin'
+   prefix: sonar-dev
+   artifactId: sonar-dev-maven-plugin
+  - name: sonar-dev-mojo
+   prefix: sonar-dev-mojo
+   artifactId: sonar-dev-mojo
+  - name: 'SonarQube :: Maven2 Plugin'
+   prefix: sonar
+   artifactId: sonar-maven-plugin
+  - name: 'Sonar :: Maven3 Plugin'
+   prefix: sonar3
+   artifactId: sonar-maven3-plugin
+  - name: 'SonarSource :: Update Center :: Packaging Mojo'
+   prefix: sonar-packaging
+   artifactId: sonar-packaging-maven-plugin
+  - name: 'SonarSource :: Update Center :: Maven Plugin'
+   prefix: sonar-update-center-mojo
+   artifactId: sonar-update-center-mojo
+

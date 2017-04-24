@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scodec
+ artifactId: scodec-spire_2.10
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.3.0
+  lastUpdated: '20160213203525'
+

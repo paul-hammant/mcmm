@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven Crypto Plugin
+   prefix: crypto
+   artifactId: crypto-maven-plugin
+  - name: Maven injection plugin
+   prefix: inject
+   artifactId: inject-maven-plugin
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.jmxtrans
+ artifactId: jmxtrans-systemd
+ versioning:
+  latest: '265'
+  release: '265'
+  versions:
+   version:
+   - '261'
+   - '262'
+   - '263'
+   - '264'
+   - '265'
+  lastUpdated: '20170421080929'
+

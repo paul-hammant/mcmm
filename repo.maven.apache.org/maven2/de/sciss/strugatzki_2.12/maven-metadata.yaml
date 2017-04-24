@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.sciss
+ artifactId: strugatzki_2.12
+ versioning:
+  latest: 2.14.1
+  release: 2.14.1
+  versions:
+   version: 2.14.1
+  lastUpdated: '20170211214237'
+

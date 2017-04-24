@@ -1,0 +1,24 @@
+metadata:
+ groupId: org.redline-rpm
+ artifactId: redline
+ versioning:
+  latest: 1.2.5
+  release: 1.2.5
+  versions:
+   version:
+   - 1.1.8
+   - 1.1.9
+   - 1.1.10
+   - 1.1.11
+   - 1.1.12
+   - 1.1.14
+   - 1.1.15
+   - 1.1.16
+   - 1.2.0
+   - 1.2.1
+   - 1.2.2
+   - 1.2.3
+   - 1.2.4
+   - 1.2.5
+  lastUpdated: '20170222193713'
+

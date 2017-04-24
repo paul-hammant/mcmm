@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.greenrobot
+ artifactId: greenrobot-jdt
+ versioning:
+  latest: 3.12.2
+  release: 3.12.2
+  versions:
+   version: 3.12.2
+  lastUpdated: '20170404191502'
+

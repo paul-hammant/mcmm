@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: byggarmonster-maven-plugin
+   prefix: byggarmonster
+   artifactId: byggarmonster-maven-plugin
+

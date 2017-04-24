@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'ebean-maven-enhancement-plugin: Maven byte code enhancement tool'
+   prefix: ebeanenhancement
+   artifactId: ebean-maven-enhancement-plugin
+

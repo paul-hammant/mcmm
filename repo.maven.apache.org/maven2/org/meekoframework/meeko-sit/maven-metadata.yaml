@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.meekoframework
+ artifactId: meeko-sit
+ versioning:
+  latest: 1.0.3-alpha-4
+  release: 1.0.3-alpha-4
+  versions:
+   version: 1.0.3-alpha-4
+  lastUpdated: '20151014074146'
+

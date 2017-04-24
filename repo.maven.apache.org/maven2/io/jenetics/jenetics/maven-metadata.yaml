@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.jenetics
+ artifactId: jenetics
+ versioning:
+  latest: 3.7.0
+  release: 3.7.0
+  versions:
+   version: 3.7.0
+  lastUpdated: '20161226105939'
+

@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: APILyzer Maven Plugin
+   prefix: apilyzer
+   artifactId: apilyzer-maven-plugin
+  - name: formatter-maven-plugin
+   prefix: formatter
+   artifactId: formatter-maven-plugin
+  - name: Warbucks Maven Plugin
+   prefix: warbucks
+   artifactId: warbucks-maven-plugin
+  - name: ZooKeeper Maven Plugin
+   prefix: zookeeper
+   artifactId: zookeeper-maven-plugin
+

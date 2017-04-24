@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bitbucket.goalhub
+ artifactId: messaging
+ versioning:
+  latest: 1.1.10
+  release: 1.1.10
+  versions:
+   version: 1.1.10
+  lastUpdated: '20161228190435'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: slide
+ artifactId: webdavlib
+ version: 1.0.16
+ versioning:
+  versions:
+   version:
+   - 1.0.16
+   - '2.0'
+   - 2.0beta1
+   - 2.1M1
+

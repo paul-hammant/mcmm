@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: fatjar-maven-plugin
+   prefix: fatjar
+   artifactId: fatjar-maven-plugin
+

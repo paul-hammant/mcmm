@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.bitbucket.tbrugz
+ artifactId: sqldump
+ versioning:
+  latest: 0.9.15
+  release: 0.9.15
+  versions:
+   version:
+   - 0.9.11
+   - 0.9.14
+   - 0.9.15
+  lastUpdated: '20170307151315'
+

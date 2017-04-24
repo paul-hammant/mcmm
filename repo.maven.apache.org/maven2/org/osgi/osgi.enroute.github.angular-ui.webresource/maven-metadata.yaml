@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.osgi
+ artifactId: osgi.enroute.github.angular-ui.webresource
+ versioning:
+  latest: 0.13.3
+  release: 0.13.3
+  versions:
+   version: 0.13.3
+  lastUpdated: '20161014175621'
+

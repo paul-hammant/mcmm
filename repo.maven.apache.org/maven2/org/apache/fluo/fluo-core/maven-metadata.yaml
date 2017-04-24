@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.fluo
+ artifactId: fluo-core
+ versioning:
+  latest: 1.0.0-incubating
+  release: 1.0.0-incubating
+  versions:
+   version: 1.0.0-incubating
+  lastUpdated: '20161005201436'
+

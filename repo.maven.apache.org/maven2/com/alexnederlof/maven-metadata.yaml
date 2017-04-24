@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jasperreport-plugin
+   prefix: jasperreports
+   artifactId: jasperreports-plugin
+

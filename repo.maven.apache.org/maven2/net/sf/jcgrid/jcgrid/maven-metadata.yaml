@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.jcgrid
+ artifactId: jcgrid
+ versioning:
+  latest: '0.05'
+  release: '0.05'
+  versions:
+   version: '0.05'
+  lastUpdated: '20100917201017'
+

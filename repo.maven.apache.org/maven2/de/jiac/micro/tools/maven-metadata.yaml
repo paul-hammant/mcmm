@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: MicroJIAC MIDlet-Maven-Plugin
+   prefix: microjiac-midlet
+   artifactId: microjiac-midlet-maven-plugin
+

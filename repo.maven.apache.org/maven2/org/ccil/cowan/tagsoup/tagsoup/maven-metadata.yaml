@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ccil.cowan.tagsoup
+ artifactId: tagsoup
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version:
+   - 0.9.7
+   - 1.2.1
+  lastUpdated: '20110822170700'
+

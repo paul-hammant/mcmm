@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.irit.smac.may
+ artifactId: fr.irit.smac.may.speadl.target-definition
+ versioning:
+  latest: 3.5.0
+  release: 3.5.0
+  versions:
+   version: 3.5.0
+  lastUpdated: '20170211165546'
+

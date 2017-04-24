@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Roboconf :: Maven Plug-in'
+   prefix: roboconf
+   artifactId: roboconf-maven-plugin
+

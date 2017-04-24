@@ -1,0 +1,13 @@
+metadata:
+ groupId: se.vgregion.daoframework
+ artifactId: dao-framework-jpa-spring
+ versioning:
+  latest: '3.5'
+  release: '3.5'
+  versions:
+   version:
+   - '3.3'
+   - '3.4'
+   - '3.5'
+  lastUpdated: '20110909085346'
+

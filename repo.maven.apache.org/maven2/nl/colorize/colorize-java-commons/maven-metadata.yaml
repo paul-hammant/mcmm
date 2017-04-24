@@ -1,0 +1,12 @@
+metadata:
+ groupId: nl.colorize
+ artifactId: colorize-java-commons
+ versioning:
+  latest: 2017.3.1
+  release: 2017.3.1
+  versions:
+   version:
+   - '2017.3'
+   - 2017.3.1
+  lastUpdated: '20170323133651'
+

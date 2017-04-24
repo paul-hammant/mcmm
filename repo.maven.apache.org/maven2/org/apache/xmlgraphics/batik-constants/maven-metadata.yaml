@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.xmlgraphics
+ artifactId: batik-constants
+ versioning:
+  latest: '1.9'
+  release: '1.9'
+  versions:
+   version: '1.9'
+  lastUpdated: '20170410104004'
+

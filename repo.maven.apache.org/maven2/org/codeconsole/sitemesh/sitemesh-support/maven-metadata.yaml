@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.codeconsole.sitemesh
+ artifactId: sitemesh-support
+ versioning:
+  latest: 0.1.2.RELEASE
+  release: 0.1.2.RELEASE
+  versions:
+   version: 0.1.2.RELEASE
+  lastUpdated: '20110209203122'
+

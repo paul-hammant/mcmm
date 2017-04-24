@@ -1,0 +1,21 @@
+metadata:
+ groupId: org.isisaddons.module.sessionlogger
+ artifactId: isis-module-sessionlogger-dom
+ versioning:
+  latest: 1.14.0
+  release: 1.14.0
+  versions:
+   version:
+   - 1.8.0
+   - 1.8.1
+   - 1.8.2
+   - 1.9.0
+   - 1.10.0
+   - 1.11.0
+   - 1.12.0
+   - 1.12.1
+   - 1.13.0
+   - 1.13.1
+   - 1.14.0
+  lastUpdated: '20170219190927'
+

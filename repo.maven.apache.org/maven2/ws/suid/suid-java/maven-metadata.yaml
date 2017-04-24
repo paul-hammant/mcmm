@@ -1,0 +1,12 @@
+metadata:
+ groupId: ws.suid
+ artifactId: suid-java
+ versioning:
+  latest: 0.13.0
+  release: 0.13.0
+  versions:
+   version:
+   - 0.12.0
+   - 0.13.0
+  lastUpdated: '20170319144838'
+

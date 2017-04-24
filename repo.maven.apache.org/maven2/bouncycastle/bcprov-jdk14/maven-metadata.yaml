@@ -1,0 +1,11 @@
+metadata:
+ groupId: bouncycastle
+ artifactId: bcprov-jdk14
+ version: '140'
+ versioning:
+  versions:
+   version:
+   - '124'
+   - '136'
+   - '140'
+

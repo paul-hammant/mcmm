@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: OpenL - Util - OpenL Maven Plugin
+   prefix: openl
+   artifactId: openl-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.zeppelin
+ artifactId: zeppelin-pig
+ versioning:
+  latest: 0.7.1
+  release: 0.7.1
+  versions:
+   version:
+   - 0.7.0
+   - 0.7.1
+  lastUpdated: '20170331140050'
+

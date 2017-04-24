@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: maven plugin for diezel Embedded Domain Specific Language Generator
+   prefix: diezel
+   artifactId: diezel-maven-plugin
+  - name: neobin
+   prefix: neobin
+   artifactId: neobin-maven-plugin
+

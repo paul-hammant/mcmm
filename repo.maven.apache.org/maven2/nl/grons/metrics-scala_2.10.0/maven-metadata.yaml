@@ -1,0 +1,10 @@
+metadata:
+ groupId: nl.grons
+ artifactId: metrics-scala_2.10.0
+ versioning:
+  latest: 2.2.0
+  release: 2.2.0
+  versions:
+   version: 2.2.0
+  lastUpdated: '20121228084228'
+

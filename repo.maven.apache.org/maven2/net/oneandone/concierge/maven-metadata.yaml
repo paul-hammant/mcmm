@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.oneandone
+ artifactId: concierge
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20160419080539'
+

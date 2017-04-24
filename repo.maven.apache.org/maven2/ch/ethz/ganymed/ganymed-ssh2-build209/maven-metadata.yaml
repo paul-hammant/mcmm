@@ -1,0 +1,7 @@
+metadata:
+ groupId: ch.ethz.ganymed
+ artifactId: ganymed-ssh2-build209
+ versioning:
+  versions:
+   version: sources
+

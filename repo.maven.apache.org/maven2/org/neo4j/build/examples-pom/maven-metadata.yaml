@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.neo4j.build
+ artifactId: examples-pom
+ versioning:
+  latest: '43'
+  release: '43'
+  versions:
+   version:
+   - '35'
+   - '42'
+   - '43'
+  lastUpdated: '20151005140729'
+

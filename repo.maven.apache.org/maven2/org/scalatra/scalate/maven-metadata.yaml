@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ${project.artifactId}
+   prefix: scalate_2.10
+   artifactId: maven-scalate-plugin_2.10
+  - name: ${project.artifactId}
+   prefix: scalate_2.11
+   artifactId: maven-scalate-plugin_2.11
+

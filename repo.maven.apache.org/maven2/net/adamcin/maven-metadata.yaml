@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Granite IT Maven Plugin
+   prefix: graniteit
+   artifactId: graniteit-maven-plugin
+  - name: Scala Mojo Maven Plugin
+   prefix: scalamojo
+   artifactId: scalamojo-maven-plugin
+  - name: Snag Jar Maven Plugin
+   prefix: snagjar
+   artifactId: snagjar-maven-plugin
+  - name: VLT Pack Maven Plugin
+   prefix: vltpack
+   artifactId: vltpack-maven-plugin
+

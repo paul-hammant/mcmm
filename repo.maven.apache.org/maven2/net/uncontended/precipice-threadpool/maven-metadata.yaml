@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.uncontended
+ artifactId: precipice-threadpool
+ versioning:
+  latest: 0.7.0
+  release: 0.7.0
+  versions:
+   version:
+   - 0.6.0
+   - 0.6.1
+   - 0.7.0
+  lastUpdated: '20160822035047'
+

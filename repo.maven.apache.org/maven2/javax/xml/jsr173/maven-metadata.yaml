@@ -1,0 +1,7 @@
+metadata:
+ groupId: javax.xml
+ artifactId: jsr173
+ versioning:
+  versions:
+   version: '1.0'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.opoo.press.themes
+ artifactId: opoopress-theme-default
+ versioning:
+  latest: 1.0-beta-1
+  release: 1.0-beta-1
+  versions:
+   version: 1.0-beta-1
+  lastUpdated: '20150313103751'
+

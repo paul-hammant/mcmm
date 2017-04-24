@@ -1,0 +1,7 @@
+metadata:
+ groupId: mule
+ artifactId: mule-jca-jboss
+ versioning:
+  versions:
+   version: 1.4-RC1
+

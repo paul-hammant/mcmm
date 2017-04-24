@@ -1,0 +1,10 @@
+metadata:
+ groupId: no.api.syzygy
+ artifactId: syzygy
+ versioning:
+  latest: 0.0.10
+  release: 0.0.10
+  versions:
+   version: 0.0.10
+  lastUpdated: '20150623172842'
+

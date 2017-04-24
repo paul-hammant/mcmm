@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.citrix.netscaler.nitro
+ artifactId: nitro
+ versioning:
+  latest: '10.1'
+  release: '10.1'
+  versions:
+   version:
+   - 10.0.e
+   - '10.1'
+  lastUpdated: '20131122065401'
+

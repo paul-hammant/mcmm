@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.atmodem4j
+ artifactId: spsw-native
+ versioning:
+  latest: 0.0.5
+  release: 0.0.5
+  versions:
+   version:
+   - 0.0.4
+   - 0.0.5
+  lastUpdated: '20150524132045'
+

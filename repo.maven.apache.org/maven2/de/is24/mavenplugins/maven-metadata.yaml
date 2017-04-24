@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: deadcode4j Maven Plugin
+   prefix: deadcode
+   artifactId: deadcode-maven-plugin
+  - name: deadcode4j Maven Plugin
+   prefix: deadcode4j
+   artifactId: deadcode4j-maven-plugin
+

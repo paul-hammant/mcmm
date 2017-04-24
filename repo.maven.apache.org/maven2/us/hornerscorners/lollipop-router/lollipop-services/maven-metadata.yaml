@@ -1,0 +1,10 @@
+metadata:
+ groupId: us.hornerscorners.lollipop-router
+ artifactId: lollipop-services
+ versioning:
+  latest: '1.3'
+  release: '1.3'
+  versions:
+   version: '1.3'
+  lastUpdated: '20150203031505'
+

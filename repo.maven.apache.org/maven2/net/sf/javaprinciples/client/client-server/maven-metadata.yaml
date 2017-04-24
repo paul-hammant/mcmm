@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.javaprinciples.client
+ artifactId: client-server
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20140428043925'
+

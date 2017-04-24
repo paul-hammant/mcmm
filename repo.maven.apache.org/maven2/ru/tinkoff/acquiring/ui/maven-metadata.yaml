@@ -1,0 +1,14 @@
+metadata:
+ groupId: ru.tinkoff.acquiring
+ artifactId: ui
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.0.1
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20170217070544'
+

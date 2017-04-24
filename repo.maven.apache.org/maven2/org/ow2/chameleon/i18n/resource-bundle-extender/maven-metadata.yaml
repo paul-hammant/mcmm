@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.chameleon.i18n
+ artifactId: resource-bundle-extender
+ versioning:
+  latest: 0.2.3
+  release: 0.2.3
+  versions:
+   version: 0.2.3
+  lastUpdated: '20111110110955'
+

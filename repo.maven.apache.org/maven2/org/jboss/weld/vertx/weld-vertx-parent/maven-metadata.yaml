@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.jboss.weld.vertx
+ artifactId: weld-vertx-parent
+ versioning:
+  latest: 1.0.0.CR6
+  release: 1.0.0.CR6
+  versions:
+   version:
+   - 1.0.0.Alpha1
+   - 1.0.0.CR1
+   - 1.0.0.CR2
+   - 1.0.0.CR3
+   - 1.0.0.CR4
+   - 1.0.0.CR5
+   - 1.0.0.CR6
+  lastUpdated: '20170410145819'
+

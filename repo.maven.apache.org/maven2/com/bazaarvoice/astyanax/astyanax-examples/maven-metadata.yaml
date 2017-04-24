@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.bazaarvoice.astyanax
+ artifactId: astyanax-examples
+ versioning:
+  latest: 3.8.0-bv8
+  release: 3.8.0-bv8
+  versions:
+   version: 3.8.0-bv8
+  lastUpdated: '20160816191135'
+

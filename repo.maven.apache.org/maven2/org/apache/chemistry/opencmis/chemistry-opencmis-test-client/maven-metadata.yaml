@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.chemistry.opencmis
+ artifactId: chemistry-opencmis-test-client
+ versioning:
+  latest: 0.7.0
+  release: 0.7.0
+  versions:
+   version: 0.7.0
+  lastUpdated: '20120425233932'
+

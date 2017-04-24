@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.acinq
+ artifactId: bitcoin-lib
+ versioning:
+  latest: 0.9.1
+  release: 0.9.1
+  versions:
+   version: 0.9.1
+  lastUpdated: '20141007130912'
+

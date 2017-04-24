@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scalafx
+ artifactId: scalafx_2.11.0-RC4
+ versioning:
+  latest: 8.0.0-R4
+  release: 8.0.0-R4
+  versions:
+   version:
+   - 1.0.0-R8
+   - 8.0.0-R4
+  lastUpdated: '20140406224206'
+

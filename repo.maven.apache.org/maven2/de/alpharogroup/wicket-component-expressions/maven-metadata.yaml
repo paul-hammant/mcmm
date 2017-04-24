@@ -1,0 +1,18 @@
+metadata:
+ groupId: de.alpharogroup
+ artifactId: wicket-component-expressions
+ versioning:
+  latest: 7.3.1
+  release: 7.3.1
+  versions:
+   version:
+   - 0.2.0
+   - 6.15.0
+   - 6.18.0
+   - 6.20.0
+   - 6.21.0
+   - 7.1.0
+   - 7.3.0
+   - 7.3.1
+  lastUpdated: '20170421174252'
+

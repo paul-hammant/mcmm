@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.calcite.avatica
+ artifactId: avatica-core
+ versioning:
+  latest: 1.9.0
+  release: 1.9.0
+  versions:
+   version: 1.9.0
+  lastUpdated: '20161031034418'
+

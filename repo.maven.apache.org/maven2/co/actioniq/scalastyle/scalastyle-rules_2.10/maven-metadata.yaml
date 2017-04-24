@@ -1,0 +1,12 @@
+metadata:
+ groupId: co.actioniq.scalastyle
+ artifactId: scalastyle-rules_2.10
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+  lastUpdated: '20160912221741'
+

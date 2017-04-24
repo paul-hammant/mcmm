@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.tpolecat
+ artifactId: atto-spire_2.11
+ versioning:
+  latest: 0.4.2
+  release: 0.4.2
+  versions:
+   version:
+   - 0.4.2-RC2
+   - 0.4.2-RC4
+   - 0.4.2
+  lastUpdated: '20150916034740'
+

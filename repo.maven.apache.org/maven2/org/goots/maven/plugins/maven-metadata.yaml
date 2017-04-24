@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: pom-deployer-maven-plugin
+   prefix: pom-deployer
+   artifactId: pom-deployer-maven-plugin
+

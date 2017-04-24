@@ -1,0 +1,11 @@
+metadata:
+ groupId: lingo
+ artifactId: lingo
+ version: 1.0-M1
+ versioning:
+  versions:
+   version:
+   - 1.0-M1
+   - '1.0'
+   - '1.1'
+

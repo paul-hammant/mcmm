@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jsr305-maven-plugin Maven Mojo
+   prefix: jsr305
+   artifactId: jsr305-maven-plugin
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.bull.javamelody
+ artifactId: javamelody-spring-boot-starter
+ versioning:
+  latest: 1.65.1
+  release: 1.65.1
+  versions:
+   version:
+   - 1.64.0
+   - 1.65.0
+   - 1.65.1
+  lastUpdated: '20170324170920'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.jetbrains
+ artifactId: annotations
+ versioning:
+  latest: '15.0'
+  release: '15.0'
+  versions:
+   version:
+   - '13.0'
+   - '15.0'
+  lastUpdated: '20151015094058'
+

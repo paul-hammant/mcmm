@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Legato Maven Plugin
+   prefix: legato
+   artifactId: legato-maven-plugin
+

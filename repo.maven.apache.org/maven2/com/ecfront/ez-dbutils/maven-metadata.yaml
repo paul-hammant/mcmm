@@ -1,0 +1,17 @@
+metadata:
+ groupId: com.ecfront
+ artifactId: ez-dbutils
+ versioning:
+  latest: 2.8.0
+  release: 2.8.0
+  versions:
+   version:
+   - '2.1'
+   - '2.2'
+   - '2.4'
+   - 2.5.0
+   - 2.5.1
+   - 2.5.2
+   - 2.8.0
+  lastUpdated: '20160304043752'
+

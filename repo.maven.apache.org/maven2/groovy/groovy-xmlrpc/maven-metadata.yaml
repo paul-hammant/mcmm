@@ -1,0 +1,8 @@
+metadata:
+ groupId: groovy
+ artifactId: groovy-xmlrpc
+ version: '0.2'
+ versioning:
+  versions:
+   version: '0.2'
+

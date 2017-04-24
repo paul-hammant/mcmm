@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.apache-extras.camel-extra
+ artifactId: camel-extra-itest-karaf
+ versioning:
+  latest: 2.13.4-SNAPSHOT
+  release: null
+  versions:
+   version: 2.13.4-SNAPSHOT
+  lastUpdated: '20150612202327'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scalikejdbc
+ artifactId: csvquery_2.12
+ versioning:
+  latest: 1.4.0
+  release: 1.4.0
+  versions:
+   version:
+   - 1.4.0-RC1
+   - 1.4.0
+  lastUpdated: '20161114073746'
+

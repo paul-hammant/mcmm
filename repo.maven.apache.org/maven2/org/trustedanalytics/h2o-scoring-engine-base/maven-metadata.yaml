@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.trustedanalytics
+ artifactId: h2o-scoring-engine-base
+ versioning:
+  latest: 0.5.8
+  release: 0.5.8
+  versions:
+   version:
+   - 0.4.11
+   - 0.5.0
+   - 0.5.1
+   - 0.5.3
+   - 0.5.4
+   - 0.5.7
+   - 0.5.8
+  lastUpdated: '20170124134034'
+

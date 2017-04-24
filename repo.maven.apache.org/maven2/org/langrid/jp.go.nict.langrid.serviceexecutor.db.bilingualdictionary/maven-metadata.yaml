@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.langrid
+ artifactId: jp.go.nict.langrid.serviceexecutor.db.bilingualdictionary
+ versioning:
+  latest: 1.0.11
+  release: 1.0.11
+  versions:
+   version:
+   - 1.0.7
+   - 1.0.8
+   - 1.0.9
+   - 1.0.10
+   - 1.0.11
+  lastUpdated: '20170417074720'
+

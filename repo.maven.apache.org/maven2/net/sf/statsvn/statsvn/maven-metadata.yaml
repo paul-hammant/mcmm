@@ -1,0 +1,7 @@
+metadata:
+ groupId: net.sf.statsvn
+ artifactId: statsvn
+ versioning:
+  versions:
+   version: 0.2.0
+

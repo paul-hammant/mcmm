@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.apache.myfaces.trinidad
+ artifactId: trinidad-blank
+ versioning:
+  latest: 2.1.2
+  release: 2.1.2
+  versions:
+   version:
+   - 1.0.13
+   - 1.2.14
+   - 2.0.0-beta-1
+   - 2.0.0-beta-2
+   - 2.0.0
+   - 2.0.1
+   - 2.1.0
+   - 2.1.1
+   - 2.1.2
+  lastUpdated: '20160928011610'
+

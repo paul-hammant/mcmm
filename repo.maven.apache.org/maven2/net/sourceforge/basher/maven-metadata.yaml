@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Basher Plugin
+   prefix: basher
+   artifactId: maven-basher-plugin
+

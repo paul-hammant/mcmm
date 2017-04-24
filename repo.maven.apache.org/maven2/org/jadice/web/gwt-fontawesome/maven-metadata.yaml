@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jadice.web
+ artifactId: gwt-fontawesome
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20150901100641'
+

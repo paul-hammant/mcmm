@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Design Builder Maven Plugin
+   prefix: design-builder
+   artifactId: design-builder-maven-plugin
+

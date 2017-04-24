@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Trang Plugin
+   prefix: trang
+   artifactId: trang-maven-plugin
+

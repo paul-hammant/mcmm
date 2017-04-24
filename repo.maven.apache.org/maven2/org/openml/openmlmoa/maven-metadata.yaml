@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.openml
+ artifactId: openmlmoa
+ versioning:
+  latest: 0.9.1
+  release: 0.9.1
+  versions:
+   version: 0.9.1
+  lastUpdated: '20160508233822'
+

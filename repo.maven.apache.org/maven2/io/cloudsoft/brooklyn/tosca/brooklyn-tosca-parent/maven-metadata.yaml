@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.cloudsoft.brooklyn.tosca
+ artifactId: brooklyn-tosca-parent
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version: 0.9.0
+  lastUpdated: '20160509095740'
+

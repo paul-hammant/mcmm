@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: MarkdownDoc Maven Plugin
+   prefix: markdowndoc
+   artifactId: markdowndoc-maven-plugin
+

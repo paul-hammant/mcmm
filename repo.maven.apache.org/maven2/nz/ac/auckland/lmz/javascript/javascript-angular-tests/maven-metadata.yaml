@@ -1,0 +1,10 @@
+metadata:
+ groupId: nz.ac.auckland.lmz.javascript
+ artifactId: javascript-angular-tests
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20140312092905'
+

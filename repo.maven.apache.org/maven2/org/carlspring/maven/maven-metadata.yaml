@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven Derby Plugin
+   prefix: derby
+   artifactId: derby-maven-plugin
+  - name: LittleProxy Maven Plugin
+   prefix: little-proxy
+   artifactId: little-proxy-maven-plugin
+  - name: Maven Artifact Relocation Plugin
+   prefix: relocation
+   artifactId: relocation-maven-plugin
+  - name: system-properties-maven-plugin
+   prefix: system-properties
+   artifactId: system-properties-maven-plugin
+

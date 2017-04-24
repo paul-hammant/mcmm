@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bluestemsoftware.open.maven
+ artifactId: maven-trunk
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20081027001925'
+

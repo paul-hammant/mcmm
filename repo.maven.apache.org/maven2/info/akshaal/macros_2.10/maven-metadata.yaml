@@ -1,0 +1,10 @@
+metadata:
+ groupId: info.akshaal
+ artifactId: macros_2.10
+ versioning:
+  latest: '0.3'
+  release: '0.3'
+  versions:
+   version: '0.3'
+  lastUpdated: '20120910201824'
+

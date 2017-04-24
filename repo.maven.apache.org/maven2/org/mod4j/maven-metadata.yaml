@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: mod4j-maven-plugin
+   prefix: mod4j
+   artifactId: mod4j-maven-plugin
+

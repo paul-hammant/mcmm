@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.liftmodules
+ artifactId: widgets_3.0_2.11
+ versioning:
+  latest: 1.4.1
+  release: 1.4.1
+  versions:
+   version:
+   - 1.4.0
+   - 1.4.1
+  lastUpdated: '20170112144240'
+

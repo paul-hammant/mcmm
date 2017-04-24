@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven2 Netbeans Debugger Plugin
+   prefix: netbeans-debugger
+   artifactId: netbeans-debugger-plugin
+  - name: Maven2 Netbeans Deployment Plugin
+   prefix: netbeans-deploy
+   artifactId: netbeans-deploy-plugin
+  - name: Maven2 Netbeans JAR Running Plugin
+   prefix: netbeans-run
+   artifactId: netbeans-run-plugin
+  - name: Maven2 NetBeans NBM Reload Plugin
+   prefix: netbeans-nbmreload
+   artifactId: netbeans-nbmreload-plugin
+

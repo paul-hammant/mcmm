@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-com4j-plugin
+   prefix: com4j
+   artifactId: com4j-maven-plugin
+

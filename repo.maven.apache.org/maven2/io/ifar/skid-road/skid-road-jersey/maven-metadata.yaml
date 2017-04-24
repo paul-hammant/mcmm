@@ -1,0 +1,16 @@
+metadata:
+ groupId: io.ifar.skid-road
+ artifactId: skid-road-jersey
+ versioning:
+  latest: '8'
+  release: '8'
+  versions:
+   version:
+   - '3'
+   - '4'
+   - '4.1'
+   - '6'
+   - '7'
+   - '8'
+  lastUpdated: '20141029175612'
+

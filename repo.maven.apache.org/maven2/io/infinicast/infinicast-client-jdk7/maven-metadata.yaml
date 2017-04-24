@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.infinicast
+ artifactId: infinicast-client-jdk7
+ versioning:
+  latest: 1.3.4
+  release: 1.3.4
+  versions:
+   version:
+   - 1.3.3
+   - 1.3.4
+  lastUpdated: '20170323154856'
+

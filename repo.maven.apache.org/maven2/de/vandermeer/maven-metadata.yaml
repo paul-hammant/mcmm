@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Plugin - Project Manager
+   prefix: project-manager
+   artifactId: project-manager-maven-plugin
+

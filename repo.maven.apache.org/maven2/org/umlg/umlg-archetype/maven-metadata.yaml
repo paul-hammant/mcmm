@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.umlg
+ artifactId: umlg-archetype
+ versioning:
+  latest: 0.0.1-SNAPSHOT
+  release: null
+  versions:
+   version: 0.0.1-SNAPSHOT
+  lastUpdated: '20150615184023'
+

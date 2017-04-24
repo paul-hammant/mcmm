@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.eisenvault
+ artifactId: ev-aikau-auditreport
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20160914143722'
+

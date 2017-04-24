@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.ws.commons.neethi
+ artifactId: neethi
+ version: '2.0'
+ versioning:
+  versions:
+   version: '2.0'
+  lastUpdated: '20061114222453'
+

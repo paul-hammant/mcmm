@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.adobe.sign
+ artifactId: adobe-sign-java-sdk
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version: 1.1.2
+  lastUpdated: '20170209111159'
+

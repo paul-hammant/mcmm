@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-rindirect-plugin
+   prefix: rindirect
+   artifactId: maven-rindirect-plugin
+

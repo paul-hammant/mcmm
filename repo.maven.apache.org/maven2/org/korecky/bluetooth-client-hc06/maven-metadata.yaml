@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.korecky
+ artifactId: bluetooth-client-hc06
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '2.0'
+  lastUpdated: '20160902150605'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.codehaus.jcsp
+ artifactId: jcsp
+ version: 1.1-rc5
+ versioning:
+  versions:
+   version: 1.1-rc5
+  lastUpdated: '20100807083644'
+

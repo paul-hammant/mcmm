@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Multiverse project archetype
+   prefix: multiverse-project-archetype
+   artifactId: multiverse-project-archetype
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.javapla.jawn
+ artifactId: jawn-templates-stringtemplate
+ versioning:
+  latest: 0.8.10
+  release: 0.8.10
+  versions:
+   version:
+   - 0.8.9-b02
+   - 0.8.10
+  lastUpdated: '20151022091635'
+

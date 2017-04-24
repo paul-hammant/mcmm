@@ -1,0 +1,13 @@
+metadata:
+ groupId: picocontainer
+ artifactId: picocontainer-gems
+ version: '1.1'
+ versioning:
+  versions:
+   version:
+   - '1.1'
+   - 1.2-RC-1
+   - 1.2-beta-1
+   - 1.2-RC-2
+   - '1.2'
+

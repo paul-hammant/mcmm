@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.shiftforward
+ artifactId: amqp-client_2.12
+ versioning:
+  latest: 1.6.0
+  release: 1.6.0
+  versions:
+   version: 1.6.0
+  lastUpdated: '20170320155859'
+

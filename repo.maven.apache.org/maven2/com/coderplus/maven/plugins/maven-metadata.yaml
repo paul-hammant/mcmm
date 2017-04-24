@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Copy Rename Maven Plugin
+   prefix: copy-rename
+   artifactId: copy-rename-maven-plugin
+

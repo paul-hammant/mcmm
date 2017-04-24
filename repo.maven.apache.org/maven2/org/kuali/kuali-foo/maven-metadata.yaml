@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.kuali
+ artifactId: kuali-foo
+ versioning:
+  latest: '99999'
+  release: '99999'
+  versions:
+   version: '99999'
+  lastUpdated: '20110112000535'
+

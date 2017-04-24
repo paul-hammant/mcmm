@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: FitNesse Launcher Maven Plugin
+   prefix: fitnesse-launcher
+   artifactId: fitnesse-launcher-maven-plugin
+

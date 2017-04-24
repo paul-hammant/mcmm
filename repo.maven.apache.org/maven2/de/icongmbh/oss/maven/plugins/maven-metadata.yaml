@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Javassist Maven Plugin
+   prefix: javassist
+   artifactId: javassist-maven-plugin
+

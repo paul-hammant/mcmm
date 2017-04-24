@@ -1,0 +1,10 @@
+metadata:
+ groupId: be.fluid-it.wagon
+ artifactId: wagon-ftp-incl-rmdir
+ versioning:
+  latest: 2.9-0.1-1
+  release: 2.9-0.1-1
+  versions:
+   version: 2.9-0.1-1
+  lastUpdated: '20150922172751'
+

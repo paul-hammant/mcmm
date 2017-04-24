@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.xbib
+ artifactId: guice
+ versioning:
+  latest: 4.0.4
+  release: 4.0.4
+  versions:
+   version:
+   - 4.0.3
+   - 4.0.4
+  lastUpdated: '20170203113818'
+

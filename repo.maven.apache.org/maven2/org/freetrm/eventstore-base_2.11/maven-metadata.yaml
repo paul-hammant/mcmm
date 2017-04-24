@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.freetrm
+ artifactId: eventstore-base_2.11
+ versioning:
+  latest: 0.1.6
+  release: 0.1.6
+  versions:
+   version: 0.1.6
+  lastUpdated: '20160523141053'
+

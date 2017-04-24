@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.eclipselabs
+ artifactId: osgi-http-service-utils
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version:
+   - 0.3.0
+   - 0.3.1
+   - 0.3.2
+   - 0.4.0
+  lastUpdated: '20111026160722'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.dheid
+ artifactId: demo-jsp
+ versioning:
+  latest: 3.3.1
+  release: 3.3.1
+  versions:
+   version: 3.3.1
+  lastUpdated: '20161004000327'
+

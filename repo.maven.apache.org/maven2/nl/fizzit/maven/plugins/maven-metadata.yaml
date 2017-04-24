@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven TStamp Plugin
+   prefix: tstamp
+   artifactId: maven-tstamp-plugin
+

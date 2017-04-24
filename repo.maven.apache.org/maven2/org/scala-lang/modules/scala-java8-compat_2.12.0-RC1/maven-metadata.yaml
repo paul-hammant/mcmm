@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.scala-lang.modules
+ artifactId: scala-java8-compat_2.12.0-RC1
+ versioning:
+  latest: 0.8.0-RC7
+  release: 0.8.0-RC7
+  versions:
+   version:
+   - 0.8.0-RC5
+   - 0.8.0-RC6
+   - 0.8.0-RC7
+  lastUpdated: '20160912221355'
+

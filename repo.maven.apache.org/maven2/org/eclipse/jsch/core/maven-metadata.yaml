@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.eclipse.jsch
+ artifactId: core
+ version: 1.0.0-I20070426
+ versioning:
+  versions:
+   version: 1.0.0-I20070426
+  lastUpdated: '20071127071541'
+

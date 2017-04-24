@@ -1,0 +1,8 @@
+metadata:
+ groupId: commons-jdbc2pool
+ artifactId: commons-jdbc2pool
+ version: 1.0-dev
+ versioning:
+  versions:
+   version: 1.0-dev
+

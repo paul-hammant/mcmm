@@ -1,0 +1,10 @@
+metadata:
+ groupId: reportrunner
+ artifactId: reportrunner
+ version: 0.4.0
+ versioning:
+  versions:
+   version:
+   - 0.4.0
+   - 0.5.0
+

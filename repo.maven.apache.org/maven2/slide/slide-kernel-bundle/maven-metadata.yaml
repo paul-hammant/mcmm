@@ -1,0 +1,8 @@
+metadata:
+ groupId: slide
+ artifactId: slide-kernel-bundle
+ version: 2.0b1
+ versioning:
+  versions:
+   version: 2.0b1
+

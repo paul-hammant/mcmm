@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.i3xx.step
+ artifactId: org.i3xx.step.store
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20150708133514'
+

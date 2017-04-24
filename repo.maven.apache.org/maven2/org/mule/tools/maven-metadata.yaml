@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: BobberPlus Archetype Plugin
+   prefix: bobberplus
+   artifactId: bobberplus
+  - name: Mule Configuration Patterns Catalog Archetype
+   prefix: mule-catalog-archetype
+   artifactId: mule-catalog-archetype
+  - name: Mule Module Archetype
+   prefix: mule-module-archetype
+   artifactId: mule-module-archetype
+  - name: Mule Project Archetype
+   prefix: mule-project-archetype
+   artifactId: mule-project-archetype
+  - name: Mule Transport Archetype
+   prefix: mule-transport-archetype
+   artifactId: mule-transport-archetype
+  - name: Mule ESB Maven Plugin
+   prefix: muleesb
+   artifactId: muleesb-maven-plugin
+

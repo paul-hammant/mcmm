@@ -1,0 +1,20 @@
+metadata:
+ groupId: io.strongtyped
+ artifactId: active-slick_2.11
+ versioning:
+  latest: 0.3.5-M1
+  release: 0.3.5-M1
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+   - 0.2.1
+   - 0.2.2
+   - 0.3.0
+   - 0.3.1
+   - 0.3.2
+   - 0.3.3
+   - 0.3.4
+   - 0.3.5-M1
+  lastUpdated: '20160719224416'
+

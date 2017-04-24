@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: yal10n-maven-plugin Maven Plugin
+   prefix: yal10n
+   artifactId: yal10n-maven-plugin
+

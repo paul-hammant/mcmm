@@ -1,0 +1,16 @@
+metadata:
+ versioning:
+  latest: 0.0.3
+  release: 0.0.3
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+   - 0.0.3
+  lastUpdated: '20161219171155'
+ plugins:
+  plugin:
+   name: T³ - Site enhancer
+   prefix: t3-site-enhancer
+   artifactId: t3-site-enhancer
+

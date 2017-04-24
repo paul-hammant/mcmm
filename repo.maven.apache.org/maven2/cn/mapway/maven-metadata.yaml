@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: mapway-maven-plugin Maven Plugin
+   prefix: mapway
+   artifactId: mapway-maven-plugin
+

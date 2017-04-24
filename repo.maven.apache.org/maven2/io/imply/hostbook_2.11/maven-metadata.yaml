@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.imply
+ artifactId: hostbook_2.11
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20151005201407'
+

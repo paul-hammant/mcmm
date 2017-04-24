@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.eclipse.team.cvs
+ artifactId: ui
+ version: 3.3.0-I20070607
+ versioning:
+  versions:
+   version:
+   - 3.3.0-I20070607
+   - 3.2.1-M20060831
+  lastUpdated: '20071127073201'
+

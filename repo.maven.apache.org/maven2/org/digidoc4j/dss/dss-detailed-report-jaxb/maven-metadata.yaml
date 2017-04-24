@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.digidoc4j.dss
+ artifactId: dss-detailed-report-jaxb
+ versioning:
+  latest: 4.7.RC2.d4j.1
+  release: 4.7.RC2.d4j.1
+  versions:
+   version:
+   - 4.7.RC1.d4j.1
+   - 4.7.RC2.d4j.1
+  lastUpdated: '20161026160314'
+

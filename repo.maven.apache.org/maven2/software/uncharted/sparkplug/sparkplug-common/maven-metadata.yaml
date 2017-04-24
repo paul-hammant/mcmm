@@ -1,0 +1,10 @@
+metadata:
+ groupId: software.uncharted.sparkplug
+ artifactId: sparkplug-common
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version: 0.2.1
+  lastUpdated: '20160425171128'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.jamesii
+ artifactId: mlrules
+ versioning:
+  latest: 2.2.4
+  release: 2.2.4
+  versions:
+   version:
+   - 2.2.1
+   - 2.2.2
+   - 2.2.3
+   - 2.2.4
+  lastUpdated: '20170221125753'
+

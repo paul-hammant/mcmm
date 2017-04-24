@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Celtix Code Generation Maven 2 Plugins
+   prefix: celtix-codegen
+   artifactId: celtix-codegen-plugin
+

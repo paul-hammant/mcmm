@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.hisrc.hifaces20
+ artifactId: hifaces20-demos
+ versioning:
+  latest: hifaces20.1
+  release: hifaces20.1
+  versions:
+   version: hifaces20.1
+  lastUpdated: '20110815133343'
+

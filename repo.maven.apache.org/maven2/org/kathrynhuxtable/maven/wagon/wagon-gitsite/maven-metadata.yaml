@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.kathrynhuxtable.maven.wagon
+ artifactId: wagon-gitsite
+ versioning:
+  latest: 0.3.1
+  release: 0.3.1
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - 0.3.1
+  lastUpdated: '20101221154421'
+

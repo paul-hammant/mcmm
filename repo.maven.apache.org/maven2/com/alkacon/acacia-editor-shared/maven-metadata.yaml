@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.alkacon
+ artifactId: acacia-editor-shared
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20130210103048'
+

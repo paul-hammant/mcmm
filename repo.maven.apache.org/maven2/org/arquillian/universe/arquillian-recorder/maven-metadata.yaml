@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.arquillian.universe
+ artifactId: arquillian-recorder
+ versioning:
+  latest: 1.1.13.0
+  release: 1.1.13.0
+  versions:
+   version:
+   - 1.0.0.Alpha1
+   - 1.0.0.Alpha2
+   - 1.0.0.Alpha3
+   - 1.0.0.Alpha4
+   - 1.0.0.Alpha5
+   - 1.0.0.Alpha6
+   - 1.0.0.Alpha7
+   - 1.1.12.0
+   - 1.1.13.0
+  lastUpdated: '20170326100941'
+

@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Clerezza - Maven JaxRs Report Plugin
+   prefix: jaxrs-report
+   artifactId: maven-jaxrs-report-plugin
+  - name: 'Clerezza - RDF - SchemaGen: Maven Ontologies Plugin'
+   prefix: ontologies
+   artifactId: maven-ontologies-plugin
+  - name: Clerezza - Maven PlaDoc Plugin Core
+   prefix: pladoc.core
+   artifactId: maven-pladoc-plugin.core
+

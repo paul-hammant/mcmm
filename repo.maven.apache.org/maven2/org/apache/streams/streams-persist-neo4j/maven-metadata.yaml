@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.streams
+ artifactId: streams-persist-neo4j
+ versioning:
+  latest: 0.5-incubating
+  release: 0.5-incubating
+  versions:
+   version: 0.5-incubating
+  lastUpdated: '20170319174525'
+

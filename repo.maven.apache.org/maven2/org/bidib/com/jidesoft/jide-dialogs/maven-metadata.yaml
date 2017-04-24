@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bidib.com.jidesoft
+ artifactId: jide-dialogs
+ versioning:
+  latest: 3.6.15
+  release: 3.6.15
+  versions:
+   version: 3.6.15
+  lastUpdated: '20161129085015'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scalafx
+ artifactId: scalafxml-guice_2.11
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version: 0.2.1
+  lastUpdated: '20140907025054'
+

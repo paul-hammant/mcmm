@@ -1,0 +1,17 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: it.concept.pin
+ artifactId: pojo-injector
+ versioning:
+  latest: 0.1.0.beta3
+  release: 0.1.0.beta3
+  versions:
+   version:
+   - 0.0.2
+   - 0.0.3
+   - 0.0.4
+   - 0.1.0.beta1
+   - 0.1.0.beta2
+   - 0.1.0.beta3
+  lastUpdated: '20110815192648'
+

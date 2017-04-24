@@ -1,0 +1,8 @@
+metadata:
+ groupId: clover
+ artifactId: clover-ant
+ version: '1.3_01'
+ versioning:
+  versions:
+   version: '1.3_01'
+

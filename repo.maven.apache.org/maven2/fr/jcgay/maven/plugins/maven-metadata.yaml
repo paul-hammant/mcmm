@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: BuildPlan Maven Plugin
+   prefix: buildplan
+   artifactId: buildplan-maven-plugin
+

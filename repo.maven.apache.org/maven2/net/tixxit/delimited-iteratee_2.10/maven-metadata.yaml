@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.tixxit
+ artifactId: delimited-iteratee_2.10
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version:
+   - 0.7.0
+   - 0.8.0
+  lastUpdated: '20160613132933'
+

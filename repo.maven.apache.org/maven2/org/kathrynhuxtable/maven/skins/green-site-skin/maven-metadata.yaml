@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.kathrynhuxtable.maven.skins
+ artifactId: green-site-skin
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20100408145106'
+

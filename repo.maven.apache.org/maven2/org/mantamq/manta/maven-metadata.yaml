@@ -1,0 +1,8 @@
+metadata:
+ groupId: org.mantamq
+ artifactId: manta
+ version: '1.9'
+ versioning:
+  versions:
+   version: '1.9'
+

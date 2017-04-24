@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: net.jxta
+ artifactId: jxse-shell
+ versioning:
+  latest: '2.5'
+  release: '2.5'
+  versions:
+   version: '2.5'
+  lastUpdated: '20110815192616'
+

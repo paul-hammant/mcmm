@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.eclipse
+ artifactId: bittorrent
+ version: 0.3.0-v20070627-1030
+ versioning:
+  versions:
+   version: 0.3.0-v20070627-1030
+  lastUpdated: '20071127070911'
+

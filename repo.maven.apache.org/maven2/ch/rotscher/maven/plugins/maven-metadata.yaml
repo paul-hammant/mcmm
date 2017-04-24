@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ${project.artifactId}
+   prefix: dependency-attach
+   artifactId: dependency-attach-plugin
+  - name: ${project.artifactId}
+   prefix: install-custom-version
+   artifactId: install-custom-version-plugin
+  - name: ${project.artifactId}
+   prefix: install-version_override
+   artifactId: install-version_override-plugin
+

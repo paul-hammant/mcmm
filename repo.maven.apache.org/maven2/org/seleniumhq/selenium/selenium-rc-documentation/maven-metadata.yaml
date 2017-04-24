@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.seleniumhq.selenium
+ artifactId: selenium-rc-documentation
+ version: 1.0-beta-2
+ versioning:
+  versions:
+   version:
+   - 1.0-beta-2
+   - '1.0'
+   - 1.0.1
+  lastUpdated: '20090612192026'
+

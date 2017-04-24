@@ -1,0 +1,10 @@
+metadata:
+ groupId: ch.ethz.inf.vs
+ artifactId: cf-helloworld-client
+ versioning:
+  latest: 0.18.7-final
+  release: 0.18.7-final
+  versions:
+   version: 0.18.7-final
+  lastUpdated: '20140625101609'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bitbucket.pablo127
+ artifactId: gpigvalidator
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20170324183628'
+

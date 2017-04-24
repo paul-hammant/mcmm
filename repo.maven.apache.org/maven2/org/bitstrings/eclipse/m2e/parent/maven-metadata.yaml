@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bitstrings.eclipse.m2e
+ artifactId: parent
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20110801030808'
+

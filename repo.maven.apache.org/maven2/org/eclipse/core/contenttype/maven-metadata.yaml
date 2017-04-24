@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.eclipse.core
+ artifactId: contenttype
+ versioning:
+  latest: 3.4.200-v20140207-1251
+  release: 3.4.200-v20140207-1251
+  versions:
+   version:
+   - 3.4.200-v20130326-1255
+   - 3.4.200-v20140207-1251
+  lastUpdated: '20140801141701'
+

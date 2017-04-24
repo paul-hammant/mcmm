@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.easyproject
+ artifactId: easyocr-linkbold-plugin
+ versioning:
+  latest: 3.0.3-RELEASE
+  release: 3.0.3-RELEASE
+  versions:
+   version: 3.0.3-RELEASE
+  lastUpdated: '20150929103251'
+

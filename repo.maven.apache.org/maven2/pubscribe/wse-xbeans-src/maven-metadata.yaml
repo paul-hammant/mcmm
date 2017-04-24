@@ -1,0 +1,8 @@
+metadata:
+ groupId: pubscribe
+ artifactId: wse-xbeans-src
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

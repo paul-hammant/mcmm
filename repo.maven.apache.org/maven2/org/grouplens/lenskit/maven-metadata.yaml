@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: LensKit Evaluation Maven Plugin
+   prefix: lenskit-eval
+   artifactId: lenskit-eval-maven-plugin
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: exteca
+ artifactId: exteca-pattern
+ version: 1.0-b1
+ versioning:
+  versions:
+   version: 1.0-b1
+

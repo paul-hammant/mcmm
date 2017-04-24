@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.robyf
+ artifactId: gradle-jarinjar-plugin
+ versioning:
+  latest: 1.0.6
+  release: 1.0.6
+  versions:
+   version:
+   - 1.0.0.1
+   - 1.0.0.5
+   - 1.0.6
+  lastUpdated: '20160922143159'
+

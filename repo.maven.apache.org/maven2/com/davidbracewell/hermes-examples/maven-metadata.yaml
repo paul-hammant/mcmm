@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.davidbracewell
+ artifactId: hermes-examples
+ versioning:
+  latest: '0.4'
+  release: '0.4'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - '0.3'
+   - '0.4'
+  lastUpdated: '20170102224801'
+

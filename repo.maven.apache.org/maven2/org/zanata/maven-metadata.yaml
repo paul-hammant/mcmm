@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Zanata Maven Plugin
+   prefix: zanata
+   artifactId: zanata-maven-plugin
+

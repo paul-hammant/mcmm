@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.dkpro.tc
+ artifactId: dkpro-tc-features-pair
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version:
+   - 0.8.0
+   - 0.9.0
+  lastUpdated: '20161031103432'
+

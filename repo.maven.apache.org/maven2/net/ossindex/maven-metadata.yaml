@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.groupId}:${project.artifactId}
+   prefix: ossindex
+   artifactId: ossindex-maven-plugin
+

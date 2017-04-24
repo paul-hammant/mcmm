@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.cosmicpush
+ artifactId: push-server-jackson
+ versioning:
+  latest: 4.0.4
+  release: 4.0.4
+  versions:
+   version:
+   - 4.0.0
+   - 4.0.1
+   - 4.0.2
+   - 4.0.3
+   - 4.0.4
+  lastUpdated: '20150408022109'
+

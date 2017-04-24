@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Spring Component Builder
+   prefix: spring-component-builder
+   artifactId: spring-component-builder
+

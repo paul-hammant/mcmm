@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.github.gpein
+ artifactId: jcache-jee7
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.1.1
+  lastUpdated: '20160221162101'
+

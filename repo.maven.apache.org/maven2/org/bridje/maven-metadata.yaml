@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Bridje Maven Plugin
+   prefix: bridje
+   artifactId: bridje-maven-plugin
+  - name: Bridje XSD Maven Plugin
+   prefix: bridje-xsd
+   artifactId: bridje-xsd-maven-plugin
+

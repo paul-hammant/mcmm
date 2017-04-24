@@ -1,0 +1,17 @@
+metadata:
+ groupId: com.f2prateek.dart
+ artifactId: dart-parent
+ versioning:
+  latest: 2.0.2
+  release: 2.0.2
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 2.0.0-RC0
+   - 2.0.0-RC1
+   - 2.0.0
+   - 2.0.1
+   - 2.0.2
+  lastUpdated: '20170215192224'
+

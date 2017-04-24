@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.lanatec
+ artifactId: spring-browsersync
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20160531095516'
+

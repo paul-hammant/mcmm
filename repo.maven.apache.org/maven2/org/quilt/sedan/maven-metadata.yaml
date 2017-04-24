@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.quilt
+ artifactId: sedan
+ versioning:
+  latest: 0.0.5
+  release: 0.0.5
+  versions:
+   version: 0.0.5
+  lastUpdated: '20140520192107'
+

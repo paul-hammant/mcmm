@@ -1,0 +1,15 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.jboss.xnio.netty
+ artifactId: netty-xnio-transport
+ versioning:
+  latest: 0.1.2.Final
+  release: 0.1.2.Final
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1.CR2
+   - 0.1.1.Final
+   - 0.1.2.Final
+  lastUpdated: '20170214152632'
+

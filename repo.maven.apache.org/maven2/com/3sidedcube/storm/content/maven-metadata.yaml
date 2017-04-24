@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.3sidedcube.storm
+ artifactId: content
+ versioning:
+  latest: 0.1a
+  release: 0.1a
+  versions:
+   version: 0.1a
+  lastUpdated: '20141029131239'
+

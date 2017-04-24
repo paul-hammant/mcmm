@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.iscpif.gridscale
+ artifactId: sardine_2.11
+ versioning:
+  latest: '1.91'
+  release: '1.91'
+  versions:
+   version: '1.91'
+  lastUpdated: '20170419225928'
+

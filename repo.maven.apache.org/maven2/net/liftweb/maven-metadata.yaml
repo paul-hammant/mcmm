@@ -1,0 +1,76 @@
+metadata:
+ plugins:
+  plugin:
+  - name: lift-archetype-jpa-basic
+   prefix: lift-archetype-jpa-basic
+   artifactId: lift-archetype-jpa-basic
+  - name: lift-archetype-jpa-blank
+   prefix: lift-archetype-jpa-blank
+   artifactId: lift-archetype-jpa-blank
+  - name: lift-archetype-jpa-blank-single
+   prefix: lift-archetype-jpa-blank-single
+   artifactId: lift-archetype-jpa-blank-single
+  - name: lift-archetype-blank
+   prefix: lift-archetype-blank
+   artifactId: lift-archetype-blank
+  - name: lift-archetype-basic
+   prefix: lift-archetype-basic
+   artifactId: lift-archetype-basic
+  - name: lift-archetype-sbt
+   prefix: lift-archetype-sbt
+   artifactId: lift-archetype-sbt
+  - name: lift-archetype-blank_2.7.7
+   prefix: lift-archetype-blank_2.7.7
+   artifactId: lift-archetype-blank_2.7.7
+  - name: lift-archetype-basic_2.7.7
+   prefix: lift-archetype-basic_2.7.7
+   artifactId: lift-archetype-basic_2.7.7
+  - name: lift-archetype-sbt_2.7.7
+   prefix: lift-archetype-sbt_2.7.7
+   artifactId: lift-archetype-sbt_2.7.7
+  - name: lift-archetype-jpa-blank-single_2.7.7
+   prefix: lift-archetype-jpa-blank-single_2.7.7
+   artifactId: lift-archetype-jpa-blank-single_2.7.7
+  - name: lift-archetype-jpa-blank_2.7.7
+   prefix: lift-archetype-jpa-blank_2.7.7
+   artifactId: lift-archetype-jpa-blank_2.7.7
+  - name: lift-archetype-jpa-basic_2.7.7
+   prefix: lift-archetype-jpa-basic_2.7.7
+   artifactId: lift-archetype-jpa-basic_2.7.7
+  - name: lift-archetype-blank_2.8.0
+   prefix: lift-archetype-blank_2.8.0
+   artifactId: lift-archetype-blank_2.8.0
+  - name: lift-archetype-basic_2.8.0
+   prefix: lift-archetype-basic_2.8.0
+   artifactId: lift-archetype-basic_2.8.0
+  - name: lift-archetype-sbt_2.8.0
+   prefix: lift-archetype-sbt_2.8.0
+   artifactId: lift-archetype-sbt_2.8.0
+  - name: lift-archetype-jpa-blank-single_2.8.0
+   prefix: lift-archetype-jpa-blank-single_2.8.0
+   artifactId: lift-archetype-jpa-blank-single_2.8.0
+  - name: lift-archetype-jpa-blank_2.8.0
+   prefix: lift-archetype-jpa-blank_2.8.0
+   artifactId: lift-archetype-jpa-blank_2.8.0
+  - name: lift-archetype-jpa-basic_2.8.0
+   prefix: lift-archetype-jpa-basic_2.8.0
+   artifactId: lift-archetype-jpa-basic_2.8.0
+  - name: lift-archetype-blank_2.8.1
+   prefix: lift-archetype-blank_2.8.1
+   artifactId: lift-archetype-blank_2.8.1
+  - name: lift-archetype-basic_2.8.1
+   prefix: lift-archetype-basic_2.8.1
+   artifactId: lift-archetype-basic_2.8.1
+  - name: lift-archetype-sbt_2.8.1
+   prefix: lift-archetype-sbt_2.8.1
+   artifactId: lift-archetype-sbt_2.8.1
+  - name: lift-archetype-jpa-blank-single_2.8.1
+   prefix: lift-archetype-jpa-blank-single_2.8.1
+   artifactId: lift-archetype-jpa-blank-single_2.8.1
+  - name: lift-archetype-jpa-blank_2.8.1
+   prefix: lift-archetype-jpa-blank_2.8.1
+   artifactId: lift-archetype-jpa-blank_2.8.1
+  - name: lift-archetype-jpa-basic_2.8.1
+   prefix: lift-archetype-jpa-basic_2.8.1
+   artifactId: lift-archetype-jpa-basic_2.8.1
+

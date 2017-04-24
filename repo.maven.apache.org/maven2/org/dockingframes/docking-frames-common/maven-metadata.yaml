@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.dockingframes
+ artifactId: docking-frames-common
+ versioning:
+  latest: 1.1.2p6a
+  release: 1.1.2p6a
+  versions:
+   version:
+   - 1.0.8
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2p6a
+  lastUpdated: '20130418180342'
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven EMF Plugin
+   prefix: emf
+   artifactId: maven-emf-plugin
+  - name: Maven Eclipse Build Plugin
+   prefix: eclipsepde
+   artifactId: maven-eclipsepde-plugin
+

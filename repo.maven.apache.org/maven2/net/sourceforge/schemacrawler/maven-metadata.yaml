@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SchemaCrawler Maven Plugin
+   prefix: schemacrawler
+   artifactId: schemacrawler-maven-plugin
+

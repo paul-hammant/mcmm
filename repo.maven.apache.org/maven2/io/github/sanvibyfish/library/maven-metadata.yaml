@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.sanvibyfish
+ artifactId: library
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20141113055359'
+

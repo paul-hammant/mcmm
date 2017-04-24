@@ -1,0 +1,13 @@
+metadata:
+ groupId: uk.co.chrisjenx.kupnp
+ artifactId: control
+ versioning:
+  latest: 1.0.0-alpha-3
+  release: 1.0.0-alpha-3
+  versions:
+   version:
+   - 1.0.0-alpha-1
+   - 1.0.0-alpha-2
+   - 1.0.0-alpha-3
+  lastUpdated: '20161108214759'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.atmodem4j
+ artifactId: libspsw-linux-i386
+ versioning:
+  latest: 0.0.7
+  release: 0.0.7
+  versions:
+   version:
+   - 0.0.4
+   - 0.0.7
+  lastUpdated: '20161111170232'
+

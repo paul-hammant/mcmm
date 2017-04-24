@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: play2-maven-plugin
+   prefix: play2
+   artifactId: play2-maven-plugin
+

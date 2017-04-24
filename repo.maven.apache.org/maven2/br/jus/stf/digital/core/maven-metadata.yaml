@@ -1,0 +1,17 @@
+metadata:
+ groupId: br.jus.stf.digital
+ artifactId: core
+ versioning:
+  latest: 1.0.3
+  release: 1.0.3
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+   - 1.0.0-RC
+   - 1.0.0
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+  lastUpdated: '20170422030526'
+

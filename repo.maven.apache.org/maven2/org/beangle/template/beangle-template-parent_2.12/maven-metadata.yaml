@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.beangle.template
+ artifactId: beangle-template-parent_2.12
+ versioning:
+  latest: 0.0.14
+  release: 0.0.14
+  versions:
+   version:
+   - 0.0.10
+   - 0.0.11
+   - 0.0.12
+   - 0.0.13
+   - 0.0.14
+  lastUpdated: '20160906044858'
+

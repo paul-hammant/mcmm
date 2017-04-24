@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.ws
+ artifactId: jbossws-jboss710-parent
+ versioning:
+  latest: 4.1.0.Final
+  release: 4.1.0.Final
+  versions:
+   version: 4.1.0.Final
+  lastUpdated: '20121015163401'
+

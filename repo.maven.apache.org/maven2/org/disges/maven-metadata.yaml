@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Apache Thrift POJO generator
+   prefix: thrift-pojo-generator
+   artifactId: thrift-pojo-generator-maven-plugin
+

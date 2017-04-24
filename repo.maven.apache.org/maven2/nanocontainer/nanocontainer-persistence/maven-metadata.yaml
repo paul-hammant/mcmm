@@ -1,0 +1,13 @@
+metadata:
+ groupId: nanocontainer
+ artifactId: nanocontainer-persistence
+ version: 1.0-RC-1
+ versioning:
+  versions:
+   version:
+   - 1.0-RC-1
+   - '20050922.101153'
+   - 1.0-RC-2
+   - 1.0-RC-3
+   - '1.0'
+

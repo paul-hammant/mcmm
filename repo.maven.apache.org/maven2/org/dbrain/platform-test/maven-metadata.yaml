@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.dbrain
+ artifactId: platform-test
+ versioning:
+  latest: '4.3'
+  release: '4.3'
+  versions:
+   version:
+   - '1'
+   - '2'
+   - '3'
+   - '4.2'
+   - '4.3'
+  lastUpdated: '20150917025611'
+

@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: null
+   prefix: carrotaws
+   artifactId: carrot-maven-aws-plugin
+  - name: null
+   prefix: carrotbatik
+   artifactId: carrot-maven-batik-plugin
+  - name: null
+   prefix: carrotimage4j
+   artifactId: carrot-maven-image4j-plugin
+  - name: null
+   prefix: carrotimgscalr
+   artifactId: carrot-maven-imgscalr-plugin
+  - name: null
+   prefix: carrotscr
+   artifactId: carrot-maven-scr-plugin
+  - name: null
+   prefix: carrotstaging
+   artifactId: carrot-maven-staging-plugin
+

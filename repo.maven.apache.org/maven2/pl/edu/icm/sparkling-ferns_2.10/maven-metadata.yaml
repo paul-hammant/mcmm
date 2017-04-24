@@ -1,0 +1,12 @@
+metadata:
+ groupId: pl.edu.icm
+ artifactId: sparkling-ferns_2.10
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+  lastUpdated: '20150930152134'
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: BWMaven Java XPath plugin
+   prefix: bw-javaxpath
+   artifactId: bw-javaxpath-maven-plugin
+  - name: BWMaven plugin
+   prefix: bw
+   artifactId: bw-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.taverna
+ artifactId: taverna-parent
+ versioning:
+  latest: 1-incubating
+  release: 1-incubating
+  versions:
+   version: 1-incubating
+  lastUpdated: '20150811150945'
+

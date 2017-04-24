@@ -1,0 +1,12 @@
+metadata:
+ groupId: date.yetao.maven
+ artifactId: maven-all
+ versioning:
+  latest: 1.1-RELEASE
+  release: 1.1-RELEASE
+  versions:
+   version:
+   - 1.0-RELEASE
+   - 1.1-RELEASE
+  lastUpdated: '20170218140144'
+

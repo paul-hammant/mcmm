@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: code-g-maven-plugin
+   prefix: code-g
+   artifactId: code-g-maven-plugin
+

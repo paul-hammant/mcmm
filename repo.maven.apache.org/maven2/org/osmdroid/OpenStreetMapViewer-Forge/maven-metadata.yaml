@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.osmdroid
+ artifactId: OpenStreetMapViewer-Forge
+ versioning:
+  latest: '5.2'
+  release: '5.2'
+  versions:
+   version: '5.2'
+  lastUpdated: '20160428215535'
+

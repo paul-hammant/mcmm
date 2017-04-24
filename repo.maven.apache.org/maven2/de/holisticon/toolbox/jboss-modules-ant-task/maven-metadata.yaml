@@ -1,0 +1,14 @@
+metadata:
+ groupId: de.holisticon.toolbox
+ artifactId: jboss-modules-ant-task
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - 1.0.0
+   - '1.1'
+   - 1.1.1
+   - '1.2'
+  lastUpdated: '20150820172428'
+

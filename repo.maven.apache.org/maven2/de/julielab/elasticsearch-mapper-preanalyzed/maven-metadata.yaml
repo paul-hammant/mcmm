@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.julielab
+ artifactId: elasticsearch-mapper-preanalyzed
+ versioning:
+  latest: 5.2.2
+  release: 5.2.2
+  versions:
+   version: 5.2.2
+  lastUpdated: '20170419115333'
+

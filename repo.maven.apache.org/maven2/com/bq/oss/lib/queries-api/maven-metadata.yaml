@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.bq.oss.lib
+ artifactId: queries-api
+ versioning:
+  latest: 0.7.0
+  release: 0.7.0
+  versions:
+   version:
+   - 0.4.0
+   - 0.5.0
+   - 0.7.0
+  lastUpdated: '20150701085558'
+

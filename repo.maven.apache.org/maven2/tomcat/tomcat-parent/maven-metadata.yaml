@@ -1,0 +1,7 @@
+metadata:
+ groupId: tomcat
+ artifactId: tomcat-parent
+ versioning:
+  versions:
+   version: 5.5.15
+

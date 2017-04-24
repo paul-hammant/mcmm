@@ -1,0 +1,8 @@
+metadata:
+ groupId: hibernate
+ artifactId: hibernate-entitymanager
+ version: 3.1beta1
+ versioning:
+  versions:
+   version: 3.1beta1
+

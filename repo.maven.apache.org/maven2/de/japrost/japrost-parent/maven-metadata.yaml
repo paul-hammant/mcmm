@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.japrost
+ artifactId: japrost-parent
+ versioning:
+  latest: '5.1'
+  release: '5.1'
+  versions:
+   version:
+   - '5.0'
+   - '5.1'
+  lastUpdated: '20170413210126'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jPlanets Frontpage Maven Report
+   prefix: jplanets-frontpage-report
+   artifactId: jplanets-frontpage-report
+

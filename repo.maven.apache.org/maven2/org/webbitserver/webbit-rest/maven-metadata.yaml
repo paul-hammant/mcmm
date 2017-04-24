@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.webbitserver
+ artifactId: webbit-rest
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+   - 0.3.0
+  lastUpdated: '20120706113007'
+

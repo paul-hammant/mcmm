@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Plugin "${project.artifactId}"
+   prefix: replacer
+   artifactId: replacer-maven-plugin
+

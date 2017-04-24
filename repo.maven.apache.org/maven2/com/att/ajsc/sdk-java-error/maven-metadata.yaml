@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.att.ajsc
+ artifactId: sdk-java-error
+ versioning:
+  latest: 6.2.0.6
+  release: 6.2.0.6
+  versions:
+   version: 6.2.0.6
+  lastUpdated: '20170329170521'
+

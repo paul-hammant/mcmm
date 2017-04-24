@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.diffplug.matsim
+ artifactId: jmatio
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version:
+   - 0.0.1
+   - 1.2.0
+  lastUpdated: '20151012135757'
+

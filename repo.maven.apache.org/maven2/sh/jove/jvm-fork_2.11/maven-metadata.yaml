@@ -1,0 +1,10 @@
+metadata:
+ groupId: sh.jove
+ artifactId: jvm-fork_2.11
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20150216235501'
+

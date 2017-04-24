@@ -1,0 +1,10 @@
+metadata:
+ groupId: nz.net.osnz.composite
+ artifactId: composite-spring-webwebmvc
+ versioning:
+  latest: '4.1'
+  release: '4.1'
+  versions:
+   version: '4.1'
+  lastUpdated: '20140815114903'
+

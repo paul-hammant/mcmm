@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.akhikhl.mavenize
+ artifactId: gradle-eclipse2mvn
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20140130063553'
+

@@ -1,0 +1,17 @@
+metadata:
+ groupId: net.sf.jt400
+ artifactId: jt400
+ versioning:
+  latest: '9.3'
+  release: '9.3'
+  versions:
+   version:
+   - '8.5'
+   - '8.6'
+   - '8.7'
+   - '9.0'
+   - '9.1'
+   - '9.2'
+   - '9.3'
+  lastUpdated: '20170407015905'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.vectorpublish
+ artifactId: Layer
+ versioning:
+  latest: 0.9.26
+  release: 0.9.26
+  versions:
+   version: 0.9.26
+  lastUpdated: '20170325113616'
+

@@ -1,0 +1,11 @@
+metadata:
+ groupId: axis2
+ artifactId: addressing
+ version: '0.94'
+ versioning:
+  versions:
+   version:
+   - '0.94'
+   - '0.95'
+   - '1.0'
+

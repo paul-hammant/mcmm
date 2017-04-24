@@ -1,0 +1,10 @@
+metadata:
+ groupId: jp.co.bizreach
+ artifactId: aws-cloudsearch-scala_2.11
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version: 0.0.2
+  lastUpdated: '20141020172310'
+

@@ -1,0 +1,17 @@
+metadata:
+ groupId: com.englishtown.vertx
+ artifactId: vertx-mail-service
+ versioning:
+  latest: 2.3.0
+  release: 2.3.0
+  versions:
+   version:
+   - 2.0.0-RC1
+   - 2.0.0-RC2
+   - 2.0.0-RC3
+   - 2.0.0
+   - 2.1.0
+   - 2.2.0
+   - 2.3.0
+  lastUpdated: '20170105193943'
+

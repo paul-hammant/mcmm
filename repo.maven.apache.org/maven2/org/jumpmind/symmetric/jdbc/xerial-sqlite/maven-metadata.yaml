@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.jumpmind.symmetric.jdbc
+ artifactId: xerial-sqlite
+ versioning:
+  release: 3.7.15.SNAPSHOT.2
+  versions:
+   version: 3.7.15.SNAPSHOT.2
+  lastUpdated: '20130610171914'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.mule.distributions
+ artifactId: cloud-connector-dev-kit
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20110114185815'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.smartcosmos
+ artifactId: smartcosmos-dao-metadata
+ versioning:
+  latest: 3.0.1
+  release: 3.0.1
+  versions:
+   version:
+   - 3.0.0
+   - 3.0.1
+  lastUpdated: '20161117231442'
+

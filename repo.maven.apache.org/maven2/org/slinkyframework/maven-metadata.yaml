@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: slinky-environment-builder
+   artifactId: slinky-environment-builder-maven-plugin
+

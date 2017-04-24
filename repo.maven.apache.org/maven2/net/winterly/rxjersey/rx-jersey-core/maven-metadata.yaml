@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.winterly.rxjersey
+ artifactId: rx-jersey-core
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version: 0.8.0
+  lastUpdated: '20170418231510'
+

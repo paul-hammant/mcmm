@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.htmlparser
+ artifactId: jericho-html
+ version: '2.1'
+ versioning:
+  versions:
+   version:
+   - '2.1'
+   - 1.5-dev1
+

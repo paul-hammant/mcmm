@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: protoc-bundled-plugin -- Batteries included Maven Protobuf compiler Plugin
+   prefix: protoc-bundled
+   artifactId: protoc-bundled-plugin
+

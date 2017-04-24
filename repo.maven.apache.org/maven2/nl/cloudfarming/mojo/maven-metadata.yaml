@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: OmegaT Maven Plugin
+   prefix: omegat
+   artifactId: omegat-maven-plugin
+

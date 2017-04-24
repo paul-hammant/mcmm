@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven SpiffyUI Plugin
+   prefix: spiffyui
+   artifactId: maven-spiffyui-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.zkoss.zk
+ artifactId: zkspring-security
+ versioning:
+  latest: '3.0'
+  release: '3.0'
+  versions:
+   version: '3.0'
+  lastUpdated: '20110916072715'
+

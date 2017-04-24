@@ -1,0 +1,12 @@
+metadata:
+ groupId: ae.teletronics.toolbox
+ artifactId: cache
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version:
+   - '0.8'
+   - '0.9'
+  lastUpdated: '20150413063934'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.esyfur
+ artifactId: gradle-config-plugin
+ versioning:
+  latest: 0.4.7
+  release: 0.4.7
+  versions:
+   version:
+   - 0.4.5
+   - 0.4.6
+   - 0.4.7
+  lastUpdated: '20140411090353'
+

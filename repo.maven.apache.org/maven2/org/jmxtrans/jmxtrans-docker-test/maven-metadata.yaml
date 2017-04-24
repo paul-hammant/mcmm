@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.jmxtrans
+ artifactId: jmxtrans-docker-test
+ versioning:
+  latest: '265'
+  release: '265'
+  versions:
+   version:
+   - '254'
+   - '256'
+   - '259'
+   - '260'
+   - '261'
+   - '262'
+   - '263'
+   - '264'
+   - '265'
+  lastUpdated: '20170421080919'
+

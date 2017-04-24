@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.streum
+ artifactId: configrity-yaml_2.9.1
+ versioning:
+  latest: 0.10.2
+  release: 0.10.2
+  versions:
+   version:
+   - 0.10.0
+   - 0.10.1
+   - 0.10.2
+  lastUpdated: '20120521190747'
+

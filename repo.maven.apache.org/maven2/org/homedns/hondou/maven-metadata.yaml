@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: swap-maven-plugin
+   prefix: swap
+   artifactId: swap-maven-plugin
+

@@ -1,0 +1,51 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: bom-builder
+   artifactId: bom-builder-maven-plugin
+  - name: Code Coverage Plugin
+   prefix: code-coverage
+   artifactId: code-coverage-maven-plugin
+  - name: JSP Plugin
+   prefix: jsp
+   artifactId: jsp-maven-plugin
+  - name: JBoss Buildmagic Thirdparty Repository Maven Plugin
+   prefix: buildmagic-thirdparty
+   artifactId: maven-buildmagic-thirdparty-plugin
+  - name: Injection Maven Mojo
+   prefix: injection
+   artifactId: maven-injection-plugin
+  - name: JBoss Deploy Maven Plugin
+   prefix: jboss-deploy
+   artifactId: maven-jboss-deploy-plugin
+  - name: Maven JBoss License Plugin
+   prefix: jboss-license
+   artifactId: maven-jboss-license-plugin
+  - name: Maven JBoss Retro Plugin
+   prefix: jboss-retro
+   artifactId: maven-jboss-retro-plugin
+  - name: JBoss AOP Maven Plugin
+   prefix: jbossaop
+   artifactId: maven-jbossaop-plugin
+  - name: jDocBook Maven Plugin
+   prefix: jdocbook
+   artifactId: maven-jdocbook-plugin
+  - name: Maven Docbook Style Plugin
+   prefix: jdocbook-style
+   artifactId: maven-jdocbook-style-plugin
+  - name: QSTools Maven Plugin
+   prefix: qstools
+   artifactId: maven-qstools-plugin
+  - name: Test Environment Extension Plugin
+   prefix: test-ext
+   artifactId: maven-test-ext-plugin
+  - name: Transformer Maven Mojo
+   prefix: transformer
+   artifactId: maven-transformer-plugin
+  - name: Maven Zip Plugin
+   prefix: zip
+   artifactId: maven-zip-plugin
+  - name: QSTools Maven Plugin
+   prefix: qstools
+   artifactId: qstools
+

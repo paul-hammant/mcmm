@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.piccolo2d
+ artifactId: piccolo2d-parent
+ versioning:
+  latest: 3.0-beta1-rc1
+  release: 3.0-beta1-rc1
+  versions:
+   version:
+   - '1.3'
+   - 1.3.1-rc1
+   - 1.3.1
+   - 3.0-beta1-rc1
+  lastUpdated: '20130411201437'
+

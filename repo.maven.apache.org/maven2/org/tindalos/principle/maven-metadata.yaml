@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Principle Maven Plugin
+   prefix: principle
+   artifactId: principle
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apereo.cas
+ artifactId: cas-server-webapp-tomcat
+ versioning:
+  latest: 5.1.0-RC3
+  release: 5.1.0-RC3
+  versions:
+   version: 5.1.0-RC3
+  lastUpdated: '20170403123055'
+

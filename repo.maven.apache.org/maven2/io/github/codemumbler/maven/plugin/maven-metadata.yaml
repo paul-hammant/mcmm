@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: mdbconverter Maven Mojo
+   prefix: mdbconverter
+   artifactId: mdbconverter
+

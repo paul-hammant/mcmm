@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Documentation Generator
+   prefix: io.sarl..docs.generator
+   artifactId: io.sarl.maven.docs.generator
+  - name: SRE Generator
+   prefix: io.sarl..sre
+   artifactId: io.sarl.maven.sre
+  - name: Maven Compiler
+   prefix: sarl
+   artifactId: sarl-maven-plugin
+

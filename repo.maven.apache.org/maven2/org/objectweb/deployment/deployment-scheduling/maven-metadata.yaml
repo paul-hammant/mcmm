@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.deployment
+ artifactId: deployment-scheduling
+ version: '0.2'
+ versioning:
+  versions:
+   version: '0.2'
+  lastUpdated: '20060123130253'
+

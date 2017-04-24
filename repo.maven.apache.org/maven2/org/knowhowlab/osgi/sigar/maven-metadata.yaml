@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.knowhowlab.osgi
+ artifactId: sigar
+ versioning:
+  latest: 1.6.5_01
+  release: 1.6.5_01
+  versions:
+   version: 1.6.5_01
+  lastUpdated: '20161115174917'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.cdevreeze.yaidom
+ artifactId: yaidom-xs_2.11
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version: '0.2'
+  lastUpdated: '20150917190255'
+

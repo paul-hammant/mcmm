@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.quartz-scheduler.internal
+ artifactId: quartz-stubs
+ versioning:
+  latest: 2.1.7
+  release: 2.1.7
+  versions:
+   version:
+   - 2.1.4
+   - 2.1.5
+   - 2.1.6
+   - 2.1.7
+  lastUpdated: '20130305153934'
+

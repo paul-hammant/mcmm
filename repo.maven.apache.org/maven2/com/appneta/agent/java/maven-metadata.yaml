@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: AppNeta instrumentation agent installer plugin
+   prefix: appneta
+   artifactId: appneta-maven-plugin
+

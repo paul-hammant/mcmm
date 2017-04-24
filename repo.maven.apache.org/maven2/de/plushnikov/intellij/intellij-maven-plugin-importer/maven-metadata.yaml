@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.plushnikov.intellij
+ artifactId: intellij-maven-plugin-importer
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20120603180434'
+

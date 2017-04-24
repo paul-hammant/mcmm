@@ -1,0 +1,10 @@
+metadata:
+ groupId: jetty
+ artifactId: org.mortbay.j2ee
+ version: 4.2.20
+ versioning:
+  versions:
+   version:
+   - 4.2.20
+   - 5.0.RC0
+

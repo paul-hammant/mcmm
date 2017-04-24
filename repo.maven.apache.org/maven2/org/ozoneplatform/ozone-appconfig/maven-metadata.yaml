@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ozoneplatform
+ artifactId: ozone-appconfig
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version: '0.9'
+  lastUpdated: '20150514145554'
+

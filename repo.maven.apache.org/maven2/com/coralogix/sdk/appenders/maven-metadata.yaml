@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.coralogix.sdk
+ artifactId: appenders
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - '1.2'
+   - 1.2.1
+   - 2.0.0
+  lastUpdated: '20170109162833'
+

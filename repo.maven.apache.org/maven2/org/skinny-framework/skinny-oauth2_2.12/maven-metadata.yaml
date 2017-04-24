@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.skinny-framework
+ artifactId: skinny-oauth2_2.12
+ versioning:
+  latest: 2.3.6
+  release: 2.3.6
+  versions:
+   version:
+   - 2.3.0-M1
+   - 2.3.0-RC1
+   - 2.3.0
+   - 2.3.1
+   - 2.3.2
+   - 2.3.3
+   - 2.3.4
+   - 2.3.5
+   - 2.3.6
+  lastUpdated: '20170327014030'
+

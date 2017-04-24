@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sonarsource.sonarlint
+ artifactId: sonarlint-cli
+ versioning:
+  latest: 2.1.0.566
+  release: 2.1.0.566
+  versions:
+   version: 2.1.0.566
+  lastUpdated: '20170117072614'
+

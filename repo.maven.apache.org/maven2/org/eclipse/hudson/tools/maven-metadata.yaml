@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven hpi Plugin
+   prefix: hpi
+   artifactId: maven-hpi-plugin
+

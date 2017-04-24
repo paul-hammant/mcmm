@@ -1,0 +1,18 @@
+metadata:
+ groupId: org.livetribe
+ artifactId: livetribe
+ versioning:
+  latest: '7'
+  release: '7'
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+   - 1.1.0
+   - '1.2'
+   - 1.4.0
+   - 1.5.0
+   - '6'
+   - '7'
+  lastUpdated: '20120317014057'
+

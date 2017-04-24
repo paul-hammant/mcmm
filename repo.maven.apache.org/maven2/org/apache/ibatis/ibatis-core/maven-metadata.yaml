@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.ibatis
+ artifactId: ibatis-core
+ version: '3.0'
+ versioning:
+  versions:
+   version: '3.0'
+  lastUpdated: '20100418151752'
+

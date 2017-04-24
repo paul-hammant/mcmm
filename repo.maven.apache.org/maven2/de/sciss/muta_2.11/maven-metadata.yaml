@@ -1,0 +1,14 @@
+metadata:
+ groupId: de.sciss
+ artifactId: muta_2.11
+ versioning:
+  latest: 0.7.0
+  release: 0.7.0
+  versions:
+   version:
+   - 0.4.1
+   - 0.5.0
+   - 0.6.0
+   - 0.7.0
+  lastUpdated: '20161007204149'
+

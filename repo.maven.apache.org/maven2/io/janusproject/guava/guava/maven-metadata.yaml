@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.janusproject.guava
+ artifactId: guava
+ versioning:
+  latest: 19.0.0
+  release: 19.0.0
+  versions:
+   version:
+   - '17.0'
+   - 17.0.2
+   - 19.0.0
+  lastUpdated: '20150409000726'
+

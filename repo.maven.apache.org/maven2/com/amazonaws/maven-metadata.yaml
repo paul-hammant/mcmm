@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: AWS SDK for Java - Code Generator Maven Plugin
+   prefix: aws-java-sdk-codegen
+   artifactId: aws-java-sdk-codegen-maven-plugin
+  - name: aws-java-sdk-generated-samples
+   prefix: aws-java-sdk-generated-samples
+   artifactId: aws-java-sdk-generated-samples
+  - name: aws-java-sdk-sample-extractor
+   prefix: aws-java-sdk-sample-extractor
+   artifactId: aws-java-sdk-sample-extractor
+

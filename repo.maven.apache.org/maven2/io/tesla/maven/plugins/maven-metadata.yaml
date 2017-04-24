@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: null
+   prefix: provisio-tesla
+   artifactId: provisio-tesla-plugin
+  - name: Tesla License Plugin
+   prefix: tesla-license
+   artifactId: tesla-license-plugin
+  - name: null
+   prefix: tesla-lifecycle-mapping
+   artifactId: tesla-lifecycle-mapping
+  - name: Tesla Plugin Plugin
+   prefix: tesla
+   artifactId: tesla-plugin-plugin
+

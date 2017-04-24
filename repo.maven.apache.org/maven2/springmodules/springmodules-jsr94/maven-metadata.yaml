@@ -1,0 +1,8 @@
+metadata:
+ groupId: springmodules
+ artifactId: springmodules-jsr94
+ version: '0.1'
+ versioning:
+  versions:
+   version: '0.1'
+

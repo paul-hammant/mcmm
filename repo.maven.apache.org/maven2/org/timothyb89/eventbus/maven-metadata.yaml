@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.timothyb89
+ artifactId: eventbus
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20140502004122'
+

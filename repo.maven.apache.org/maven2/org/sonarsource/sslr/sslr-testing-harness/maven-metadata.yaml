@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sonarsource.sslr
+ artifactId: sslr-testing-harness
+ versioning:
+  latest: '1.21'
+  release: '1.21'
+  versions:
+   version: '1.21'
+  lastUpdated: '20150724120754'
+

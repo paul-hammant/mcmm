@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Chessur Compile Maven Mojo
+   prefix: chessur
+   artifactId: chessur-maven-plugin
+

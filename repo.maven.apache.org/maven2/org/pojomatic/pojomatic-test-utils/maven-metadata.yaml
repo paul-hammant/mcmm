@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.pojomatic
+ artifactId: pojomatic-test-utils
+ version: 1.0-RC3
+ versioning:
+  release: '1.0'
+  versions:
+   version:
+   - 1.0-RC3
+   - '1.0'
+  lastUpdated: '20100425071613'
+

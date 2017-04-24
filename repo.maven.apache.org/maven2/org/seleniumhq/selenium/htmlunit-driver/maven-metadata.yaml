@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.seleniumhq.selenium
+ artifactId: htmlunit-driver
+ versioning:
+  latest: '2.26'
+  release: '2.26'
+  versions:
+   version:
+   - '2.20'
+   - '2.21'
+   - '2.22'
+   - '2.23'
+   - 2.23.1
+   - 2.23.2
+   - '2.24'
+   - '2.25'
+   - '2.26'
+  lastUpdated: '20170404074719'
+

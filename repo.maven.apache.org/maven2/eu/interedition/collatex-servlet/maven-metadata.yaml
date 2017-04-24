@@ -1,0 +1,13 @@
+metadata:
+ groupId: eu.interedition
+ artifactId: collatex-servlet
+ versioning:
+  latest: 1.7.1
+  release: 1.7.1
+  versions:
+   version:
+   - 1.6.2
+   - 1.7.0
+   - 1.7.1
+  lastUpdated: '20151217114438'
+

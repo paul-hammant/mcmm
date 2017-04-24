@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.novanic.gwteventservice
+ artifactId: gwteventservice
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version:
+   - 1.2.0
+   - 1.2.1
+  lastUpdated: '20121221234308'
+

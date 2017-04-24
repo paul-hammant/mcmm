@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.wildfly.clustering
+ artifactId: wildfly-clustering-tomcat-8.5-catalina
+ versioning:
+  latest: 1.0.0.Alpha1
+  release: 1.0.0.Alpha1
+  versions:
+   version: 1.0.0.Alpha1
+  lastUpdated: '20170330124326'
+

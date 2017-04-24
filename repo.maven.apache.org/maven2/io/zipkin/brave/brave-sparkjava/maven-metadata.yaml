@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.zipkin.brave
+ artifactId: brave-sparkjava
+ versioning:
+  latest: 4.2.0
+  release: 4.2.0
+  versions:
+   version:
+   - 4.1.1
+   - 4.2.0
+  lastUpdated: '20170422092702'
+

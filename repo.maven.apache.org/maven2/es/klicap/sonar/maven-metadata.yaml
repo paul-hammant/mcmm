@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Sonar PDF Report
+   prefix: pdf-report
+   artifactId: pdf-report
+

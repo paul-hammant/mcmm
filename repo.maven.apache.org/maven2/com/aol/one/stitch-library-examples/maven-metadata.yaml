@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.aol.one
+ artifactId: stitch-library-examples
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version: 0.4.0
+  lastUpdated: '20160717164631'
+

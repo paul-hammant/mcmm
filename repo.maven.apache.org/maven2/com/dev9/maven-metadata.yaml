@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: mvnwatcher
+   prefix: watcher
+   artifactId: watcher-maven-plugin
+

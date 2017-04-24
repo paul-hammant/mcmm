@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: DUEL Maven Plugin
+   prefix: duel
+   artifactId: duel-maven-plugin
+  - name: DUEL Static Apps Maven Plugin
+   prefix: duel
+   artifactId: duel-staticapps-maven-plugin
+  - name: DUEL Static Apps Maven Plugin
+   prefix: duel-staticapps
+   artifactId: duel-staticapps-maven-plugin
+  - name: DUEL Merge Maven Plugin
+   prefix: duel
+   artifactId: merge-maven-plugin
+

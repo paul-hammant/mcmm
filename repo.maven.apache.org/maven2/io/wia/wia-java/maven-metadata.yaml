@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.wia
+ artifactId: wia-java
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160718160205'
+

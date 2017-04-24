@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: amit-maven-plugin Maven Mojo
+   prefix: amit-maven-plugin
+   artifactId: amit-maven-plugin
+  - name: amit-maven-plugin Maven Mojo
+   prefix: amit
+   artifactId: amit-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: CMake Maven Plugin
+   prefix: cmake
+   artifactId: maven-cmake-plugin
+  - name: Requirements-Maven-Plugin
+   prefix: requirements
+   artifactId: requirements-maven-plugin
+

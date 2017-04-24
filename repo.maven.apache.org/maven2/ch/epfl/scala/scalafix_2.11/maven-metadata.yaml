@@ -1,0 +1,12 @@
+metadata:
+ groupId: ch.epfl.scala
+ artifactId: scalafix_2.11
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version:
+   - 0.1.0-RC1
+   - 0.1.0
+  lastUpdated: '20161026150450'
+

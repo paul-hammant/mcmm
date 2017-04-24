@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: PurrPackage Maven Plugin
+   prefix: purrpackage
+   artifactId: purrpackage-maven-plugin
+  - name: PurrPackage Maven Plugin For Plain Cobertura Report
+   prefix: purrpackageplaincobertura
+   artifactId: purrpackageplaincobertura-maven-plugin
+

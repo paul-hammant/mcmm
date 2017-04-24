@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.schlichtherle.glassfish
+ artifactId: deployment-client
+ versioning:
+  latest: '4.0'
+  release: '4.0'
+  versions:
+   version: '4.0'
+  lastUpdated: '20131021140421'
+

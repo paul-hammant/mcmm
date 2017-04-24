@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.hawkular.btm
+ artifactId: hawkular-btm-btxncompletiontime-deriver
+ versioning:
+  latest: 0.8.0.Final
+  release: 0.8.0.Final
+  versions:
+   version:
+   - 0.7.3.Final
+   - 0.7.4.Final
+   - 0.8.0.Final
+  lastUpdated: '20160524095252'
+

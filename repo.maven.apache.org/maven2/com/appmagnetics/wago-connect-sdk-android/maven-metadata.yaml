@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.appmagnetics
+ artifactId: wago-connect-sdk-android
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20150123210738'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.hawkular.client
+ artifactId: hawkular-java-client
+ versioning:
+  latest: 0.0.16
+  release: 0.0.16
+  versions:
+   version: 0.0.16
+  lastUpdated: '20170316170528'
+

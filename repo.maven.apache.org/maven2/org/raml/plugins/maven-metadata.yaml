@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: JAX-RS RAML Maven Plug-in
+   prefix: raml
+   artifactId: jaxrs-raml-maven-plugin
+  - name: JAX-RS RAML Maven Plug-in
+   prefix: jaxrs-raml
+   artifactId: jaxrs-raml-maven-plugin
+  - name: RAML JAX-RS Maven Plug-in
+   prefix: raml
+   artifactId: raml-jaxrs-maven-plugin
+  - name: RAML JAX-RS Maven Plug-in
+   prefix: raml-jaxrs
+   artifactId: raml-jaxrs-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ESA MO Stub Generator
+   prefix: StubGenerator
+   artifactId: StubGenerator
+

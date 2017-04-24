@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.coding.chenxiaobo
+ artifactId: map-validation
+ versioning:
+  latest: 1.2.2.RELEASE
+  release: 1.2.2.RELEASE
+  versions:
+   version:
+   - 1.0.0.RELEASE
+   - 1.0.1.RELEASE
+   - 1.2.0.RELEASE
+   - 1.2.1.RELEASE
+   - 1.2.2.RELEASE
+  lastUpdated: '20150520085258'
+

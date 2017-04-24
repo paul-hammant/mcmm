@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.char2lang
+ artifactId: smarcler
+ versioning:
+  latest: 0.0.1-Beta
+  release: 0.0.1-Beta
+  versions:
+   version: 0.0.1-Beta
+  lastUpdated: '20160216155003'
+

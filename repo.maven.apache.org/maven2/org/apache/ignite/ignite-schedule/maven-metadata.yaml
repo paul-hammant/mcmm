@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.apache.ignite
+ artifactId: ignite-schedule
+ versioning:
+  latest: 1.2.0-incubating
+  release: 1.2.0-incubating
+  versions:
+   version:
+   - 1.0.0-RC1
+   - 1.0.0-RC3
+   - 1.0.0
+   - 1.1.0-incubating
+   - 1.2.0-incubating
+  lastUpdated: '20150629100916'
+

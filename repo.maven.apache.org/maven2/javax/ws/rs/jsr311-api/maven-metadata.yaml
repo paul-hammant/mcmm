@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: javax.ws.rs
+ artifactId: jsr311-api
+ versioning:
+  latest: 1.1-ea
+  release: 1.1-ea
+  versions:
+   version: 1.1-ea
+  lastUpdated: '20110815192703'
+

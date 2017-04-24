@@ -1,0 +1,12 @@
+metadata:
+ groupId: nz.ac.auckland.composite
+ artifactId: composite-s3-runnable
+ versioning:
+  latest: '5.2'
+  release: '5.2'
+  versions:
+   version:
+   - '5.1'
+   - '5.2'
+  lastUpdated: '20141027090147'
+

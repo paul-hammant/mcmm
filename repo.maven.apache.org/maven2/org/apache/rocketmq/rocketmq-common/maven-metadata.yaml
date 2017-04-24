@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.rocketmq
+ artifactId: rocketmq-common
+ versioning:
+  latest: 4.0.0-incubating
+  release: 4.0.0-incubating
+  versions:
+   version: 4.0.0-incubating
+  lastUpdated: '20170220032250'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.camunda.bpm.extension.examples
+ artifactId: camunda-bpm-reactor-examples-bpmn-execution-listener
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20160606132722'
+

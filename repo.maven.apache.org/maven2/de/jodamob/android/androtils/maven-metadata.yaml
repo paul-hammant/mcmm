@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.jodamob.android
+ artifactId: androtils
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20150323145843'
+

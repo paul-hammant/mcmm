@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Database patch Maven Mojo
+   prefix: dbpatch
+   artifactId: dbpatch
+

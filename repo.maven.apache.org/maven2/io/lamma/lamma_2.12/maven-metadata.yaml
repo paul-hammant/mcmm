@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.lamma
+ artifactId: lamma_2.12
+ versioning:
+  latest: 2.3.1
+  release: 2.3.1
+  versions:
+   version: 2.3.1
+  lastUpdated: '20170114155609'
+

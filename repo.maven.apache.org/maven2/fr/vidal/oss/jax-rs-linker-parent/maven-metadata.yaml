@@ -1,0 +1,15 @@
+metadata:
+ groupId: fr.vidal.oss
+ artifactId: jax-rs-linker-parent
+ versioning:
+  latest: 0.4.1
+  release: 0.4.1
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - '0.3'
+   - '0.4'
+   - 0.4.1
+  lastUpdated: '20151110102429'
+

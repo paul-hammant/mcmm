@@ -1,0 +1,10 @@
+metadata:
+ groupId: cc.fozone.struts2
+ artifactId: StreamResultX
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version: '1.2'
+  lastUpdated: '20141008014449'
+

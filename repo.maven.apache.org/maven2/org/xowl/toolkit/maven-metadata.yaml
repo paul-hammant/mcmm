@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: xOWL Toolkit - Packaging Maven Plugin
+   prefix: xowl-packaging
+   artifactId: xowl-packaging-maven-plugin
+

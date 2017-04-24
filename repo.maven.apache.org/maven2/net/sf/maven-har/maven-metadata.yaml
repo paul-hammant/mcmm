@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-har-plugin
+   prefix: har
+   artifactId: maven-har-plugin
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.think.yuv-player-targets
+ artifactId: yuv-player-posix-X
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20071105152100'
+

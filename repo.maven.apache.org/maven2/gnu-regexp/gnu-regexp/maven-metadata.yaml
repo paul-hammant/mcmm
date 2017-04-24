@@ -1,0 +1,8 @@
+metadata:
+ groupId: gnu-regexp
+ artifactId: gnu-regexp
+ version: 1.1.4
+ versioning:
+  versions:
+   version: 1.1.4
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.graylog.jest
+ artifactId: jest-droid
+ versioning:
+  latest: 2.4.1
+  release: 2.4.1
+  versions:
+   version: 2.4.1
+  lastUpdated: '20170413131323'
+

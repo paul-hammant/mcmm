@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Continuum :: Maven Plugin'
+   prefix: continuum
+   artifactId: continuum-maven-plugin
+

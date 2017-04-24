@@ -1,0 +1,13 @@
+metadata:
+ groupId: au.gov.amsa.risky
+ artifactId: ais-router
+ versioning:
+  latest: 0.5.9
+  release: 0.5.9
+  versions:
+   version:
+   - 0.5.7
+   - 0.5.8
+   - 0.5.9
+  lastUpdated: '20160705083640'
+

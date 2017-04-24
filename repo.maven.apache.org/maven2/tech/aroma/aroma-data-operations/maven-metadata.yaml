@@ -1,0 +1,12 @@
+metadata:
+ groupId: tech.aroma
+ artifactId: aroma-data-operations
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20160511184534'
+

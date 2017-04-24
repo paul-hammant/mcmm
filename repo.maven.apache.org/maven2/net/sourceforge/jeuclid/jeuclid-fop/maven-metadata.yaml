@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sourceforge.jeuclid
+ artifactId: jeuclid-fop
+ versioning:
+  latest: 3.1.9
+  release: 3.1.9
+  versions:
+   version: 3.1.9
+  lastUpdated: '20150812200810'
+

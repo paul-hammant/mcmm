@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.bluecirclesoft.open
+ artifactId: json-interface-generator-core
+ versioning:
+  latest: '0.4'
+  release: '0.4'
+  versions:
+   version:
+   - '0.3'
+   - '0.4'
+  lastUpdated: '20170404041056'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scalikejdbc
+ artifactId: scalikejdbc-async_2.12
+ versioning:
+  latest: 0.7.1
+  release: 0.7.1
+  versions:
+   version: 0.7.1
+  lastUpdated: '20170110160819'
+

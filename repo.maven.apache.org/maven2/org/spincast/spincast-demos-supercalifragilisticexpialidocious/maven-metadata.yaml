@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.spincast
+ artifactId: spincast-demos-supercalifragilisticexpialidocious
+ versioning:
+  latest: 0.9.31
+  release: 0.9.31
+  versions:
+   version: 0.9.31
+  lastUpdated: '20170102181848'
+

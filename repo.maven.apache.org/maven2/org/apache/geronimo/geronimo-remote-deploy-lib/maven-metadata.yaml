@@ -1,0 +1,8 @@
+metadata:
+ groupId: org.apache.geronimo
+ artifactId: geronimo-remote-deploy-lib
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

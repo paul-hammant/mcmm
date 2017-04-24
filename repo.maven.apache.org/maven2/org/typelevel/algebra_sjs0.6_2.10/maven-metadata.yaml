@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.typelevel
+ artifactId: algebra_sjs0.6_2.10
+ versioning:
+  latest: 0.7.0
+  release: 0.7.0
+  versions:
+   version:
+   - 0.5.1
+   - 0.6.0
+   - 0.7.0
+  lastUpdated: '20170118231855'
+

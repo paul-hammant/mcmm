@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.ace
+ artifactId: org.apache.ace.deployment.servlet
+ versioning:
+  latest: 0.8.1-incubator
+  release: 0.8.1-incubator
+  versions:
+   version:
+   - 0.8.0-incubator
+   - 0.8.1-incubator
+  lastUpdated: '20111213204514'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.github.junicorn
+ artifactId: mrpc-serialize-protostuff
+ versioning:
+  latest: 0.0.4-beta
+  release: 0.0.4-beta
+  versions:
+   version:
+   - 0.0.4-alpha
+   - 0.0.4-beta
+  lastUpdated: '20161205021500'
+

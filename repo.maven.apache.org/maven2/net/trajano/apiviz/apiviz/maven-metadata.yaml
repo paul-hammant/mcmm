@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.trajano.apiviz
+ artifactId: apiviz
+ versioning:
+  latest: 1.3.4
+  release: 1.3.4
+  versions:
+   version: 1.3.4
+  lastUpdated: '20170306230648'
+

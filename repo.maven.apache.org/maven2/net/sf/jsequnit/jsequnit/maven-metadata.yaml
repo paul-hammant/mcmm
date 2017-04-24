@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.jsequnit
+ artifactId: jsequnit
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '1.0'
+   - '2.0'
+  lastUpdated: '20111227174917'
+

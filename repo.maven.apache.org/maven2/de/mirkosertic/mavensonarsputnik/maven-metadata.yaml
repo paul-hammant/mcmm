@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: The Maven Sonar Sputnik Plugin
+   prefix: sputnik
+   artifactId: sputnik
+

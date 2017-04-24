@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.predictionio
+ artifactId: predictionio-parent_2.10
+ versioning:
+  latest: 0.10.0-incubating
+  release: 0.10.0-incubating
+  versions:
+   version:
+   - 0.10.0-incubating-rc1
+   - 0.10.0-incubating
+  lastUpdated: '20161018222158'
+

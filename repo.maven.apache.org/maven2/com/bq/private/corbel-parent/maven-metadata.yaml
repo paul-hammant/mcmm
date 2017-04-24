@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.bq.private
+ artifactId: corbel-parent
+ versioning:
+  latest: 1.16.0
+  release: 1.16.0
+  versions:
+   version: 1.16.0
+  lastUpdated: '20150407101416'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.hammerlab.bdg-utils
+ artifactId: cli_2.11
+ versioning:
+  latest: 0.2.14
+  release: 0.2.14
+  versions:
+   version: 0.2.14
+  lastUpdated: '20170403051305'
+

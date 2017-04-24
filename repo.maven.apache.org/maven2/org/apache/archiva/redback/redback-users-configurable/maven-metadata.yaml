@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.archiva.redback
+ artifactId: redback-users-configurable
+ versioning:
+  latest: '2.4'
+  release: '2.4'
+  versions:
+   version:
+   - '2.3'
+   - '2.4'
+  lastUpdated: '20150222112721'
+

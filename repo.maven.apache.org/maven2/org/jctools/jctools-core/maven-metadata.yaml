@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.jctools
+ artifactId: jctools-core
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - 1.2.1
+   - '2.0'
+   - 2.0.1
+  lastUpdated: '20170103143358'
+

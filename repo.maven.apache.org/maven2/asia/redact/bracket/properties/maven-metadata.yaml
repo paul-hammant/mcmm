@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: PCompiler Maven Plugin - Compiled Properties
+   prefix: pcompiler
+   artifactId: pcompiler-maven-plugin
+

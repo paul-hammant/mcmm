@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jupyter-scala
+ artifactId: ammonite-shell_2.10
+ versioning:
+  latest: 0.8.2-2
+  release: 0.8.2-2
+  versions:
+   version: 0.8.2-2
+  lastUpdated: '20170317105645'
+

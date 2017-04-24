@@ -1,0 +1,14 @@
+metadata:
+ groupId: it.tidalwave.netbeans
+ artifactId: it-tidalwave-netbeans-util-android
+ versioning:
+  latest: 1.11.8
+  release: 1.11.8
+  versions:
+   version:
+   - 1.11.4
+   - 1.11.6
+   - 1.11.7
+   - 1.11.8
+  lastUpdated: '20110313212542'
+

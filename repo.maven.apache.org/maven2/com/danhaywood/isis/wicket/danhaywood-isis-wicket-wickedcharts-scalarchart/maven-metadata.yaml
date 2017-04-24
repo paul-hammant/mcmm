@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.danhaywood.isis.wicket
+ artifactId: danhaywood-isis-wicket-wickedcharts-scalarchart
+ versioning:
+  latest: 1.4.0
+  release: 1.4.0
+  versions:
+   version:
+   - 1.2.0
+   - 1.4.0
+  lastUpdated: '20140317132257'
+

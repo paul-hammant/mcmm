@@ -1,0 +1,15 @@
+metadata:
+ groupId: consulting.omnia.util
+ artifactId: util-class-loader
+ versioning:
+  latest: 1.0.5-RELEASE
+  release: 1.0.5-RELEASE
+  versions:
+   version:
+   - 1.0.1-RELEASE
+   - 1.0.2-RELEASE
+   - 1.0.3-RELEASE
+   - 1.0.4-RELEASE
+   - 1.0.5-RELEASE
+  lastUpdated: '20160615202329'
+

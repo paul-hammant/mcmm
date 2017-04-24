@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.openejb
+ artifactId: apache-tomcat
+ versioning:
+  latest: 7.0.34
+  release: 7.0.34
+  versions:
+   version:
+   - 7.0.27
+   - 7.0.30
+   - 7.0.34
+  lastUpdated: '20121214091408'
+

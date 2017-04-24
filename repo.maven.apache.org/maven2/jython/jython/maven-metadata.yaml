@@ -1,0 +1,8 @@
+metadata:
+ groupId: jython
+ artifactId: jython
+ version: '2.1'
+ versioning:
+  versions:
+   version: '2.1'
+

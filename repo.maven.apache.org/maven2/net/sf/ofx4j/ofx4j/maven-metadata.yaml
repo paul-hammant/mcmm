@@ -1,0 +1,18 @@
+metadata:
+ groupId: net.sf.ofx4j
+ artifactId: ofx4j
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - '1.3'
+   - '1.4'
+   - '1.5'
+   - 1.6-RC1
+   - 1.6-RC2
+   - '1.6'
+  lastUpdated: '20120612224337'
+

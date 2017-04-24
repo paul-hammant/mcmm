@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.paoding
+ artifactId: jade-plugin-sql
+ versioning:
+  latest: 0.0.1.u03
+  release: 0.0.1.u03
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.1.u01
+   - 0.0.1.u02
+   - 0.0.1.u03
+  lastUpdated: '20150906104421'
+

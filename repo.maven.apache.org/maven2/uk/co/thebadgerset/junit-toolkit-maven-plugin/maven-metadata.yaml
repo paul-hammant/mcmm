@@ -1,0 +1,7 @@
+metadata:
+ groupId: uk.co.thebadgerset
+ artifactId: junit-toolkit-maven-plugin
+ versioning:
+  versions:
+   version: '0.5'
+

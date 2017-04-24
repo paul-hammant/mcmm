@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.reinert.requestor
+ artifactId: requestor-project
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+  lastUpdated: '20150219024934'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: br.com.gerencianet.mobile
+ artifactId: gnapi-sdk
+ versioning:
+  latest: '0.5'
+  release: '0.5'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - '0.3'
+   - '0.4'
+   - '0.5'
+  lastUpdated: '20150326123449'
+

@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: mangooio
+   artifactId: mangooio-maven-plugin
+

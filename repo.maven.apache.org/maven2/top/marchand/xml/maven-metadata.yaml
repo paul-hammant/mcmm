@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: xquerydoc-maven-plugin
+   prefix: xquerydoc
+   artifactId: xquerydoc-maven-plugin
+  - name: xslDoc-maven-plugin
+   prefix: xslDoc
+   artifactId: xslDoc-maven-plugin
+

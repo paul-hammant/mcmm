@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: DocBook Linktester Maven Plugin
+   prefix: linktester
+   artifactId: linktester-maven-plugin
+

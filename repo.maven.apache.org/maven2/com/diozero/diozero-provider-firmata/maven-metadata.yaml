@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.diozero
+ artifactId: diozero-provider-firmata
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version: '0.9'
+  lastUpdated: '20170222172520'
+

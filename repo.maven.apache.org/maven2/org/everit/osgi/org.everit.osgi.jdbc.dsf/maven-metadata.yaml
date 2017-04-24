@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.everit.osgi
+ artifactId: org.everit.osgi.jdbc.dsf
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.0.0
+   - 2.0.0
+  lastUpdated: '20140401195326'
+

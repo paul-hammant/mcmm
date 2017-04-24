@@ -1,0 +1,12 @@
+metadata:
+ groupId: ua.mobius.media
+ artifactId: bootstrap
+ versioning:
+  latest: 4.0.1.FINAL
+  release: 4.0.1.FINAL
+  versions:
+   version:
+   - 4.0.0
+   - 4.0.1.FINAL
+  lastUpdated: '20140430131437'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.clapper
+ artifactId: scalasti_2.9.1-1
+ versioning:
+  latest: 0.5.8
+  release: 0.5.8
+  versions:
+   version: 0.5.8
+  lastUpdated: '20120313161246'
+

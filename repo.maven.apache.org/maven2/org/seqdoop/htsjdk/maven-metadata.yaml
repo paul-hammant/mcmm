@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.seqdoop
+ artifactId: htsjdk
+ versioning:
+  latest: '1.118'
+  release: '1.118'
+  versions:
+   version: '1.118'
+  lastUpdated: '20140813182625'
+

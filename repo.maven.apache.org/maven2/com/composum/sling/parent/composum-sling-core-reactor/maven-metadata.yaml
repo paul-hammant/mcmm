@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.composum.sling.parent
+ artifactId: composum-sling-core-reactor
+ versioning:
+  latest: 1.7.0
+  release: 1.7.0
+  versions:
+   version:
+   - 1.6.0
+   - 1.7.0
+  lastUpdated: '20161206222508'
+

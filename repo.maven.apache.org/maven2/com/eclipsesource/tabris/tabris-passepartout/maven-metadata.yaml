@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.eclipsesource.tabris
+ artifactId: tabris-passepartout
+ versioning:
+  latest: 0.10.0
+  release: 0.10.0
+  versions:
+   version:
+   - 0.9.0
+   - 0.9.1
+   - 0.10.0
+  lastUpdated: '20140625101753'
+

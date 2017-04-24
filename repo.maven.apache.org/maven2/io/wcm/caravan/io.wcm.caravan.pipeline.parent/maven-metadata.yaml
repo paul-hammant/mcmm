@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.wcm.caravan
+ artifactId: io.wcm.caravan.pipeline.parent
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.2
+   - 1.0.4
+   - 1.1.0
+  lastUpdated: '20160212224716'
+

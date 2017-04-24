@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven OpenJPA Query Translator Plugin
+   prefix: oqt
+   artifactId: oqt-maven-plugin
+

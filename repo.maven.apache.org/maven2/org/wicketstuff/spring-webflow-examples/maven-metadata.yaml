@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.wicketstuff
+ artifactId: spring-webflow-examples
+ versioning:
+  latest: 1.4.21
+  release: 1.4.21
+  versions:
+   version:
+   - 1.4.19
+   - 1.4.20
+   - 1.4.20.1
+   - 1.4.21
+  lastUpdated: '20120912190753'
+

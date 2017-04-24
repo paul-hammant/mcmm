@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven plugin for generating JNI headers
+   prefix: jni-headers
+   artifactId: jni-headers-maven-plugin
+

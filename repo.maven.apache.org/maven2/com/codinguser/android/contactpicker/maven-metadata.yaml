@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.codinguser.android
+ artifactId: contactpicker
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version:
+   - 2.2.0
+   - 3.0.0
+  lastUpdated: '20150710150202'
+

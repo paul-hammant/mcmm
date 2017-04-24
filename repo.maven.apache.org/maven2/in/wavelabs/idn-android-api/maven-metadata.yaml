@@ -1,0 +1,10 @@
+metadata:
+ groupId: in.wavelabs
+ artifactId: idn-android-api
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version: 0.3.0
+  lastUpdated: '20160812122811'
+

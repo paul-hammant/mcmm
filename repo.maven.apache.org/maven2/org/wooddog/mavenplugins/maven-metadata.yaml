@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Keystore Maven Mojo
+   prefix: keystore
+   artifactId: keystore
+  - name: Maven Version Plugin
+   prefix: version
+   artifactId: version
+  - name: Confluence Maven Mojo
+   prefix: confluence
+   artifactId: confluence
+  - name: Maven Post Plugin
+   prefix: post
+   artifactId: post
+

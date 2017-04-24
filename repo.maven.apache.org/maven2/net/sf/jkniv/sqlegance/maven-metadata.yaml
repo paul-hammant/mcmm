@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.jkniv
+ artifactId: sqlegance
+ versioning:
+  latest: 0.5.0
+  release: 0.5.0
+  versions:
+   version: 0.5.0
+  lastUpdated: '20150217031730'
+

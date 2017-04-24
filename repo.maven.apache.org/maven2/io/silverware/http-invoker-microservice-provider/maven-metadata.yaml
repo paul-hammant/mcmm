@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.silverware
+ artifactId: http-invoker-microservice-provider
+ versioning:
+  latest: '3.0'
+  release: '3.0'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '2.0'
+   - '3.0'
+  lastUpdated: '20170208175120'
+

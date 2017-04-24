@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.strongtyped
+ artifactId: fun-cqrs-play25-json_2.11
+ versioning:
+  latest: 0.4.8
+  release: 0.4.8
+  versions:
+   version:
+   - 0.4.6
+   - 0.4.7
+   - 0.4.8
+  lastUpdated: '20161021002217'
+

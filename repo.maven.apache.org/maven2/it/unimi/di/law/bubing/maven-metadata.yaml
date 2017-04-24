@@ -1,0 +1,15 @@
+metadata:
+ groupId: it.unimi.di.law
+ artifactId: bubing
+ versioning:
+  latest: 0.9.12
+  release: 0.9.12
+  versions:
+   version:
+   - 0.9.6
+   - 0.9.8
+   - 0.9.9
+   - 0.9.11
+   - 0.9.12
+  lastUpdated: '20170225160952'
+

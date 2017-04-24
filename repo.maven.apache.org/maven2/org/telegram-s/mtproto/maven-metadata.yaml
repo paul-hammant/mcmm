@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.telegram-s
+ artifactId: mtproto
+ versioning:
+  latest: 1.5.0
+  release: 1.5.0
+  versions:
+   version: 1.5.0
+  lastUpdated: '20140830131541'
+

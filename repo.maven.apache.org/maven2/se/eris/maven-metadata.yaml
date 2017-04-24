@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: IntelliJ Annotations Instrumenter
+   prefix: notnull-instrumenter
+   artifactId: notnull-instrumenter-maven-plugin
+

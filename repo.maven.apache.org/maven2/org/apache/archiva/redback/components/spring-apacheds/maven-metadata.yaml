@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.archiva.redback.components
+ artifactId: spring-apacheds
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version:
+   - '2.0'
+   - '2.1'
+  lastUpdated: '20140116014343'
+

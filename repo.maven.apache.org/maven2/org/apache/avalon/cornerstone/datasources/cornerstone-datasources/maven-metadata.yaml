@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.avalon.cornerstone.datasources
+ artifactId: cornerstone-datasources
+ version: '1'
+ versioning:
+  versions:
+   version: '1'
+  lastUpdated: '20070215204815'
+

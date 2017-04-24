@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.beangle.data
+ artifactId: beangle-data-dbf_2.12
+ versioning:
+  latest: 4.4.3
+  release: 4.4.3
+  versions:
+   version:
+   - 4.4.2
+   - 4.4.3
+  lastUpdated: '20170304131305'
+

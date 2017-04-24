@@ -1,0 +1,12 @@
+metadata:
+ groupId: ant
+ artifactId: ant-apache-log4j
+ version: 1.6.2
+ versioning:
+  versions:
+   version:
+   - 1.6.2
+   - 1.6.3
+   - 1.6.4
+   - 1.6.5
+

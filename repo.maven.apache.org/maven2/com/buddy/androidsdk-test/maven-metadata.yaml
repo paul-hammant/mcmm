@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.buddy
+ artifactId: androidsdk-test
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version: '0.2'
+  lastUpdated: '20140813184859'
+

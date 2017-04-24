@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scalanlp
+ artifactId: breeze-process_2.9.2
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+  lastUpdated: '20130325044843'
+

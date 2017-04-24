@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.facebook.ads.sdk
+ artifactId: facebook-java-ads-sdk
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version: 0.4.0
+  lastUpdated: '20170123201618'
+

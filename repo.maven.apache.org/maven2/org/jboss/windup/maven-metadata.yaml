@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Windup Maven Plugin
+   prefix: windup
+   artifactId: windup-maven-plugin
+

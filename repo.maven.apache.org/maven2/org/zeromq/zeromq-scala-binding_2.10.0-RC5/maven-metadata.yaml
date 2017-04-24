@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.zeromq
+ artifactId: zeromq-scala-binding_2.10.0-RC5
+ versioning:
+  latest: 0.0.9
+  release: 0.0.9
+  versions:
+   version:
+   - 0.0.6
+   - 0.0.8
+   - 0.0.9
+  lastUpdated: '20121210101714'
+

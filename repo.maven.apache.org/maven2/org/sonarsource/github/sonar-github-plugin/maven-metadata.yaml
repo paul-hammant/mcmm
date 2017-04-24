@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sonarsource.github
+ artifactId: sonar-github-plugin
+ versioning:
+  latest: 1.4.0.699
+  release: 1.4.0.699
+  versions:
+   version: 1.4.0.699
+  lastUpdated: '20170125162851'
+

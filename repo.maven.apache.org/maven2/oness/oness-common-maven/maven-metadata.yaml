@@ -1,0 +1,8 @@
+metadata:
+ groupId: oness
+ artifactId: oness-common-maven
+ version: '0.4'
+ versioning:
+  versions:
+   version: '0.4'
+

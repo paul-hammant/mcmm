@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Executes cucumber features in parallel using fork
+   prefix: cucumber-runner
+   artifactId: cucumber-runner-maven-plugin
+

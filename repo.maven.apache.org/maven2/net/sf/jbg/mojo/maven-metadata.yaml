@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JavaBeans Generator Maven plugin
+   prefix: jbg
+   artifactId: jbg-maven-plugin
+

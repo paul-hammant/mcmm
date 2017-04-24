@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.jade-dungeon
+ artifactId: crawler-logic
+ versioning:
+  latest: 0.1.13
+  release: 0.1.13
+  versions:
+   version: 0.1.13
+  lastUpdated: '20160701070849'
+

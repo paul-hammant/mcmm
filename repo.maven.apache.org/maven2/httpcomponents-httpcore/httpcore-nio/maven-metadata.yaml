@@ -1,0 +1,7 @@
+metadata:
+ groupId: httpcomponents-httpcore
+ artifactId: httpcore-nio
+ versioning:
+  versions:
+   version: 4.0-alpha5
+

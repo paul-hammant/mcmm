@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.parceler
+ artifactId: parceler-examples
+ versioning:
+  latest: 0.2.4
+  release: 0.2.4
+  versions:
+   version: 0.2.4
+  lastUpdated: '20140112013609'
+

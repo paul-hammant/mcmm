@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'BPELUnit :: Maven Plugin'
+   prefix: net.bpelunit.framework.client.maven
+   artifactId: maven-bpelunit-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: maven-urlpoller-plugin Maven Mojo
+   prefix: urlpoller
+   artifactId: maven-urlpoller-plugin
+  - name: phantomjs-qunit-runner Maven Mojo
+   prefix: phantomjs-qunit-runner
+   artifactId: phantomjs-qunit-runner
+

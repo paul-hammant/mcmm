@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.codesnippets4all
+ artifactId: xss-filter
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20141209032229'
+

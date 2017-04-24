@@ -1,0 +1,9 @@
+metadata:
+ groupId: it.tidalwave.image
+ artifactId: mistral-examples-viewer
+ version: 0.9.9-SNAPSHOT
+ versioning:
+  versions:
+   version: 0.9.9-SNAPSHOT
+  lastUpdated: '20090712215439'
+

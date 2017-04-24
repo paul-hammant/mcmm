@@ -1,0 +1,12 @@
+metadata:
+ groupId: spice
+ artifactId: spice-metaclass
+ version: 1.0-rc1
+ versioning:
+  versions:
+   version:
+   - 1.0-rc1
+   - 1.0-rc2
+   - 1.0-rc3-dev
+   - '20031129.004415'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: WSIT Maven Mojo
+   prefix: wsit
+   artifactId: wsit-maven-plugin
+

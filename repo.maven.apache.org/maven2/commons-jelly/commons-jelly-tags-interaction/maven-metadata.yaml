@@ -1,0 +1,11 @@
+metadata:
+ groupId: commons-jelly
+ artifactId: commons-jelly-tags-interaction
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '20030211.143817'
+   - '20040902.072702'
+

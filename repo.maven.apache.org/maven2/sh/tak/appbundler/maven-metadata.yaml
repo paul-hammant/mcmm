@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: appbundle-maven-plugin
+   prefix: appbundle
+   artifactId: appbundle-maven-plugin
+

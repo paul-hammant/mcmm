@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Restdoc Maven Plugin
+   prefix: restdoc
+   artifactId: restdoc-maven-plugin
+

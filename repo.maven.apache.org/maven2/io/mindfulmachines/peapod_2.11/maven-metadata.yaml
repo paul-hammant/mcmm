@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.mindfulmachines
+ artifactId: peapod_2.11
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version: '0.8'
+  lastUpdated: '20160622230831'
+

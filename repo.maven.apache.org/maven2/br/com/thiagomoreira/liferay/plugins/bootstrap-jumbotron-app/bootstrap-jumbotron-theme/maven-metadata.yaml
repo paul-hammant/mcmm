@@ -1,0 +1,12 @@
+metadata:
+ groupId: br.com.thiagomoreira.liferay.plugins.bootstrap-jumbotron-app
+ artifactId: bootstrap-jumbotron-theme
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20150701023207'
+

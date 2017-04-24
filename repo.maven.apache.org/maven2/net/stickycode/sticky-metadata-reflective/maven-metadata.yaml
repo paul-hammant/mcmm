@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.stickycode
+ artifactId: sticky-metadata-reflective
+ versioning:
+  latest: '3.2'
+  release: '3.2'
+  versions:
+   version:
+   - '1.4'
+   - '2.2'
+   - '3.2'
+  lastUpdated: '20161128091740'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: tmporb
+ artifactId: tmporb-ns-jndi
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

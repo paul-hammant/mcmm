@@ -1,0 +1,7 @@
+metadata:
+ groupId: httpcomponents-httpcore
+ artifactId: httpcore
+ versioning:
+  versions:
+   version: 4.0-alpha5
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.tidalwave.superpom
+ artifactId: platform12
+ versioning:
+  latest: RELEASE691
+  release: RELEASE691
+  versions:
+   version: RELEASE691
+  lastUpdated: '20110325203142'
+

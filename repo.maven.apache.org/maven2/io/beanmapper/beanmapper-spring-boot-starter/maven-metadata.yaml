@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.beanmapper
+ artifactId: beanmapper-spring-boot-starter
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20170323153113'
+

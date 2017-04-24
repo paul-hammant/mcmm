@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.opentelecoms.util
+ artifactId: util
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20151010192412'
+

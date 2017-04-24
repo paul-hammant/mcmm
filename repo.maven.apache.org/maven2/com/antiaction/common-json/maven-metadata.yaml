@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.antiaction
+ artifactId: common-json
+ versioning:
+  latest: 0.5.0
+  release: 0.5.0
+  versions:
+   version: 0.5.0
+  lastUpdated: '20131113235335'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Geomajas maven plugin
+   prefix: geomajas
+   artifactId: geomajas-maven-plugin
+

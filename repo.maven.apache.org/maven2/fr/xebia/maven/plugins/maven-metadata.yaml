@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Maven dependency :: ${project.artifactId} ${project.packaging}'
+   prefix: mindmap
+   artifactId: mindmap-maven-plugin
+

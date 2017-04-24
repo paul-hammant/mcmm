@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.iplantc.core
+ artifactId: cas-extensions
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20140219193535'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.aol.cyclops
+ artifactId: cyclops-power-tuples
+ versioning:
+  latest: 5.1.0
+  release: 5.1.0
+  versions:
+   version:
+   - 4.0.1
+   - 4.0.2
+   - 5.0.0
+   - 5.1.0
+  lastUpdated: '20150728135548'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.digitaltangible
+ artifactId: play-guard_2.10
+ versioning:
+  latest: 1.6.0
+  release: 1.6.0
+  versions:
+   version:
+   - 1.4.1
+   - 1.6.0
+  lastUpdated: '20160209172736'
+

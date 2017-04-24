@@ -1,0 +1,16 @@
+metadata:
+ groupId: io.kanaka
+ artifactId: play-monadic-actions_2.11
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+   - 1.1.0
+   - 2.0.0-RC1
+   - 2.0.0-RC2
+   - 2.0.0
+  lastUpdated: '20161023175430'
+

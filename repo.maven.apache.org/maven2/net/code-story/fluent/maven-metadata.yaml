@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.code-story
+ artifactId: fluent
+ versioning:
+  latest: '1.4'
+  release: '1.4'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.4'
+  lastUpdated: '20141217223828'
+

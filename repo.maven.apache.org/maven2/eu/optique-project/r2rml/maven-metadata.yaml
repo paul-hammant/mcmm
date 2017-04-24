@@ -1,0 +1,15 @@
+metadata:
+ groupId: eu.optique-project
+ artifactId: r2rml
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version:
+   - '0.2'
+   - 0.2.1
+   - 0.3.0
+   - 0.3.1
+   - 0.4.0
+  lastUpdated: '20170103224933'
+

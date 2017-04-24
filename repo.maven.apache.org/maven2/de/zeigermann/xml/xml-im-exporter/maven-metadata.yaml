@@ -1,0 +1,8 @@
+metadata:
+ groupId: de.zeigermann.xml
+ artifactId: xml-im-exporter
+ version: '1.1'
+ versioning:
+  versions:
+   version: '1.1'
+

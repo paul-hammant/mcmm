@@ -1,0 +1,8 @@
+metadata:
+ groupId: org.gnu.inet
+ artifactId: libidn
+ version: 0.6.5
+ versioning:
+  versions:
+   version: 0.6.5
+

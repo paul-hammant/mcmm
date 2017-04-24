@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: AndroidGenDrawable Maven Plugin
+   prefix: gendrawable
+   artifactId: androidgendrawable-maven-plugin
+

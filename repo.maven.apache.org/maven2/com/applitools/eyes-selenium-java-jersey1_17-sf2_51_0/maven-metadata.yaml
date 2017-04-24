@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.applitools
+ artifactId: eyes-selenium-java-jersey1_17-sf2_51_0
+ versioning:
+  latest: '2.51'
+  release: '2.51'
+  versions:
+   version:
+   - '2.31'
+   - '2.34'
+   - 2.34.1
+   - '2.51'
+  lastUpdated: '20160821202117'
+

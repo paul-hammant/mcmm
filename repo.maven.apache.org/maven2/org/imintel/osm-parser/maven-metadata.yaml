@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.imintel
+ artifactId: osm-parser
+ versioning:
+  latest: 1.0-MF
+  release: 1.0-MF
+  versions:
+   version: 1.0-MF
+  lastUpdated: '20140930141045'
+

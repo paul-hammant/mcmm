@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.rebaze
+ artifactId: master
+ versioning:
+  latest: '3'
+  release: '3'
+  versions:
+   version: '3'
+  lastUpdated: '20161031203842'
+

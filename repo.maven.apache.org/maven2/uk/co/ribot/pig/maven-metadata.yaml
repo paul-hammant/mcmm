@@ -1,0 +1,10 @@
+metadata:
+ groupId: uk.co.ribot
+ artifactId: pig
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version: 0.2.0
+  lastUpdated: '20140610215046'
+

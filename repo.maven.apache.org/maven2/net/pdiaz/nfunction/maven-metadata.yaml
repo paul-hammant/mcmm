@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: nFunction Maven Plugin
+   prefix: nfunction
+   artifactId: nfunction-maven-plugin
+

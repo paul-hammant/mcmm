@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mariuszgromada.math
+ artifactId: Janet-Sudoku
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version: 1.1.1
+  lastUpdated: '20170403223715'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.sweble.engine
+ artifactId: sweble-engine-serialization
+ versioning:
+  latest: 2.2.0
+  release: 2.2.0
+  versions:
+   version:
+   - 2.0.0
+   - 2.1.0
+   - 2.2.0
+  lastUpdated: '20161221124407'
+

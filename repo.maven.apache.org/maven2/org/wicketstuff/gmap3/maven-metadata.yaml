@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.wicketstuff
+ artifactId: gmap3
+ versioning:
+  latest: 1.4.21
+  release: 1.4.21
+  versions:
+   version:
+   - 1.4.20.1
+   - 1.4.21
+  lastUpdated: '20120912190835'
+

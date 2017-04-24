@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: swagger-codegen (maven-plugin)
+   prefix: swagger-codegen
+   artifactId: swagger-codegen-maven-plugin
+

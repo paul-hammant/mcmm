@@ -1,0 +1,7 @@
+metadata:
+ groupId: javax.jms
+ artifactId: jms
+ versioning:
+  versions:
+   version: '1.1'
+

@@ -1,0 +1,17 @@
+metadata:
+ groupId: ch.sourcepond.io
+ artifactId: checksum-tests
+ versioning:
+  latest: 2.0.3
+  release: 2.0.3
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.2
+   - 1.0.3
+   - 2.0.0
+   - 2.0.1
+   - 2.0.2
+   - 2.0.3
+  lastUpdated: '20170327151114'
+

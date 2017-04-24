@@ -1,0 +1,8 @@
+metadata:
+ groupId: jotm
+ artifactId: jotm-jrmp-stubs
+ version: 1.5.3
+ versioning:
+  versions:
+   version: 1.5.3
+

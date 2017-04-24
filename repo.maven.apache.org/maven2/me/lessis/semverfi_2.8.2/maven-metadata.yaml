@@ -1,0 +1,13 @@
+metadata:
+ groupId: me.lessis
+ artifactId: semverfi_2.8.2
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 0.1.2
+  lastUpdated: '20120930172711'
+

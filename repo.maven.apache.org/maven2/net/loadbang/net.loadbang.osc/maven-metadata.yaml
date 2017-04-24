@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.loadbang
+ artifactId: net.loadbang.osc
+ versioning:
+  latest: 1.6.2
+  release: 1.6.2
+  versions:
+   version:
+   - 1.6.1
+   - 1.6.2
+  lastUpdated: '20150609161720'
+

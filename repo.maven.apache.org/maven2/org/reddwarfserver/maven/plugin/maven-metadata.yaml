@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: RedDwarf Maven Plugin
+   prefix: sgs
+   artifactId: sgs-maven-plugin
+

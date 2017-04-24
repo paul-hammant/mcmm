@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.projectodd.wunderboss
+ artifactId: wunderboss-artemis
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version: 0.2.0
+  lastUpdated: '20160308161632'
+

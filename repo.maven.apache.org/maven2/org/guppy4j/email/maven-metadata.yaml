@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.guppy4j
+ artifactId: email
+ versioning:
+  latest: 0.0.7
+  release: 0.0.7
+  versions:
+   version: 0.0.7
+  lastUpdated: '20170113085550'
+

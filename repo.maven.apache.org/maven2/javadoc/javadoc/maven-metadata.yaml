@@ -1,0 +1,8 @@
+metadata:
+ groupId: javadoc
+ artifactId: javadoc
+ version: '1.3'
+ versioning:
+  versions:
+   version: '1.3'
+

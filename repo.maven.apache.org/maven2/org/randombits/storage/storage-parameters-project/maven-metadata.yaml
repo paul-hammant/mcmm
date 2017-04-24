@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.randombits.storage
+ artifactId: storage-parameters-project
+ versioning:
+  latest: 5.3.1
+  release: 5.3.1
+  versions:
+   version:
+   - 5.2.4
+   - 5.3.0
+   - 5.3.1
+  lastUpdated: '20150423055208'
+

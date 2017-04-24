@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.sf.fck-faces
+ artifactId: fck-faces
+ version: '1.8'
+ versioning:
+  versions:
+   version: '1.8'
+  lastUpdated: '20080225131104'
+

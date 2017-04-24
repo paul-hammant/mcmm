@@ -1,0 +1,27 @@
+metadata:
+ groupId: p6spy
+ artifactId: p6spy
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version:
+   - 2.0-alpha-1
+   - 2.0.0
+   - 2.0.1
+   - 2.0.2
+   - 2.1.0
+   - 2.1.1
+   - 2.1.2
+   - 2.1.3
+   - 2.1.4
+   - 2.2.0
+   - 2.3.0
+   - 2.3.1
+   - 3.0.0-alpha-1
+   - 3.0.0-rc-1
+   - 3.0.0-rc2
+   - 3.0.0-rc3
+   - 3.0.0
+  lastUpdated: '20161027050228'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: hibernate
+ artifactId: antlr
+ version: 2.7.5H3
+ versioning:
+  versions:
+   version: 2.7.5H3
+

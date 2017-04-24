@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.pivot4j
+ artifactId: pivot4j-analytics
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version: '0.9'
+  lastUpdated: '20140525173114'
+

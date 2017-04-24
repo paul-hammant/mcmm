@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Cascading Release Maven Plugin
+   prefix: cascading-release
+   artifactId: cascading-release-maven-plugin
+

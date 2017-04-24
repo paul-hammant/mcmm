@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.liftmodules
+ artifactId: salatauth_3.0_2.11
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version: '1.2'
+  lastUpdated: '20170129165837'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: aero.m-click
+ artifactId: mcpdf
+ versioning:
+  latest: 0.2.4
+  release: 0.2.4
+  versions:
+   version:
+   - 0.2.0
+   - 0.2.1
+   - 0.2.2
+   - 0.2.3
+   - 0.2.4
+  lastUpdated: '20160504112136'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven plugin for creating executable WARs
+   prefix: executable-war
+   artifactId: maven-executable-war-plugin
+

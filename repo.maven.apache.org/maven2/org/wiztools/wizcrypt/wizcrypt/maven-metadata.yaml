@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.wiztools.wizcrypt
+ artifactId: wizcrypt
+ versioning:
+  versions:
+   version: '2.1'
+

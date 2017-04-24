@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.explodingart
+ artifactId: jmusic
+ versioning:
+  latest: 1.6.4.1
+  release: 1.6.4.1
+  versions:
+   version:
+   - 1.6.4
+   - 1.6.4.1
+  lastUpdated: '20140824035518'
+

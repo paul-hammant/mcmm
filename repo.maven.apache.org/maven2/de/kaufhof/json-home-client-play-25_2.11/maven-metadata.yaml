@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.kaufhof
+ artifactId: json-home-client-play-25_2.11
+ versioning:
+  latest: 2.1.0
+  release: 2.1.0
+  versions:
+   version: 2.1.0
+  lastUpdated: '20160316115731'
+

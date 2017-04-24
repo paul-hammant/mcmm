@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.lizalab
+ artifactId: kryonet-slf4j
+ versioning:
+  latest: 2.22.0
+  release: 2.22.0
+  versions:
+   version: 2.22.0
+  lastUpdated: '20150505191434'
+

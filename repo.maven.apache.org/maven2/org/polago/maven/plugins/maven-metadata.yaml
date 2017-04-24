@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Merge Properties Maven Plugin
+   prefix: merge-properties
+   artifactId: merge-properties-maven-plugin
+

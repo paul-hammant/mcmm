@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.portals.applications
+ artifactId: apa-logging
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20150508214611'
+

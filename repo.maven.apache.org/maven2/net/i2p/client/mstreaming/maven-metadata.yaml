@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.i2p.client
+ artifactId: mstreaming
+ versioning:
+  latest: 0.9.29
+  release: 0.9.29
+  versions:
+   version:
+   - 0.9.26
+   - 0.9.27
+   - 0.9.28
+   - 0.9.29
+  lastUpdated: '20170312035447'
+

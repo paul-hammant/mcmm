@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.airlift
+ artifactId: rack-launcher
+ versioning:
+  latest: '0.75'
+  release: '0.75'
+  versions:
+   version:
+   - '0.74'
+   - '0.75'
+  lastUpdated: '20130403193344'
+

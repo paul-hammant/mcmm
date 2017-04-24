@@ -1,0 +1,18 @@
+metadata:
+ groupId: org.openehealth.ipf.oht.atna
+ artifactId: ipf-oht-atna-test
+ versioning:
+  latest: 3.4.1
+  release: 3.4.1
+  versions:
+   version:
+   - 3.1.1
+   - 3.1.2
+   - 3.2.0
+   - 3.2.1
+   - 3.2.2
+   - 3.3.0
+   - 3.4.0
+   - 3.4.1
+  lastUpdated: '20170327081229'
+

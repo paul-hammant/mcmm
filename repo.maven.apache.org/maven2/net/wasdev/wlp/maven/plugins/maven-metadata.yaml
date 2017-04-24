@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: liberty-maven-plugin
+   prefix: liberty
+   artifactId: liberty-maven-plugin
+

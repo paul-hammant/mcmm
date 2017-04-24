@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: echocat Daemon Maven Plugin
+   prefix: daemon
+   artifactId: daemon-maven-plugin
+

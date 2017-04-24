@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.appbricks
+ artifactId: appbricks-archetype-dubbox-service
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version:
+   - '1.0'
+   - '2.0'
+   - '2.1'
+  lastUpdated: '20160824054956'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.carne
+ artifactId: jfx
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version:
+   - '1'
+   - '2'
+  lastUpdated: '20170129125628'
+

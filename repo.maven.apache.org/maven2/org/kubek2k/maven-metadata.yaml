@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: handlebars-maven-plugin
+   prefix: handlebars
+   artifactId: handlebars-maven-plugin
+

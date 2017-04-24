@@ -1,0 +1,10 @@
+metadata:
+ groupId: co.tomlee.gradle.plugins
+ artifactId: gradle-beaver-plugin
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version: 0.0.2
+  lastUpdated: '20140727180633'
+

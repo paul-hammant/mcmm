@@ -1,0 +1,12 @@
+metadata:
+ groupId: br.com.address.archetypes
+ artifactId: struts2-base-archetype
+ versioning:
+  latest: '1.7'
+  release: '1.7'
+  versions:
+   version:
+   - '1.6'
+   - '1.7'
+  lastUpdated: '20160629222746'
+

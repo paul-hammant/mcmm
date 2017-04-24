@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.opentracing.contrib
+ artifactId: jdbi-opentracing
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version:
+   - 0.1.2
+   - 0.2.0
+   - 0.3.0
+  lastUpdated: '20161201215751'
+

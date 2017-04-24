@@ -1,0 +1,8 @@
+metadata:
+ groupId: dynaop
+ artifactId: dynaop
+ version: 1.0-beta
+ versioning:
+  versions:
+   version: 1.0-beta
+

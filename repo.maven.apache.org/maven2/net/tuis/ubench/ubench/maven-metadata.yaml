@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.tuis.ubench
+ artifactId: ubench
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version:
+   - 0.0.5
+   - 0.1.0
+   - 0.1.1
+   - 0.2.0
+  lastUpdated: '20150427002441'
+

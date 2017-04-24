@@ -1,0 +1,10 @@
+metadata:
+ groupId: jotm
+ artifactId: jotm
+ version: 1.5.3
+ versioning:
+  versions:
+   version:
+   - 1.5.3
+   - 2.0.10
+

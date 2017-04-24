@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scalawag.timber
+ artifactId: timber-logback-support_2.11
+ versioning:
+  latest: 0.6.0
+  release: 0.6.0
+  versions:
+   version:
+   - 0.5.0
+   - 0.6.0
+  lastUpdated: '20160923161223'
+

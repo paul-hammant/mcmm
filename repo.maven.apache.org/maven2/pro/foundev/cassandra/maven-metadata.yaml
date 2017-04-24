@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Cassandra Commmons for Apache Cassandra - Migrations Maven Plugin
+   prefix: cassandra-commons
+   artifactId: cassandra-commons-maven
+  - name: Cassandra Commmons for Apache Cassandra - Migrations Maven Plugin
+   prefix: cassandra-commons-migrations-mvn
+   artifactId: cassandra-commons-migrations-mvn
+

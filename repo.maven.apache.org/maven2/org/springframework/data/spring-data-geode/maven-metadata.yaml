@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.springframework.data
+ artifactId: spring-data-geode
+ versioning:
+  latest: 1.0.0.INCUBATING-RELEASE
+  release: 1.0.0.INCUBATING-RELEASE
+  versions:
+   version:
+   - 1.0.0.APACHE-GEODE-INCUBATING-M2
+   - 1.0.0.APACHE-GEODE-INCUBATING-M3
+   - 1.0.0.INCUBATING-RELEASE
+  lastUpdated: '20161103040341'
+

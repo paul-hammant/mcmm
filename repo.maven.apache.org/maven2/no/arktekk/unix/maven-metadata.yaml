@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Unix Plug-In
+   prefix: unix
+   artifactId: unix-maven-plugin
+

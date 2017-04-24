@@ -1,0 +1,13 @@
+metadata:
+ groupId: in.co.uproot
+ artifactId: abandon-base_2.11
+ versioning:
+  latest: 0.3.2
+  release: 0.3.2
+  versions:
+   version:
+   - 0.3.0-rc1
+   - 0.3.0
+   - 0.3.2
+  lastUpdated: '20161110162107'
+

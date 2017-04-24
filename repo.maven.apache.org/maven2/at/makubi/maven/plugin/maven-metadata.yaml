@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Avrohugger Maven Plugin
+   prefix: avrohugger_2.11
+   artifactId: avrohugger-maven-plugin_2.11
+  - name: RPM Systemd Maven Plugin
+   prefix: rpm-systemd
+   artifactId: rpm-systemd-maven-plugin
+

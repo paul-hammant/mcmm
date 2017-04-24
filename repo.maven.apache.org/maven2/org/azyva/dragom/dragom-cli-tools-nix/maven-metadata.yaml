@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.azyva.dragom
+ artifactId: dragom-cli-tools-nix
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version:
+   - 0.1.1
+   - 0.1.2
+  lastUpdated: '20170125223559'
+

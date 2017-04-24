@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.codeslap
+ artifactId: github-jobs-api
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20120330152713'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.datenstrudel.bulbs
+ artifactId: bulbs-shared
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20150302212417'
+

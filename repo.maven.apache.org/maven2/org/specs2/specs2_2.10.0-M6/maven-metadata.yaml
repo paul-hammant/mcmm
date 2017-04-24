@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.specs2
+ artifactId: specs2_2.10.0-M6
+ versioning:
+  latest: '1.11'
+  release: '1.11'
+  versions:
+   version: '1.11'
+  lastUpdated: '20120727051644'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scaldi
+ artifactId: scaldi-jsr330_2.12
+ versioning:
+  latest: 0.5.9
+  release: 0.5.9
+  versions:
+   version: 0.5.9
+  lastUpdated: '20161103190235'
+

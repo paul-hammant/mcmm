@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: AHT-Utils - Maven Plugins
+   prefix: ahtutils
+   artifactId: ahtutils-maven
+  - name: AHT-Utils - Report Compiler
+   prefix: ahtutils-report
+   artifactId: ahtutils-report
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: mobi.openddr
+ artifactId: openddr-data
+ versioning:
+  latest: '1.31'
+  release: '1.31'
+  versions:
+   version: '1.31'
+  lastUpdated: '20170312190712'
+

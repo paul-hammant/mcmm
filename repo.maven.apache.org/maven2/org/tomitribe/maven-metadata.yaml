@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Tomitribe :: Crest :: Maven Plugin'
+   prefix: crest
+   artifactId: crest-maven-plugin
+

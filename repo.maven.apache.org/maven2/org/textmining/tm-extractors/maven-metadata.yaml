@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.textmining
+ artifactId: tm-extractors
+ versioning:
+  versions:
+   version: '0.4'
+

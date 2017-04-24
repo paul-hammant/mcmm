@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.ow2.frascati.tinfi
+ artifactId: frascati-tinfi-compiler
+ version: 0.4.4
+ versioning:
+  versions:
+   version:
+   - 0.4.4
+   - '0.6'
+   - '1.0'
+   - 1.0.1
+  lastUpdated: '20090618103724'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.codehaus.cake.internal
+ artifactId: cake-forkjoin
+ version: '0.1'
+ versioning:
+  versions:
+   version: '0.1'
+  lastUpdated: '20080418093223'
+

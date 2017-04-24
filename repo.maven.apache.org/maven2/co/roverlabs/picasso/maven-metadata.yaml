@@ -1,0 +1,10 @@
+metadata:
+ groupId: co.roverlabs
+ artifactId: picasso
+ versioning:
+  latest: 2.5.2
+  release: 2.5.2
+  versions:
+   version: 2.5.2
+  lastUpdated: '20150811163009'
+

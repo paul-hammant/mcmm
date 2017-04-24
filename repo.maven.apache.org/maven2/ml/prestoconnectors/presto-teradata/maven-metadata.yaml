@@ -1,0 +1,10 @@
+metadata:
+ groupId: ml.prestoconnectors
+ artifactId: presto-teradata
+ versioning:
+  latest: 0.130.1
+  release: 0.130.1
+  versions:
+   version: 0.130.1
+  lastUpdated: '20160512020938'
+

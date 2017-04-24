@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.apache.sandesha2
+ artifactId: sandesha2-client
+ versioning:
+  versions:
+   version: '1.1'
+

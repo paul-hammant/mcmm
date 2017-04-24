@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: NoORM Java Code Generator
+   prefix: noorm-generator
+   artifactId: noorm-generator
+

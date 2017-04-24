@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.schedulesdirect
+ artifactId: sdjson-api
+ versioning:
+  latest: 0.20140530.1
+  release: 0.20140530.1
+  versions:
+   version:
+   - 0.20131021.0
+   - 0.20131021.1
+   - 0.20131021.2
+   - 0.20140530.0
+   - 0.20140530.1
+  lastUpdated: '20141214180218'
+

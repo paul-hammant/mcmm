@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Water Template i18n Plugin
+   prefix: watertemplate-i18n
+   artifactId: watertemplate-i18n-maven-plugin
+

@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.danielasfregola
+ artifactId: twitter4s_2.12
+ versioning:
+  latest: '5.1'
+  release: '5.1'
+  versions:
+   version:
+   - '4.0'
+   - 4.0.1
+   - '4.1'
+   - '4.2'
+   - '5.0'
+   - '5.1'
+  lastUpdated: '20170415113236'
+

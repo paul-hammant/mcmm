@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: pojogen
+   artifactId: pojogen-maven-plugin
+

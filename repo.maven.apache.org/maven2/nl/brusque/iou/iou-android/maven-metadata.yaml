@@ -1,0 +1,12 @@
+metadata:
+ groupId: nl.brusque.iou
+ artifactId: iou-android
+ versioning:
+  latest: 1.0.0-beta-02
+  release: 1.0.0-beta-02
+  versions:
+   version:
+   - 1.0.0-beta-01
+   - 1.0.0-beta-02
+  lastUpdated: '20160502110819'
+

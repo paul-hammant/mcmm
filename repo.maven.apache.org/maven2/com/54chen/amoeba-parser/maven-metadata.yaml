@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.54chen
+ artifactId: amoeba-parser
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20120711115625'
+

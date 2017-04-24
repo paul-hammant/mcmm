@@ -1,0 +1,14 @@
+metadata:
+ groupId: eu.freme-project.packages
+ artifactId: freme-full
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '0.14'
+   - '0.15'
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20170130151454'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: me.moocar
+ artifactId: socket-encoder-appender
+ versioning:
+  latest: 0.1beta1
+  release: 0.1beta1
+  versions:
+   version: 0.1beta1
+  lastUpdated: '20150405142534'
+

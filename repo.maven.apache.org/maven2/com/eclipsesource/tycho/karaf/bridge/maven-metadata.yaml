@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: kar-packager
+   prefix: kar-packager
+   artifactId: kar-packager
+

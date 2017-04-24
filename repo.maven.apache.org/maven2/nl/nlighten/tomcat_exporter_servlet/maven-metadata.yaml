@@ -1,0 +1,12 @@
+metadata:
+ groupId: nl.nlighten
+ artifactId: tomcat_exporter_servlet
+ versioning:
+  latest: 0.0.4
+  release: 0.0.4
+  versions:
+   version:
+   - 0.0.3
+   - 0.0.4
+  lastUpdated: '20170319110841'
+

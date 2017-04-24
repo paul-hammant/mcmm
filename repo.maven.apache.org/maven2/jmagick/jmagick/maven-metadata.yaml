@@ -1,0 +1,10 @@
+metadata:
+ groupId: jmagick
+ artifactId: jmagick
+ versioning:
+  latest: 6.6.9
+  release: 6.6.9
+  versions:
+   version: 6.6.9
+  lastUpdated: '20130227170756'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: joda-time
+ artifactId: joda-time-hibernate
+ versioning:
+  latest: '1.4'
+  release: '1.4'
+  versions:
+   version: '1.4'
+  lastUpdated: '20150417132157'
+

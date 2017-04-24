@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: iib-maven-plugin Maven Mojo
+   prefix: iib
+   artifactId: iib-maven-plugin
+  - name: maven-wmb7-plugin Maven Mojo
+   prefix: wmb7
+   artifactId: maven-wmb7-plugin
+

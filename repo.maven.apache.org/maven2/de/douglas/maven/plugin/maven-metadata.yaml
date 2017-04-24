@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: RPM Systemd Maven Plugin
+   prefix: rpm-systemd
+   artifactId: rpm-systemd-maven-plugin
+

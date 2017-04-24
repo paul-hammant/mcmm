@@ -1,0 +1,10 @@
+metadata:
+ groupId: ru.dmerkushov
+ artifactId: tiff-helper
+ versioning:
+  latest: 1.5.0
+  release: 1.5.0
+  versions:
+   version: 1.5.0
+  lastUpdated: '20131129170944'
+

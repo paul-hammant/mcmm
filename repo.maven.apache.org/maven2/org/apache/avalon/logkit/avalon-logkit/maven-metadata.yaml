@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.avalon.logkit
+ artifactId: avalon-logkit
+ version: 2.2.1
+ versioning:
+  versions:
+   version: 2.2.1
+  lastUpdated: '20070215204348'
+

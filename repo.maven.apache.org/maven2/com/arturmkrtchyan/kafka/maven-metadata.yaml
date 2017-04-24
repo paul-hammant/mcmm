@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: kafka-maven-plugin
+   prefix: kafka
+   artifactId: kafka-maven-plugin
+

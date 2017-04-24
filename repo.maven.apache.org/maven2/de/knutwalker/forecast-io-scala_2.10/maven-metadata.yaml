@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.knutwalker
+ artifactId: forecast-io-scala_2.10
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20140113163402'
+

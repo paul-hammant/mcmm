@@ -1,0 +1,10 @@
+metadata:
+ groupId: xmlenc
+ artifactId: xmlenc
+ version: '0.20'
+ versioning:
+  versions:
+   version:
+   - '0.20'
+   - '0.33'
+

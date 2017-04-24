@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: coveralls-maven-plugin
+   prefix: coveralls
+   artifactId: coveralls-maven-plugin
+

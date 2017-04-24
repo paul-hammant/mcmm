@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.timmc
+ artifactId: johnny
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20150501225338'
+

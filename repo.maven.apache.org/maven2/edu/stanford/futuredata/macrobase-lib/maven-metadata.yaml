@@ -1,0 +1,10 @@
+metadata:
+ groupId: edu.stanford.futuredata
+ artifactId: macrobase-lib
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20170317173345'
+

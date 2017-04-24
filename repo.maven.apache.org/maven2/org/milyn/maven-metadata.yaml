@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Milyn :: EDI :: Edifact Convertion Tool - Maven Plugin Mojo'
+   prefix: ect
+   artifactId: ect-maven-plugin
+  - name: 'Milyn :: EDI :: Edifact Java Compiler :: Maven Plugin Mojo'
+   prefix: ejc
+   artifactId: ejc-maven-plugin
+  - name: 'Milyn :: EDI :: Edifact Convertion Tool - Maven Plugin Mojo'
+   prefix: ect
+   artifactId: maven-ect-plugin
+  - name: 'Milyn :: EDI :: Edifact Java Compiler :: Maven Plugin Mojo'
+   prefix: ejc
+   artifactId: maven-ejc-plugin
+

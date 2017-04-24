@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: TLD Generator Tool for Tapestry Components and Eclipse IDE
+   prefix: tapestry-tldgen
+   artifactId: tapestry-tldgen
+

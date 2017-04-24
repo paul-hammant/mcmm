@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.ifar.shiro-jdbi-realm
+ artifactId: shiro-jdbi-realm
+ versioning:
+  latest: '0'
+  release: '0'
+  versions:
+   version: '0'
+  lastUpdated: '20140218060723'
+

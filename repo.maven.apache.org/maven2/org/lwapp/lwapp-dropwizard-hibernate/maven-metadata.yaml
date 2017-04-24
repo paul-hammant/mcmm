@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.lwapp
+ artifactId: lwapp-dropwizard-hibernate
+ versioning:
+  latest: 0.9.2
+  release: 0.9.2
+  versions:
+   version: 0.9.2
+  lastUpdated: '20160301015848'
+

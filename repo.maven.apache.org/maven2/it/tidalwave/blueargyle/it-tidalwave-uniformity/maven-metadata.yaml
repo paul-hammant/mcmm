@@ -1,0 +1,13 @@
+metadata:
+ groupId: it.tidalwave.blueargyle
+ artifactId: it-tidalwave-uniformity
+ versioning:
+  latest: 1.0.2
+  release: 1.0.2
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.0.2
+  lastUpdated: '20120109014746'
+

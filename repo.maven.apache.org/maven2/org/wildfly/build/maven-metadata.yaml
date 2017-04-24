@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'WildFly Build Tools: Feature Pack Build Maven Plugin'
+   prefix: wildfly-feature-pack-build
+   artifactId: wildfly-feature-pack-build-maven-plugin
+  - name: 'WildFly Build Tools: Server Provisioning Maven Plugin'
+   prefix: wildfly-server-provisioning
+   artifactId: wildfly-server-provisioning-maven-plugin
+

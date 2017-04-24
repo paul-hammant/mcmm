@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.sf.jnrpe
+ artifactId: jnrpe-plugins
+ versioning:
+  latest: 0.7.5
+  release: 0.7.5
+  versions:
+   version:
+   - 0.7.2
+   - 0.7.3
+   - 0.7.4
+   - 0.7.5
+  lastUpdated: '20150209142751'
+

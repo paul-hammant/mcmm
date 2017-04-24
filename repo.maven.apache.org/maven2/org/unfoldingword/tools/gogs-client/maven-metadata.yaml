@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.unfoldingword.tools
+ artifactId: gogs-client
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20160226214323'
+

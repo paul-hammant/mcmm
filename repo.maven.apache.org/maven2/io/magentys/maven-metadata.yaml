@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Donut Maven Plugin
+   prefix: donut
+   artifactId: donut-maven-plugin
+

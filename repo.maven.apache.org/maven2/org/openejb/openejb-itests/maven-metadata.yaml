@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.openejb
+ artifactId: openejb-itests
+ version: 3.0-SNAPSHOT
+ versioning:
+  versions:
+   version: 3.0-SNAPSHOT
+  lastUpdated: '20060831065036'
+

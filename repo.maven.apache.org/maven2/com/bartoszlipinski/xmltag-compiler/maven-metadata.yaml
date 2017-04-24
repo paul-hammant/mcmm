@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.bartoszlipinski
+ artifactId: xmltag-compiler
+ versioning:
+  latest: 1.1.3
+  release: 1.1.3
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+   - 1.1.3
+  lastUpdated: '20160610092256'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: spice
+ artifactId: spice-extension
+ version: '1.1'
+ versioning:
+  versions:
+   version: '1.1'
+

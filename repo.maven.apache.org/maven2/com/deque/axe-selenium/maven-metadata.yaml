@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.deque
+ artifactId: axe-selenium
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '2.0'
+  lastUpdated: '20160715172645'
+

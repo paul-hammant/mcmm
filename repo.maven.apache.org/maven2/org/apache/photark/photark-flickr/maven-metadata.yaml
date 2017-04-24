@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.photark
+ artifactId: photark-flickr
+ version: M3-incubating
+ versioning:
+  versions:
+   version: M3-incubating
+  lastUpdated: '20110104062636'
+

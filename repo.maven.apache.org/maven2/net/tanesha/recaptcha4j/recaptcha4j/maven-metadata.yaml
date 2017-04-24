@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.tanesha.recaptcha4j
+ artifactId: recaptcha4j
+ versioning:
+  latest: 0.0.7
+  release: 0.0.7
+  versions:
+   version: 0.0.7
+  lastUpdated: '20100220165600'
+

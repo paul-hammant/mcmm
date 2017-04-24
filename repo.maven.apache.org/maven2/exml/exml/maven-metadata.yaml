@@ -1,0 +1,10 @@
+metadata:
+ groupId: exml
+ artifactId: exml
+ version: '7.0'
+ versioning:
+  versions:
+   version:
+   - '7.0'
+   - dbunit1.5.1
+

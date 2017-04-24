@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.eclipse
+ artifactId: jet
+ version: 0.8.0-v20070605
+ versioning:
+  versions:
+   version: 0.8.0-v20070605
+  lastUpdated: '20071127071107'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: net.yetamine.pet4bnd
+   prefix: pet4bnd
+   artifactId: pet4bnd-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: uk.co.jemos.protomak
+ artifactId: protomak-parent
+ versioning:
+  latest: 0.0.2.RELEASE
+  release: 0.0.2.RELEASE
+  versions:
+   version:
+   - 0.0.1.RELEASE
+   - 0.0.2.RELEASE
+  lastUpdated: '20110624214515'
+

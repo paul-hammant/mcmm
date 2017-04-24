@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.adlocus
+ artifactId: AdLocusSDK
+ versioning:
+  latest: 3.3.13
+  release: 3.3.13
+  versions:
+   version: 3.3.13
+  lastUpdated: '20150701072734'
+

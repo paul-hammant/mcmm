@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.fusesource
+ artifactId: sigar
+ versioning:
+  latest: 1.6.4
+  release: 1.6.4
+  versions:
+   version: 1.6.4
+  lastUpdated: '20110322190933'
+

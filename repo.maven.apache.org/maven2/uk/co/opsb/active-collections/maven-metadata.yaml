@@ -1,0 +1,10 @@
+metadata:
+ groupId: uk.co.opsb
+ artifactId: active-collections
+ versioning:
+  latest: '0.18'
+  release: '0.18'
+  versions:
+   version: '0.18'
+  lastUpdated: '20110106101824'
+

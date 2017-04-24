@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Lambada Deploying Plugin
+   prefix: lambada
+   artifactId: lambada-maven-plugin
+

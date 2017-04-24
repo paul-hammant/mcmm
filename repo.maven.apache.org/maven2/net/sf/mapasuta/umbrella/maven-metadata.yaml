@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.sf.mapasuta
+ artifactId: umbrella
+ version: 0.0.9
+ versioning:
+  versions:
+   version: 0.0.9
+  lastUpdated: '20081114212211'
+

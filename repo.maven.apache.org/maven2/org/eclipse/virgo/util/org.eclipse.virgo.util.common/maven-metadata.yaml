@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eclipse.virgo.util
+ artifactId: org.eclipse.virgo.util.common
+ versioning:
+  latest: 3.5.0.RELEASE
+  release: 3.5.0.RELEASE
+  versions:
+   version: 3.5.0.RELEASE
+  lastUpdated: '20140206081833'
+

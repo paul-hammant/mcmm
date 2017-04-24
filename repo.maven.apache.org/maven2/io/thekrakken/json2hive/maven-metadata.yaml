@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.thekrakken
+ artifactId: json2hive
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20140505164120'
+

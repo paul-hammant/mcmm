@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: auxis - Material Maven Plugin
+   prefix: material
+   artifactId: material-maven-plugin
+  - name: auxis - Maven Material Plugin
+   prefix: material
+   artifactId: maven-material-plugin
+

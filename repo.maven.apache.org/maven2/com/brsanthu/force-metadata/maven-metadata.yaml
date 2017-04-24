@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.brsanthu
+ artifactId: force-metadata
+ versioning:
+  latest: 30.0.0
+  release: 30.0.0
+  versions:
+   version:
+   - 29.0.0
+   - 30.0.0
+  lastUpdated: '20140609214729'
+

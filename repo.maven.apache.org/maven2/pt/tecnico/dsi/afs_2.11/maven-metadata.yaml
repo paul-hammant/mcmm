@@ -1,0 +1,12 @@
+metadata:
+ groupId: pt.tecnico.dsi
+ artifactId: afs_2.11
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+  lastUpdated: '20160718165352'
+

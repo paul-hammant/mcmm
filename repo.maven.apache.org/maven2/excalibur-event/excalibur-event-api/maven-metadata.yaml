@@ -1,0 +1,10 @@
+metadata:
+ groupId: excalibur-event
+ artifactId: excalibur-event-api
+ version: 1.0.4-dev
+ versioning:
+  versions:
+   version:
+   - 1.0.4-dev
+   - '2.1'
+

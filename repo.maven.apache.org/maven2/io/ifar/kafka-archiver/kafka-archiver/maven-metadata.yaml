@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.ifar.kafka-archiver
+ artifactId: kafka-archiver
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version: '2'
+  lastUpdated: '20150716003247'
+

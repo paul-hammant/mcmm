@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.apache.velocity
+ artifactId: velocity-tools
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '1.3'
+   - 2.0-beta2
+   - 2.0-beta3
+   - 2.0-beta4
+   - '2.0'
+  lastUpdated: '20101014123155'
+

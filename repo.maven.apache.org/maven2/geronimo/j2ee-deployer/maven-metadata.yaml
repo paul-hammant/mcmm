@@ -1,0 +1,8 @@
+metadata:
+ groupId: geronimo
+ artifactId: j2ee-deployer
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

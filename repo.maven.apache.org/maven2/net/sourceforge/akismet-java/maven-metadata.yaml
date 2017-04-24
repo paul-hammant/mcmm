@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sourceforge
+ artifactId: akismet-java
+ versioning:
+  latest: '1.02'
+  release: '1.02'
+  versions:
+   version: '1.02'
+  lastUpdated: '20120905203227'
+

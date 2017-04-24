@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-dsldoc-plugin
+   prefix: dsldoc
+   artifactId: maven-dsldoc-plugin
+

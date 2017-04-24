@@ -1,0 +1,8 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: cache
+   artifactId: cache-maven-plugin
+  - prefix: ts
+   artifactId: ts-maven-plugin
+

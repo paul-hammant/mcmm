@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.javafxdata
+ artifactId: datafx-tutorial2
+ versioning:
+  latest: 8.0b5
+  release: 8.0b5
+  versions:
+   version:
+   - 8.0b4
+   - 8.0b5
+  lastUpdated: '20140604184045'
+

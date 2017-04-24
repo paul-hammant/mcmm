@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.helix
+ artifactId: helix-provisioning
+ versioning:
+  latest: 0.7.1
+  release: 0.7.1
+  versions:
+   version: 0.7.1
+  lastUpdated: '20140904040839'
+

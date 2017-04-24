@@ -1,0 +1,15 @@
+metadata:
+ groupId: kr.co.kdsoft.droidlib
+ artifactId: network
+ versioning:
+  latest: 1.0.05
+  release: 1.0.05
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.01
+   - 1.0.02
+   - 1.0.03
+   - 1.0.05
+  lastUpdated: '20140617093513'
+

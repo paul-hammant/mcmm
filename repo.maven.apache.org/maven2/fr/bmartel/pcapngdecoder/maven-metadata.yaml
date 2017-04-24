@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.bmartel
+ artifactId: pcapngdecoder
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version: '1.2'
+  lastUpdated: '20170112143229'
+

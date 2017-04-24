@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.jupyter-scala
+ artifactId: ammonite-util_2.11.8
+ versioning:
+  latest: 0.8.2-2
+  release: 0.8.2-2
+  versions:
+   version:
+   - 0.8.0
+   - 0.8.1
+   - 0.8.2
+   - 0.8.2-1
+   - 0.8.2-2
+  lastUpdated: '20170308105741'
+

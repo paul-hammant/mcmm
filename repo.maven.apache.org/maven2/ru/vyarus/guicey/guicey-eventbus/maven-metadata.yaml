@@ -1,0 +1,12 @@
+metadata:
+ groupId: ru.vyarus.guicey
+ artifactId: guicey-eventbus
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version:
+   - 0.2.0
+   - 0.2.1
+  lastUpdated: '20161206143719'
+

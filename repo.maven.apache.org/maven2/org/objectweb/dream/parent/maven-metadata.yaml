@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.objectweb.dream
+ artifactId: parent
+ version: '2.0'
+ versioning:
+  release: '3'
+  versions:
+   version:
+   - '2.0'
+   - '3'
+  lastUpdated: '20081204141016'
+

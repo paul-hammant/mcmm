@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.shredzone.jshred
+ artifactId: jshred-web
+ versioning:
+  latest: '19'
+  release: '19'
+  versions:
+   version: '19'
+  lastUpdated: '20141030215902'
+

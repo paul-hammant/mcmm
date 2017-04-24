@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: java-checksum-flyway
+   artifactId: java-checksum-flyway-maven-plugin
+

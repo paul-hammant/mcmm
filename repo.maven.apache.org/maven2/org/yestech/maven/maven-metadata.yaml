@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Hibernate Search Maven Mojo
+   prefix: hibernate-search
+   artifactId: maven-hibernate-search
+

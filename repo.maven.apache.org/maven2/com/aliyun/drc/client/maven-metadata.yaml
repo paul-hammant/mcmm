@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.aliyun.drc
+ artifactId: client
+ versioning:
+  latest: 2.2.1.39-cloud
+  release: 2.2.1.39-cloud
+  versions:
+   version: 2.2.1.39-cloud
+  lastUpdated: '20170418111340'
+

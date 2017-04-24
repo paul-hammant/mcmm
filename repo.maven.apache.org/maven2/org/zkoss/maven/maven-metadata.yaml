@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: YUI Compressor Maven Mojo for ZK
+   prefix: yuicompressorzk
+   artifactId: yuicompressor-maven-plugin-zk
+

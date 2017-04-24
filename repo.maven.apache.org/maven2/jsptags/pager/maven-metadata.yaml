@@ -1,0 +1,8 @@
+metadata:
+ groupId: jsptags
+ artifactId: pager
+ version: taglib
+ versioning:
+  versions:
+   version: taglib
+

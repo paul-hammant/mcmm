@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.uniknow.spring
+ artifactId: spring-tcc-transactions
+ versioning:
+  latest: 0.1.14
+  release: 0.1.14
+  versions:
+   version:
+   - 0.1.13
+   - 0.1.14
+  lastUpdated: '20161213065602'
+

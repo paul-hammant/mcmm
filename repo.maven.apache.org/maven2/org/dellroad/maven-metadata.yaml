@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: DellRoad Stuff Maven Plugin
+   prefix: dellroad-stuff
+   artifactId: dellroad-stuff-maven-plugin
+

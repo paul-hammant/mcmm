@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.kafka
+ artifactId: connect-transforms
+ versioning:
+  latest: 0.10.2.0
+  release: 0.10.2.0
+  versions:
+   version: 0.10.2.0
+  lastUpdated: '20170221075229'
+

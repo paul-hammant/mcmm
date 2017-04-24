@@ -1,0 +1,10 @@
+metadata:
+ groupId: gov.sandia.foundry
+ artifactId: gov-sandia-cognition-graph-core
+ versioning:
+  latest: 4.0.0
+  release: 4.0.0
+  versions:
+   version: 4.0.0
+  lastUpdated: '20170325053248'
+

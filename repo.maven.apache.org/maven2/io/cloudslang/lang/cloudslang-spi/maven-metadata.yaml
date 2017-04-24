@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.cloudslang.lang
+ artifactId: cloudslang-spi
+ versioning:
+  latest: 1.0.3
+  release: 1.0.3
+  versions:
+   version:
+   - 0.9.60.0
+   - 1.0.0
+   - 1.0.3
+  lastUpdated: '20170215080342'
+

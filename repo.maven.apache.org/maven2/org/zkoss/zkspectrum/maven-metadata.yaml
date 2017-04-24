@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.zkoss
+ artifactId: zkspectrum
+ versioning:
+  latest: 1.8.0.1
+  release: 1.8.0.1
+  versions:
+   version:
+   - 1.8.0.0
+   - 1.8.0.1
+  lastUpdated: '20161014233803'
+

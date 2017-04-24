@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.stickycode.stereotype
+ artifactId: sticky-stereotype-resource
+ versioning:
+  latest: '2.2'
+  release: '2.2'
+  versions:
+   version: '2.2'
+  lastUpdated: '20121014221648'
+

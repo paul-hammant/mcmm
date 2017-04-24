@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: JavaLite - Instrumentation Plugin and JavaAgent
+   prefix: activejdbc-instrumentation
+   artifactId: activejdbc-instrumentation
+  - name: ActiveJDBC - Instrumentation Maven Plugin
+   prefix: activejdbc-instrumentation
+   artifactId: activejdbc-instrumentation
+  - name: ActiveWeb - Lessc Maven Plugin
+   prefix: activeweb-lessc
+   artifactId: activeweb-lessc-maven-plugin
+  - name: JavaLite - DB-Migrator Maven Plugin
+   prefix: db-migrator
+   artifactId: db-migrator-maven-plugin
+  - name: JavaLite - Git Info Maven plugin
+   prefix: git-info
+   artifactId: git-info-maven-plugin
+

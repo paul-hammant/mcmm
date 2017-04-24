@@ -1,0 +1,22 @@
+metadata:
+ groupId: cz.auderis
+ artifactId: auderis-test-extra
+ versioning:
+  latest: 1.2.8
+  release: 1.2.8
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.1.1
+   - 1.2.0
+   - 1.2.1
+   - 1.2.2
+   - 1.2.3
+   - 1.2.4
+   - 1.2.5
+   - 1.2.6
+   - 1.2.7
+   - 1.2.8
+  lastUpdated: '20170214180430'
+

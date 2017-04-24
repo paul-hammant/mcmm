@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.disy.jquery
+ artifactId: jquery-ui
+ versioning:
+  latest: 1.8.6
+  release: 1.8.6
+  versions:
+   version: 1.8.6
+  lastUpdated: '20110315080124'
+

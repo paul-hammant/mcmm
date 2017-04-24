@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.sf.jack4j
+ artifactId: jack4j
+ version: 0.0.3
+ versioning:
+  release: 0.3.0
+  versions:
+   version:
+   - 0.0.3
+   - 0.1.0
+   - 0.2.0
+   - 0.3.0
+  lastUpdated: '20080614004444'
+

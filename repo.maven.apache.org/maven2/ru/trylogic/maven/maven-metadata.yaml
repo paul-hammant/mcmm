@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Adobe Flash RSL creator from file using Flexmojos code base.
+   prefix: flexmojos-create-rsl
+   artifactId: flexmojos-create-rsl-plugin
+

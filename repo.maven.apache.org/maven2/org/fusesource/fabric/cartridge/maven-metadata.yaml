@@ -1,0 +1,15 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.fusesource.fabric
+ artifactId: cartridge
+ versioning:
+  latest: 7.2.0.redhat-065
+  release: 7.2.0.redhat-065
+  versions:
+   version:
+   - 7.1.0.fuse-047
+   - 7.2.0.redhat-024
+   - 7.2.0.redhat-060
+   - 7.2.0.redhat-065
+  lastUpdated: '20140530182747'
+

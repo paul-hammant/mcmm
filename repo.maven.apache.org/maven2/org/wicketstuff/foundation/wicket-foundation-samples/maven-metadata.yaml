@@ -1,0 +1,23 @@
+metadata:
+ groupId: org.wicketstuff.foundation
+ artifactId: wicket-foundation-samples
+ versioning:
+  latest: 8.0.0-M5
+  release: 8.0.0-M5
+  versions:
+   version:
+   - 7.0.0-M6
+   - 7.0.0
+   - 7.1.0
+   - 7.2.0
+   - 7.3.0
+   - 7.4.0
+   - 7.5.0
+   - 7.6.0
+   - 8.0.0-M1
+   - 8.0.0-M2
+   - 8.0.0-M3
+   - 8.0.0-M4
+   - 8.0.0-M5
+  lastUpdated: '20170329195651'
+

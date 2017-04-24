@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.excalibur.containerkit
+ artifactId: excalibur-lifecycle-impl
+ version: 2.2.1
+ versioning:
+  versions:
+   version: 2.2.1
+  lastUpdated: '20070215204435'
+

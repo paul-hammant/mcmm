@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven JaxMe Plugin
+   prefix: jaxme
+   artifactId: maven-jaxme-plugin
+

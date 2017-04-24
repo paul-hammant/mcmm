@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.jdocbook
+ artifactId: jdocbook-core
+ versioning:
+  latest: 1.0.7
+  release: 1.0.7
+  versions:
+   version: 1.0.7
+  lastUpdated: '20140424174622'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.avalon.cornerstone.threads
+ artifactId: cornerstone-threads
+ version: '1'
+ versioning:
+  versions:
+   version: '1'
+  lastUpdated: '20070215204801'
+

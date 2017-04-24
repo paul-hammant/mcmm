@@ -1,0 +1,15 @@
+metadata:
+ groupId: de.ehex.foss
+ artifactId: gematik-specifications
+ versioning:
+  latest: 2.2.3
+  release: 2.2.3
+  versions:
+   version:
+   - 1.0.1
+   - 1.2.1
+   - 2.2.1
+   - 2.2.2
+   - 2.2.3
+  lastUpdated: '20170302101628'
+

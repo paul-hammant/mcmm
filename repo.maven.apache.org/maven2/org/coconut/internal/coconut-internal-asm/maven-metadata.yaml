@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.coconut.internal
+ artifactId: coconut-internal-asm
+ version: '3.0'
+ versioning:
+  versions:
+   version: '3.0'
+  lastUpdated: '20071114142120'
+

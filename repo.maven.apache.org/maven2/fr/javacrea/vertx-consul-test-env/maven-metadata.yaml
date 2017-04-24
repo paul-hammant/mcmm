@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.javacrea
+ artifactId: vertx-consul-test-env
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version: 0.2.0
+  lastUpdated: '20170421195830'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-junithelper-plugin Maven Mojo
+   prefix: junithelper
+   artifactId: maven-junithelper-plugin
+

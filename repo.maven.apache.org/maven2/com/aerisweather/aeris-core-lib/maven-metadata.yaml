@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.aerisweather
+ artifactId: aeris-core-lib
+ versioning:
+  latest: 2.0.0_Beta3
+  release: 2.0.0_Beta3
+  versions:
+   version:
+   - 2.0.0_Beta2
+   - 2.0.0_Beta3
+  lastUpdated: '20170322172540'
+

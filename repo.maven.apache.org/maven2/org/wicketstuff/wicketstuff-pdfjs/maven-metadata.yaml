@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.wicketstuff
+ artifactId: wicketstuff-pdfjs
+ versioning:
+  latest: 7.6.0
+  release: 7.6.0
+  versions:
+   version: 7.6.0
+  lastUpdated: '20170104214127'
+

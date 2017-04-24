@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.att.ajsc
+ artifactId: sdk-java-restlet-interceptor
+ versioning:
+  latest: 6.2.0.4
+  release: 6.2.0.4
+  versions:
+   version: 6.2.0.4
+  lastUpdated: '20170329192052'
+

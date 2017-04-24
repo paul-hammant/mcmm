@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.carrot2.shaded
+ artifactId: guava
+ versioning:
+  latest: '18.0'
+  release: '18.0'
+  versions:
+   version: '18.0'
+  lastUpdated: '20150810093340'
+

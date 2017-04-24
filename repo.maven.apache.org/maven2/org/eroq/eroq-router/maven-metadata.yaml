@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eroq
+ artifactId: eroq-router
+ versioning:
+  latest: 0.1.0-RELEASE
+  release: 0.1.0-RELEASE
+  versions:
+   version: 0.1.0-RELEASE
+  lastUpdated: '20160118201007'
+

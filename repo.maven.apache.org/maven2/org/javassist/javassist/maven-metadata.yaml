@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.javassist
+ artifactId: javassist
+ versioning:
+  latest: 3.18.1-GA
+  release: 3.18.1-GA
+  versions:
+   version:
+   - 3.16.1-GA
+   - 3.18.1-Beta1
+   - 3.18.1-GA
+  lastUpdated: '20130830184024'
+

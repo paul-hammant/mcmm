@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.univ-valenciennes
+ artifactId: cspom_2.12
+ versioning:
+  latest: '2.12'
+  release: '2.12'
+  versions:
+   version: '2.12'
+  lastUpdated: '20170223142038'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: excalibur-instrument
+ artifactId: excalibur-instrument-mgr-api
+ version: '2.1'
+ versioning:
+  versions:
+   version: '2.1'
+

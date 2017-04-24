@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.wseduc
+ artifactId: mod-pdf-generator
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version:
+   - 0.1.1
+   - 0.1.2
+  lastUpdated: '20150827120659'
+

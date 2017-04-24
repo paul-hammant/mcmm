@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.jbpm.jbpm3
+ artifactId: jbpm-integration-spec
+ versioning:
+  latest: 3.3.1.GA
+  release: 3.3.1.GA
+  versions:
+   version:
+   - 3.2.5.GA
+   - 3.2.5.SP1
+   - 3.2.5.SP2
+   - 3.3.1.GA
+  lastUpdated: '20100426064601'
+

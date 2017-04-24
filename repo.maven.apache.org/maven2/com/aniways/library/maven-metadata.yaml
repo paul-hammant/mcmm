@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.aniways
+ artifactId: library
+ versioning:
+  latest: 2.3.09
+  release: 2.3.09
+  versions:
+   version:
+   - '1.0'
+   - 2.3.05
+   - 2.3.08
+   - 2.3.09
+  lastUpdated: '20150211155740'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: eu.agrosense.api
+ artifactId: style
+ versioning:
+  latest: 14.06-beta
+  release: 14.06-beta
+  versions:
+   version:
+   - 14.01-beta
+   - 14.02-beta
+   - 14.04-beta
+   - 14.04.1-beta
+   - 14.06-beta
+  lastUpdated: '20140706083558'
+

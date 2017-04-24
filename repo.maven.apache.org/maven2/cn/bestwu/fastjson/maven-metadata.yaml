@@ -1,0 +1,12 @@
+metadata:
+ groupId: cn.bestwu
+ artifactId: fastjson
+ versioning:
+  latest: 1.2-unwrap
+  release: 1.2-unwrap
+  versions:
+   version:
+   - 1.1-unwrap
+   - 1.2-unwrap
+  lastUpdated: '20160119071258'
+

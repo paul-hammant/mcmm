@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Ascii2Native Maven Plugin
+   prefix: ascii2native
+   artifactId: ascii2native-maven-plugin
+  - name: Write Text Files Maven Plugin
+   prefix: write-text-files
+   artifactId: write-text-files-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Central Sync Maven Plugin
+   prefix: centralsync
+   artifactId: centralsync-maven-plugin
+

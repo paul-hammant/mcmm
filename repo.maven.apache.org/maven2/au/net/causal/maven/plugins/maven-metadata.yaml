@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Boxed Database Maven Plugin
+   prefix: boxdb
+   artifactId: boxdb-maven-plugin
+  - name: Docker Image Archive Maven Plugin
+   prefix: docker-image-archive
+   artifactId: docker-image-archive-maven-plugin
+  - name: Maven HTML to PDF Converter Plugin
+   prefix: html2pdf
+   artifactId: html2pdf-maven-plugin
+

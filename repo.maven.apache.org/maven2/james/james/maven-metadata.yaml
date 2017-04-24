@@ -1,0 +1,8 @@
+metadata:
+ groupId: james
+ artifactId: james
+ version: 3.0a1
+ versioning:
+  versions:
+   version: 3.0a1
+

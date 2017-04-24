@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ianal-but-maven-plugin
+   prefix: ianal-but
+   artifactId: ianal-but-maven-plugin
+  - name: loracle-maven-plugin
+   prefix: loracle
+   artifactId: loracle-maven-plugin
+

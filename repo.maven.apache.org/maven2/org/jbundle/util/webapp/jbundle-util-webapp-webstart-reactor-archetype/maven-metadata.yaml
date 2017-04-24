@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.jbundle.util.webapp
+ artifactId: jbundle-util-webapp-webstart-reactor-archetype
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 0.9.1
+   - 0.9.4
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20111027010727'
+

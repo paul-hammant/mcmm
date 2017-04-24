@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.guangwenz
+ artifactId: akka-db-connpool_2.12
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - 1.0.1
+   - 1.1.0
+   - 1.1.1
+  lastUpdated: '20170117200344'
+

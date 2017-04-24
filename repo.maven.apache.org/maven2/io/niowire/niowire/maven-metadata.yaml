@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.niowire
+ artifactId: niowire
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+  lastUpdated: '20130129081243'
+

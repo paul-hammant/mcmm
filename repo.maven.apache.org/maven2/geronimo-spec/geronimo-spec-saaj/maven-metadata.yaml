@@ -1,0 +1,8 @@
+metadata:
+ groupId: geronimo-spec
+ artifactId: geronimo-spec-saaj
+ version: 1.1-rc4
+ versioning:
+  versions:
+   version: 1.1-rc4
+

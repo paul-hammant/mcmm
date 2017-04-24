@@ -1,0 +1,7 @@
+metadata:
+ groupId: ch.marcus-schulte.maven
+ artifactId: hivedoc-plugin
+ versioning:
+  versions:
+   version: 1.0.0
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: maven
+ artifactId: maven-osgi-plugin
+ version: 0.3.1
+ versioning:
+  versions:
+   version: 0.3.1
+

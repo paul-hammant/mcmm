@@ -1,0 +1,12 @@
+metadata:
+ groupId: me.lachlanap.lct
+ artifactId: lct
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20131010084513'
+

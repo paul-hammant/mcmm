@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.wvlet
+ artifactId: airframe-macros_2.12
+ versioning:
+  latest: '0.13'
+  release: '0.13'
+  versions:
+   version:
+   - '0.9'
+   - '0.10'
+   - '0.11'
+   - '0.12'
+   - '0.13'
+  lastUpdated: '20170408020434'
+

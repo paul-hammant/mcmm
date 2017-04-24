@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.geal
+ artifactId: geal
+ versioning:
+  latest: 0.4.12
+  release: 0.4.12
+  versions:
+   version: 0.4.12
+  lastUpdated: '20150526185635'
+

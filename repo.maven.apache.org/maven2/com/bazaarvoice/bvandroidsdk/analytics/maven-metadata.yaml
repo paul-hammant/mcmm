@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.bazaarvoice.bvandroidsdk
+ artifactId: analytics
+ versioning:
+  latest: 6.6.0
+  release: 6.6.0
+  versions:
+   version:
+   - 6.5.0
+   - 6.6.0
+  lastUpdated: '20170420165359'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: radeox
+ artifactId: radeox-oro
+ version: '0.9'
+ versioning:
+  versions:
+   version: '0.9'
+

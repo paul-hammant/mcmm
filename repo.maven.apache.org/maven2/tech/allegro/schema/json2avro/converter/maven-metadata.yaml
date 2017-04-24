@@ -1,0 +1,15 @@
+metadata:
+ groupId: tech.allegro.schema.json2avro
+ artifactId: converter
+ versioning:
+  latest: 0.2.5
+  release: 0.2.5
+  versions:
+   version:
+   - 0.2.0
+   - 0.2.2
+   - 0.2.3
+   - 0.2.4
+   - 0.2.5
+  lastUpdated: '20170118102930'
+

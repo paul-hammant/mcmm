@@ -1,0 +1,10 @@
+metadata:
+ groupId: xfire
+ artifactId: wss4j
+ version: 1.0.0
+ versioning:
+  versions:
+   version:
+   - 1.0.0
+   - '1.1'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: tycho.junit.fixer Maven Plugin
+   prefix: tycho.junit.fixer
+   artifactId: tycho.junit.fixer
+

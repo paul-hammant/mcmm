@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: tools/freemarker codegen tooling
+   prefix: drill-fmpp
+   artifactId: drill-fmpp-maven-plugin
+

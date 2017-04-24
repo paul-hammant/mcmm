@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: pegdown-maven-plugin Maven Mojo
+   prefix: pegdown
+   artifactId: pegdown-maven-plugin
+

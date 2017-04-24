@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven MyBatis migration plugin
+   prefix: migration
+   artifactId: maven-migration-plugin
+  - name: MyBatis Migrations Maven plugin
+   prefix: migration
+   artifactId: migrations-maven-plugin
+  - name: MyBatis Migrations Maven plugin
+   prefix: migrations
+   artifactId: migrations-maven-plugin
+

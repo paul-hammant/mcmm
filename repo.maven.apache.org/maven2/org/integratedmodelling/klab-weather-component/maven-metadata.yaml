@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.integratedmodelling
+ artifactId: klab-weather-component
+ versioning:
+  latest: 0.9.9
+  release: 0.9.9
+  versions:
+   version: 0.9.9
+  lastUpdated: '20160330124020'
+

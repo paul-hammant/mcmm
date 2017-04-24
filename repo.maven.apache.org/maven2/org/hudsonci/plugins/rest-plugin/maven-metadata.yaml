@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.hudsonci.plugins
+ artifactId: rest-plugin
+ versioning:
+  latest: 2.2.2
+  release: 2.2.2
+  versions:
+   version:
+   - 2.2.0
+   - 2.2.1
+   - 2.2.2
+  lastUpdated: '20150519213353'
+

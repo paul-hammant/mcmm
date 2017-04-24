@@ -1,0 +1,12 @@
+metadata:
+ groupId: commons-jelly
+ artifactId: commons-jelly-tags-jmx
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '20030320.165705'
+   - '20030320.165904'
+   - '20040902.073310'
+

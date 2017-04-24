@@ -1,0 +1,10 @@
+metadata:
+ groupId: pl.mg6.veni.divi
+ artifactId: veni-divi
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20140501113531'
+

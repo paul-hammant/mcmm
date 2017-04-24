@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.shaka
+ artifactId: scala-embedded-jetty_2.11
+ versioning:
+  latest: '32'
+  release: '32'
+  versions:
+   version: '32'
+  lastUpdated: '20161115161731'
+

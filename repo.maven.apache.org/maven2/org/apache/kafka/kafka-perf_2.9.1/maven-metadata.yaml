@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.kafka
+ artifactId: kafka-perf_2.9.1
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version:
+   - 0.8.0-beta1
+   - 0.8.0
+  lastUpdated: '20131203201824'
+

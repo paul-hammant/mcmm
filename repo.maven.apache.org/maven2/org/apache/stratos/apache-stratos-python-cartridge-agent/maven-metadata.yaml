@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.stratos
+ artifactId: apache-stratos-python-cartridge-agent
+ versioning:
+  latest: 4.1.1
+  release: 4.1.1
+  versions:
+   version:
+   - 4.1.0
+   - 4.1.1
+  lastUpdated: '20150811060410'
+

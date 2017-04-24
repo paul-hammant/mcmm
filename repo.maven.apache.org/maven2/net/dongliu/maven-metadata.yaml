@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven Protoc Plugin for Protoc and Prettypb
+   prefix: protoc
+   artifactId: maven-protoc-plugin
+  - name: Maven Protoc Plugin for Protoc and Prettypb
+   prefix: protoc
+   artifactId: protoc-maven-plugin
+

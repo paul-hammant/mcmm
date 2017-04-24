@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: docbkx-wrapper-plugin Maven Mojo
+   prefix: docbkx-wrapper
+   artifactId: docbkx-wrapper-plugin
+  - name: HTML Filter Site Maven plugin
+   prefix: htmlfilter-site
+   artifactId: htmlfilter-site-maven-plugin
+  - name: Image Generator Maven plugin
+   prefix: imagegenerator
+   artifactId: imagegenerator-maven-plugin
+

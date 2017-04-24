@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.belerweb
+ artifactId: pinyin4j
+ versioning:
+  latest: 2.5.1
+  release: 2.5.1
+  versions:
+   version:
+   - 2.5.0
+   - 2.5.1
+  lastUpdated: '20160315065855'
+

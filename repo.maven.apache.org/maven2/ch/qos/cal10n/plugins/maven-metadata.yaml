@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Compiler assisted localization library (CAL10N) -  Maven
+   prefix: cal10n
+   artifactId: maven-cal10n-plugin
+

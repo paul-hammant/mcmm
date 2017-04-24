@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.huxhorn.lilith
+ artifactId: log4j
+ versioning:
+  latest: 0.9.41
+  release: 0.9.41
+  versions:
+   version:
+   - 0.9.40
+   - 0.9.41
+  lastUpdated: '20110502200955'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Versions Maven Plugin
+   prefix: versions
+   artifactId: versions-maven-plugin
+

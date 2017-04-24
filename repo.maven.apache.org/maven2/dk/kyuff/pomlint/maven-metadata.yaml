@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: pomlint-maven-plugin Maven Mojo
+   prefix: pomlint
+   artifactId: pomlint-maven-plugin
+

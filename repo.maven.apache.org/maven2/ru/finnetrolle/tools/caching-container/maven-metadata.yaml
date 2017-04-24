@@ -1,0 +1,10 @@
+metadata:
+ groupId: ru.finnetrolle.tools
+ artifactId: caching-container
+ versioning:
+  latest: 0.1.3
+  release: 0.1.3
+  versions:
+   version: 0.1.3
+  lastUpdated: '20151124215150'
+

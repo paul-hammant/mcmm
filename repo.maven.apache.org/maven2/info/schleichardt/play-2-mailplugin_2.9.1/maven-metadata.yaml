@@ -1,0 +1,10 @@
+metadata:
+ groupId: info.schleichardt
+ artifactId: play-2-mailplugin_2.9.1
+ versioning:
+  latest: '0.7'
+  release: '0.7'
+  versions:
+   version: '0.7'
+  lastUpdated: '20130130195223'
+

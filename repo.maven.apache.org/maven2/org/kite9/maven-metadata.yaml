@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Kite9 Maven Mojo
+   prefix: kite9-java
+   artifactId: kite9-java-maven-plugin
+

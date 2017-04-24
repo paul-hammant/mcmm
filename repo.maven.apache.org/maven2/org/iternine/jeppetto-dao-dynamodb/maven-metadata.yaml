@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.iternine
+ artifactId: jeppetto-dao-dynamodb
+ versioning:
+  latest: 0.9-rc2
+  release: 0.9-rc2
+  versions:
+   version:
+   - 0.9-rc1
+   - 0.9-rc2
+  lastUpdated: '20170406222035'
+

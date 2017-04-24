@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.jboss.integration
+ artifactId: jboss-annotations-spi
+ versioning:
+  latest: 6.0.0.CR1
+  release: 6.0.0.CR1
+  versions:
+   version:
+   - 6.0.0-Alpha8
+   - 6.0.0.Alpha9
+   - 6.0.0.CR1
+  lastUpdated: '20100430090219'
+

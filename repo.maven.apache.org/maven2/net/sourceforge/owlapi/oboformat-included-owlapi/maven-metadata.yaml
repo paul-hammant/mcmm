@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sourceforge.owlapi
+ artifactId: oboformat-included-owlapi
+ versioning:
+  latest: 3.4.9
+  release: 3.4.9
+  versions:
+   version: 3.4.9
+  lastUpdated: '20131125214401'
+

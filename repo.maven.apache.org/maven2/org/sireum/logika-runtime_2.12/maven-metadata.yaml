@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.sireum
+ artifactId: logika-runtime_2.12
+ versioning:
+  latest: 3.0.1
+  release: 3.0.1
+  versions:
+   version:
+   - 3.0.0-8
+   - 3.0.0-9
+   - 3.0.0-10
+   - 3.0.1
+  lastUpdated: '20170309001735'
+

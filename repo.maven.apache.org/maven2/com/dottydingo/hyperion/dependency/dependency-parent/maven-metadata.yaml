@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.dottydingo.hyperion.dependency
+ artifactId: dependency-parent
+ versioning:
+  latest: 2.0.0-EA3
+  release: 2.0.0-EA3
+  versions:
+   version:
+   - 1.1.0-EA1
+   - 2.0.0-EA1
+   - 2.0.0-EA2
+   - 2.0.0-EA3
+  lastUpdated: '20160828200950'
+

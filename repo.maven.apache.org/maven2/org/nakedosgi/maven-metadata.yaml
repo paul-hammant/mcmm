@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Naked OSGi Maven Plugin
+   prefix: null
+   artifactId: maven-plugin
+

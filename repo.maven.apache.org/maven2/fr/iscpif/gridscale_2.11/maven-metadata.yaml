@@ -1,0 +1,15 @@
+metadata:
+ groupId: fr.iscpif
+ artifactId: gridscale_2.11
+ versioning:
+  latest: '1.94'
+  release: '1.94'
+  versions:
+   version:
+   - '1.90'
+   - '1.91'
+   - '1.92'
+   - '1.93'
+   - '1.94'
+  lastUpdated: '20170420150621'
+

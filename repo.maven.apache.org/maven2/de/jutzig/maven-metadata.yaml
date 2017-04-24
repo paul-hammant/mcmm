@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: github-release-plugin
+   prefix: github-release
+   artifactId: github-release-plugin
+

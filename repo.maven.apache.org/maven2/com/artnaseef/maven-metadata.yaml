@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ActiveMQ Maven Plugin
+   prefix: activemq
+   artifactId: activemq-maven-plugin
+  - name: kafka-maven-plugin Maven Plugin
+   prefix: kafka
+   artifactId: kafka-maven-plugin
+

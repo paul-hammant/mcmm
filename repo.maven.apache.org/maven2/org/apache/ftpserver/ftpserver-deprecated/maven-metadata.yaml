@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.ftpserver
+ artifactId: ftpserver-deprecated
+ versioning:
+  latest: 1.0.0-M2
+  release: 1.0.0-M2
+  versions:
+   version: 1.0.0-M2
+  lastUpdated: '20101014114248'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: WebLab Artifact Maven Plugin
+   prefix: weblab
+   artifactId: weblab-archetype-plugin
+

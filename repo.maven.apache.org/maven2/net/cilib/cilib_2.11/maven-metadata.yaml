@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.cilib
+ artifactId: cilib_2.11
+ versioning:
+  latest: 2.0.0-M1
+  release: 2.0.0-M1
+  versions:
+   version: 2.0.0-M1
+  lastUpdated: '20141025083129'
+

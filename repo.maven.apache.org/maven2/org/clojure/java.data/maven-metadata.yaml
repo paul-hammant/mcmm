@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.clojure
+ artifactId: java.data
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20120430050543'
+

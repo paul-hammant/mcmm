@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.sonatype.aether
+ artifactId: aether
+ versioning:
+  latest: 1.13.1
+  release: 1.13.1
+  versions:
+   version:
+   - '1.12'
+   - '1.13'
+   - 1.13.1
+  lastUpdated: '20111129140658'
+

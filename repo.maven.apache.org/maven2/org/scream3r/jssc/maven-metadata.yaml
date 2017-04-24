@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scream3r
+ artifactId: jssc
+ versioning:
+  latest: 2.8.0
+  release: 2.8.0
+  versions:
+   version: 2.8.0
+  lastUpdated: '20140312082420'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.vx68k.bitbucket
+ artifactId: bitbucket-webhook-example-servlet
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20150905002237'
+

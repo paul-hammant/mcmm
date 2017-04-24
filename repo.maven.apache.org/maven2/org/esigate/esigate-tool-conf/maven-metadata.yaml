@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.esigate
+ artifactId: esigate-tool-conf
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20141130224945'
+

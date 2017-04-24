@@ -1,0 +1,29 @@
+metadata:
+ groupId: org.jboss.weld.servlet
+ artifactId: weld-servlet-shaded
+ versioning:
+  latest: 3.0.0.CR2
+  release: 3.0.0.CR2
+  versions:
+   version:
+   - 3.0.0.Alpha2
+   - 3.0.0.Alpha3
+   - 3.0.0.Alpha4
+   - 3.0.0.Alpha5
+   - 3.0.0.Alpha6
+   - 3.0.0.Alpha7
+   - 3.0.0.Alpha8
+   - 3.0.0.Alpha9
+   - 3.0.0.Alpha10
+   - 3.0.0.Alpha11
+   - 3.0.0.Alpha12
+   - 3.0.0.Alpha13
+   - 3.0.0.Alpha14
+   - 3.0.0.Alpha15
+   - 3.0.0.Alpha16
+   - 3.0.0.Alpha17
+   - 3.0.0.Beta1
+   - 3.0.0.CR1
+   - 3.0.0.CR2
+  lastUpdated: '20170303115226'
+

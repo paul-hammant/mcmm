@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.eclipse.core
+ artifactId: runtime
+ versioning:
+  latest: 3.10.0-v20140318-2214
+  release: 3.10.0-v20140318-2214
+  versions:
+   version:
+   - 3.9.0-v20130326-1255
+   - 3.9.100-v20131218-1515
+   - 3.10.0-v20140318-2214
+  lastUpdated: '20140801141625'
+

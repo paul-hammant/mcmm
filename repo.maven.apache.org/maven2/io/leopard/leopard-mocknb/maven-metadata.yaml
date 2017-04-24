@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.leopard
+ artifactId: leopard-mocknb
+ versioning:
+  latest: 0.9.10
+  release: 0.9.10
+  versions:
+   version: 0.9.10
+  lastUpdated: '20161018202449'
+

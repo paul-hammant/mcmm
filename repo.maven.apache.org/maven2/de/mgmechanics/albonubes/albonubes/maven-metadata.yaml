@@ -1,0 +1,15 @@
+metadata:
+ groupId: de.mgmechanics.albonubes
+ artifactId: albonubes
+ versioning:
+  latest: sprint0013
+  release: sprint0013
+  versions:
+   version:
+   - sprint0006
+   - sprint0007
+   - sprint0008
+   - sprint0011
+   - sprint0013
+  lastUpdated: '20150413192941'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: me.geso.jdbcquerylog
+ artifactId: jdbc-tracer
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version: 0.2.0
+  lastUpdated: '20160408140849'
+

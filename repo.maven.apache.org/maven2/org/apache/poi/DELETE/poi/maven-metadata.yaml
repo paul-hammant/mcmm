@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.apache.poi.DELETE
+ artifactId: poi
+ versioning:
+  versions:
+   version: 3.0-FINAL
+

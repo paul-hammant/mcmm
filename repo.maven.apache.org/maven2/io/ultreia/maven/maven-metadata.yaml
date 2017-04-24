@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Gitlab Maven Plugin
+   prefix: gitlab
+   artifactId: gitlab-maven-plugin
+

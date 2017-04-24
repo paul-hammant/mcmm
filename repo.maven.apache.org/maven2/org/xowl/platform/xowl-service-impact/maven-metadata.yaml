@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.xowl.platform
+ artifactId: xowl-service-impact
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version:
+   - 0.1.7
+   - 0.1.9
+   - 0.2.0
+   - 0.2.1
+   - 0.2.2
+   - 0.2.3
+   - 0.3.0
+  lastUpdated: '20170321200650'
+

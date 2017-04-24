@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'FraSCAti Assembly Factory: Maven plugin Module'
+   prefix: frascati-factory
+   artifactId: frascati-factory-plugin
+  - name: 'FraSCAti Assembly Maven Plugins: Contribution'
+   prefix: frascati-contribution
+   artifactId: frascati-contribution-plugin
+

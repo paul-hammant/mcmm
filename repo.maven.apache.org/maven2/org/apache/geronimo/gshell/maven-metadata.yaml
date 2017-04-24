@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: JavaCC Maven Plugin
+   prefix: javacc
+   artifactId: javacc-maven-plugin
+  - name: GShell Maven Plugin
+   prefix: gshell
+   artifactId: gshell-maven-plugin
+

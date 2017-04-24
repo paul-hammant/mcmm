@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.quicktheories
+ artifactId: quicktheories
+ versioning:
+  latest: '0.14'
+  release: '0.14'
+  versions:
+   version:
+   - '0.12'
+   - '0.13'
+   - '0.14'
+  lastUpdated: '20170417151457'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.fractal.distribution
+ artifactId: helloworld-julia-fraclet
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20080225103019'
+

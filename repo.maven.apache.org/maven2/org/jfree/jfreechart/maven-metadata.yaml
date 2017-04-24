@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.jfree
+ artifactId: jfreechart
+ versioning:
+  latest: 1.0.19
+  release: 1.0.19
+  versions:
+   version:
+   - 1.0.14
+   - 1.0.15
+   - 1.0.17
+   - 1.0.18
+   - 1.0.19
+  lastUpdated: '20140731124423'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Tcases Plugin
+   prefix: tcases
+   artifactId: tcases-maven-plugin
+

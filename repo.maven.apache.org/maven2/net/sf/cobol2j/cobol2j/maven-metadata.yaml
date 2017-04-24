@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.cobol2j
+ artifactId: cobol2j
+ versioning:
+  latest: 1.5.4
+  release: 1.5.4
+  versions:
+   version: 1.5.4
+  lastUpdated: '20101102144946'
+

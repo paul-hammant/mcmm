@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.allenai.tinkerpop.blueprints
+ artifactId: blueprints-sparksee-graph
+ versioning:
+  latest: 2.7.1
+  release: 2.7.1
+  versions:
+   version:
+   - 2.7.0
+   - 2.7.1
+  lastUpdated: '20150127003521'
+

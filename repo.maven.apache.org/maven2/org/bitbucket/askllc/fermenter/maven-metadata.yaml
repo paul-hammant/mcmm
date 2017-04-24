@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Fermenter Model-Driven Architecture Code Generator
+   prefix: fermenter-mda
+   artifactId: fermenter-mda
+

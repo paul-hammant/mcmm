@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bitbucket.hartree
+ artifactId: jfcunitex
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20140624204036'
+

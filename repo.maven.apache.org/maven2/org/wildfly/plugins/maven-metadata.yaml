@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Wildfly Extension Installer Maven Plugin
+   prefix: wildfly-extension
+   artifactId: wildfly-extension-maven-plugin
+  - name: WildFly Maven Plugin
+   prefix: wildfly
+   artifactId: wildfly-maven-plugin
+

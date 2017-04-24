@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: AndroMDA Site Plugin
+   prefix: andromda-site
+   artifactId: andromda-site-plugin
+

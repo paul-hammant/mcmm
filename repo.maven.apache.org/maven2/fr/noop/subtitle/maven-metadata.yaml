@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.noop
+ artifactId: subtitle
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version: 0.9.0
+  lastUpdated: '20151201143521'
+

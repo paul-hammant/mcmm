@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.aperteworkflow
+ artifactId: liferay-commons
+ versioning:
+  latest: 3.2-RC1
+  release: 3.2-RC1
+  versions:
+   version: 3.2-RC1
+  lastUpdated: '20150821093324'
+

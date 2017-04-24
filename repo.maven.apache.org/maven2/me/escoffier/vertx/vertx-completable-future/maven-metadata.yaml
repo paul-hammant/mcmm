@@ -1,0 +1,12 @@
+metadata:
+ groupId: me.escoffier.vertx
+ artifactId: vertx-completable-future
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+  lastUpdated: '20170217132443'
+

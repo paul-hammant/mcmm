@@ -1,0 +1,10 @@
+metadata:
+ groupId: ca.islandora
+ artifactId: islandora
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version: 0.0.2
+  lastUpdated: '20160902175416'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.hammerlab.adam
+ artifactId: core_2.11
+ versioning:
+  latest: 0.23.0
+  release: 0.23.0
+  versions:
+   version:
+   - 0.20.4
+   - 0.21.0
+   - 0.21.1
+   - 0.21.2
+   - 0.23.0
+  lastUpdated: '20170407182151'
+

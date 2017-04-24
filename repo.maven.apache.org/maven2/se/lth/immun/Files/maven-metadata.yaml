@@ -1,0 +1,10 @@
+metadata:
+ groupId: se.lth.immun
+ artifactId: Files
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version: 0.8.0
+  lastUpdated: '20160519105729'
+

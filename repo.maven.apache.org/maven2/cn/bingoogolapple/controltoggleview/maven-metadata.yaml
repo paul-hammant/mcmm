@@ -1,0 +1,12 @@
+metadata:
+ groupId: cn.bingoogolapple
+ artifactId: controltoggleview
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.0.0
+   - 2.0.0
+  lastUpdated: '20150301103610'
+

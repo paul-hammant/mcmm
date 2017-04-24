@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.kxlove
+ artifactId: spring-boot-beetl-autoconfigure
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20160905080700'
+

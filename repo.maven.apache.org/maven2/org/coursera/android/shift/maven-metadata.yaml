@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.coursera.android
+ artifactId: shift
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version: 1.0.1
+  lastUpdated: '20150827053933'
+

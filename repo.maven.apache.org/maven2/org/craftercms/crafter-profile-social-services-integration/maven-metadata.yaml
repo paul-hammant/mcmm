@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.craftercms
+ artifactId: crafter-profile-social-services-integration
+ versioning:
+  latest: v2.5.0-Beta9
+  release: v2.5.0-Beta9
+  versions:
+   version: v2.5.0-Beta9
+  lastUpdated: '20150306213637'
+

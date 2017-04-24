@@ -1,0 +1,15 @@
+metadata:
+ groupId: io.leopard
+ artifactId: leopard-httpnb
+ versioning:
+  latest: 0.9.10
+  release: 0.9.10
+  versions:
+   version:
+   - 0.0.3
+   - 0.9.4
+   - 0.9.6
+   - 0.9.8
+   - 0.9.10
+  lastUpdated: '20161018202441'
+

@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.jconfig
+ artifactId: jconfig
+ versioning:
+  versions:
+   version: '2.9'
+

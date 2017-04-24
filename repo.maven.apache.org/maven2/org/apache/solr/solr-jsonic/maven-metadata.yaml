@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.solr
+ artifactId: solr-jsonic
+ versioning:
+  latest: 3.5.0
+  release: 3.5.0
+  versions:
+   version: 3.5.0
+  lastUpdated: '20111126003313'
+

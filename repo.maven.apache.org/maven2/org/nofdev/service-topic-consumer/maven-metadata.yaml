@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.nofdev
+ artifactId: service-topic-consumer
+ versioning:
+  latest: 1.4.3-1
+  release: 1.4.3-1
+  versions:
+   version:
+   - 1.3.0
+   - 1.4.0
+   - 1.4.1
+   - 1.4.2
+   - 1.4.3-1
+  lastUpdated: '20170421020358'
+

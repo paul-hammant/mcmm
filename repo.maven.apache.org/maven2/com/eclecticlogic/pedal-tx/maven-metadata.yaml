@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.eclecticlogic
+ artifactId: pedal-tx
+ versioning:
+  latest: 1.5.1
+  release: 1.5.1
+  versions:
+   version:
+   - 1.5.0
+   - 1.5.1
+  lastUpdated: '20160620151841'
+

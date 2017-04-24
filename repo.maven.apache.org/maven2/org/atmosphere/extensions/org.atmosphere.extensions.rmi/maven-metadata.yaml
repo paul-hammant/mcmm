@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.atmosphere.extensions
+ artifactId: org.atmosphere.extensions.rmi
+ versioning:
+  latest: 1.1.0.RC5
+  release: 1.1.0.RC5
+  versions:
+   version:
+   - 1.1.0.RC3
+   - 1.1.0.RC4
+   - 1.1.0.RC5
+  lastUpdated: '20130726232457'
+

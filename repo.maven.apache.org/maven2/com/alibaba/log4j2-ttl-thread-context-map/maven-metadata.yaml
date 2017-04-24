@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.alibaba
+ artifactId: log4j2-ttl-thread-context-map
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version: 1.1.0
+  lastUpdated: '20160215152049'
+

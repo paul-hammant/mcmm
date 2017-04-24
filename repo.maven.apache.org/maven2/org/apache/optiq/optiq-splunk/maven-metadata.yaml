@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.optiq
+ artifactId: optiq-splunk
+ versioning:
+  latest: 0.9.0-incubating
+  release: 0.9.0-incubating
+  versions:
+   version: 0.9.0-incubating
+  lastUpdated: '20140904211448'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.biville.florent
+ artifactId: legacy-neo4j-jdbc
+ versioning:
+  latest: 2.3.0
+  release: 2.3.0
+  versions:
+   version: 2.3.0
+  lastUpdated: '20160827182845'
+

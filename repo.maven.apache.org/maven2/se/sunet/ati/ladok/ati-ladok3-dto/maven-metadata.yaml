@@ -1,0 +1,12 @@
+metadata:
+ groupId: se.sunet.ati.ladok
+ artifactId: ati-ladok3-dto
+ versioning:
+  latest: '0.74'
+  release: '0.74'
+  versions:
+   version:
+   - '0.72'
+   - '0.74'
+  lastUpdated: '20170313071614'
+

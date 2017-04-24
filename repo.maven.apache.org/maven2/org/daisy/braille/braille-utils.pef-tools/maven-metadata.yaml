@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.daisy.braille
+ artifactId: braille-utils.pef-tools
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 2.0.0-alpha
+   - 2.0.0
+  lastUpdated: '20170329091652'
+

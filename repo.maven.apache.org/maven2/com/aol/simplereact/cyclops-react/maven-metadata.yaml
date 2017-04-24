@@ -1,0 +1,27 @@
+metadata:
+ groupId: com.aol.simplereact
+ artifactId: cyclops-react
+ versioning:
+  latest: 2.0.0-MI4
+  release: 2.0.0-MI4
+  versions:
+   version:
+   - 1.0.0-RC1
+   - 1.0.0-RC2
+   - 1.0.0-RC2.1
+   - 1.0.0-RC2.2
+   - 1.0.0-RC2.3
+   - 1.0.0-RC3
+   - 1.0.0-RC4
+   - 1.0.0-FINAL
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+   - 1.0.4
+   - 1.0.5
+   - 2.0.0-MI1
+   - 2.0.0-MI2
+   - 2.0.0-MI3
+   - 2.0.0-MI4
+  lastUpdated: '20170215175600'
+

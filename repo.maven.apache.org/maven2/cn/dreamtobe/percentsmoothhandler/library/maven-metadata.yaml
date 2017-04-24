@@ -1,0 +1,16 @@
+metadata:
+ groupId: cn.dreamtobe.percentsmoothhandler
+ artifactId: library
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version:
+   - 0.0.6
+   - 0.0.7
+   - 0.0.8
+   - 0.0.9
+   - 0.1.0
+   - 0.1.1
+  lastUpdated: '20160421105401'
+

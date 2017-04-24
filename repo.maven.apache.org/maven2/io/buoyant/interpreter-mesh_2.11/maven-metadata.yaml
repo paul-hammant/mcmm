@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.buoyant
+ artifactId: interpreter-mesh_2.11
+ versioning:
+  latest: 0.9.1
+  release: 0.9.1
+  versions:
+   version: 0.9.1
+  lastUpdated: '20170320221450'
+

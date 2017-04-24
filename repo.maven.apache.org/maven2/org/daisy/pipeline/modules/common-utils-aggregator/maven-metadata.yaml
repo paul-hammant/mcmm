@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.daisy.pipeline.modules
+ artifactId: common-utils-aggregator
+ versioning:
+  latest: '1.9'
+  release: '1.9'
+  versions:
+   version:
+   - '1.7'
+   - '1.8'
+   - '1.9'
+  lastUpdated: '20150128175223'
+

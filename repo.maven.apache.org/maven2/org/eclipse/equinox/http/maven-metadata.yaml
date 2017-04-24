@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.eclipse.equinox
+ artifactId: http
+ version: 1.0.100-v20070423
+ versioning:
+  versions:
+   version: 1.0.100-v20070423
+  lastUpdated: '20071127071015'
+

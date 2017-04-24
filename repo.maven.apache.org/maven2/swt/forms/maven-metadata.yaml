@@ -1,0 +1,10 @@
+metadata:
+ groupId: swt
+ artifactId: forms
+ version: 3.0m7
+ versioning:
+  versions:
+   version:
+   - 3.0m7
+   - 3.0m8
+

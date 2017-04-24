@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Brillien Ant Mojo - brillien-maven-plugin
+   prefix: brillien
+   artifactId: brillien-maven-plugin
+

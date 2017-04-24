@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.technbolts
+ artifactId: gutenberg
+ versioning:
+  latest: 1.3.0
+  release: 1.3.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.1.0
+   - 1.1.1
+   - 1.3.0
+  lastUpdated: '20150910100747'
+

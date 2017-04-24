@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Java to C# converter
+   prefix: java2csharp
+   artifactId: java2csharp-maven-plugin
+

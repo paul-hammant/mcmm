@@ -1,0 +1,13 @@
+metadata:
+ groupId: tech.rsqn
+ artifactId: jjst
+ versioning:
+  latest: 1.0.5
+  release: 1.0.5
+  versions:
+   version:
+   - 1.0.1
+   - 1.0.4
+   - 1.0.5
+  lastUpdated: '20170118025003'
+

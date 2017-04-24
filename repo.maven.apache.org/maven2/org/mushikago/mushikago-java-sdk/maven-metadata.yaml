@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mushikago
+ artifactId: mushikago-java-sdk
+ versioning:
+  latest: 2.4.4
+  release: 2.4.4
+  versions:
+   version: 2.4.4
+  lastUpdated: '20131025041539'
+

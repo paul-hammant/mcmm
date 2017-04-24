@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.technbolts
+ artifactId: swoop
+ versioning:
+  latest: 0.1.4
+  release: 0.1.4
+  versions:
+   version: 0.1.4
+  lastUpdated: '20131209221247'
+

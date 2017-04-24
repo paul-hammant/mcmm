@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.mybatis
+ artifactId: mybatis2
+ versioning:
+  latest: 2.3.7
+  release: 2.3.7
+  versions:
+   version:
+   - 2.3.6
+   - 2.3.7
+  lastUpdated: '20170101045211'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: co.wrisk.logback
+ artifactId: logback-ext-dynamodb-appender
+ versioning:
+  latest: 1.0.3
+  release: 1.0.3
+  versions:
+   version:
+   - 1.0.1-alpha.1
+   - 1.0.3
+  lastUpdated: '20160914174112'
+

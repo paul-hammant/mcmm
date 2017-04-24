@@ -1,0 +1,13 @@
+metadata:
+ groupId: cn.bestwu
+ artifactId: api-sign
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - '1.1'
+  lastUpdated: '20170227015901'
+

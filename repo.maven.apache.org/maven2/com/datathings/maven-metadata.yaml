@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: j2ts-mavenplugin
+   prefix: j2ts
+   artifactId: j2ts-mavenplugin
+

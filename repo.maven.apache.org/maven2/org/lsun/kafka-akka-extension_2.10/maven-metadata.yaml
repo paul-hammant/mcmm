@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.lsun
+ artifactId: kafka-akka-extension_2.10
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20150316192715'
+

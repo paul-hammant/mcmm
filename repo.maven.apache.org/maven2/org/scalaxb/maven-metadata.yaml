@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: scalaxb Maven Plugin
+   prefix: scalaxb
+   artifactId: scalaxb-maven-plugin
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.projectreactor.ipc
+ artifactId: reactor-ipc
+ versioning:
+  latest: 0.6.1.RELEASE
+  release: 0.6.1.RELEASE
+  versions:
+   version:
+   - 0.5.0.RELEASE
+   - 0.5.1.RELEASE
+   - 0.6.0.RELEASE
+   - 0.6.1.RELEASE
+  lastUpdated: '20170215114805'
+

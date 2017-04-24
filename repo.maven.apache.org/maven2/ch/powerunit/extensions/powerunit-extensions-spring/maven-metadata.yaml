@@ -1,0 +1,10 @@
+metadata:
+ groupId: ch.powerunit.extensions
+ artifactId: powerunit-extensions-spring
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20150726165720'
+

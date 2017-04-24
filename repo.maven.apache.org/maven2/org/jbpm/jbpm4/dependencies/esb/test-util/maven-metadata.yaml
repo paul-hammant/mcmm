@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jbpm.jbpm4.dependencies.esb
+ artifactId: test-util
+ versioning:
+  latest: 4.4.0.GA
+  release: 4.4.0.GA
+  versions:
+   version: 4.4.0.GA
+  lastUpdated: '20100426071916'
+

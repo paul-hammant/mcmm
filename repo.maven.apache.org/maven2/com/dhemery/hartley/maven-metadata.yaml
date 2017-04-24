@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.dhemery
+ artifactId: hartley
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - 1.0-RC1
+   - 1.0-RC2
+   - 1.0-RC3
+   - '1.0'
+   - '2.0'
+  lastUpdated: '20121209210521'
+

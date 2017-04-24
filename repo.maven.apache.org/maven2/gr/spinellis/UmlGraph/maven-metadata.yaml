@@ -1,0 +1,8 @@
+metadata:
+ groupId: gr.spinellis
+ artifactId: UmlGraph
+ version: '4.4'
+ versioning:
+  versions:
+   version: '4.4'
+

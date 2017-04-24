@@ -1,0 +1,18 @@
+metadata:
+ groupId: io.nextflow
+ artifactId: nxf-httpfs
+ versioning:
+  latest: 0.24.2
+  release: 0.24.2
+  versions:
+   version:
+   - 0.23.0
+   - 0.23.1
+   - 0.23.2
+   - 0.23.3
+   - 0.23.4
+   - 0.24.0
+   - 0.24.1
+   - 0.24.2
+  lastUpdated: '20170405170534'
+

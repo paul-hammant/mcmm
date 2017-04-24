@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.backuity
+ artifactId: matchete_2.11
+ versioning:
+  latest: '1.16'
+  release: '1.16'
+  versions:
+   version:
+   - '1.10'
+   - '1.11'
+   - '1.16'
+  lastUpdated: '20150626155908'
+

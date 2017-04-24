@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Redora Generator (Mojo)
+   prefix: generator
+   artifactId: generator
+

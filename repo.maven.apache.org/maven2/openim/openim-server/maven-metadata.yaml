@@ -1,0 +1,13 @@
+metadata:
+ groupId: openim
+ artifactId: openim-server
+ versioning:
+  versions:
+   version:
+   - '1.1'
+   - 1.1.1b1
+   - 1.2.1
+   - '1.2'
+   - 1.1.2
+   - 1.1.1
+

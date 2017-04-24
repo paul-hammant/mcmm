@@ -1,0 +1,10 @@
+metadata:
+ groupId: edu.usf.cims
+ artifactId: cas-server-extension-token
+ versioning:
+  latest: 0.6.0
+  release: 0.6.0
+  versions:
+   version: 0.6.0
+  lastUpdated: '20130904021213'
+

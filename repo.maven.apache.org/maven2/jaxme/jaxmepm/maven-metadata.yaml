@@ -1,0 +1,13 @@
+metadata:
+ groupId: jaxme
+ artifactId: jaxmepm
+ version: '0.4'
+ versioning:
+  versions:
+   version:
+   - '0.4'
+   - 0.4beta
+   - '0.5'
+   - 0.5beta
+   - 0.5.1
+

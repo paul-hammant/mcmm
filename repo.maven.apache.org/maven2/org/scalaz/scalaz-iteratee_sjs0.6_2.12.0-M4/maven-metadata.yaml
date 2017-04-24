@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.scalaz
+ artifactId: scalaz-iteratee_sjs0.6_2.12.0-M4
+ versioning:
+  latest: 7.3.0-M3
+  release: 7.3.0-M3
+  versions:
+   version:
+   - 7.2.2
+   - 7.2.3
+   - 7.2.4
+   - 7.3.0-M2
+   - 7.3.0-M3
+  lastUpdated: '20160614190616'
+

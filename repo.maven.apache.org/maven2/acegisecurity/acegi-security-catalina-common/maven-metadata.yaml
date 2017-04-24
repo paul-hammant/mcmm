@@ -1,0 +1,10 @@
+metadata:
+ groupId: acegisecurity
+ artifactId: acegi-security-catalina-common
+ version: '0.51'
+ versioning:
+  versions:
+   version:
+   - '0.51'
+   - 0.6.1
+

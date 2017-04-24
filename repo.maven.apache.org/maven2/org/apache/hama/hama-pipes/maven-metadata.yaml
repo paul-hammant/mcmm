@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.apache.hama
+ artifactId: hama-pipes
+ versioning:
+  latest: 0.7.1
+  release: 0.7.1
+  versions:
+   version:
+   - 0.6.3
+   - 0.6.4
+   - 0.7.0
+   - 0.7.1
+  lastUpdated: '20160314104657'
+

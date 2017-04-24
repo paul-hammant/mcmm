@@ -1,0 +1,9 @@
+metadata:
+ groupId: open-esb.jbi-cdk
+ artifactId: jbi-cdk-ant-tasks
+ version: 1.0-SNAPSHOT
+ versioning:
+  versions:
+   version: 1.0-SNAPSHOT
+  lastUpdated: '20070921012729'
+

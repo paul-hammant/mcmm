@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Fabric3 Runtime Assembly Plugin
+   prefix: fabric3-assembly
+   artifactId: fabric3-assembly-plugin
+  - name: Fabric3 Contribution Plugin
+   prefix: fabric3-contribution
+   artifactId: fabric3-contribution-plugin
+  - name: Fabric3 Maven Runtime Plugin
+   prefix: fabric3-itest
+   artifactId: fabric3-itest-plugin
+  - name: Fabric3 Packager Plugin
+   prefix: fabric3
+   artifactId: fabric3-packager-plugin
+  - name: Fabric3 Packager Plugin
+   prefix: fabric3-packager
+   artifactId: fabric3-packager-plugin
+

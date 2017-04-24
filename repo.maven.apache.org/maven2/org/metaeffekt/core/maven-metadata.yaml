@@ -1,0 +1,14 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: ae-api-compile
+   artifactId: ae-api-compile-maven-plugin
+  - prefix: ae-api-publish
+   artifactId: ae-api-publish-maven-plugin
+  - prefix: ae-artifact-publish
+   artifactId: ae-artifact-publish-maven-plugin
+  - prefix: ae-inventory
+   artifactId: ae-inventory-maven-plugin
+  - prefix: ae-version
+   artifactId: ae-version-maven-plugin
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: com.discursive.web.history
+ artifactId: history-filter
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20060427211408'
+

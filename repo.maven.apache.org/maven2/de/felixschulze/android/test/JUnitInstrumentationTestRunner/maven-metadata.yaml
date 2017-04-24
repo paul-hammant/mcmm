@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.felixschulze.android.test
+ artifactId: JUnitInstrumentationTestRunner
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20110708113918'
+

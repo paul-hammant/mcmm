@@ -1,0 +1,7 @@
+metadata:
+ groupId: net.sourceforge.collections
+ artifactId: collections-generic
+ versioning:
+  versions:
+   version: '4.01'
+

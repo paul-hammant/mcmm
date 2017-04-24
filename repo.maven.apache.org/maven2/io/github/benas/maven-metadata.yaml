@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: jql
+   artifactId: jql-maven-plugin
+

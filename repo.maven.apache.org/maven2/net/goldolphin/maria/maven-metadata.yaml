@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.goldolphin
+ artifactId: maria
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20170314091521'
+

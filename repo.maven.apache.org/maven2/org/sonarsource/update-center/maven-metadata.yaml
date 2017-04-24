@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'SonarSource :: Update Center :: Maven Plugin'
+   prefix: sonar-update-center-mojo
+   artifactId: sonar-update-center-mojo
+

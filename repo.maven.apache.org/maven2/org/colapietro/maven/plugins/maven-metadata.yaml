@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Native Dependencies Plugin
+   prefix: nativedependencies
+   artifactId: nativedependencies-maven-plugin
+

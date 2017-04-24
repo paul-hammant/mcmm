@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.andromda
+ artifactId: andromda-distribution
+ versioning:
+  latest: '3.3'
+  release: '3.3'
+  versions:
+   version:
+   - '3.2'
+   - '3.3'
+  lastUpdated: '20091210125500'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: DM Uncle Maven Plugin
+   prefix: dmuncle
+   artifactId: dmuncle-maven-plugin
+

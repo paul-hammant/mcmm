@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Bitbucket release manager maven plugin
+   prefix: bitbucket-release-manager
+   artifactId: bitbucket-release-manager-maven-plugin
+

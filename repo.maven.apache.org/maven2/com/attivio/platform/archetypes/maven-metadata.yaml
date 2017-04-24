@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.attivio.platform
+ artifactId: archetypes
+ versioning:
+  latest: 5.2.6.0
+  release: 5.2.6.0
+  versions:
+   version:
+   - 0.1.0
+   - 4.4.0.0
+   - 5.2.6.0
+  lastUpdated: '20170327202432'
+

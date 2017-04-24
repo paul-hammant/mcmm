@@ -1,0 +1,10 @@
+metadata:
+ groupId: pl.droidsonroids
+ artifactId: mockwebserverplus
+ versioning:
+  latest: 0.8.2.1
+  release: 0.8.2.1
+  versions:
+   version: 0.8.2.1
+  lastUpdated: '20161122014312'
+

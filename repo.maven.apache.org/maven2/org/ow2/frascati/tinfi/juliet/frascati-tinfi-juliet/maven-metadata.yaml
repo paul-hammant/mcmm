@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.frascati.tinfi.juliet
+ artifactId: frascati-tinfi-juliet
+ version: 1.4.2
+ versioning:
+  versions:
+   version: 1.4.2
+  lastUpdated: '20110205160706'
+

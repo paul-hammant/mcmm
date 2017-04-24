@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JRemoting Tools
+   prefix: jremoting-tools
+   artifactId: jremoting-tools
+

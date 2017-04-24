@@ -1,0 +1,12 @@
+metadata:
+ groupId: ch.ledcom.assertj-extensions
+ artifactId: assertj-extensions
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20140907164435'
+

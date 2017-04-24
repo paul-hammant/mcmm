@@ -1,0 +1,12 @@
+metadata:
+ groupId: uk.co.bssd
+ artifactId: bssd-monitoring-parent
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+  lastUpdated: '20121022200721'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.gora
+ artifactId: gora-solr-5
+ versioning:
+  latest: '0.7'
+  release: '0.7'
+  versions:
+   version: '0.7'
+  lastUpdated: '20170323191142'
+

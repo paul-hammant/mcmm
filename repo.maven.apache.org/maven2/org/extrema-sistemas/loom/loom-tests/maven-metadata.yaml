@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.extrema-sistemas.loom
+ artifactId: loom-tests
+ versioning:
+  latest: '1.5'
+  release: '1.5'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.5'
+  lastUpdated: '20101110114446'
+

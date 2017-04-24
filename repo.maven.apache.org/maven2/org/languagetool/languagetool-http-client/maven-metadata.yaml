@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.languagetool
+ artifactId: languagetool-http-client
+ versioning:
+  latest: '3.7'
+  release: '3.7'
+  versions:
+   version:
+   - '3.4'
+   - '3.5'
+   - '3.6'
+   - '3.7'
+  lastUpdated: '20170327102502'
+

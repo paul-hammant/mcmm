@@ -1,0 +1,9 @@
+metadata:
+ groupId: boo
+ artifactId: boo-0.7.6.2080-net
+ versioning:
+  versions:
+   version:
+   - '2.0'
+   - '1.1'
+

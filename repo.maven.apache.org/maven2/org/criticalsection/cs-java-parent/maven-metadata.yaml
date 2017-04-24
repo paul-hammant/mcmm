@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.criticalsection
+ artifactId: cs-java-parent
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version:
+   - '1'
+   - '2'
+  lastUpdated: '20080707081902'
+

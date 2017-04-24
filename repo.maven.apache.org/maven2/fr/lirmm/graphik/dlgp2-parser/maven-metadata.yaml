@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.lirmm.graphik
+ artifactId: dlgp2-parser
+ versioning:
+  latest: 2.1.0
+  release: 2.1.0
+  versions:
+   version:
+   - 1.0.0
+   - 2.1.0
+  lastUpdated: '20170131112254'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.stickycode
+ artifactId: sticky-coercion-ws
+ versioning:
+  latest: '4.3'
+  release: '4.3'
+  versions:
+   version:
+   - '4.2'
+   - '4.3'
+  lastUpdated: '20121019004548'
+

@@ -1,0 +1,23 @@
+metadata:
+ groupId: org.http4s
+ artifactId: http4s-examples-war_2.11
+ versioning:
+  latest: 0.17.0-M1
+  release: 0.17.0-M1
+  versions:
+   version:
+   - 0.6.0
+   - 0.6.1
+   - 0.6.2
+   - 0.6.3
+   - 0.6.4
+   - 0.6.5
+   - 0.7.0
+   - 0.8.3
+   - 0.8.5
+   - 0.8.6
+   - 0.16.0-M1
+   - 0.16.0a-M1
+   - 0.17.0-M1
+  lastUpdated: '20170409021503'
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: OSGi distribution package builder
+   prefix: osgi-dp
+   artifactId: osgi-dp
+  - name: Java RPM builder
+   prefix: rpm
+   artifactId: rpm
+

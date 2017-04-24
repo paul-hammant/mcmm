@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sonatype.spice
+ artifactId: wink-client-asynchttpclient
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20101027180835'
+

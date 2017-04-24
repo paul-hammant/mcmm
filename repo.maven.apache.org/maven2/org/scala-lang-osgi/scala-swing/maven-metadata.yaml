@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.scala-lang-osgi
+ artifactId: scala-swing
+ version: 2.7.3
+ versioning:
+  versions:
+   version:
+   - 2.7.3
+   - 2.7.4
+   - 2.7.5
+   - 2.7.6
+   - 2.7.7
+  lastUpdated: '20091113074756'
+

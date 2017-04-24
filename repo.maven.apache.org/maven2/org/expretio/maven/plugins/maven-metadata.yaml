@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: capnp-maven-plugin
+   prefix: capnp
+   artifactId: capnp-maven-plugin
+

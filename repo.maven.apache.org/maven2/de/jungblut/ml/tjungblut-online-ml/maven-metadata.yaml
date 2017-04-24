@@ -1,0 +1,13 @@
+metadata:
+ groupId: de.jungblut.ml
+ artifactId: tjungblut-online-ml
+ versioning:
+  latest: '0.5'
+  release: '0.5'
+  versions:
+   version:
+   - '0.2'
+   - '0.4'
+   - '0.5'
+  lastUpdated: '20160517211307'
+

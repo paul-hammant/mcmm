@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Blacktie C++ Plugin
+   prefix: cpp
+   artifactId: blacktie-cpp-plugin
+  - name: Blacktie C++ Plugin
+   prefix: cpp
+   artifactId: cpp-plugin
+

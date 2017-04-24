@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.jboss.ws
+ artifactId: jbossws-jboss710
+ versioning:
+  latest: 4.1.0.Beta1
+  release: 4.1.0.Beta1
+  versions:
+   version:
+   - 4.0.2.GA
+   - 4.1.0.Beta1
+  lastUpdated: '20120605164833'
+

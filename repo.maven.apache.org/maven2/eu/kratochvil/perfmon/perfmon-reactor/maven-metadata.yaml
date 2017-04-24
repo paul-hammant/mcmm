@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.kratochvil.perfmon
+ artifactId: perfmon-reactor
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20131127133818'
+

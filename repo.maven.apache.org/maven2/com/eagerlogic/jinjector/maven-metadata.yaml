@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.eagerlogic
+ artifactId: jinjector
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20150309103711'
+

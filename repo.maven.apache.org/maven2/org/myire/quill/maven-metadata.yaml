@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.myire
+ artifactId: quill
+ versioning:
+  latest: '1.3'
+  release: '1.3'
+  versions:
+   version:
+   - '0.9'
+   - '0.10'
+   - '0.11'
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - '1.3'
+  lastUpdated: '20170205212927'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.freeutils
+ artifactId: jtnef
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.9.0
+   - 2.0.0
+  lastUpdated: '20151214220548'
+

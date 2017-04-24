@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.wcm.caravan
+ artifactId: io.wcm.caravan.testing.pipeline
+ versioning:
+  latest: 0.5.2
+  release: 0.5.2
+  versions:
+   version:
+   - 0.5.0
+   - 0.5.2
+  lastUpdated: '20150625210350'
+

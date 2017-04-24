@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.jonas.tools
+ artifactId: jonas-fastrmic
+ version: 1.0.0
+ versioning:
+  versions:
+   version: 1.0.0
+  lastUpdated: '20070605164413'
+

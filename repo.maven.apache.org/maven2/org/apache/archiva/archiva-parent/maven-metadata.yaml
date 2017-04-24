@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.archiva
+ artifactId: archiva-parent
+ versioning:
+  latest: '16'
+  release: '16'
+  versions:
+   version:
+   - '15'
+   - '16'
+  lastUpdated: '20150219111246'
+

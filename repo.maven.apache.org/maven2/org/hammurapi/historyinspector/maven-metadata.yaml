@@ -1,0 +1,8 @@
+metadata:
+ groupId: org.hammurapi
+ artifactId: historyinspector
+ version: 3.17.0
+ versioning:
+  versions:
+   version: 3.17.0
+

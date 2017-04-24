@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.cognitect
+ artifactId: anomalies
+ versioning:
+  latest: 0.1.10
+  release: 0.1.10
+  versions:
+   version: 0.1.10
+  lastUpdated: '20170420174930'
+

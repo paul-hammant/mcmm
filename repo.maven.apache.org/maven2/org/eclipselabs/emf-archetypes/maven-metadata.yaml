@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.eclipselabs
+ artifactId: emf-archetypes
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version:
+   - 0.2.0
+   - 0.2.1
+  lastUpdated: '20141022093243'
+

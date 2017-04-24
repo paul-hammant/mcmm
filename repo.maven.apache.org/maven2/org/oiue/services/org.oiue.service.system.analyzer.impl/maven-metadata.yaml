@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.oiue.services
+ artifactId: org.oiue.service.system.analyzer.impl
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20161101123510'
+

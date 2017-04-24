@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.jbpm.jbpm3
+ artifactId: jbpm-jpdl-designer-site
+ versioning:
+  latest: 3.1.7
+  release: 3.1.7
+  versions:
+   version:
+   - 3.1.5
+   - 3.1.6
+   - 3.1.7
+  lastUpdated: '20100426064800'
+

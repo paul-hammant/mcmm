@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JabSaw Maven Plugin
+   prefix: jabsaw
+   artifactId: jabsaw-maven-plugin
+

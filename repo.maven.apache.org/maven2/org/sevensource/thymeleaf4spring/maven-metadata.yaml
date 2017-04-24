@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.sevensource
+ artifactId: thymeleaf4spring
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+   - 0.1.1
+   - 0.1.2
+  lastUpdated: '20140522083128'
+

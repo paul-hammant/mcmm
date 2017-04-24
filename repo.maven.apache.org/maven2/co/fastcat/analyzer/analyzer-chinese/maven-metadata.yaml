@@ -1,0 +1,12 @@
+metadata:
+ groupId: co.fastcat.analyzer
+ artifactId: analyzer-chinese
+ versioning:
+  latest: 2.13.7.1
+  release: 2.13.7.1
+  versions:
+   version:
+   - 2.13.7
+   - 2.13.7.1
+  lastUpdated: '20150709020847'
+

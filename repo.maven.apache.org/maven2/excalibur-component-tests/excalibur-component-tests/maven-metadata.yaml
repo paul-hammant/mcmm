@@ -1,0 +1,8 @@
+metadata:
+ groupId: excalibur-component-tests
+ artifactId: excalibur-component-tests
+ version: '2.1'
+ versioning:
+  versions:
+   version: '2.1'
+

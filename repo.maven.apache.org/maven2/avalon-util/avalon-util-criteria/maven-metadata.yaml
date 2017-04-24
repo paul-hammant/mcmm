@@ -1,0 +1,11 @@
+metadata:
+ groupId: avalon-util
+ artifactId: avalon-util-criteria
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0-dev
+   - 1.1.0
+

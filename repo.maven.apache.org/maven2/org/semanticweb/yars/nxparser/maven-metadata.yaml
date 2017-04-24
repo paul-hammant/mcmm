@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.semanticweb.yars
+ artifactId: nxparser
+ versioning:
+  latest: 2.3.3
+  release: 2.3.3
+  versions:
+   version:
+   - 1.2.10
+   - '2.2'
+   - 2.3.1
+   - 2.3.2
+   - 2.3.3
+  lastUpdated: '20161014101007'
+

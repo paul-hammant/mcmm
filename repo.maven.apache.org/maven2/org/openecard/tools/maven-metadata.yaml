@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Pack200 Maven Plugin
+   prefix: pack200
+   artifactId: pack200-maven-plugin
+

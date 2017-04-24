@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.cddcore
+ artifactId: engine_test_2.10
+ versioning:
+  latest: 1.6.2
+  release: 1.6.2
+  versions:
+   version:
+   - 1.4.0
+   - 1.5.0
+   - 1.6.0
+   - 1.6.1
+   - 1.6.2
+  lastUpdated: '20131028072333'
+

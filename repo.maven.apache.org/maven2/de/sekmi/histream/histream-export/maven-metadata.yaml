@@ -1,0 +1,14 @@
+metadata:
+ groupId: de.sekmi.histream
+ artifactId: histream-export
+ versioning:
+  latest: '0.11'
+  release: '0.11'
+  versions:
+   version:
+   - '0.8'
+   - '0.9'
+   - '0.10'
+   - '0.11'
+  lastUpdated: '20170123191305'
+

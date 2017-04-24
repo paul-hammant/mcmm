@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.kuali.common.ec2
+ artifactId: ec2admin
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20120330210620'
+

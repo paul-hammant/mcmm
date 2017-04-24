@@ -1,0 +1,15 @@
+metadata:
+ groupId: tomcat
+ artifactId: servlets-webdav
+ version: 5.0.16
+ versioning:
+  versions:
+   version:
+   - 5.0.16
+   - 5.0.18
+   - 5.5.12
+   - 4.1.31
+   - 5.0.28
+   - 4.0.6
+   - 5.5.15
+

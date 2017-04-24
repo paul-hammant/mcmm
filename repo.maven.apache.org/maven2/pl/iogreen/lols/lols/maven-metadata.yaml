@@ -1,0 +1,10 @@
+metadata:
+ groupId: pl.iogreen.lols
+ artifactId: lols
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20111214205838'
+

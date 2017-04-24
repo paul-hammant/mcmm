@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ow2.kerneos
+ artifactId: kerneos-flex-api
+ versioning:
+  latest: 2.2.1
+  release: 2.2.1
+  versions:
+   version:
+   - 2.2.0
+   - 2.2.1
+  lastUpdated: '20131003075331'
+

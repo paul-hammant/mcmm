@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Brooklyn Maven Plugin
+   prefix: brooklyn
+   artifactId: brooklyn-maven-plugin
+

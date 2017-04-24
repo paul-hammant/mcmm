@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.jasypt
+ artifactId: jasypt-hibernate
+ versioning:
+  versions:
+   version: '1.0'
+

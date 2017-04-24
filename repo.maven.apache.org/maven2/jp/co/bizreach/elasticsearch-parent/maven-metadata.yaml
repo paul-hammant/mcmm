@@ -1,0 +1,10 @@
+metadata:
+ groupId: jp.co.bizreach
+ artifactId: elasticsearch-parent
+ versioning:
+  latest: 2.3.5.1
+  release: 2.3.5.1
+  versions:
+   version: 2.3.5.1
+  lastUpdated: '20161122195704'
+

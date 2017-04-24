@@ -1,0 +1,10 @@
+metadata:
+ groupId: ru.dmerkushov
+ artifactId: zip-helper
+ versioning:
+  latest: 1.5.2
+  release: 1.5.2
+  versions:
+   version: 1.5.2
+  lastUpdated: '20140114061733'
+

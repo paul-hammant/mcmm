@@ -1,0 +1,10 @@
+metadata:
+ groupId: br.gov.frameworkdemoiselle.component
+ artifactId: demoiselle-vaadin-parent
+ versioning:
+  latest: 2.3.0
+  release: 2.3.0
+  versions:
+   version: 2.3.0
+  lastUpdated: '20121203180613'
+

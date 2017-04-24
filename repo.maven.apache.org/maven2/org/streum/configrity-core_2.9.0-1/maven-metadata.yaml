@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.streum
+ artifactId: configrity-core_2.9.0-1
+ versioning:
+  latest: 0.10.2
+  release: 0.10.2
+  versions:
+   version:
+   - 0.10.1
+   - 0.10.2
+  lastUpdated: '20120521190754'
+

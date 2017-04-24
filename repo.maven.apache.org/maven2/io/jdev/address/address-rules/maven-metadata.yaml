@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.jdev.address
+ artifactId: address-rules
+ versioning:
+  latest: '20130926'
+  release: '20130926'
+  versions:
+   version: '20130926'
+  lastUpdated: '20130926070315'
+

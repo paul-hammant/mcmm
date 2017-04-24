@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jsonschema2pojo-maven-plugin
+   prefix: jsonschema2pojo
+   artifactId: jsonschema2pojo-maven-plugin
+

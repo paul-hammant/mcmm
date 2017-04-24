@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.rasdaman
+ artifactId: rasj
+ versioning:
+  latest: 9.0.4
+  release: 9.0.4
+  versions:
+   version: 9.0.4
+  lastUpdated: '20140717212727'
+

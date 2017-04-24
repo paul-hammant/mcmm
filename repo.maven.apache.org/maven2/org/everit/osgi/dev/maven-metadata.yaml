@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Everit - Maven OSGi plugin
+   prefix: eosgi
+   artifactId: eosgi-maven-plugin
+  - name: Everit - LQMG Maven Plugin
+   prefix: generate
+   artifactId: lqmg-maven-plugin
+  - name: Everit - LQMG Maven Plugin
+   prefix: lqmg
+   artifactId: lqmg-maven-plugin
+

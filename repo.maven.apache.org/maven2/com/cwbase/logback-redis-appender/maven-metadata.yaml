@@ -1,0 +1,16 @@
+metadata:
+ groupId: com.cwbase
+ artifactId: logback-redis-appender
+ versioning:
+  latest: 1.1.5
+  release: 1.1.5
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+   - 1.1.4
+   - 1.1.5
+  lastUpdated: '20151011145648'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.azeckoski
+ artifactId: reflectutils
+ versioning:
+  latest: 0.9.20
+  release: 0.9.20
+  versions:
+   version: 0.9.20
+  lastUpdated: '20150419213953'
+

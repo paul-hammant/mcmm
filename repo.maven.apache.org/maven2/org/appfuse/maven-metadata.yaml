@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven WarPath Plugin
+   prefix: warpath
+   artifactId: maven-warpath-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.root1
+ artifactId: rxtx-rebundled
+ versioning:
+  latest: 2.1-7r2-6
+  release: 2.1-7r2-6
+  versions:
+   version:
+   - 2.1-7r2-5
+   - 2.1-7r2-6
+  lastUpdated: '20150511184728'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: me.geso
+ artifactId: tinyvalidator
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version:
+   - 0.6.0
+   - 0.7.0
+   - 0.8.0
+  lastUpdated: '20150313054950'
+

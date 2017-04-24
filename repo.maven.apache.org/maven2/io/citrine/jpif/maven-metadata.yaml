@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.citrine
+ artifactId: jpif
+ versioning:
+  latest: 2.1.8
+  release: 2.1.8
+  versions:
+   version:
+   - 2.1.0
+   - 2.1.4
+   - 2.1.8
+  lastUpdated: '20170421151418'
+

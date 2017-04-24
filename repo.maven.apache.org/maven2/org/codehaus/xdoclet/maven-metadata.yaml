@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven2 XDoclet2 Plugin
+   prefix: 2-xdoclet2
+   artifactId: maven2-xdoclet2-plugin
+

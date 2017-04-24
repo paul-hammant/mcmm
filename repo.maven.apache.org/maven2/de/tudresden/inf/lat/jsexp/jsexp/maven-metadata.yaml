@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.tudresden.inf.lat.jsexp
+ artifactId: jsexp
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version: 0.2.1
+  lastUpdated: '20150713155602'
+

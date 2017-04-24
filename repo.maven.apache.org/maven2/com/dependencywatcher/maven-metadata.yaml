@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: DependencyWatcher Maven Plug-In
+   prefix: dependencywatcher
+   artifactId: dependencywatcher-maven-plugin
+

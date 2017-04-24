@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Appverse Web Tools JAX-WS Client Code Generator Maven Plugin
+   prefix: generate-jax-ws-client
+   artifactId: jax-ws-client-stub-generator
+  - name: Appverse Web Tools JAX-WS Client Code Generator Maven Plugin
+   prefix: jax-ws-client-stub-generator
+   artifactId: jax-ws-client-stub-generator
+

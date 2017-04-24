@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: getdown-maven-plugin
+   prefix: getdown
+   artifactId: getdown-maven-plugin
+  - name: wix-maven-plugin Maven Mojo
+   prefix: wix
+   artifactId: wix-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.barchart.pivot
+ artifactId: pivot-core-web-server
+ versioning:
+  latest: 2.0.1-build001
+  release: 2.0.1-build001
+  versions:
+   version: 2.0.1-build001
+  lastUpdated: '20120407224824'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Performance Judgement Maven Plugin
+   prefix: performance-judgement
+   artifactId: performance-judgement-plugin
+

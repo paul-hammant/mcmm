@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: patterntesting-tools
+   prefix: patterntesting-tools
+   artifactId: patterntesting-tools
+

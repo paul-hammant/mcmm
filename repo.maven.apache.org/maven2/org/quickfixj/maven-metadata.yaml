@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: QuickFIX/J Code Generator Maven Plugin
+   prefix: quickfixj-codegenerator
+   artifactId: quickfixj-codegenerator
+

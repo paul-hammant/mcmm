@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Merge Plugin
+   prefix: merge
+   artifactId: merge-maven-plugin
+

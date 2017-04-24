@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-autotools-plugin
+   prefix: autotools
+   artifactId: maven-autotools-plugin
+

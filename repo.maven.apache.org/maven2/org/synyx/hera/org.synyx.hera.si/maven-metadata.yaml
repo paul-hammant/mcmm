@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.synyx.hera
+ artifactId: org.synyx.hera.si
+ versioning:
+  latest: 0.7.0.RELEASE
+  release: 0.7.0.RELEASE
+  versions:
+   version: 0.7.0.RELEASE
+  lastUpdated: '20111024222146'
+

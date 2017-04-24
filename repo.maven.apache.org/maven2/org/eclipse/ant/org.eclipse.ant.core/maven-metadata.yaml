@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eclipse.ant
+ artifactId: org.eclipse.ant.core
+ versioning:
+  latest: 3.2.200.v20100427
+  release: 3.2.200.v20100427
+  versions:
+   version: 3.2.200.v20100427
+  lastUpdated: '20101008021055'
+

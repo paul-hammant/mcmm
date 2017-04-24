@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.emaze
+ artifactId: emaze-tinytypes-jackson
+ versioning:
+  latest: '2.5'
+  release: '2.5'
+  versions:
+   version:
+   - '2.4'
+   - '2.5'
+  lastUpdated: '20170202115617'
+

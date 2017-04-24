@@ -1,0 +1,24 @@
+metadata:
+ groupId: com.clickntap
+ artifactId: stripecube
+ versioning:
+  latest: '1.45'
+  release: '1.45'
+  versions:
+   version:
+   - '1.31'
+   - '1.32'
+   - '1.33'
+   - '1.34'
+   - '1.35'
+   - '1.36'
+   - '1.37'
+   - '1.38'
+   - '1.39'
+   - '1.40'
+   - '1.42'
+   - '1.43'
+   - '1.44'
+   - '1.45'
+  lastUpdated: '20170302045046'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.reactivex
+ artifactId: rxjava-joins
+ versioning:
+  latest: 0.22.0
+  release: 0.22.0
+  versions:
+   version:
+   - 0.21.0
+   - 0.22.0
+  lastUpdated: '20150123171630'
+

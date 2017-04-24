@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.zkoss.zkforge
+ artifactId: fckez
+ version: 2.6.1_1
+ versioning:
+  versions:
+   version: 2.6.1_1
+  lastUpdated: '20080617030415'
+

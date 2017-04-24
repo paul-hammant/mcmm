@@ -1,0 +1,15 @@
+metadata:
+ groupId: eu.scasefp7
+ artifactId: scase-wp5-asset-registry-web
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.0.7
+   - 1.0.8
+   - 1.1.0
+  lastUpdated: '20160620114441'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.btaz.datautil
+ artifactId: datautil
+ versioning:
+  latest: 0.3.8
+  release: 0.3.8
+  versions:
+   version: 0.3.8
+  lastUpdated: '20140107174716'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.corehunter
+ artifactId: corehunter-services
+ versioning:
+  latest: 3.1.0
+  release: 3.1.0
+  versions:
+   version:
+   - 3.0.0
+   - 3.1.0
+  lastUpdated: '20170126211618'
+

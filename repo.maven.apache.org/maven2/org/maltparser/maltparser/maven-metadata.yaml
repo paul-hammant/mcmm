@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.maltparser
+ artifactId: maltparser
+ versioning:
+  latest: 1.9.0
+  release: 1.9.0
+  versions:
+   version:
+   - '1.7'
+   - 1.7.1
+   - 1.7.2
+   - '1.8'
+   - 1.8.1
+   - 1.9.0
+  lastUpdated: '20160604201335'
+

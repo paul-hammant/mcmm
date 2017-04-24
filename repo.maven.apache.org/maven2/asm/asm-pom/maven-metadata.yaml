@@ -1,0 +1,7 @@
+metadata:
+ groupId: asm
+ artifactId: asm-pom
+ versioning:
+  versions:
+   version: 1.5.1
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.fosd.typechef
+ artifactId: parserframework_2.11
+ versioning:
+  latest: 0.4.1
+  release: 0.4.1
+  versions:
+   version:
+   - 0.3.7
+   - 0.4.1
+  lastUpdated: '20151214182549'
+

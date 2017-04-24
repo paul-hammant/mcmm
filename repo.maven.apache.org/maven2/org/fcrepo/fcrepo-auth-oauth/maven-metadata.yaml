@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.fcrepo
+ artifactId: fcrepo-auth-oauth
+ versioning:
+  latest: 4.0.0-alpha-5
+  release: 4.0.0-alpha-5
+  versions:
+   version:
+   - 4.0.0-alpha-1
+   - 4.0.0-alpha-2
+   - 4.0.0-alpha-3
+   - 4.0.0-alpha-4
+   - 4.0.0-alpha-5
+  lastUpdated: '20140419225318'
+

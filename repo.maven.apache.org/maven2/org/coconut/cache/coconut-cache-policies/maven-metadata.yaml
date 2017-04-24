@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.coconut.cache
+ artifactId: coconut-cache-policies
+ version: 1.0-alpha3
+ versioning:
+  versions:
+   version: 1.0-alpha3
+  lastUpdated: '20071114225750'
+

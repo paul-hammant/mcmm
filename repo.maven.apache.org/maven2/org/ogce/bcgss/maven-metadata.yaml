@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ogce
+ artifactId: bcgss
+ versioning:
+  latest: '146'
+  release: '146'
+  versions:
+   version: '146'
+  lastUpdated: '20131009173619'
+

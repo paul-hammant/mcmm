@@ -1,0 +1,16 @@
+metadata:
+ groupId: pitt.search
+ artifactId: semanticvectors
+ versioning:
+  latest: '5.8'
+  release: '5.8'
+  versions:
+   version:
+   - '4.2'
+   - '5.0'
+   - '5.2'
+   - '5.4'
+   - '5.6'
+   - '5.8'
+  lastUpdated: '20150310152742'
+

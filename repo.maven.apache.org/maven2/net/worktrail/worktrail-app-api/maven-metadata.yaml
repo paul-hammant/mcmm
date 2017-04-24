@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.worktrail
+ artifactId: worktrail-app-api
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version: 0.2.0
+  lastUpdated: '20140910200751'
+

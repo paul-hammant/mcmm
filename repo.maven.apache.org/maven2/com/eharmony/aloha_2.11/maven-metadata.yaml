@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.eharmony
+ artifactId: aloha_2.11
+ versioning:
+  latest: 4.0.0
+  release: 4.0.0
+  versions:
+   version: 4.0.0
+  lastUpdated: '20170303164621'
+

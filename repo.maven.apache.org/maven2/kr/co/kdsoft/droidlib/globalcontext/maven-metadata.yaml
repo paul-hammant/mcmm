@@ -1,0 +1,10 @@
+metadata:
+ groupId: kr.co.kdsoft.droidlib
+ artifactId: globalcontext
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20140613052427'
+

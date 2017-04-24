@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.codelibs
+ artifactId: elasticsearch-analysis-fess
+ versioning:
+  latest: 5.3.0
+  release: 5.3.0
+  versions:
+   version:
+   - 2.3.0
+   - 2.4.0
+   - 5.0.0
+   - 5.1.0
+   - 5.2.0
+   - 5.2.1
+   - 5.3.0
+  lastUpdated: '20170401012340'
+

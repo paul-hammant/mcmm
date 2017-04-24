@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.udash
+ artifactId: udash-i18n-backend
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160407084049'
+

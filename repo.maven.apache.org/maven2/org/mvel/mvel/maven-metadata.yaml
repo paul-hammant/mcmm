@@ -1,0 +1,25 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.mvel
+ artifactId: mvel
+ versioning:
+  latest: 2.0-dp4
+  release: 2.0-dp4
+  versions:
+   version:
+   - 1.2.8
+   - 1.2.22-java1.4
+   - 1.2.22-java1.5
+   - 1.2.22-java1.6
+   - 1.2.23-java1.4
+   - 1.2.23-java1.5
+   - 1.2.23-java1.6
+   - 1.2.24-java1.4
+   - 1.2.24-java1.5
+   - 1.2.24-java1.6
+   - 2.0beta1
+   - 2.0M1
+   - 2.0M2
+   - 2.0-dp4
+  lastUpdated: '20150821174810'
+

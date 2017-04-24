@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.sf.buildbox.pom
+ artifactId: root-pom
+ version: 1.0.0
+ versioning:
+  versions:
+   version: 1.0.0
+  lastUpdated: '20080114012813'
+

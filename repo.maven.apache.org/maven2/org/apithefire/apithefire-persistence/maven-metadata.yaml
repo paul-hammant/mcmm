@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apithefire
+ artifactId: apithefire-persistence
+ version: 0.1.2
+ versioning:
+  versions:
+   version: 0.1.2
+  lastUpdated: '20080810083123'
+

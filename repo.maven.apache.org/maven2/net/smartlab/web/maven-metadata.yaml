@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SmartWeb Generator Maven Plugin
+   prefix: smartweb
+   artifactId: maven-smartweb-plugin
+

@@ -1,0 +1,9 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: md
+   artifactId: markdown-maven-plugin
+  - name: null
+   prefix: smtp
+   artifactId: smtp-maven-plugin
+

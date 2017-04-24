@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: npmpack
+   artifactId: npmpack-maven-plugin
+

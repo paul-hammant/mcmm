@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.opengis
+ artifactId: conformance
+ version: 2.2-SNAPSHOT
+ versioning:
+  versions:
+   version: 2.2-SNAPSHOT
+  lastUpdated: '20081013184222'
+

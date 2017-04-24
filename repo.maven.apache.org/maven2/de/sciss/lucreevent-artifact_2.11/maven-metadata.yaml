@@ -1,0 +1,14 @@
+metadata:
+ groupId: de.sciss
+ artifactId: lucreevent-artifact_2.11
+ versioning:
+  latest: 2.7.5
+  release: 2.7.5
+  versions:
+   version:
+   - 2.7.1
+   - 2.7.2
+   - 2.7.3
+   - 2.7.5
+  lastUpdated: '20150714083502'
+

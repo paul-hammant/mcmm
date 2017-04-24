@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.lightful.poms
+ artifactId: standard-oss-build
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version: '2'
+  lastUpdated: '20120605003415'
+

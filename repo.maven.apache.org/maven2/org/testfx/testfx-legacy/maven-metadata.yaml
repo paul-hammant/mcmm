@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.testfx
+ artifactId: testfx-legacy
+ versioning:
+  latest: 4.0.6-alpha
+  release: 4.0.6-alpha
+  versions:
+   version:
+   - 4.0.0-alpha
+   - 4.0.1-alpha
+   - 4.0.2-alpha
+   - 4.0.3-alpha
+   - 4.0.4-alpha
+   - 4.0.5-alpha
+   - 4.0.6-alpha
+  lastUpdated: '20170324013849'
+

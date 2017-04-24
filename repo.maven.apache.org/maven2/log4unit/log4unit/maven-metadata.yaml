@@ -1,0 +1,10 @@
+metadata:
+ groupId: log4unit
+ artifactId: log4unit
+ version: 0.2.0
+ versioning:
+  versions:
+   version:
+   - 0.2.0
+   - 0.2.0_1
+

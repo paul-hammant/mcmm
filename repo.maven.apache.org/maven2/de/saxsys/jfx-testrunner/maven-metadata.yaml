@@ -1,0 +1,13 @@
+metadata:
+ groupId: de.saxsys
+ artifactId: jfx-testrunner
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20151028143006'
+

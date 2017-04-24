@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: lco-maven-plugin
+   prefix: lco
+   artifactId: lco-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven XRadar Plugin
+   prefix: xradar
+   artifactId: maven-xradar-plugin
+

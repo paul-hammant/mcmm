@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.frascati.examples
+ artifactId: helloworld-osgi-runtime-parent
+ versioning:
+  release: '1.4'
+  versions:
+   version: '1.4'
+  lastUpdated: '20110603113718'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven M2E Code-style plugin
+   prefix: m2e-codestyle
+   artifactId: maven-m2e-codestyle
+

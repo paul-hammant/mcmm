@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.nbn-resolving
+ artifactId: database
+ versioning:
+  latest: 3.0.1
+  release: 3.0.1
+  versions:
+   version:
+   - 2.2.0
+   - 2.2.1
+   - 2.3.0
+   - 3.0.1
+  lastUpdated: '20131111170934'
+

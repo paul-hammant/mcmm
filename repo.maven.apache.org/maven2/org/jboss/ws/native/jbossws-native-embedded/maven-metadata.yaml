@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.jboss.ws.native
+ artifactId: jbossws-native-embedded
+ versioning:
+  latest: 3.0.4.CR1
+  release: 3.0.4.CR1
+  versions:
+   version:
+   - 3.0.2.GA
+   - 3.0.3.GA
+   - 3.0.4.CR1
+  lastUpdated: '20100426045226'
+

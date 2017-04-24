@@ -1,0 +1,13 @@
+metadata:
+ groupId: nl.cloudfarming.client
+ artifactId: modules-free
+ versioning:
+  latest: 1.0.19
+  release: 1.0.19
+  versions:
+   version:
+   - 1.0.12
+   - 1.0.17
+   - 1.0.19
+  lastUpdated: '20120129123721'
+

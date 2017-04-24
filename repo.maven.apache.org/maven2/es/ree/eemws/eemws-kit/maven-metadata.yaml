@@ -1,0 +1,12 @@
+metadata:
+ groupId: es.ree.eemws
+ artifactId: eemws-kit
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.1.0
+   - 1.1.2
+  lastUpdated: '20160706095957'
+

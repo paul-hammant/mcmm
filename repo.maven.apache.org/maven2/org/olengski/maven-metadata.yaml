@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: requirejs-optimize-plugin
+   prefix: requirejs-optimize
+   artifactId: requirejs-optimize-plugin
+

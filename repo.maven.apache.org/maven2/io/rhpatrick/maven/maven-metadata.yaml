@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Properties Toolchain Maven Plugin
+   prefix: properties-toolchain
+   artifactId: properties-toolchain-plugin
+

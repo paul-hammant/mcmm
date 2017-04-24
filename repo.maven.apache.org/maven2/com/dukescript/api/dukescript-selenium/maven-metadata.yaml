@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.dukescript.api
+ artifactId: dukescript-selenium
+ versioning:
+  latest: 0.5.9
+  release: 0.5.9
+  versions:
+   version: 0.5.9
+  lastUpdated: '20151222204952'
+

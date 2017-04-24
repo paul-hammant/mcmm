@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jdice.calc
+ artifactId: jcalc
+ versioning:
+  latest: 0.1b
+  release: 0.1b
+  versions:
+   version: 0.1b
+  lastUpdated: '20140327060737'
+

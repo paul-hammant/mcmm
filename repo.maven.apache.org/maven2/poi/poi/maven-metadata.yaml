@@ -1,0 +1,10 @@
+metadata:
+ groupId: poi
+ artifactId: poi
+ version: 1.8.0-dev-20020919
+ versioning:
+  versions:
+   version:
+   - 1.8.0-dev-20020919
+   - 2.5.1
+

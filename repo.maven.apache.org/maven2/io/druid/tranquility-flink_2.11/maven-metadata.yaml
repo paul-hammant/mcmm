@@ -1,0 +1,15 @@
+metadata:
+ groupId: io.druid
+ artifactId: tranquility-flink_2.11
+ versioning:
+  latest: 0.8.2
+  release: 0.8.2
+  versions:
+   version:
+   - 0.7.3
+   - 0.7.4
+   - 0.8.0
+   - 0.8.1
+   - 0.8.2
+  lastUpdated: '20160629192728'
+

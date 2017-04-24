@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scalatra
+ artifactId: scalatra-json_2.9.3
+ versioning:
+  latest: 2.2.2
+  release: 2.2.2
+  versions:
+   version:
+   - 2.2.1
+   - 2.2.2
+  lastUpdated: '20131124180112'
+

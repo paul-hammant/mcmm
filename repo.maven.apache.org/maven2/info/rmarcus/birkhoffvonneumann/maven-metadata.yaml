@@ -1,0 +1,13 @@
+metadata:
+ groupId: info.rmarcus
+ artifactId: birkhoffvonneumann
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 0.1.2
+  lastUpdated: '20170111233129'
+

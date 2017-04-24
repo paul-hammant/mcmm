@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven Bathe plugin
+   prefix: bathe
+   artifactId: bathe-plugin
+  - name: Maven plugin for branch checks
+   prefix: branch-check
+   artifactId: branch-check-maven-plugin
+  - name: Maven plugin for groovydoc
+   prefix: groovydoc
+   artifactId: groovydoc-maven-plugin
+  - name: jaxrs2typescript maven plugin
+   prefix: jaxrs2typescript
+   artifactId: jaxrs2typescript-maven-plugin
+  - name: Maven Karma Runner plugin
+   prefix: karma-runner
+   artifactId: karma-runner-plugin
+  - name: Maven Release POM Plugin
+   prefix: release-pom
+   artifactId: release-pom
+

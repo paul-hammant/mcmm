@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.thucydides
+ artifactId: thucydides-jbehave
+ versioning:
+  latest: 0.9.278
+  release: 0.9.278
+  versions:
+   version: 0.9.278
+  lastUpdated: '20141101232911'
+

@@ -1,0 +1,21 @@
+metadata:
+ groupId: org.ujoframework
+ artifactId: ujo-orm
+ version: '1.22'
+ versioning:
+  versions:
+   version:
+   - '1.22'
+   - '1.21'
+   - 1.20.09
+   - 1.20.08
+   - '1.20'
+   - '1.10'
+   - '1.00'
+   - '0.94'
+   - '0.93'
+   - '0.92'
+   - '0.91'
+   - '0.90'
+  lastUpdated: '20111110170000'
+

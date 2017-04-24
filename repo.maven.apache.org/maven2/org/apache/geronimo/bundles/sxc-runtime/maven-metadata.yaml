@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.geronimo.bundles
+ artifactId: sxc-runtime
+ versioning:
+  latest: 0.7.3_1
+  release: 0.7.3_1
+  versions:
+   version:
+   - 0.7.2_1
+   - 0.7.3_1
+  lastUpdated: '20100721115407'
+

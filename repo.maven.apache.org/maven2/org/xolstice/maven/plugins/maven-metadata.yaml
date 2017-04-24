@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Protocol Buffers Plugin
+   prefix: protobuf
+   artifactId: protobuf-maven-plugin
+

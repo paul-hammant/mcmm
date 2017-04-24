@@ -1,0 +1,8 @@
+metadata:
+ groupId: exo
+ artifactId: exoplatform.test.webunit-framework
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

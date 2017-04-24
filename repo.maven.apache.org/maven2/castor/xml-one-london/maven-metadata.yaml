@@ -1,0 +1,8 @@
+metadata:
+ groupId: castor
+ artifactId: xml-one-london
+ version: '20010322'
+ versioning:
+  versions:
+   version: '20010322'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.aerysoft.miniclient
+ artifactId: miniclient-android
+ versioning:
+  latest: 0.8.3
+  release: 0.8.3
+  versions:
+   version: 0.8.3
+  lastUpdated: '20131113094801'
+

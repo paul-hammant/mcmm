@@ -1,0 +1,73 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'NPanday :: Add-in Plugin (Java Binding)'
+   prefix: NPanday.Plugin.Addin.JavaBinding
+   artifactId: NPanday.Plugin.Addin.JavaBinding
+  - name: 'NPanday :: Denenv Plugin (Java Binding)'
+   prefix: NPanday.Plugin.Devenv.JavaBinding
+   artifactId: NPanday.Plugin.Devenv.JavaBinding
+  - name: 'NPanday :: Settings Plugin (Java Binding)'
+   prefix: NPanday.Plugin.Settings.JavaBinding
+   artifactId: NPanday.Plugin.Settings.JavaBinding
+  - name: 'NPanday :: SysRef Plugin (Java Binding)'
+   prefix: NPanday.Plugin.SysRef.JavaBinding
+   artifactId: NPanday.Plugin.SysRef.JavaBinding
+  - name: 'NPanday :: MSBuild Plugin (Java Binding)'
+   prefix: NPanday.Plugin.Msbuild.JavaBinding
+   artifactId: NPanday.Plugin.Msbuild.JavaBinding
+  - name: 'NPanday :: Custom Lifecycle Extensions Plugin'
+   prefix: custom-lifecycle
+   artifactId: custom-lifecycle-maven-plugin
+  - name: 'NPanday :: Compile Maven Plugin'
+   prefix: compile
+   artifactId: maven-compile-plugin
+  - name: 'NPanday :: ASPX Maven Plugin'
+   prefix: aspx
+   artifactId: maven-aspx-plugin
+  - name: 'NPanday :: FxCop Maven Plugin'
+   prefix: fxcop
+   artifactId: maven-fxcop-plugin
+  - name: 'NPanday :: Install Maven Plugin'
+   prefix: install
+   artifactId: maven-install-plugin
+  - name: 'NPanday :: Link Maven Plugin'
+   prefix: link
+   artifactId: maven-link-plugin
+  - name: 'NPanday :: Mojo Generator Maven Plugin'
+   prefix: mojo-generator
+   artifactId: maven-mojo-generator-plugin
+  - name: 'NPanday :: ResGen Maven Plugin'
+   prefix: resgen
+   artifactId: maven-resgen-plugin
+  - name: 'NPanday :: Repository Maven Plugin'
+   prefix: repository
+   artifactId: maven-repository-plugin
+  - name: 'NPanday :: Resolver Maven Plugin'
+   prefix: resolver
+   artifactId: maven-resolver-plugin
+  - name: 'NPanday :: Test Maven Plugin'
+   prefix: test
+   artifactId: maven-test-plugin
+  - name: 'NPanday :: Visual Studio Addin Installer Maven Plugin'
+   prefix: vsinstaller
+   artifactId: maven-vsinstaller-plugin
+  - name: 'NPanday :: Webapp Maven Plugin'
+   prefix: webapp
+   artifactId: maven-webapp-plugin
+  - name: 'NPanday :: XSD Maven Plugin'
+   prefix: xsd
+   artifactId: maven-xsd-plugin
+  - name: 'NPanday :: XSP Maven Plugin'
+   prefix: xsp
+   artifactId: maven-xsp-plugin
+  - name: 'NPanday :: WSDL Maven Plugin'
+   prefix: wsdl
+   artifactId: maven-wsdl-plugin
+  - name: 'NPanday :: WiX Maven Plugin'
+   prefix: wix
+   artifactId: wix-maven-plugin
+  - name: 'NPanday :: PartCover Maven Plugin'
+   prefix: partcover
+   artifactId: partcover-maven-plugin
+

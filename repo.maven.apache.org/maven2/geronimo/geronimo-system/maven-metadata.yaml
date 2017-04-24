@@ -1,0 +1,15 @@
+metadata:
+ groupId: geronimo
+ artifactId: geronimo-system
+ version: 1.0-M1
+ versioning:
+  versions:
+   version:
+   - 1.0-M1
+   - DEV
+   - 1.0-M2
+   - 1.0-M3
+   - 1.0-M4
+   - 1.0-M5
+   - '1.0'
+

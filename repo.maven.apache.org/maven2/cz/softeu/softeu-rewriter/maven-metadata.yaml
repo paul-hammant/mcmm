@@ -1,0 +1,7 @@
+metadata:
+ groupId: cz.softeu
+ artifactId: softeu-rewriter
+ versioning:
+  versions:
+   version: '1.1'
+

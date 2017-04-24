@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.groupId}:${project.artifactId}
+   prefix: elasticmapreduce
+   artifactId: elasticmapreduce-maven-plugin
+

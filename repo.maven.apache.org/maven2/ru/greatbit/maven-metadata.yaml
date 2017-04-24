@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Transitive Dependency Plugin
+   prefix: transitive-dependency
+   artifactId: transitive-dependency-maven-plugin
+

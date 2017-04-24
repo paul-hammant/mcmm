@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.jguard
+ artifactId: jguard-ext-java-6
+ version: 2.0.0-beta-5
+ versioning:
+  release: 2.0.0-beta-5
+  versions:
+   version: 2.0.0-beta-5
+  lastUpdated: '20090215235932'
+

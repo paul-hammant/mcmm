@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.accidia
+ artifactId: jrz
+ versioning:
+  latest: 0.0.19
+  release: 0.0.19
+  versions:
+   version:
+   - 0.0.13
+   - 0.0.14
+   - 0.0.15
+   - 0.0.17
+   - 0.0.18
+   - 0.0.19
+  lastUpdated: '20141211053028'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.j8unit
+ artifactId: parent
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20161202141447'
+

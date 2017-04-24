@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.jonas.osgi
+ artifactId: util-xmlconfig
+ versioning:
+  latest: 5.1.7
+  release: 5.1.7
+  versions:
+   version: 5.1.7
+  lastUpdated: '20120821110814'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.att.ajsc
+ artifactId: sdk-camunda-archetype
+ versioning:
+  latest: 7.6.2-00
+  release: 7.6.2-00
+  versions:
+   version: 7.6.2-00
+  lastUpdated: '20170331200628'
+

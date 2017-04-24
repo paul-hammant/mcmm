@@ -1,0 +1,12 @@
+metadata:
+ groupId: ai.h2o
+ artifactId: h2o-jaas-pam
+ versioning:
+  latest: 3.10.4.5
+  release: 3.10.4.5
+  versions:
+   version:
+   - 3.10.4.4
+   - 3.10.4.5
+  lastUpdated: '20170420011057'
+

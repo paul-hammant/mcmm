@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.zaim.android
+ artifactId: decoratecalendarview
+ versioning:
+  latest: 0.2.3
+  release: 0.2.3
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+   - 0.2.1
+   - 0.2.2
+   - 0.2.3
+  lastUpdated: '20140806033243'
+

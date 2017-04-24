@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.limetri.api
+ artifactId: data
+ versioning:
+  latest: 0.3.3-NB80
+  release: 0.3.3-NB80
+  versions:
+   version: 0.3.3-NB80
+  lastUpdated: '20150720113922'
+

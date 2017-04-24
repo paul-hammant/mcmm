@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.joynr
+ artifactId: performance
+ versioning:
+  latest: 0.16.0
+  release: 0.16.0
+  versions:
+   version: 0.16.0
+  lastUpdated: '20160318141719'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'OPS4J - Pax Mojos: OSGi project helpers'
+   prefix: pax
+   artifactId: maven-pax-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: uk.gov.nationalarchives.pronom
+ artifactId: pronom-container-signature-file
+ versioning:
+  latest: '20130501'
+  release: '20130501'
+  versions:
+   version: '20130501'
+  lastUpdated: '20130909181317'
+

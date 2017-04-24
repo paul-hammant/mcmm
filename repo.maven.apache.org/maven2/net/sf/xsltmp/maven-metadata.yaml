@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: XSLT Generator Maven plugin
+   prefix: xslt-generator
+   artifactId: xslt-generator-maven-plugin
+

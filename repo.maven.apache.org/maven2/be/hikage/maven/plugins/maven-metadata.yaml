@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-xmlmerger-plugin Maven Mojo
+   prefix: xmlmerger
+   artifactId: maven-xmlmerger-plugin
+

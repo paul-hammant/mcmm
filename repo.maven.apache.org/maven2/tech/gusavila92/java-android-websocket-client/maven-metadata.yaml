@@ -1,0 +1,10 @@
+metadata:
+ groupId: tech.gusavila92
+ artifactId: java-android-websocket-client
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20170324011634'
+

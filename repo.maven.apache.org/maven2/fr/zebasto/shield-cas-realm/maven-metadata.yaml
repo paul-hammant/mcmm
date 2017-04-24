@@ -1,0 +1,13 @@
+metadata:
+ groupId: fr.zebasto
+ artifactId: shield-cas-realm
+ versioning:
+  latest: 2.4.1
+  release: 2.4.1
+  versions:
+   version:
+   - 2.3.4
+   - 2.3.4.1
+   - 2.4.1
+  lastUpdated: '20161003194220'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.aol.cyclops
+ artifactId: cyclops-scala
+ versioning:
+  latest: 8.4.2
+  release: 8.4.2
+  versions:
+   version:
+   - 8.4.0
+   - 8.4.1
+   - 8.4.2
+  lastUpdated: '20170411180049'
+

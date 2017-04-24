@@ -1,0 +1,11 @@
+metadata:
+ groupId: nanocontainer
+ artifactId: nanocontainer-booter
+ version: 1.0-RC-2
+ versioning:
+  versions:
+   version:
+   - 1.0-RC-2
+   - 1.0-RC-3
+   - '1.0'
+

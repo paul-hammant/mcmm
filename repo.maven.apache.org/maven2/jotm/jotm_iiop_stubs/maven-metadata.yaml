@@ -1,0 +1,8 @@
+metadata:
+ groupId: jotm
+ artifactId: jotm_iiop_stubs
+ version: 2.0.10
+ versioning:
+  versions:
+   version: 2.0.10
+

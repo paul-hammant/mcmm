@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eurekaclinical
+ artifactId: cas-authentication-handlers
+ versioning:
+  latest: 1.0-Alpha-1
+  release: 1.0-Alpha-1
+  versions:
+   version: 1.0-Alpha-1
+  lastUpdated: '20160401151456'
+

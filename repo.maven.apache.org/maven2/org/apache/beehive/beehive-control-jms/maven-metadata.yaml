@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.apache.beehive
+ artifactId: beehive-control-jms
+ versioning:
+  versions:
+   version: 1.0.1
+

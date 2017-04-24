@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.robotninjas.barge
+ artifactId: barge-tools
+ versioning:
+  latest: 0.1.0-alpha1
+  release: 0.1.0-alpha1
+  versions:
+   version: 0.1.0-alpha1
+  lastUpdated: '20131104235624'
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Satellite :: Plugins :: Dumper'
+   prefix: dumper
+   artifactId: dumper-maven-plugin
+  - name: 'Satellite :: Plugins :: Runner'
+   prefix: satellite
+   artifactId: satellite-maven-plugin
+

@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.jboss.pnc
+ artifactId: pnc-mock
+ versioning:
+  latest: 1.0.5
+  release: 1.0.5
+  versions:
+   version:
+   - '0.9'
+   - '0.10'
+   - 0.10.1
+   - '1.0'
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+   - 1.0.4
+   - 1.0.5
+  lastUpdated: '20170303113507'
+

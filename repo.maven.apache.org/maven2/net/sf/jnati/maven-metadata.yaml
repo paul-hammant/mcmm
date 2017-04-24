@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jnati - Maven Plugin
+   prefix: jnati
+   artifactId: jnati-maven-plugin
+

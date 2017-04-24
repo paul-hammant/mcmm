@@ -1,0 +1,10 @@
+metadata:
+ groupId: cz.seznam.euphoria
+ artifactId: euphoria-inmem
+ versioning:
+  latest: 0.5.0
+  release: 0.5.0
+  versions:
+   version: 0.5.0
+  lastUpdated: '20170203142449'
+

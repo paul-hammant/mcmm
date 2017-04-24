@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Latke Min Plugin
+   prefix: min
+   artifactId: maven-min-plugin
+

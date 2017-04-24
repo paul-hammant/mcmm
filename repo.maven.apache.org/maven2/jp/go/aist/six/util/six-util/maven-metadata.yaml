@@ -1,0 +1,12 @@
+metadata:
+ groupId: jp.go.aist.six.util
+ artifactId: six-util
+ versioning:
+  latest: 3.7.1
+  release: 3.7.1
+  versions:
+   version:
+   - 3.7.0
+   - 3.7.1
+  lastUpdated: '20140227020836'
+

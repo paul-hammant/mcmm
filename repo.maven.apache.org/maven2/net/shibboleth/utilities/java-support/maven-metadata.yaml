@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.shibboleth.utilities
+ artifactId: java-support
+ versioning:
+  latest: 7.3.0
+  release: 7.3.0
+  versions:
+   version:
+   - 7.1.0
+   - 7.2.0
+   - 7.3.0
+  lastUpdated: '20170314140540'
+

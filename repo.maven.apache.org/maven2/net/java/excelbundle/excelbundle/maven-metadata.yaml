@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.java.excelbundle
+ artifactId: excelbundle
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version: '0.9'
+  lastUpdated: '20111110173755'
+

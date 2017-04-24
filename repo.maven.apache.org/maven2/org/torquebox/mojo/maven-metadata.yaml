@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: JRuby9 Exec Maven Mojo
+   prefix: jruby9-exec
+   artifactId: jruby9-exec-maven-plugin
+  - name: JRuby9 Jar Maven Mojo
+   prefix: jruby9-jar
+   artifactId: jruby9-jar-maven-plugin
+  - name: JRuby9 War Maven Mojo
+   prefix: jruby9-war
+   artifactId: jruby9-war-maven-plugin
+

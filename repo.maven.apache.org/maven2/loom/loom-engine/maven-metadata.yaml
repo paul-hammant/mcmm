@@ -1,0 +1,12 @@
+metadata:
+ groupId: loom
+ artifactId: loom-engine
+ version: 1.0-beta1-dev
+ versioning:
+  versions:
+   version:
+   - 1.0-beta1-dev
+   - 1.0-rc1
+   - 1.0-rc2
+   - 1.0-rc3
+

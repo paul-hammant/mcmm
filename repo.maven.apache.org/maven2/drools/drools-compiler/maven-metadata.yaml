@@ -1,0 +1,7 @@
+metadata:
+ groupId: drools
+ artifactId: drools-compiler
+ versioning:
+  versions:
+   version: 3.0.4
+

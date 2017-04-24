@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.hudsonci.plugins
+ artifactId: ircbot
+ versioning:
+  latest: 2.19-h-2
+  release: 2.19-h-2
+  versions:
+   version:
+   - 2.19-h-1
+   - 2.19-h-2
+  lastUpdated: '20140507054003'
+

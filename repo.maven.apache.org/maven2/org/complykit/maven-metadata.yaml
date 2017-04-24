@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: License Check Plugin
+   prefix: license-check
+   artifactId: license-check-maven-plugin
+

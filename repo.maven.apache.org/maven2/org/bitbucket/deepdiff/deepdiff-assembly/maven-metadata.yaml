@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.bitbucket.deepdiff
+ artifactId: deepdiff-assembly
+ versioning:
+  latest: 1.0.2
+  release: 1.0.2
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.0.2
+  lastUpdated: '20120403225703'
+

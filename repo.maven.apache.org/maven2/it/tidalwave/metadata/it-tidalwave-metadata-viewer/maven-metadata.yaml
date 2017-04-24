@@ -1,0 +1,15 @@
+metadata:
+ groupId: it.tidalwave.metadata
+ artifactId: it-tidalwave-metadata-viewer
+ versioning:
+  latest: 1.9.15
+  release: 1.9.15
+  versions:
+   version:
+   - 1.9.11
+   - 1.9.12
+   - 1.9.13
+   - 1.9.14
+   - 1.9.15
+  lastUpdated: '20120925131107'
+

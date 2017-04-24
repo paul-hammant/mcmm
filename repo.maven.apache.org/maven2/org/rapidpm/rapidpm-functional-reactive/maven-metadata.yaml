@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.rapidpm
+ artifactId: rapidpm-functional-reactive
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20170418125707'
+

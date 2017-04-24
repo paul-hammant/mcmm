@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.darylteo.vertx
+ artifactId: vertx-promises-groovy
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version:
+   - 1.1.0
+   - 1.2.0
+   - 1.2.1
+  lastUpdated: '20150209131118'
+

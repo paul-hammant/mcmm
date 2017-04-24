@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Accurest Maven Plugin
+   prefix: accurest
+   artifactId: accurest-maven-plugin
+

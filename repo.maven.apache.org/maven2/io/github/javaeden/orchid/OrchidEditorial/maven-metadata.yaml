@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.github.javaeden.orchid
+ artifactId: OrchidEditorial
+ versioning:
+  latest: v0.1.0
+  release: v0.1.0
+  versions:
+   version:
+   - unspecified
+   - v0.1.0
+  lastUpdated: '20170319234227'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.jboss.microcontainer
+ artifactId: microcontainer-getting-started-en_US
+ versioning:
+  latest: 2.0.0.Beta13
+  release: 2.0.0.Beta13
+  versions:
+   version:
+   - 2.0.0.Beta11
+   - 2.0.0.Beta12
+   - 2.0.0.Beta13
+  lastUpdated: '20100425124023'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Krakatau Java Assembler Maven Plugin
+   prefix: krakatau
+   artifactId: krakatau-maven-plugin
+

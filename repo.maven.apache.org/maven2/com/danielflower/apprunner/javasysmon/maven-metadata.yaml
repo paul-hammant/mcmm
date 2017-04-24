@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.danielflower.apprunner
+ artifactId: javasysmon
+ versioning:
+  latest: 0.3.5.0
+  release: 0.3.5.0
+  versions:
+   version: 0.3.5.0
+  lastUpdated: '20160409050302'
+

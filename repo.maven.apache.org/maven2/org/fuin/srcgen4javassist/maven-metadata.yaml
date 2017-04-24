@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.fuin
+ artifactId: srcgen4javassist
+ versioning:
+  latest: 0.5.8
+  release: 0.5.8
+  versions:
+   version: 0.5.8
+  lastUpdated: '20150213095832'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.norad.servlet.sample.html.template
+ artifactId: servlet-sample-html-template
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version:
+   - '0.6'
+   - '0.8'
+  lastUpdated: '20140225093950'
+

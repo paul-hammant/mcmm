@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.nicoulaj.compile-command-annotations
+ artifactId: compile-command-annotations
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version: 1.2.1
+  lastUpdated: '20170225185553'
+

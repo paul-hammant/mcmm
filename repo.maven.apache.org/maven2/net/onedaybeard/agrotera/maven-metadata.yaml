@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: agrotera-maven-plugin
+   prefix: agrotera
+   artifactId: agrotera-maven-plugin
+

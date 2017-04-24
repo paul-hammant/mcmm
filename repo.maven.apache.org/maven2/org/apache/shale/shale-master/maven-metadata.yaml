@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.shale
+ artifactId: shale-master
+ version: '3'
+ versioning:
+  release: '3'
+  versions:
+   version: '3'
+  lastUpdated: '20080512153400'
+

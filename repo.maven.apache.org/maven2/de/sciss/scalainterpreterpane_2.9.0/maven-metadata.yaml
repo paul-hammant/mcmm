@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: de.sciss
+ artifactId: scalainterpreterpane_2.9.0
+ versioning:
+  latest: '0.17'
+  release: '0.17'
+  versions:
+   version: '0.17'
+  lastUpdated: '20141102105338'
+

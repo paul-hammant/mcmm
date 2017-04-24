@@ -1,0 +1,11 @@
+metadata:
+ groupId: net.sf.sugar
+ artifactId: sugar
+ version: 1.0-SNAPSHOT
+ versioning:
+  versions:
+   version:
+   - 1.0-SNAPSHOT
+   - '1.0'
+  lastUpdated: '20080719233554'
+

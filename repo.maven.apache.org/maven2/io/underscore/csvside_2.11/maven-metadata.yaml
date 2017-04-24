@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.underscore
+ artifactId: csvside_2.11
+ versioning:
+  latest: 0.15.0
+  release: 0.15.0
+  versions:
+   version: 0.15.0
+  lastUpdated: '20160814104220'
+

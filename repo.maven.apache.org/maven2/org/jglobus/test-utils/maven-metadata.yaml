@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.jglobus
+ artifactId: test-utils
+ versioning:
+  latest: 2.1.0
+  release: 2.1.0
+  versions:
+   version:
+   - 2.0.5
+   - 2.0.6
+   - 2.1.0
+  lastUpdated: '20140926035408'
+

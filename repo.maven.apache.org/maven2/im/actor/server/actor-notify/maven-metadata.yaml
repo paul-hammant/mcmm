@@ -1,0 +1,12 @@
+metadata:
+ groupId: im.actor.server
+ artifactId: actor-notify
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version:
+   - 1.0.153
+   - 3.0.0
+  lastUpdated: '20160803203909'
+

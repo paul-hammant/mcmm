@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JBurg Maven Plugin
+   prefix: jburg
+   artifactId: jburg-maven-plugin
+

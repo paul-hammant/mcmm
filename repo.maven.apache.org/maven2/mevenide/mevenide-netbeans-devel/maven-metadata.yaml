@@ -1,0 +1,8 @@
+metadata:
+ groupId: mevenide
+ artifactId: mevenide-netbeans-devel
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

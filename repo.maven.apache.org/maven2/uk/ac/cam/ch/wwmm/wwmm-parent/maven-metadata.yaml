@@ -1,0 +1,10 @@
+metadata:
+ groupId: uk.ac.cam.ch.wwmm
+ artifactId: wwmm-parent
+ versioning:
+  latest: '4'
+  release: '4'
+  versions:
+   version: '4'
+  lastUpdated: '20110706140551'
+

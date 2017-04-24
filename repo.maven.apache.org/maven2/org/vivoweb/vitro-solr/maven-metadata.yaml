@@ -1,0 +1,18 @@
+metadata:
+ groupId: org.vivoweb
+ artifactId: vitro-solr
+ versioning:
+  latest: 1.10.0-alpha2
+  release: 1.10.0-alpha2
+  versions:
+   version:
+   - 1.9.0-alpha-1
+   - 1.9.0-alpha-2
+   - 1.9.0-rc1
+   - 1.9.0
+   - 1.9.1
+   - 1.9.2
+   - 1.10.0-alpha1
+   - 1.10.0-alpha2
+  lastUpdated: '20170330124220'
+

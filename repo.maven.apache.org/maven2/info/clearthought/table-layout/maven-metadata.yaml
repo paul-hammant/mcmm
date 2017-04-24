@@ -1,0 +1,14 @@
+metadata:
+ groupId: info.clearthought
+ artifactId: table-layout
+ versioning:
+  latest: 4.3.0
+  release: 4.3.0
+  versions:
+   version:
+   - '4.2'
+   - 4.2.1
+   - 4.2.2
+   - 4.3.0
+  lastUpdated: '20151220172829'
+

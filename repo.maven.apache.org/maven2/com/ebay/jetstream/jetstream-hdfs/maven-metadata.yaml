@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.ebay.jetstream
+ artifactId: jetstream-hdfs
+ versioning:
+  latest: 4.1.0
+  release: 4.1.0
+  versions:
+   version: 4.1.0
+  lastUpdated: '20150730183323'
+

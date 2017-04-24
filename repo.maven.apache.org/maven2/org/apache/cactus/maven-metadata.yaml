@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Cactus Integration Maven2 - Plugin Project
+   prefix: cactus
+   artifactId: cactus.integration.maven2
+

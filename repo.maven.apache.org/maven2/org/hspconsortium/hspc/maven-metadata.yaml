@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.hspconsortium
+ artifactId: hspc
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version: '0.8'
+  lastUpdated: '20150824044141'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: continuum
+ artifactId: continuum-notifier-mail
+ version: test-1.0
+ versioning:
+  versions:
+   version: test-1.0
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.unistuttgart.ims
+ artifactId: commons
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20160316073134'
+

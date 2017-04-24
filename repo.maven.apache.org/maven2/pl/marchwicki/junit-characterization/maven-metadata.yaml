@@ -1,0 +1,12 @@
+metadata:
+ groupId: pl.marchwicki
+ artifactId: junit-characterization
+ versioning:
+  latest: '0.3'
+  release: '0.3'
+  versions:
+   version:
+   - 0.2.2
+   - '0.3'
+  lastUpdated: '20150125085243'
+

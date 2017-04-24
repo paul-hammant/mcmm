@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: dragome-maven-plugins
+   prefix: dragome
+   artifactId: dragome-maven-plugin
+

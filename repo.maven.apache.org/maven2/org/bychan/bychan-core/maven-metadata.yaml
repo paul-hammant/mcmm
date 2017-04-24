@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.bychan
+ artifactId: bychan-core
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 1.0.0
+   - 2.0.0
+  lastUpdated: '20161206211338'
+

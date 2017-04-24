@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.wuerl.kotlin
+ artifactId: assertj-core-kotlin
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 0.1.2
+   - 0.1.3
+   - 0.2.0
+  lastUpdated: '20170305151110'
+

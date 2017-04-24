@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: WAR Buddy Maven plug-in
+   prefix: war-buddy
+   artifactId: war-buddy-maven-plugin
+

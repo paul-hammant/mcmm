@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.ird.t3
+ artifactId: msaccess-importer
+ versioning:
+  latest: 1.4.1
+  release: 1.4.1
+  versions:
+   version: 1.4.1
+  lastUpdated: '20170225161649'
+

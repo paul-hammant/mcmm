@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ow2.easywsdl
+ artifactId: easywsdl-ext-wsdl4complexwsdl
+ versioning:
+  latest: 2.6.1
+  release: 2.6.1
+  versions:
+   version:
+   - 2.6.0
+   - 2.6.1
+  lastUpdated: '20160517133037'
+

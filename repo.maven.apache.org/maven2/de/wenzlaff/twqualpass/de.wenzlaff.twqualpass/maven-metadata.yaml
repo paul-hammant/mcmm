@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.wenzlaff.twqualpass
+ artifactId: de.wenzlaff.twqualpass
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20161214193908'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: ru.trylogic.groovy.macro
+ artifactId: macro-groovy
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.1.0
+   - 1.1.1
+   - 1.2.0
+  lastUpdated: '20140415092233'
+

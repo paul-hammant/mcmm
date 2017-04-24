@@ -1,0 +1,12 @@
+metadata:
+ groupId: eu.fbk.rdfpro
+ artifactId: rdfpro-rules
+ versioning:
+  latest: 0.4.1
+  release: 0.4.1
+  versions:
+   version:
+   - '0.4'
+   - 0.4.1
+  lastUpdated: '20150709164116'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.sephiroth.android.library.fork.listviewanimations
+ artifactId: library
+ versioning:
+  latest: 2.5.2
+  release: 2.5.2
+  versions:
+   version: 2.5.2
+  lastUpdated: '20131122225145'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.sourceforge.jmeasurement2
+ artifactId: MCSUtils
+ versioning:
+  latest: 1.0.150
+  release: 1.0.150
+  versions:
+   version:
+   - 1.0.146
+   - 1.0.147
+   - 1.0.150
+  lastUpdated: '20161010125124'
+

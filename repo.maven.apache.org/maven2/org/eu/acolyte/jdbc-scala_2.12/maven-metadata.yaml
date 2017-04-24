@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eu.acolyte
+ artifactId: jdbc-scala_2.12
+ versioning:
+  latest: 1.0.43-j7p
+  release: 1.0.43-j7p
+  versions:
+   version: 1.0.43-j7p
+  lastUpdated: '20161223205609'
+

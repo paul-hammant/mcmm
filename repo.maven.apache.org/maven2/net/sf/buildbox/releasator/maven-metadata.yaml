@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.sf.buildbox
+ artifactId: releasator
+ version: 1.0.0-rc
+ versioning:
+  versions:
+   version:
+   - 1.0.0-rc
+   - 1.0.0-rc-1
+   - 1.0.0-rc-2
+  lastUpdated: '20101123221742'
+

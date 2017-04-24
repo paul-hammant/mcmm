@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.lwsdo
+ artifactId: lwsdo
+ versioning:
+  latest: '0.43'
+  release: '0.43'
+  versions:
+   version: '0.43'
+  lastUpdated: '20121220231511'
+

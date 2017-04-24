@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Name Generator Maven Plugin
+   prefix: name-generator
+   artifactId: name-generator-maven-plugin
+

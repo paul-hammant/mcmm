@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Mojo for generating Java Bean unit tests
+   prefix: javabean-test-generator
+   artifactId: javabean-test-generator-maven-plugin
+

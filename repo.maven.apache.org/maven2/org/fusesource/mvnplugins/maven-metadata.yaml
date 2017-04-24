@@ -1,0 +1,37 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven Avro Plugin
+   prefix: avro
+   artifactId: maven-avro-plugin
+  - name: Bundle Summary Maven Plugin
+   prefix: bundle-summary
+   artifactId: maven-bundle-summary-plugin
+  - name: Maven Console Time Stamp Plugin
+   prefix: consolets
+   artifactId: maven-consolets-plugin
+  - name: Maven Fab Plugin
+   prefix: fab
+   artifactId: maven-fab-plugin
+  - name: Maven Graph Plugin
+   prefix: graph
+   artifactId: maven-graph-plugin
+  - name: LinkChecker Maven Plugin
+   prefix: linkchecker
+   artifactId: maven-linkchecker-plugin
+  - name: Notices Maven Plugin
+   prefix: notices
+   artifactId: maven-notices-plugin
+  - name: Maven Provision Plugin
+   prefix: provision
+   artifactId: maven-provision-plugin
+  - name: Maven Uberize Plugin
+   prefix: uberize
+   artifactId: maven-uberize-plugin
+  - name: Maven Eclipse UpdateSite Plugin
+   prefix: updatesite
+   artifactId: maven-updatesite-plugin
+  - name: ${project.artifactId}
+   prefix: smartics-jboss-modules
+   artifactId: smartics-jboss-modules-maven-plugin
+

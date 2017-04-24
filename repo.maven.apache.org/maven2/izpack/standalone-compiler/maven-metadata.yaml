@@ -1,0 +1,8 @@
+metadata:
+ groupId: izpack
+ artifactId: standalone-compiler
+ version: 3.8.0
+ versioning:
+  versions:
+   version: 3.8.0
+

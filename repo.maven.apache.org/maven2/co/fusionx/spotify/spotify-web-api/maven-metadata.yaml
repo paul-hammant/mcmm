@@ -1,0 +1,10 @@
+metadata:
+ groupId: co.fusionx.spotify
+ artifactId: spotify-web-api
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20140809120917'
+

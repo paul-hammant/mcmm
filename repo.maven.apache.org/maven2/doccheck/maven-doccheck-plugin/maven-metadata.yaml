@@ -1,0 +1,8 @@
+metadata:
+ groupId: doccheck
+ artifactId: maven-doccheck-plugin
+ version: 1.4-0.1
+ versioning:
+  versions:
+   version: 1.4-0.1
+

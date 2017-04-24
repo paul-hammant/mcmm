@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Html for Java Maven Plugin
+   prefix: html4j
+   artifactId: html4j-maven-plugin
+

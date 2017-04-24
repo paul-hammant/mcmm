@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.signserver.xades4j
+ artifactId: xades4j
+ versioning:
+  latest: 1.3.2-signserver4
+  release: 1.3.2-signserver4
+  versions:
+   version: 1.3.2-signserver4
+  lastUpdated: '20160510134735'
+

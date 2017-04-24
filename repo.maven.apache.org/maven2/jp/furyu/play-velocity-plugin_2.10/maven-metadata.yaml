@@ -1,0 +1,13 @@
+metadata:
+ groupId: jp.furyu
+ artifactId: play-velocity-plugin_2.10
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.1'
+   - 1.1.1
+   - '1.2'
+  lastUpdated: '20140110044819'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jsonschema-maven-plugin
+   prefix: jsonschema
+   artifactId: jsonschema-maven-plugin
+

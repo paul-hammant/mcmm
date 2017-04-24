@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.asmatron
+ artifactId: messengine
+ versioning:
+  latest: 0.8.8
+  release: 0.8.8
+  versions:
+   version:
+   - 0.1.0
+   - 0.4.0
+   - 0.8.8
+  lastUpdated: '20150403224323'
+

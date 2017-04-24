@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.scalaz
+ artifactId: scalaz-iteratee_2.13.0-M1
+ versioning:
+  latest: 7.2.11
+  release: 7.2.11
+  versions:
+   version: 7.2.11
+  lastUpdated: '20170420065352'
+

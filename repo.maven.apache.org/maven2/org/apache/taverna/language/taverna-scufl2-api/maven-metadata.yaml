@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.taverna.language
+ artifactId: taverna-scufl2-api
+ versioning:
+  latest: 0.15.1-incubating
+  release: 0.15.1-incubating
+  versions:
+   version:
+   - 0.15.0-incubating
+   - 0.15.1-incubating
+  lastUpdated: '20160311145147'
+

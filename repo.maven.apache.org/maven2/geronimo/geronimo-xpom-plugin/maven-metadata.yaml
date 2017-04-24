@@ -1,0 +1,9 @@
+metadata:
+ groupId: geronimo
+ artifactId: geronimo-xpom-plugin
+ versioning:
+  versions:
+   version:
+   - 1.0-M3
+   - 1.0-M4
+

@@ -1,0 +1,7 @@
+metadata:
+ groupId: net.sf.apt-jelly
+ artifactId: apt-jelly
+ versioning:
+  versions:
+   version: '2.3'
+

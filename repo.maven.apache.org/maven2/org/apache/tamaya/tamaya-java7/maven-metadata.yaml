@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.tamaya
+ artifactId: tamaya-java7
+ versioning:
+  latest: 0.1-incubating
+  release: 0.1-incubating
+  versions:
+   version: 0.1-incubating
+  lastUpdated: '20150822145718'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.scalanlp
+ artifactId: epic-pos-en_2.10
+ versioning:
+  latest: 2015.2.19
+  release: 2015.2.19
+  versions:
+   version:
+   - '0.1'
+   - 2015.1.25
+   - 2015.2.19
+  lastUpdated: '20150220025459'
+

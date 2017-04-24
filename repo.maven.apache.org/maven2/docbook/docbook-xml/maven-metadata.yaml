@@ -1,0 +1,7 @@
+metadata:
+ groupId: docbook
+ artifactId: docbook-xml
+ versioning:
+  versions:
+   version: '4.2'
+

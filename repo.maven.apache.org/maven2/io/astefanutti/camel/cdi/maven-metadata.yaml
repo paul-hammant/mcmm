@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Camel CDI :: Maven Plugins :: Camel Maven Run'
+   prefix: camel
+   artifactId: camel-maven-plugin
+

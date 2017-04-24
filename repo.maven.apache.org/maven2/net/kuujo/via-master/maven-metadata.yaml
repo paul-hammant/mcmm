@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.kuujo
+ artifactId: via-master
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20131109012521'
+

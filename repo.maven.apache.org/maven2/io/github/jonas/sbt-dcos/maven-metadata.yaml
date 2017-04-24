@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.github.jonas
+ artifactId: sbt-dcos
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20170307030920'
+

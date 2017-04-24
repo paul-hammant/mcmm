@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: ${project.artifactId}
+   prefix: artifactinfo
+   artifactId: artifactinfo-maven-plugin
+  - name: flamingo-maven-plugin
+   prefix: flamingo
+   artifactId: flamingo-maven-plugin
+  - name: ${project.artifactId}
+   prefix: jsw
+   artifactId: jsw-maven-plugin
+  - name: ${project.artifactId}
+   prefix: ruby
+   artifactId: ruby-maven-plugin
+  - name: ${project.artifactId}
+   prefix: thirdparties
+   artifactId: thirdparties-maven-plugin
+

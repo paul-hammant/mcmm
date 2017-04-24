@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.xtech.babel
+ artifactId: babel-camel-mock_2.10
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version:
+   - 0.6.0
+   - 0.6.0-camel-2.12.4
+   - 0.8.0
+  lastUpdated: '20150904125259'
+

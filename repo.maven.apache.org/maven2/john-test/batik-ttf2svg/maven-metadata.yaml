@@ -1,0 +1,7 @@
+metadata:
+ groupId: john-test
+ artifactId: batik-ttf2svg
+ versioning:
+  versions:
+   version: '1.6'
+

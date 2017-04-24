@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.anmore.mvpdroid
+ artifactId: mvpdroid
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version: 1.2.0
+  lastUpdated: '20131005111601'
+

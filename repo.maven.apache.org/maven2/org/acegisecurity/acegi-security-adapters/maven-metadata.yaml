@@ -1,0 +1,18 @@
+metadata:
+ groupId: org.acegisecurity
+ artifactId: acegi-security-adapters
+ version: 1.0.0-RC2
+ versioning:
+  release: 1.0.6
+  versions:
+   version:
+   - 1.0.0-RC2
+   - 1.0.0
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+   - 1.0.4
+   - 1.0.6
+   - 1.0.7
+  lastUpdated: '20080415120655'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: cornerstone-connection
+ artifactId: cornerstone-connection-api
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '2.1'
+

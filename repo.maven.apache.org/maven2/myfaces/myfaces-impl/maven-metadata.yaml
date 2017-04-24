@@ -1,0 +1,12 @@
+metadata:
+ groupId: myfaces
+ artifactId: myfaces-impl
+ version: 1.0.9rc3
+ versioning:
+  versions:
+   version:
+   - 1.0.9rc3
+   - 1.0.9
+   - 1.1.0
+   - 1.1.1
+

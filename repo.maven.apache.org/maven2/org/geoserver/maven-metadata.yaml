@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Configuration Deployment PlugIn
+   prefix: config
+   artifactId: config
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Kevoree :: KCL :: Boot :: MavenPlugin'
+   prefix: kcl
+   artifactId: org.kevoree.kcl.boot.mavenplugin
+  - name: 'Kevoree :: KCL :: Boot :: MavenPlugin'
+   prefix: org.kevoree.kcl.boot.
+   artifactId: org.kevoree.kcl.boot.mavenplugin
+

@@ -1,0 +1,20 @@
+metadata:
+ '@modelVersion': 1.1.0
+ plugins:
+  plugin:
+  - name: Cocoon Deployer - Maven 2 Plugin
+   prefix: cocoon
+   artifactId: cocoon-deployer-plugin
+  - name: Cocoon Integration Test Framework [maven-plugin]
+   prefix: cocoon-it-fw
+   artifactId: cocoon-it-fw
+  - name: Cocoon Maven Javadocs Script Report
+   prefix: cocoonjavadocs-script-report
+   artifactId: cocoon-maven-javadocs-script-report
+  - name: Cocoon Maven 2 Plugin
+   prefix: cocoon
+   artifactId: cocoon-maven-plugin
+  - name: Cocoon Maven Plugin
+   prefix: cocoon
+   artifactId: cocoon-maven-plugin
+

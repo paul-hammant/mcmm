@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.fusesource.jansi
+ artifactId: jansi-native
+ versioning:
+  latest: '1.6'
+  release: '1.6'
+  versions:
+   version: '1.6'
+  lastUpdated: '20160427163254'
+

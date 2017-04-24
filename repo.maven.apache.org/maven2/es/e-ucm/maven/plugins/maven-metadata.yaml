@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Generate Skins Plugin
+   prefix: piel
+   artifactId: piel
+

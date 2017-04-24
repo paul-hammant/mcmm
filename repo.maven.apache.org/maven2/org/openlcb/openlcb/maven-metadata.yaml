@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.openlcb
+ artifactId: openlcb
+ versioning:
+  latest: 0.7.14
+  release: 0.7.14
+  versions:
+   version:
+   - 0.7.10
+   - 0.7.11
+   - 0.7.12
+   - 0.7.13
+   - 0.7.14
+  lastUpdated: '20170414114404'
+

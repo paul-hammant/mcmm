@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.liftmodules
+ artifactId: mongoauth_2.5_2.9.2
+ versioning:
+  latest: '0.5'
+  release: '0.5'
+  versions:
+   version:
+   - '0.4'
+   - '0.5'
+  lastUpdated: '20130719194750'
+

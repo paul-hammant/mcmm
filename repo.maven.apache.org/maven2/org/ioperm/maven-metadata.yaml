@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: morfologik-maven-plugin
+   prefix: morfologik
+   artifactId: morfologik-maven-plugin
+

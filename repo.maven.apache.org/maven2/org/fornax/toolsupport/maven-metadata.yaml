@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Model Workflow-M2-Plugin
+   prefix: fornax-oaw-m2
+   artifactId: fornax-oaw-m2-plugin
+

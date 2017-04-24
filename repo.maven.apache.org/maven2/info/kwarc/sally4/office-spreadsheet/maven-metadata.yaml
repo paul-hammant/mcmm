@@ -1,0 +1,10 @@
+metadata:
+ groupId: info.kwarc.sally4
+ artifactId: office-spreadsheet
+ versioning:
+  latest: 0.0.4
+  release: 0.0.4
+  versions:
+   version: 0.0.4
+  lastUpdated: '20140817192457'
+

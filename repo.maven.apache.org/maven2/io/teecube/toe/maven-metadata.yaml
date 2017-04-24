@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: T³ - TOE - Domains Manager
+   prefix: toe-domains
+   artifactId: toe-domains-plugin
+  - name: T³ - TOE - Products Installer
+   prefix: toe
+   artifactId: toe-installer-plugin
+

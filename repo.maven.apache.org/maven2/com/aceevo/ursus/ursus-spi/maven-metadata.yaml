@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.aceevo.ursus
+ artifactId: ursus-spi
+ versioning:
+  latest: 0.2.15
+  release: 0.2.15
+  versions:
+   version:
+   - 0.2.11
+   - 0.2.12
+   - 0.2.13
+   - 0.2.14
+   - 0.2.15
+  lastUpdated: '20141025012813'
+

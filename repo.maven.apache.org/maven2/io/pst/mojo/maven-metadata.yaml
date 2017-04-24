@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: S3 Static Uploader Plugin
+   prefix: s3-static-uploader
+   artifactId: s3-static-uploader-plugin
+

@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: CSS Splitter Maven Plugin
+   prefix: css-splitter
+   artifactId: css-splitter-maven-plugin
+  - name: Directory Content Maven Plugin
+   prefix: directory-content
+   artifactId: directory-content-maven-plugin
+  - name: LessCSS Maven Plugin
+   prefix: lesscss
+   artifactId: lesscss-maven-plugin
+

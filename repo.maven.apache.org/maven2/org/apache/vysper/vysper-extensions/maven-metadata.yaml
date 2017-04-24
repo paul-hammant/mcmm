@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.vysper
+ artifactId: vysper-extensions
+ versioning:
+  latest: '0.7'
+  release: '0.7'
+  versions:
+   version:
+   - '0.5'
+   - '0.6'
+   - '0.7'
+  lastUpdated: '20110221204647'
+

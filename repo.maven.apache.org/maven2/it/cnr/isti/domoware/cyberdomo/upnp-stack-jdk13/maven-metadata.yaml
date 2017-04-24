@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.cnr.isti.domoware.cyberdomo
+ artifactId: upnp-stack-jdk13
+ version: 1.8.0
+ versioning:
+  release: 1.8.0
+  versions:
+   version: 1.8.0
+  lastUpdated: '20080529233203'
+

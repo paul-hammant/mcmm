@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: coderu-maven-plugin
+   prefix: coderu
+   artifactId: coderu-maven-plugin
+

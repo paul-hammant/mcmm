@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.fusesource.maven.doxia
+ artifactId: doxia-converter
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version:
+   - '1.2'
+   - 1.2.1
+  lastUpdated: '20101006114430'
+

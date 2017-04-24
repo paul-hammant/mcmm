@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.xidea
+ artifactId: jsel
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version:
+   - 0.0.3
+   - 0.1.0
+  lastUpdated: '20170420075305'
+

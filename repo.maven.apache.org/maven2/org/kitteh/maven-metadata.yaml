@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Kitteh Maven Versionizer Plugin
+   prefix: kittehversionizer
+   artifactId: kitteh-maven-versionizer
+

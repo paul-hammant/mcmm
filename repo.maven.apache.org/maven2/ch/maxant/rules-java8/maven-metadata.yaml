@@ -1,0 +1,13 @@
+metadata:
+ groupId: ch.maxant
+ artifactId: rules-java8
+ versioning:
+  latest: 2.2.1
+  release: 2.2.1
+  versions:
+   version:
+   - 2.1.0
+   - 2.2.0
+   - 2.2.1
+  lastUpdated: '20170221204738'
+

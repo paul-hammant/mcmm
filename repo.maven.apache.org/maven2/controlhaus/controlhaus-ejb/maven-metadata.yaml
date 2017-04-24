@@ -1,0 +1,7 @@
+metadata:
+ groupId: controlhaus
+ artifactId: controlhaus-ejb
+ versioning:
+  versions:
+   version: alpha
+

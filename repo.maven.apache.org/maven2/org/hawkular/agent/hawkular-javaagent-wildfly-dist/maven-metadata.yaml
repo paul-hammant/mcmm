@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.hawkular.agent
+ artifactId: hawkular-javaagent-wildfly-dist
+ versioning:
+  latest: 0.29.4.Final
+  release: 0.29.4.Final
+  versions:
+   version: 0.29.4.Final
+  lastUpdated: '20170405020957'
+

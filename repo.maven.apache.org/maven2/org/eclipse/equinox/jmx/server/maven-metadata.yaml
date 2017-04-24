@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.eclipse.equinox.jmx
+ artifactId: server
+ version: 1.0.0-v20070510
+ versioning:
+  versions:
+   version: 1.0.0-v20070510
+  lastUpdated: '20071127070937'
+

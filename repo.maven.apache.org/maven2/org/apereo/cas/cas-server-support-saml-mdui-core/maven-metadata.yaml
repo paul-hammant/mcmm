@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apereo.cas
+ artifactId: cas-server-support-saml-mdui-core
+ versioning:
+  latest: 5.1.0-RC3
+  release: 5.1.0-RC3
+  versions:
+   version:
+   - 5.1.0-RC1
+   - 5.1.0-RC2
+   - 5.1.0-RC3
+  lastUpdated: '20170403123018'
+

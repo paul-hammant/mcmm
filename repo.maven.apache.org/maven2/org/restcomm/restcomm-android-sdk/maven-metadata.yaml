@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.restcomm
+ artifactId: restcomm-android-sdk
+ versioning:
+  latest: 1.0.1-BETA6-85
+  release: 1.0.1-BETA6-85
+  versions:
+   version:
+   - 1.0.0-BETA6-0
+   - 1.0.0-BETA6-55
+   - 1.0.0-BETA6-56
+   - 1.0.1-BETA6-83
+   - 1.0.1-BETA6-85
+  lastUpdated: '20170411161015'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Jumi Actors
+   prefix: jumi-actors
+   artifactId: jumi-actors-maven-plugin
+

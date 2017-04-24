@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.basepom.m2e
+ artifactId: org.basepom.m2e.apache-axis2-wsdl2code.feature
+ versioning:
+  latest: 1.0.6
+  release: 1.0.6
+  versions:
+   version:
+   - 1.0.5
+   - 1.0.6
+  lastUpdated: '20151031010600'
+

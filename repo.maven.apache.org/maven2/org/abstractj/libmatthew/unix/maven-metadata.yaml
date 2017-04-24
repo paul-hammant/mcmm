@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.abstractj.libmatthew
+ artifactId: unix
+ versioning:
+  latest: 0.5.1
+  release: 0.5.1
+  versions:
+   version: 0.5.1
+  lastUpdated: '20151105203349'
+

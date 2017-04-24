@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.antwerkz.kibble
+ artifactId: kibble
+ versioning:
+  latest: '0.3'
+  release: '0.3'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - '0.3'
+  lastUpdated: '20170420125147'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.devbliss.risotto
+ artifactId: risotto
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+  lastUpdated: '20120808143821'
+

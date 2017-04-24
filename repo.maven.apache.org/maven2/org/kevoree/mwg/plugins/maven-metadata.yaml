@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'mwg :: Plugins :: Model.mavenplugin'
+   prefix: null
+   artifactId: mavenplugin
+  - name: 'mwg :: Plugins :: Model.mavenplugin'
+   prefix: model.
+   artifactId: model.mavenplugin
+

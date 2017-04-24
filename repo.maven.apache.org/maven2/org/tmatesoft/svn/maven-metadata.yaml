@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.tmatesoft
+ artifactId: svn
+ versioning:
+  versions:
+   version: 1.1.0
+

@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Redline Maven Plugin
+   prefix: redline
+   artifactId: redline-maven-plugin
+  - name: Service Wrapper Maven Plugin
+   prefix: servicewrapper
+   artifactId: servicewrapper-maven-plugin
+

@@ -1,0 +1,18 @@
+metadata:
+ groupId: fi.vtt.nubomedia
+ artifactId: webrtcpeer-android
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.4
+   - 1.0.5
+   - 1.0.6
+   - 1.0.9
+   - 1.0.10
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20170216101944'
+

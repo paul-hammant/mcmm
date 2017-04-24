@@ -1,0 +1,17 @@
+metadata:
+ groupId: net.emaze
+ artifactId: emaze-dysfunctional
+ versioning:
+  latest: 8.1.2
+  release: 8.1.2
+  versions:
+   version:
+   - '5.0'
+   - '5.1'
+   - '5.2'
+   - '5.7'
+   - '5.8'
+   - 8.1.1
+   - 8.1.2
+  lastUpdated: '20161108172843'
+

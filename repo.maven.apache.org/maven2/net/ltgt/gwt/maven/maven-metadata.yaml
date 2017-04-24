@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Plugin for GWT
+   prefix: gwt
+   artifactId: gwt-maven-plugin
+

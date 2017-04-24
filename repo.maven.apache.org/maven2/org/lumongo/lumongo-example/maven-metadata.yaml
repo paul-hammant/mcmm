@@ -1,0 +1,22 @@
+metadata:
+ groupId: org.lumongo
+ artifactId: lumongo-example
+ versioning:
+  latest: '0.52'
+  release: '0.52'
+  versions:
+   version:
+   - '0.25'
+   - '0.27'
+   - 0.27.1
+   - '0.28'
+   - '0.30'
+   - '0.31'
+   - '0.40'
+   - '0.41'
+   - '0.42'
+   - '0.43'
+   - '0.51'
+   - '0.52'
+  lastUpdated: '20170210230741'
+

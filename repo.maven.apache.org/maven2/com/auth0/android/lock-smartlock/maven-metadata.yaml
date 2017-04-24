@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.auth0.android
+ artifactId: lock-smartlock
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+  lastUpdated: '20150605140614'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.osgi
+ artifactId: osgi.enroute.twitter.bootstrap.webresource
+ versioning:
+  latest: 3.3.5
+  release: 3.3.5
+  versions:
+   version: 3.3.5
+  lastUpdated: '20161014175627'
+

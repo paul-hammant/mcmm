@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.tonicsoft.ebay
+ artifactId: ebaysdkcore
+ versioning:
+  latest: 981.0.0
+  release: 981.0.0
+  versions:
+   version: 981.0.0
+  lastUpdated: '20170304164202'
+

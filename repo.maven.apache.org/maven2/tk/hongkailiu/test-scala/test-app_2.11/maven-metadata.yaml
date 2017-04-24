@@ -1,0 +1,14 @@
+metadata:
+ groupId: tk.hongkailiu.test-scala
+ artifactId: test-app_2.11
+ versioning:
+  latest: 1.1.3
+  release: 1.1.3
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - 1.1.2
+   - 1.1.3
+  lastUpdated: '20150621133024'
+

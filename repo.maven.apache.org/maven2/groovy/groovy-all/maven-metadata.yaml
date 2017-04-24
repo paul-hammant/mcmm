@@ -1,0 +1,16 @@
+metadata:
+ groupId: groovy
+ artifactId: groovy-all
+ version: 1.0-beta-10
+ versioning:
+  versions:
+   version:
+   - 1.0-beta-10
+   - 1.0-beta-7
+   - 1.0-beta-8
+   - 1.0-beta-9
+   - 1.0-jsr-01
+   - 1.0-jsr-02
+   - 1.0-jsr-03
+   - 1.0-jsr-04
+

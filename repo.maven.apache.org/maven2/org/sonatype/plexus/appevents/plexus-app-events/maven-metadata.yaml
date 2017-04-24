@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.sonatype.plexus.appevents
+ artifactId: plexus-app-events
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - '1.1'
+   - 1.1.1
+   - '1.2'
+  lastUpdated: '20120606135517'
+

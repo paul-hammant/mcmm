@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.clickconcepts.junit
+ artifactId: expected-failure
+ versioning:
+  latest: 0.0.9
+  release: 0.0.9
+  versions:
+   version: 0.0.9
+  lastUpdated: '20120912042541'
+

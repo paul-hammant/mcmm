@@ -1,0 +1,8 @@
+metadata:
+ groupId: javax.xml.bind
+ artifactId: activation
+ version: 1.0.2
+ versioning:
+  versions:
+   version: 1.0.2
+

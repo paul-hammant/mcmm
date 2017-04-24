@@ -1,0 +1,34 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Apache CXF Code Generation Maven2 Plugins
+   prefix: cxf-codegen
+   artifactId: cxf-codegen-plugin
+  - name: Apache CXF Common XSD2Java Plugins
+   prefix: cxf-common-xsd
+   artifactId: cxf-common-xsd
+  - name: Apache CXF CORBA Tools Maven2 Plugins
+   prefix: cxf-corbatools
+   artifactId: cxf-corbatools-maven-plugin
+  - name: Apache CXF Eclipse Plugin Generator Maven2 Plugin
+   prefix: cxf-eclipsegenerator
+   artifactId: cxf-eclipse-plugin-generator
+  - name: Apache CXF Java2WADL Maven2 Plugin
+   prefix: cxf-java2wadl
+   artifactId: cxf-java2wadl-plugin
+  - name: Apache CXF Java2WS Maven2 Plugin
+   prefix: cxf-java2ws
+   artifactId: cxf-java2ws-plugin
+  - name: Apache CXF WADL2Java Code Generation Maven2 Plugin
+   prefix: cxf-wadl2java
+   artifactId: cxf-wadl2java-plugin
+  - name: Apache CXF WSDL Validator Maven2 Plugin
+   prefix: cxf-wsdl-validator
+   artifactId: cxf-wsdl-validator-plugin
+  - name: Apache CXF XSD2Java Plugin
+   prefix: cxf-xjc
+   artifactId: cxf-xjc-plugin
+  - name: Apache CXF XML to FastInfoset Maven2 Plugin
+   prefix: cxf-xml2fastinfoset
+   artifactId: cxf-xml2fastinfoset-plugin
+

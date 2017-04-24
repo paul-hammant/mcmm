@@ -1,0 +1,11 @@
+metadata:
+ groupId: xfire
+ artifactId: jaxb-xjc
+ version: 1.0.5
+ versioning:
+  versions:
+   version:
+   - 1.0.5
+   - '2.0'
+   - ea3
+

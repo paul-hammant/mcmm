@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Typeframed Maven Plugin
+   prefix: typeframed-codegen
+   artifactId: typeframed-codegen-maven-plugin
+

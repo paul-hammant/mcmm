@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: NonDex Maven Plugin
+   prefix: nondex
+   artifactId: nondex-maven-plugin
+

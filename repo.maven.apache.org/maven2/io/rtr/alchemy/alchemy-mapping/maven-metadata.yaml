@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.rtr.alchemy
+ artifactId: alchemy-mapping
+ versioning:
+  latest: 0.1.12
+  release: 0.1.12
+  versions:
+   version:
+   - 0.1.9
+   - 0.1.10
+   - 0.1.11
+   - 0.1.12
+  lastUpdated: '20160609151816'
+

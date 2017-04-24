@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.juddi
+ artifactId: juddi-dist
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version: 3.0.0
+  lastUpdated: '20101014123814'
+

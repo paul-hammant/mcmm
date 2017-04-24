@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jbpm.jbpm3
+ artifactId: jbpm-console
+ versioning:
+  latest: 3.3.0.CR1
+  release: 3.3.0.CR1
+  versions:
+   version: 3.3.0.CR1
+  lastUpdated: '20100426060911'
+

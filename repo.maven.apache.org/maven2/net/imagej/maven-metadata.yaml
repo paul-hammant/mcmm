@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ImageJ Maven plugin
+   prefix: imagej
+   artifactId: imagej-maven-plugin
+

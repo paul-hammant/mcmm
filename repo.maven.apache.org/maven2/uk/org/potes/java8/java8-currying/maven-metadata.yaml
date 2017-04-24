@@ -1,0 +1,10 @@
+metadata:
+ groupId: uk.org.potes.java8
+ artifactId: java8-currying
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20140306155817'
+

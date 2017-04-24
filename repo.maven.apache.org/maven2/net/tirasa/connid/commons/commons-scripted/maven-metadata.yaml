@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.tirasa.connid.commons
+ artifactId: commons-scripted
+ versioning:
+  latest: 1.4.1.0
+  release: 1.4.1.0
+  versions:
+   version: 1.4.1.0
+  lastUpdated: '20161129164740'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.geronimo.genesis
+ artifactId: genesis
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20060901184559'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.seam
+ artifactId: seam
+ versioning:
+  latest: 3.0.0.b01
+  release: 3.0.0.b01
+  versions:
+   version: 3.0.0.b01
+  lastUpdated: '20100602133009'
+

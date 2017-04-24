@@ -1,0 +1,7 @@
+metadata:
+ groupId: jpox-dbcp
+ artifactId: jpox-dbcp
+ versioning:
+  versions:
+   version: 1.1.7
+

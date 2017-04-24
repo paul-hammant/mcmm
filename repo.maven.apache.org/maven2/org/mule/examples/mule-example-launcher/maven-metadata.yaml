@@ -1,0 +1,18 @@
+metadata:
+ groupId: org.mule.examples
+ artifactId: mule-example-launcher
+ versioning:
+  release: 3.3.0-EA
+  versions:
+   version:
+   - 3.2.0-M1
+   - 3.2.0
+   - 3.2.1
+   - 3.3-M1
+   - 3.3-M2
+   - 3.3.0-RC1
+   - 3.3.0-RC2
+   - 3.3.0-RC3
+   - 3.3.0-EA
+  lastUpdated: '20120502162500'
+

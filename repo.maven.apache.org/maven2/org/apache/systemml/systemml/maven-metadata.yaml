@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.apache.systemml
+ artifactId: systemml
+ versioning:
+  latest: 0.13.0-incubating
+  release: 0.13.0-incubating
+  versions:
+   version:
+   - 0.9.0-incubating
+   - 0.10.0-incubating
+   - 0.11.0-incubating
+   - 0.12.0-incubating
+   - 0.13.0-incubating
+  lastUpdated: '20170303185110'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.eclipse.hawkbit
+ artifactId: hawkbit-example-ddi-feign-client
+ versioning:
+  latest: 0.2.0M3
+  release: 0.2.0M3
+  versions:
+   version:
+   - 0.2.0M2
+   - 0.2.0M3
+  lastUpdated: '20170403120254'
+

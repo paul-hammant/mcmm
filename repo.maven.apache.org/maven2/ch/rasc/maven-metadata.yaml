@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Embedded Tomcat Maven Plugin
+   prefix: embeddedtc
+   artifactId: embeddedtc-maven-plugin
+

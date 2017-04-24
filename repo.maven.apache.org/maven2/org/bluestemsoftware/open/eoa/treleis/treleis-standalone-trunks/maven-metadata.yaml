@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.bluestemsoftware.open.eoa.treleis
+ artifactId: treleis-standalone-trunks
+ versioning:
+  latest: 0.8.1.0
+  release: 0.8.1.0
+  versions:
+   version:
+   - 0.8.0.1
+   - 0.8.1.0
+  lastUpdated: '20080818005539'
+

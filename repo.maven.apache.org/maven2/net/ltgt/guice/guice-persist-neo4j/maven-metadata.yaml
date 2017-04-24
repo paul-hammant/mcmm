@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.ltgt.guice
+ artifactId: guice-persist-neo4j
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20121203114058'
+

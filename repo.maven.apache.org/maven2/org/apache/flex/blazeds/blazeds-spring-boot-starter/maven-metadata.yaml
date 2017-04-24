@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.flex.blazeds
+ artifactId: blazeds-spring-boot-starter
+ versioning:
+  latest: 4.7.3
+  release: 4.7.3
+  versions:
+   version: 4.7.3
+  lastUpdated: '20170331133912'
+

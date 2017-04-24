@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.aol.microservices
+ artifactId: micro-jmx-metrics
+ versioning:
+  latest: 0.90.5
+  release: 0.90.5
+  versions:
+   version:
+   - 0.90.1
+   - 0.90.2
+   - 0.90.3
+   - 0.90.4
+   - 0.90.5
+  lastUpdated: '20170329163638'
+

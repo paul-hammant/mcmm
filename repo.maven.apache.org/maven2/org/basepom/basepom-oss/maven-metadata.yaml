@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.basepom
+ artifactId: basepom-oss
+ versioning:
+  latest: '22'
+  release: '22'
+  versions:
+   version:
+   - '17'
+   - '18'
+   - '19'
+   - '20'
+   - '21'
+   - '22'
+  lastUpdated: '20170321005217'
+

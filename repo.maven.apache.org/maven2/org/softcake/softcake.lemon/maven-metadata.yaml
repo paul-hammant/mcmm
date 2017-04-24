@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.softcake
+ artifactId: softcake.lemon
+ versioning:
+  latest: 0.2.0
+  release: 0.2.0
+  versions:
+   version: 0.2.0
+  lastUpdated: '20161122071958'
+

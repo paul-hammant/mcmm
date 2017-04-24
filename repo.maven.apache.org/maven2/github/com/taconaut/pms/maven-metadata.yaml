@@ -1,0 +1,10 @@
+metadata:
+ groupId: github.com.taconaut
+ artifactId: pms
+ versioning:
+  latest: 1.52.2-mlx_0.8
+  release: 1.52.2-mlx_0.8
+  versions:
+   version: 1.52.2-mlx_0.8
+  lastUpdated: '20120427221301'
+

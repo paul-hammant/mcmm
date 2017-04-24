@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.qpid
+ artifactId: qpid-broker-plugins-firewall
+ versioning:
+  latest: '0.18'
+  release: '0.18'
+  versions:
+   version: '0.18'
+  lastUpdated: '20120830001156'
+

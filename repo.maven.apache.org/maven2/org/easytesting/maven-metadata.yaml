@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: FEST JavaFX Maven Plugin
+   prefix: fest-javafx
+   artifactId: fest-javafx-maven
+  - name: Maven JavaFX Compiler Plugin
+   prefix: javafxc
+   artifactId: javafxc-maven-plugin
+  - name: Maven plugin for fest assertion generator
+   prefix: fest-assertion-generator
+   artifactId: maven-fest-assertion-generator-plugin
+

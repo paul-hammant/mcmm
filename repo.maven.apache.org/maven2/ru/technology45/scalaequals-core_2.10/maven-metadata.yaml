@@ -1,0 +1,10 @@
+metadata:
+ groupId: ru.technology45
+ artifactId: scalaequals-core_2.10
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version: 1.2.1
+  lastUpdated: '20151216055027'
+

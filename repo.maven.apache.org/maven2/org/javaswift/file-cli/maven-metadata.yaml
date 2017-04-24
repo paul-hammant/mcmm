@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.javaswift
+ artifactId: file-cli
+ versioning:
+  latest: 1.4.0
+  release: 1.4.0
+  versions:
+   version:
+   - 0.2.0
+   - 1.0.0
+   - 1.1.0
+   - 1.2.0
+   - 1.4.0
+  lastUpdated: '20140214074633'
+

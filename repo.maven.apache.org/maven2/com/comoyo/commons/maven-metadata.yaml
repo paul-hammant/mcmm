@@ -1,0 +1,24 @@
+metadata:
+ versioning:
+  latest: 1.4.60
+  release: 1.4.60
+  versions:
+   version:
+   - 1.0.41
+   - 1.4.44
+   - 1.4.45
+   - 1.4.46
+   - 1.4.47
+   - 1.4.53
+   - 1.4.55
+   - 1.4.56
+   - 1.4.57
+   - 1.4.59
+   - 1.4.60
+  lastUpdated: '20170315125719'
+ plugins:
+  plugin:
+   name: emjar-maven-plugin -- for building executable embedded jar files
+   prefix: emjar
+   artifactId: emjar-maven-plugin
+

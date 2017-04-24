@@ -1,0 +1,8 @@
+metadata:
+ groupId: xmlbeans
+ artifactId: xbean-apache
+ version: 1.0-DEV
+ versioning:
+  versions:
+   version: 1.0-DEV
+

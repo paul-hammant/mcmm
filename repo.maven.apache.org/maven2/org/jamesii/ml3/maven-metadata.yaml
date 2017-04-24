@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.jamesii
+ artifactId: ml3
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+  lastUpdated: '20170322143335'
+

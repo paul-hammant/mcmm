@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: surefire-dashboard-plugin Maven Mojo
+   prefix: surefire-dashboard
+   artifactId: surefire-dashboard-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.smartdeveloperhub.harvesters.it.backend
+ artifactId: it-backend-bom
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20160718175143'
+

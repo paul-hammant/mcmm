@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.gravitee.policy.cors
+ artifactId: gravitee-policy-cors
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20151020221240'
+

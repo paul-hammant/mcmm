@@ -1,0 +1,7 @@
+metadata:
+ groupId: spring
+ artifactId: spring-beans
+ versioning:
+  versions:
+   version: 1.0.2
+

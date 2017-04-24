@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.jplanets
+ artifactId: jplanets-skin
+ versioning:
+  latest: '3.1'
+  release: '3.1'
+  versions:
+   version: '3.1'
+  lastUpdated: '20170111230148'
+

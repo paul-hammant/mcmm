@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.boofcv
+ artifactId: processing
+ versioning:
+  latest: '0.19'
+  release: '0.19'
+  versions:
+   version:
+   - '0.17'
+   - '0.18'
+   - '0.19'
+  lastUpdated: '20150921125119'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: nz.net.osnz.jmz
+ artifactId: jmz-web
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20140506223849'
+

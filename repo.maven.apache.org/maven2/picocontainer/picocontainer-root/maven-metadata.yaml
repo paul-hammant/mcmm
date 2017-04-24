@@ -1,0 +1,8 @@
+metadata:
+ groupId: picocontainer
+ artifactId: picocontainer-root
+ version: 1.2-RC-2
+ versioning:
+  versions:
+   version: 1.2-RC-2
+

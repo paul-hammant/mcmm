@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: TextTest Maven Plugin
+   prefix: texttest
+   artifactId: texttest-maven-plugin
+

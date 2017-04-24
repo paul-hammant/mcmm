@@ -1,0 +1,10 @@
+metadata:
+ groupId: ws.argo.plugin
+ artifactId: PluginFramework
+ versioning:
+  latest: 0.4.2
+  release: 0.4.2
+  versions:
+   version: 0.4.2
+  lastUpdated: '20160506141955'
+

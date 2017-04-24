@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache
+ artifactId: jackrabbit-ocm
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version: 2.0.0
+  lastUpdated: '20120710154816'
+

@@ -1,0 +1,16 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: com.appyvet
+ artifactId: materialrangebar
+ versioning:
+  latest: '1.3'
+  release: '1.3'
+  versions:
+   version:
+   - '0.1'
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - '1.3'
+  lastUpdated: '20151111143501'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.scala-refactoring
+ artifactId: org.scala-refactoring
+ versioning:
+  latest: 0.6.1
+  release: 0.6.1
+  versions:
+   version:
+   - 0.4.1
+   - 0.6.1
+  lastUpdated: '20130208082407'
+

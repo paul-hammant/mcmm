@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.duineframework
+ artifactId: duine-recommender
+ version: 4.0.0-RC1
+ versioning:
+  versions:
+   version: 4.0.0-RC1
+  lastUpdated: '20090216104224'
+

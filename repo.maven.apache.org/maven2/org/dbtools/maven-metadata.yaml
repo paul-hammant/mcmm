@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: DBTools Maven Plugin
+   prefix: dbtools
+   artifactId: maven-dbtools-plugin
+

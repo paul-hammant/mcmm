@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.fchauvel.trio
+ artifactId: core
+ versioning:
+  latest: '0.4'
+  release: '0.4'
+  versions:
+   version: '0.4'
+  lastUpdated: '20150903112611'
+

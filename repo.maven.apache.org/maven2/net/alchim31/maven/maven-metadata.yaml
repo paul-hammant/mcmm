@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: scala-maven-plugin
+   prefix: scala
+   artifactId: scala-maven-plugin
+  - name: YUI Compressor Maven Mojo
+   prefix: yuicompressor
+   artifactId: yuicompressor-maven-plugin
+

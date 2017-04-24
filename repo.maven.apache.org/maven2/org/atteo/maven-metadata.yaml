@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Cache manifest generator
+   prefix: cachemanifest
+   artifactId: cachemanifest-maven-plugin
+

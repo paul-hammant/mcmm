@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Polyglot Maven :: Maven Plugin'
+   prefix: p
+   artifactId: pmaven-maven-plugin
+

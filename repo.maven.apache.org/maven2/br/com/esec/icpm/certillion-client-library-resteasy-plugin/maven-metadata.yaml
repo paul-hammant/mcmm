@@ -1,0 +1,12 @@
+metadata:
+ groupId: br.com.esec.icpm
+ artifactId: certillion-client-library-resteasy-plugin
+ versioning:
+  latest: 1.1.10
+  release: 1.1.10
+  versions:
+   version:
+   - 1.1.9
+   - 1.1.10
+  lastUpdated: '20151217175148'
+

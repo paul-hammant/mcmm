@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.jorm
+ artifactId: jorm-runtime
+ version: 2.9.3-patch
+ versioning:
+  versions:
+   version: 2.9.3-patch
+  lastUpdated: '20070601134921'
+

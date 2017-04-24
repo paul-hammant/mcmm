@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.swiftsms
+ artifactId: desktop
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20151215224236'
+

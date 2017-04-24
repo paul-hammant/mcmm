@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.sourceforge.mikha-utils
+ artifactId: mikha-utils
+ version: '0.1'
+ versioning:
+  versions:
+   version: '0.1'
+  lastUpdated: '20090821080214'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: au.gov.amsa
+ artifactId: ais-ship-data-2014
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version:
+   - '2.0'
+   - '2.1'
+  lastUpdated: '20151022004934'
+

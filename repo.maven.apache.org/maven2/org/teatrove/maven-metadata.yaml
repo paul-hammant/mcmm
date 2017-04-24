@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: PackageInfo Maven Mojo
+   prefix: package-info
+   artifactId: package-info-maven-plugin
+  - name: Tea Compiler Maven Mojo
+   prefix: teacompiler
+   artifactId: teacompiler-maven-plugin
+

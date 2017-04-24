@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.terasoluna.gfw.blank
+ artifactId: terasoluna-gfw-multi-web-blank-mybatis3-jpa-archetype
+ versioning:
+  latest: 5.2.0.RC7
+  release: 5.2.0.RC7
+  versions:
+   version:
+   - 5.2.0.RC6
+   - 5.2.0.RC7
+  lastUpdated: '20160823132610'
+

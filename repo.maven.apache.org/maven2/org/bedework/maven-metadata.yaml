@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: bw-deploy
+   artifactId: bw-deploy-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Really Executable Jar Maven Plugin
+   prefix: really-executable-jar
+   artifactId: really-executable-jar-maven-plugin
+

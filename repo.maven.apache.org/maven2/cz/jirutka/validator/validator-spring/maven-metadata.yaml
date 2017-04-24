@@ -1,0 +1,13 @@
+metadata:
+ groupId: cz.jirutka.validator
+ artifactId: validator-spring
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+   - 1.1.0
+  lastUpdated: '20150122231730'
+

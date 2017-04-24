@@ -1,0 +1,13 @@
+metadata:
+ groupId: fish.payara.blue.extras
+ artifactId: payara-microprofile
+ versioning:
+  latest: 1.0-4.1.1.171.1
+  release: 1.0-4.1.1.171.1
+  versions:
+   version:
+   - 1.0-4.1.1.171
+   - 1.0-4.1.1.171.0.1
+   - 1.0-4.1.1.171.1
+  lastUpdated: '20170324170717'
+

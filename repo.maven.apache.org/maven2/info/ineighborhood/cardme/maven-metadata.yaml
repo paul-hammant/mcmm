@@ -1,0 +1,10 @@
+metadata:
+ groupId: info.ineighborhood
+ artifactId: cardme
+ versioning:
+  latest: 0.1.3
+  release: 0.1.3
+  versions:
+   version: 0.1.3
+  lastUpdated: '20111010021417'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: ant
+ artifactId: ant-jakarta-bcel
+ version: '1.6'
+ versioning:
+  versions:
+   version:
+   - '1.6'
+   - 1.6.1
+

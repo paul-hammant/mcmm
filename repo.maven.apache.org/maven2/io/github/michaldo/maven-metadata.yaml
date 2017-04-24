@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: nashorn-maven-plugin Maven Plugin
+   prefix: nashorn
+   artifactId: nashorn-maven-plugin
+

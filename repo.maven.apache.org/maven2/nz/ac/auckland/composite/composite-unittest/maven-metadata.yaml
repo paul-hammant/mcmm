@@ -1,0 +1,12 @@
+metadata:
+ groupId: nz.ac.auckland.composite
+ artifactId: composite-unittest
+ versioning:
+  latest: '2.4'
+  release: '2.4'
+  versions:
+   version:
+   - '2.3'
+   - '2.4'
+  lastUpdated: '20131015005926'
+

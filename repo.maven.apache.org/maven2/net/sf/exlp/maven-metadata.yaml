@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ExLP - Maven
+   prefix: exlp
+   artifactId: exlp-maven
+

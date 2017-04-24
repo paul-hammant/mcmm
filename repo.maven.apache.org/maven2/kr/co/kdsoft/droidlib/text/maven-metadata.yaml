@@ -1,0 +1,16 @@
+metadata:
+ groupId: kr.co.kdsoft.droidlib
+ artifactId: text
+ versioning:
+  latest: 1.0.06
+  release: 1.0.06
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.01
+   - 1.0.02
+   - 1.0.03
+   - 1.0.05
+   - 1.0.06
+  lastUpdated: '20140626085840'
+

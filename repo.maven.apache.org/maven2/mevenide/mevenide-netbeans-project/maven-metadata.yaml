@@ -1,0 +1,12 @@
+metadata:
+ groupId: mevenide
+ artifactId: mevenide-netbeans-project
+ version: '0.7'
+ versioning:
+  versions:
+   version:
+   - '0.7'
+   - '0.8'
+   - 0.8.1
+   - '0.9'
+

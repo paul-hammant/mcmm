@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.femo
+ artifactId: jdk7-support
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+  lastUpdated: '20160819144415'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.julielab
+ artifactId: jcore-mallet-2.0.9
+ versioning:
+  latest: 2.1.0
+  release: 2.1.0
+  versions:
+   version:
+   - 2.0.9
+   - 2.1.0
+  lastUpdated: '20160509161306'
+

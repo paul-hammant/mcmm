@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.tidalwave.bluebill
+ artifactId: it-tidalwave-android-org-openrdf-sesame-model
+ versioning:
+  latest: 2.2.3.8
+  release: 2.2.3.8
+  versions:
+   version: 2.2.3.8
+  lastUpdated: '20110524205340'
+

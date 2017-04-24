@@ -1,0 +1,10 @@
+metadata:
+ groupId: d-haven-event
+ artifactId: event
+ version: 1.0.1
+ versioning:
+  versions:
+   version:
+   - 1.0.1
+   - 1.0.2
+

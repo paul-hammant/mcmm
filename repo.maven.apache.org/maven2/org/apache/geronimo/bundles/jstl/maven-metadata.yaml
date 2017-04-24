@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.geronimo.bundles
+ artifactId: jstl
+ versioning:
+  latest: '1.2_1'
+  release: '1.2_1'
+  versions:
+   version: '1.2_1'
+  lastUpdated: '20100501174823'
+

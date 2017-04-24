@@ -1,0 +1,24 @@
+metadata:
+ groupId: com.aliyun
+ artifactId: aliyun-java-sdk-cdn
+ versioning:
+  latest: 2.3.1
+  release: 2.3.1
+  versions:
+   version:
+   - 2.0.1
+   - 2.1.0
+   - 2.2.0
+   - 2.2.1
+   - 2.2.2
+   - 2.2.3
+   - 2.2.4
+   - 2.2.5
+   - 2.2.6
+   - 2.2.7
+   - 2.2.8
+   - 2.2.9
+   - 2.3.0
+   - 2.3.1
+  lastUpdated: '20161222131415'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.gosu-lang.gosu
+ artifactId: gosu-ant-compiler
+ versioning:
+  latest: 1.9.2
+  release: 1.9.2
+  versions:
+   version:
+   - '1.9'
+   - 1.9.1
+   - 1.9.2
+  lastUpdated: '20151125004929'
+

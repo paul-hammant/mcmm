@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven bytecode filter plugin
+   prefix: bitecodefilter
+   artifactId: bitecodefilter-maven-plugin
+

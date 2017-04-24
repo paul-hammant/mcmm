@@ -1,0 +1,16 @@
+metadata:
+ groupId: mevenide
+ artifactId: maven-nbm-plugin
+ version: '0.2'
+ versioning:
+  versions:
+   version:
+   - '0.2'
+   - '0.3'
+   - '0.4'
+   - '0.5'
+   - '0.6'
+   - '1.0'
+   - '1.1'
+   - '1.4'
+

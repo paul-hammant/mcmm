@@ -1,0 +1,7 @@
+metadata:
+ groupId: com.artofsolving
+ artifactId: jodconverter-maven-plugin
+ versioning:
+  versions:
+   version: '1.1'
+

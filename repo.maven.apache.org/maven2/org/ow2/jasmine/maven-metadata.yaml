@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'JASMINe :: Deploy ME :: Maven plugin'
+   prefix: deployme
+   artifactId: deployme-maven-plugin
+

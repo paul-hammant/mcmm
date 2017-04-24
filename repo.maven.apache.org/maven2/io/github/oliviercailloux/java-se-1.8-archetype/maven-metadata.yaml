@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.github.oliviercailloux
+ artifactId: java-se-1.8-archetype
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+  lastUpdated: '20161125225650'
+

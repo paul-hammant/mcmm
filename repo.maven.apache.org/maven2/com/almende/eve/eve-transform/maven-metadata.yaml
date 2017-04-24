@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.almende.eve
+ artifactId: eve-transform
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version: 3.0.0
+  lastUpdated: '20140711122435'
+

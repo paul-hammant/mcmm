@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.eclipse.epsilon
+ artifactId: epsilon-workflow-emf
+ versioning:
+  latest: 1.4.0
+  release: 1.4.0
+  versions:
+   version: 1.4.0
+  lastUpdated: '20161107162920'
+

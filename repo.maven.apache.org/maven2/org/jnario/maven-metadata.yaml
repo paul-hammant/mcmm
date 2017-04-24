@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Jnario Maven Plugin
+   prefix: jnario
+   artifactId: jnario-maven-plugin
+  - name: Jnario Maven Report Plugin
+   prefix: jnarioreport
+   artifactId: jnario-maven-report-plugin
+  - name: Jnario Maven Report Plugin
+   prefix: report
+   artifactId: report
+

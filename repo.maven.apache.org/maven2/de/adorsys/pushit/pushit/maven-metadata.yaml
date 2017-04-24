@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.adorsys.pushit
+ artifactId: pushit
+ versioning:
+  latest: 0.3.2
+  release: 0.3.2
+  versions:
+   version: 0.3.2
+  lastUpdated: '20160630153205'
+

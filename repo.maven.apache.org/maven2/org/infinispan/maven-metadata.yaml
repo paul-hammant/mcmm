@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Infinispan Defaults Maven Plugin
+   prefix: infinispan-defaults
+   artifactId: infinispan-defaults-maven-plugin
+

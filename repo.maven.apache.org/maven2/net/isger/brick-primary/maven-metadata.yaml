@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.isger
+ artifactId: brick-primary
+ versioning:
+  latest: 0.0.1-alpha
+  release: 0.0.1-alpha
+  versions:
+   version: 0.0.1-alpha
+  lastUpdated: '20140811072839'
+

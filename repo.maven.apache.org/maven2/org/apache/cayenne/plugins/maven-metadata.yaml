@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'cayenne-maven-plugin: Cayenne Maven Plugin'
+   prefix: cayenne
+   artifactId: cayenne-maven-plugin
+  - name: 'cayenne-modeler-maven-plugin: Cayenne Modeler Maven Plugin'
+   prefix: cayenne-modeler
+   artifactId: cayenne-modeler-maven-plugin
+  - name: Cayenne Modeler Maven Plugin
+   prefix: cayenne-modeler
+   artifactId: maven-cayenne-modeler-plugin
+  - name: 'maven-cayenne-plugin: Deprecated Cayenne Maven Plugin'
+   prefix: cayenne
+   artifactId: maven-cayenne-plugin
+

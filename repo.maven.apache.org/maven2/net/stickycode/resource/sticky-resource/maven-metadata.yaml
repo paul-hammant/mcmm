@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.stickycode.resource
+ artifactId: sticky-resource
+ versioning:
+  latest: '3.2'
+  release: '3.2'
+  versions:
+   version: '3.2'
+  lastUpdated: '20121014221642'
+

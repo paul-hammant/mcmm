@@ -1,0 +1,10 @@
+metadata:
+ groupId: se.skltp.adapterservices.crm.carelisting
+ artifactId: Hval24Adapter
+ versioning:
+  latest: 2.0.0-RC1
+  release: 2.0.0-RC1
+  versions:
+   version: 2.0.0-RC1
+  lastUpdated: '20140217150951'
+

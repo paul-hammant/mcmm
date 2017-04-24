@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.bootique.jetty
+ artifactId: bootique-jetty-metrics
+ versioning:
+  latest: '0.20'
+  release: '0.20'
+  versions:
+   version: '0.20'
+  lastUpdated: '20170331111546'
+

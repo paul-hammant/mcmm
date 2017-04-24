@@ -1,0 +1,12 @@
+metadata:
+ groupId: jcs
+ artifactId: jcs
+ version: 1.0-dev
+ versioning:
+  versions:
+   version:
+   - 1.0-dev
+   - 1.0-dev.20020801.123921
+   - 1.0-dev.20020801.125151
+   - '20030822.182132'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.calcite.avatica
+ artifactId: avatica-standalone-server
+ versioning:
+  latest: 1.9.0
+  release: 1.9.0
+  versions:
+   version:
+   - 1.8.0
+   - 1.9.0
+  lastUpdated: '20161031034423'
+

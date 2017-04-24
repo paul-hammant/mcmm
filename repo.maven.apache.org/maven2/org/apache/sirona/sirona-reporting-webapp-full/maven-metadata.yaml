@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.sirona
+ artifactId: sirona-reporting-webapp-full
+ versioning:
+  latest: 0.3-incubating
+  release: 0.3-incubating
+  versions:
+   version: 0.3-incubating
+  lastUpdated: '20151106165455'
+

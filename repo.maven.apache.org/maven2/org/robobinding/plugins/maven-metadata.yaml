@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: RoboBinding validator plugin
+   prefix: robobinding-validator
+   artifactId: robobinding-validator
+

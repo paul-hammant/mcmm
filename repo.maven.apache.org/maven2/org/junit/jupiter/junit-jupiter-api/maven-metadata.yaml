@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.junit.jupiter
+ artifactId: junit-jupiter-api
+ versioning:
+  latest: 5.0.0-M4
+  release: 5.0.0-M4
+  versions:
+   version:
+   - 5.0.0-M1
+   - 5.0.0-M2
+   - 5.0.0-M3
+   - 5.0.0-M4
+  lastUpdated: '20170401193035'
+

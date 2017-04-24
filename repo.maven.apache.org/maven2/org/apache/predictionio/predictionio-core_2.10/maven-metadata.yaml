@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.predictionio
+ artifactId: predictionio-core_2.10
+ versioning:
+  latest: 0.10.0-incubating-rc1
+  release: 0.10.0-incubating-rc1
+  versions:
+   version: 0.10.0-incubating-rc1
+  lastUpdated: '20161007183542'
+

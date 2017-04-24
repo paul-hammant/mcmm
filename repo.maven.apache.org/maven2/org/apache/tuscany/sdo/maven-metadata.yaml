@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Tuscany SDO Maven Plugin
+   prefix: tuscany-sdo
+   artifactId: tuscany-sdo-plugin
+

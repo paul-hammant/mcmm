@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: cctrl-maven-plugin
+   prefix: cctrl
+   artifactId: cctrl-maven-plugin
+

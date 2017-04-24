@@ -1,0 +1,18 @@
+metadata:
+ groupId: org.apache.rampart
+ artifactId: rampart-project
+ versioning:
+  latest: 1.7.0
+  release: 1.7.0
+  versions:
+   version:
+   - 1.5.1
+   - 1.5.2
+   - 1.6.0
+   - 1.6.1
+   - 1.6.2
+   - 1.6.3
+   - 1.6.4
+   - 1.7.0
+  lastUpdated: '20160124132735'
+

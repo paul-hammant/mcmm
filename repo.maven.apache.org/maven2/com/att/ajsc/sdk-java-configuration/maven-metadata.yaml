@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.att.ajsc
+ artifactId: sdk-java-configuration
+ versioning:
+  latest: 6.2.0.4
+  release: 6.2.0.4
+  versions:
+   version:
+   - 6.2.0.3
+   - 6.2.0.4
+  lastUpdated: '20170329174358'
+

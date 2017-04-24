@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.sf.prefixedproperties
+ artifactId: pp-spring
+ versioning:
+  latest: 3.1.0
+  release: 3.1.0
+  versions:
+   version:
+   - 3.0.0
+   - 3.0.2
+   - 3.1.0
+  lastUpdated: '20161016090941'
+

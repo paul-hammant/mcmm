@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: IBean Archetype
+   prefix: ibean-archetype
+   artifactId: ibean-archetype
+

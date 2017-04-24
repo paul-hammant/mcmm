@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Eclipse PDE Target Definition Maven Plugin
+   prefix: pde-target
+   artifactId: pde-target-maven-plugin
+

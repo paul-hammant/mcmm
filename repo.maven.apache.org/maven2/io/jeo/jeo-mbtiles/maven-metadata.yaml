@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.jeo
+ artifactId: jeo-mbtiles
+ versioning:
+  latest: '0.7'
+  release: '0.7'
+  versions:
+   version:
+   - '0.6'
+   - '0.7'
+  lastUpdated: '20160428133357'
+

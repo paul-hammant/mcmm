@@ -1,0 +1,14 @@
+metadata:
+ groupId: me.drmaas
+ artifactId: ratpack-kotlin-rx
+ versioning:
+  latest: 0.9.0
+  release: 0.9.0
+  versions:
+   version:
+   - 0.7.0-rc.2
+   - 0.7.0
+   - 0.8.0
+   - 0.9.0
+  lastUpdated: '20170408065123'
+

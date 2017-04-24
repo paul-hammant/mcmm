@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Gatling AWS Maven Plugin
+   prefix: gatling-aws
+   artifactId: gatling-aws-maven-plugin
+

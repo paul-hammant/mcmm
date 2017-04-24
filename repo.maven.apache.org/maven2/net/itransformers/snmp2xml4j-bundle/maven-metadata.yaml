@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.itransformers
+ artifactId: snmp2xml4j-bundle
+ versioning:
+  latest: 1.0.5
+  release: 1.0.5
+  versions:
+   version: 1.0.5
+  lastUpdated: '20161010192020'
+

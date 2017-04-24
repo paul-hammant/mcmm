@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.sakaiproject.edu-services.scoringservice
+ artifactId: scoring-service
+ versioning:
+  latest: '11.3'
+  release: '11.3'
+  versions:
+   version:
+   - '10.2'
+   - '10.3'
+   - '10.4'
+   - '10.6'
+   - '10.7'
+   - '11.0'
+   - '11.1'
+   - '11.2'
+   - '11.3'
+  lastUpdated: '20170225000003'
+

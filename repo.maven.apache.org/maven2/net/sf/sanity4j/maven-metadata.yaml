@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Sanity4J
+   prefix: sanity4j
+   artifactId: sanity4j
+

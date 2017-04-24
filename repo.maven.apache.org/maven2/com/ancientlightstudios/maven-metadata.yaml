@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SimpleGen - Maven Plugin
+   prefix: simplegen
+   artifactId: simplegen-maven-plugin
+

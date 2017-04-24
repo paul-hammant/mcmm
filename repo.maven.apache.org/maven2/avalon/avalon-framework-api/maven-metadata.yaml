@@ -1,0 +1,8 @@
+metadata:
+ groupId: avalon
+ artifactId: avalon-framework-api
+ version: 4.1.4
+ versioning:
+  versions:
+   version: 4.1.4
+

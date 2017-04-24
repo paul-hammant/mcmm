@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.brooklyn
+ artifactId: brooklyn-rest-resources
+ versioning:
+  latest: 0.10.0
+  release: 0.10.0
+  versions:
+   version:
+   - 0.9.0
+   - 0.10.0
+  lastUpdated: '20161225201543'
+

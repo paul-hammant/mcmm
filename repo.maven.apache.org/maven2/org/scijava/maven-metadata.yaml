@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: SciJava plugin for Maven
+   prefix: scijava
+   artifactId: scijava-maven-plugin
+

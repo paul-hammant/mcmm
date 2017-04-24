@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apfloat
+ artifactId: apfloat-jscience
+ versioning:
+  latest: 1.8.2
+  release: 1.8.2
+  versions:
+   version:
+   - 1.8.0
+   - 1.8.1
+   - 1.8.2
+  lastUpdated: '20150121204220'
+

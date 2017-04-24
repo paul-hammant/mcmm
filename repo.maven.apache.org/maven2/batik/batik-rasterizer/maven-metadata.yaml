@@ -1,0 +1,11 @@
+metadata:
+ groupId: batik
+ artifactId: batik-rasterizer
+ version: '1.5'
+ versioning:
+  versions:
+   version:
+   - '1.5'
+   - '1.6'
+   - ext
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Generate Java interfaces given a GraphQL Schema
+   prefix: graphql-apigen
+   artifactId: graphql-apigen
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apithefire
+ artifactId: apithefire-server-jetty
+ version: 0.1.0
+ versioning:
+  versions:
+   version: 0.1.0
+  lastUpdated: '20080412023530'
+

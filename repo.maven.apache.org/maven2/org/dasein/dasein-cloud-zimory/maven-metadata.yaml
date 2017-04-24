@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.dasein
+ artifactId: dasein-cloud-zimory
+ versioning:
+  latest: '2013.07'
+  release: '2013.07'
+  versions:
+   version:
+   - '2013.01'
+   - '2013.02'
+   - '2013.07'
+  lastUpdated: '20130808164417'
+

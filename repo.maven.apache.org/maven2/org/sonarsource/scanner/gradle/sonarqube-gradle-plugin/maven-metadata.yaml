@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.sonarsource.scanner.gradle
+ artifactId: sonarqube-gradle-plugin
+ versioning:
+  latest: 2.2.1
+  release: 2.2.1
+  versions:
+   version:
+   - '2.2'
+   - 2.2.1
+  lastUpdated: '20161115100625'
+

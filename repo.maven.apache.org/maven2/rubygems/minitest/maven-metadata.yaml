@@ -1,0 +1,10 @@
+metadata:
+ groupId: rubygems
+ artifactId: minitest
+ versioning:
+  latest: 5.4.1
+  release: 5.4.1
+  versions:
+   version: 5.4.1
+  lastUpdated: '20150328134511'
+

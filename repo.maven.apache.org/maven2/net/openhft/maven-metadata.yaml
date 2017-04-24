@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JPSG Maven plugin
+   prefix: jpsg
+   artifactId: jpsg-maven-plugin
+

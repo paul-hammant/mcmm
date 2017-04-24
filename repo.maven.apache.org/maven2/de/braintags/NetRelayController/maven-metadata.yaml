@@ -1,0 +1,14 @@
+metadata:
+ groupId: de.braintags
+ artifactId: NetRelayController
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.1.0
+   - 1.1.1
+  lastUpdated: '20160905081842'
+

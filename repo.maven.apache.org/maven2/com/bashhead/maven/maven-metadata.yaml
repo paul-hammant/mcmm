@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: resources-as-dependencies
+   artifactId: resources-as-dependencies-maven-plugin
+

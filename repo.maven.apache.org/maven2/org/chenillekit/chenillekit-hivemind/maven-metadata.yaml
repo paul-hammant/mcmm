@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.chenillekit
+ artifactId: chenillekit-hivemind
+ version: 1.2.0
+ versioning:
+  versions:
+   version: 1.2.0
+  lastUpdated: '20091104143022'
+

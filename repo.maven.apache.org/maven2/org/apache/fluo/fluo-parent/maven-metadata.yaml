@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.fluo
+ artifactId: fluo-parent
+ versioning:
+  latest: 1-incubating
+  release: 1-incubating
+  versions:
+   version: 1-incubating
+  lastUpdated: '20160811220000'
+

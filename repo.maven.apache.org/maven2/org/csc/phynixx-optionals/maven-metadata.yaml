@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.csc
+ artifactId: phynixx-optionals
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version:
+   - 2.0.1
+   - 3.0.0
+  lastUpdated: '20170108153009'
+

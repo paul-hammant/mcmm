@@ -1,0 +1,10 @@
+metadata:
+ groupId: edu.emory.mathcs.util
+ artifactId: emory-util-remote
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version: '2.1'
+  lastUpdated: '20130117090743'
+

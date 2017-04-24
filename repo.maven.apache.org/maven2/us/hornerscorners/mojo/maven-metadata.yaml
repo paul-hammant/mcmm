@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: eclipselink-ddlgeneration-maven-plugin
+   prefix: eclipselink-ddlgeneration
+   artifactId: eclipselink-ddlgeneration-maven-plugin
+  - name: glassfish-inplace-maven-plugin
+   prefix: glassfish-inplace
+   artifactId: glassfish-inplace-maven-plugin
+

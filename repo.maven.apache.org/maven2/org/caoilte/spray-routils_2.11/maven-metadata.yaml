@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.caoilte
+ artifactId: spray-routils_2.11
+ versioning:
+  latest: 0.4.0
+  release: 0.4.0
+  versions:
+   version: 0.4.0
+  lastUpdated: '20161221152728'
+

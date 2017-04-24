@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.qi4j.extension
+ artifactId: org.qi4j.extension.cache-ehcache
+ versioning:
+  latest: '2.1'
+  release: '2.1'
+  versions:
+   version: '2.1'
+  lastUpdated: '20150731130928'
+

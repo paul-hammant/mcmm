@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.blueoxygen.cimande
+ artifactId: cimande-archetype
+ versioning:
+  latest: 2.0-RC2.1
+  release: 2.0-RC2.1
+  versions:
+   version:
+   - 2.0-RC2
+   - 2.0-RC2.1
+  lastUpdated: '20110703202806'
+

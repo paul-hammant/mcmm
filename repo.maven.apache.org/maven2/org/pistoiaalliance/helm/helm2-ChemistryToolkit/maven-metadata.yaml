@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.pistoiaalliance.helm
+ artifactId: helm2-ChemistryToolkit
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20160929134815'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: ch.sahits
+ artifactId: sahitsUtil
+ versioning:
+  latest: 1.2.4
+  release: 1.2.4
+  versions:
+   version:
+   - 1.2.3
+   - 1.2.4
+  lastUpdated: '20150117115602'
+

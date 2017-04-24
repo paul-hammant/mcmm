@@ -1,0 +1,8 @@
+metadata:
+ groupId: jetty
+ artifactId: stop
+ version: 5.0.alpha1
+ versioning:
+  versions:
+   version: 5.0.alpha1
+

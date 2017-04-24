@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Wicket Quickstart Archetype
+   prefix: wicket-archetype-quickstart
+   artifactId: wicket-archetype-quickstart
+

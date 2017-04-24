@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Jetspeed 2 Database Maven Plugin
+   prefix: jetspeed-db
+   artifactId: jetspeed-db-maven-plugin
+  - name: Jetspeed 2 Deploy Maven Plugin
+   prefix: jetspeed-deploy
+   artifactId: jetspeed-deploy-maven-plugin
+  - name: Jetspeed 2 File-Utils Maven Plugin
+   prefix: jetspeed-fileutils
+   artifactId: jetspeed-fileutils-maven-plugin
+  - name: Jetspeed 2 Maven Invoker Plugin
+   prefix: jetspeed-mvn
+   artifactId: jetspeed-mvn-maven-plugin
+  - name: Jetspeed 2 Unpack Maven Plugin
+   prefix: jetspeed-unpack
+   artifactId: jetspeed-unpack-maven-plugin
+  - name: Jetspeed 2 Unpack WAR Maven Plugin
+   prefix: jetspeed-unpack-war
+   artifactId: jetspeed-unpack-war-maven-plugin
+

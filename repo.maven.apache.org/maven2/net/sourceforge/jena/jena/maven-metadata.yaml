@@ -1,0 +1,8 @@
+metadata:
+ groupId: net.sourceforge.jena
+ artifactId: jena
+ version: '2.3'
+ versioning:
+  versions:
+   version: '2.3'
+

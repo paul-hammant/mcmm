@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.coviu
+ artifactId: coviu-sdk-auth
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20170216033815'
+

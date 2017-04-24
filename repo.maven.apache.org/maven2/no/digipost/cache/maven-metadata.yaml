@@ -1,0 +1,15 @@
+metadata:
+ groupId: no.digipost
+ artifactId: cache
+ versioning:
+  latest: '1.3'
+  release: '1.3'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - 1.2.1
+   - '1.3'
+  lastUpdated: '20170223100900'
+

@@ -1,0 +1,7 @@
+metadata:
+ groupId: jackson
+ artifactId: jackson-asl
+ versioning:
+  versions:
+   version: 0.9.3
+

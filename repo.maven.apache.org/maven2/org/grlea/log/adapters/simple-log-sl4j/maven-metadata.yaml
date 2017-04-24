@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.grlea.log.adapters
+ artifactId: simple-log-sl4j
+ versioning:
+  versions:
+   version: '1.7'
+

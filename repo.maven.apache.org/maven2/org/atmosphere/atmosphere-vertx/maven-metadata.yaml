@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.atmosphere
+ artifactId: atmosphere-vertx
+ versioning:
+  latest: 2.1.0
+  release: 2.1.0
+  versions:
+   version:
+   - 1.0.0.beta1
+   - 1.0.0.RC1
+   - 1.0.0
+   - 2.0.0
+   - 2.0.1
+   - 2.1.0
+  lastUpdated: '20150807024005'
+

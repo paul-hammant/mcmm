@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.mraa.at
+ artifactId: mraa
+ versioning:
+  latest: 1.6.1
+  release: 1.6.1
+  versions:
+   version: 1.6.1
+  lastUpdated: '20170414164943'
+

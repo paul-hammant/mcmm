@@ -1,0 +1,7 @@
+metadata:
+ groupId: coconut
+ artifactId: coconut-aio-tck
+ versioning:
+  versions:
+   version: '0.8'
+

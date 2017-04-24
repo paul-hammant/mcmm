@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.applitools
+ artifactId: eyes-selenium-java-ab2_39
+ versioning:
+  latest: '2.30'
+  release: '2.30'
+  versions:
+   version: '2.30'
+  lastUpdated: '20160122090531'
+

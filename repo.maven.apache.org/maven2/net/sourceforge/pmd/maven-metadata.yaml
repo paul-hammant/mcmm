@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: PMD Build Plugin
+   prefix: pmd-build
+   artifactId: pmd-build
+  - name: PMD Build Tools Plugin
+   prefix: pmd-build-tools
+   artifactId: pmd-build-tools-plugin
+

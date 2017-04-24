@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.ansj
+ artifactId: ansj_seg
+ versioning:
+  latest: 5.1.1
+  release: 5.1.1
+  versions:
+   version:
+   - '0.9'
+   - 5.0.2
+   - 5.0.3
+   - 5.0.4
+   - 5.1.0
+   - 5.1.1
+  lastUpdated: '20170124160644'
+

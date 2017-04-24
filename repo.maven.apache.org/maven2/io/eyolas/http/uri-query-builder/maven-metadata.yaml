@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.eyolas.http
+ artifactId: uri-query-builder
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20141002202503'
+

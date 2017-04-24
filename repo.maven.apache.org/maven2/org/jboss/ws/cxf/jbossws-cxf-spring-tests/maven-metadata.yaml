@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.ws.cxf
+ artifactId: jbossws-cxf-spring-tests
+ versioning:
+  latest: 4.0.0.Beta4
+  release: 4.0.0.Beta4
+  versions:
+   version: 4.0.0.Beta4
+  lastUpdated: '20110912140942'
+

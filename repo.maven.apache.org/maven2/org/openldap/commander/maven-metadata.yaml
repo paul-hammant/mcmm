@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.openldap
+ artifactId: commander
+ versioning:
+  latest: 1.0-RC39
+  release: 1.0-RC39
+  versions:
+   version:
+   - 1.0-RC36
+   - 1.0-RC37
+   - 1.0-RC38
+   - 1.0-RC39
+  lastUpdated: '20140811043549'
+

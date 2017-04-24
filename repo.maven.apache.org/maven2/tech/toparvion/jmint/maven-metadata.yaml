@@ -1,0 +1,10 @@
+metadata:
+ groupId: tech.toparvion
+ artifactId: jmint
+ versioning:
+  latest: 1.4-beta
+  release: 1.4-beta
+  versions:
+   version: 1.4-beta
+  lastUpdated: '20160920161524'
+

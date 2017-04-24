@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JAOB maven plugin
+   prefix: jaob
+   artifactId: jaob-maven-plugin
+

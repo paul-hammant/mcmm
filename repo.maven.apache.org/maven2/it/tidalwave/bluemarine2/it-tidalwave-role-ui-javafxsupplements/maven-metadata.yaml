@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.tidalwave.bluemarine2
+ artifactId: it-tidalwave-role-ui-javafxsupplements
+ versioning:
+  latest: 1.0-ALPHA-10
+  release: 1.0-ALPHA-10
+  versions:
+   version: 1.0-ALPHA-10
+  lastUpdated: '20161211133015'
+

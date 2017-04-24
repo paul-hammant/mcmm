@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.spark-project
+ artifactId: spark-parent
+ versioning:
+  latest: 0.7.2
+  release: 0.7.2
+  versions:
+   version:
+   - 0.7.1
+   - 0.7.2
+  lastUpdated: '20130523025719'
+

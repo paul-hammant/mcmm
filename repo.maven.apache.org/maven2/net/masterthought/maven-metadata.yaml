@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-cucumber-reporting
+   prefix: cucumber-reporting
+   artifactId: maven-cucumber-reporting
+

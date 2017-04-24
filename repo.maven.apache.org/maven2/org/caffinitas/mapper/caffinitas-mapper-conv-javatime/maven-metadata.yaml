@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.caffinitas.mapper
+ artifactId: caffinitas-mapper-conv-javatime
+ versioning:
+  latest: 0.1-beta2
+  release: 0.1-beta2
+  versions:
+   version: 0.1-beta2
+  lastUpdated: '20140730204016'
+

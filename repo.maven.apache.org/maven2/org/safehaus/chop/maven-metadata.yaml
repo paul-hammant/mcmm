@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Chop Maven Plugin
+   prefix: chop
+   artifactId: chop-maven-plugin
+

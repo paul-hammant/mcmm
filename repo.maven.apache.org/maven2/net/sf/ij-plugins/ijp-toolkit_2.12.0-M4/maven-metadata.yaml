@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.ij-plugins
+ artifactId: ijp-toolkit_2.12.0-M4
+ versioning:
+  latest: 2.1.0
+  release: 2.1.0
+  versions:
+   version: 2.1.0
+  lastUpdated: '20160509011010'
+

@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: exml-maven-plugin
+   prefix: exml
+   artifactId: exml-maven-plugin
+  - name: 'Maven Plugin: Ext-XML to AS3'
+   prefix: ext-xml
+   artifactId: ext-xml-maven-plugin
+  - name: Jangaroo Build Lifecycle + Artifact Handling
+   prefix: jangaroo-lifecycle
+   artifactId: jangaroo-lifecycle
+  - name: Jangaroo Maven Plugin
+   prefix: jangaroo
+   artifactId: jangaroo-maven-plugin
+  - name: smartsprites-maven-plugin
+   prefix: jangaroo
+   artifactId: smartsprites-maven-plugin
+  - name: Jangaroo WebJars Maven Plugin
+   prefix: webjars
+   artifactId: webjars-maven-plugin
+

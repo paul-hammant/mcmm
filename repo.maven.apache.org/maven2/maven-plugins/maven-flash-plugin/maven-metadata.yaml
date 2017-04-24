@@ -1,0 +1,7 @@
+metadata:
+ groupId: maven-plugins
+ artifactId: maven-flash-plugin
+ versioning:
+  versions:
+   version: '0.1'
+

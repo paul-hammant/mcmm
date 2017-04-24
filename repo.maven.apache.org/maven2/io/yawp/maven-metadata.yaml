@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: YAWP! maven plugin
+   prefix: yawp
+   artifactId: yawp-maven-plugin
+

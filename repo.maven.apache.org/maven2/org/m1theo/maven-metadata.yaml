@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: apt-repo Maven Plugin
+   prefix: apt-repo
+   artifactId: apt-repo
+

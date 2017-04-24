@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mutabilitydetector
+ artifactId: asm-nonclassloadingextensions
+ versioning:
+  latest: 1.0-rc1
+  release: 1.0-rc1
+  versions:
+   version: 1.0-rc1
+  lastUpdated: '20170104010117'
+

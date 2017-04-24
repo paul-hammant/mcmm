@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JsUnit Maven2 Plugin
+   prefix: jsunit2
+   artifactId: jsunit-maven2-plugin
+

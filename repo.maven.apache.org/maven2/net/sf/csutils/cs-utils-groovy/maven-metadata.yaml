@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.csutils
+ artifactId: cs-utils-groovy
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version: 1.1.2
+  lastUpdated: '20110215233942'
+

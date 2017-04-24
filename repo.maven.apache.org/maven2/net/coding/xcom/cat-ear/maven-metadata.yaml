@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.coding.xcom
+ artifactId: cat-ear
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - 0.0.1
+   - '1.0'
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20150929064918'
+

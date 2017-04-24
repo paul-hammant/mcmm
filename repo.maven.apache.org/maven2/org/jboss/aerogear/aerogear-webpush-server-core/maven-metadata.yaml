@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.aerogear
+ artifactId: aerogear-webpush-server-core
+ versioning:
+  latest: 1.0.0-alpha.1
+  release: 1.0.0-alpha.1
+  versions:
+   version: 1.0.0-alpha.1
+  lastUpdated: '20150305014034'
+

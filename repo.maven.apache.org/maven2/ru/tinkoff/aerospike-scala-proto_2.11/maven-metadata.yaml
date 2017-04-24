@@ -1,0 +1,12 @@
+metadata:
+ groupId: ru.tinkoff
+ artifactId: aerospike-scala-proto_2.11
+ versioning:
+  latest: 1.1.14
+  release: 1.1.14
+  versions:
+   version:
+   - 1.1.13
+   - 1.1.14
+  lastUpdated: '20170411083927'
+

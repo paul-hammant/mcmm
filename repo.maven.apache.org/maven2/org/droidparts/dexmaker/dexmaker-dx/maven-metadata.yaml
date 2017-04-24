@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.droidparts.dexmaker
+ artifactId: dexmaker-dx
+ versioning:
+  latest: '1.5'
+  release: '1.5'
+  versions:
+   version: '1.5'
+  lastUpdated: '20161103175839'
+

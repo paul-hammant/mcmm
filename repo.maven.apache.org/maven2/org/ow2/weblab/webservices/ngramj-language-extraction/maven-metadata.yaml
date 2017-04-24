@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ow2.weblab.webservices
+ artifactId: ngramj-language-extraction
+ version: 1.2.1
+ versioning:
+  release: 1.2.2
+  versions:
+   version:
+   - 1.2.1
+   - 1.2.2
+  lastUpdated: '20120710221819'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: cn.tangjiabao
+ artifactId: haloDb-springjdbc
+ versioning:
+  latest: '0.17'
+  release: '0.17'
+  versions:
+   version:
+   - '0.15'
+   - '0.16'
+   - '0.17'
+  lastUpdated: '20160407015657'
+

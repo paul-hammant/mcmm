@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Overture Example Packager Maven plug-in
+   prefix: example-packager
+   artifactId: example-packager-plugin
+

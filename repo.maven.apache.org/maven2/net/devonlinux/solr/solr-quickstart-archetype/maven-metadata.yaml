@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.devonlinux.solr
+ artifactId: solr-quickstart-archetype
+ versioning:
+  latest: '0.4'
+  release: '0.4'
+  versions:
+   version: '0.4'
+  lastUpdated: '20111204115558'
+

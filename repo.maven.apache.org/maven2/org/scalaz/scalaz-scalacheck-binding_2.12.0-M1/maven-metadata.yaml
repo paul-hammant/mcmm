@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.scalaz
+ artifactId: scalaz-scalacheck-binding_2.12.0-M1
+ versioning:
+  latest: 7.2.0-M2
+  release: 7.2.0-M2
+  versions:
+   version:
+   - 7.0.7
+   - 7.0.8
+   - 7.1.2
+   - 7.1.4
+   - 7.2.0-M2
+  lastUpdated: '20150918161356'
+

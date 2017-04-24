@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.att.ajsc
+ artifactId: sdk-java-camel-rest
+ versioning:
+  latest: 6.2.0.6
+  release: 6.2.0.6
+  versions:
+   version: 6.2.0.6
+  lastUpdated: '20170329204946'
+

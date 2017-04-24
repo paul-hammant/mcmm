@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.deejdev.database.sqlitecursorloader
+ artifactId: sqlitecursorloader
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20140630135028'
+

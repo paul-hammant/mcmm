@@ -1,0 +1,8 @@
+metadata:
+ groupId: tomcat
+ artifactId: commons-modeler
+ version: 5.5.9-alpha
+ versioning:
+  versions:
+   version: 5.5.9-alpha
+

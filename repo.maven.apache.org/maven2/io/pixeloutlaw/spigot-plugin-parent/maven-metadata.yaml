@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.pixeloutlaw
+ artifactId: spigot-plugin-parent
+ versioning:
+  latest: 1.11.2.2
+  release: 1.11.2.2
+  versions:
+   version: 1.11.2.2
+  lastUpdated: '20170102003601'
+

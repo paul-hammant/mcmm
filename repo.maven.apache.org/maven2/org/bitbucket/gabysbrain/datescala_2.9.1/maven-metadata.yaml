@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bitbucket.gabysbrain
+ artifactId: datescala_2.9.1
+ versioning:
+  latest: '0.9'
+  release: '0.9'
+  versions:
+   version: '0.9'
+  lastUpdated: '20120806175413'
+

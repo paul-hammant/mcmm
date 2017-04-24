@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.hashtree.stringmetric
+ artifactId: stringmetric-cli
+ versioning:
+  latest: 0.18.7
+  release: 0.18.7
+  versions:
+   version:
+   - 0.18.6
+   - 0.18.7
+  lastUpdated: '20121211172316'
+

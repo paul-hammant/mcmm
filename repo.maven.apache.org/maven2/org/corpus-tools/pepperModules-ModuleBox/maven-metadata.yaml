@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.corpus-tools
+ artifactId: pepperModules-ModuleBox
+ versioning:
+  latest: 1.0.2
+  release: 1.0.2
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.0.2
+  lastUpdated: '20170227202256'
+

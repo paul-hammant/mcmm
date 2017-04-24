@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: git-version-insert-maven-plugin Maven Mojo
+   prefix: git-version-insert
+   artifactId: git-version-insert-maven-plugin
+

@@ -1,0 +1,26 @@
+metadata:
+ versioning:
+  latest: 1.50.0
+  release: 1.50.0
+  versions:
+   version:
+   - 0.0.160
+   - 0.0.169
+   - 0.0.384
+   - 1.50.0
+  lastUpdated: '20120907105115'
+ plugins:
+  plugin:
+  - name: ${project.groupId}:${project.artifactId}
+   prefix: bnd-baseline
+   artifactId: bnd-baseline-maven-plugin
+  - name: ${project.groupId}:${project.artifactId}
+   prefix: bnd-export
+   artifactId: bnd-export-maven-plugin
+  - name: ${project.groupId}:${project.artifactId}
+   prefix: bnd-indexer
+   artifactId: bnd-indexer-maven-plugin
+  - name: ${project.groupId}:${project.artifactId}
+   prefix: bnd
+   artifactId: bnd-maven-plugin
+

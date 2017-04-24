@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: echocat Rundroid Maven Plugin
+   prefix: rundroid
+   artifactId: rundroid-maven-plugin
+

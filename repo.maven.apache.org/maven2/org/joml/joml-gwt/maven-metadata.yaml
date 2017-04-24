@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.joml
+ artifactId: joml-gwt
+ versioning:
+  latest: 1.9.2
+  release: 1.9.2
+  versions:
+   version: 1.9.2
+  lastUpdated: '20170324141622'
+

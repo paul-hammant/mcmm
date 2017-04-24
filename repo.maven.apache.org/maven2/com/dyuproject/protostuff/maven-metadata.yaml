@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'protostuff :: maven-plugin'
+   prefix: protostuff
+   artifactId: protostuff-maven-plugin
+

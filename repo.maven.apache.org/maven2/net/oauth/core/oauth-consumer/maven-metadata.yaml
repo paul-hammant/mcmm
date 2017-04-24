@@ -1,0 +1,15 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: net.oauth.core
+ artifactId: oauth-consumer
+ versioning:
+  latest: '20100527'
+  release: '20100527'
+  versions:
+   version:
+   - '20090531'
+   - '20090617'
+   - '20090823'
+   - '20100527'
+  lastUpdated: '20160609003547'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.easyrong
+ artifactId: easyrong-manage-sdk
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20160728092423'
+

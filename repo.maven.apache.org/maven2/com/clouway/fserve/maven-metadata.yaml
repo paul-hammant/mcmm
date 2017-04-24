@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.clouway
+ artifactId: fserve
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20160809190831'
+

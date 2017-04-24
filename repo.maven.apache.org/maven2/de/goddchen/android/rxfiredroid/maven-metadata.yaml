@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.goddchen.android
+ artifactId: rxfiredroid
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version: 0.2.1
+  lastUpdated: '20161213221214'
+

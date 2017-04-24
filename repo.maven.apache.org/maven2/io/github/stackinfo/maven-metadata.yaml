@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: StackInfo Maven Plugin
+   prefix: stackinfo
+   artifactId: stackinfo-maven-plugin
+

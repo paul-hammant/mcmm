@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.codehaus.yfaces
+ artifactId: yfaces-core
+ version: 0.0.1
+ versioning:
+  versions:
+   version:
+   - 0.0.1
+   - '0.5'
+  lastUpdated: '20090422080549'
+

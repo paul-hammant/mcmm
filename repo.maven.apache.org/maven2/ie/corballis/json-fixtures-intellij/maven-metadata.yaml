@@ -1,0 +1,13 @@
+metadata:
+ groupId: ie.corballis
+ artifactId: json-fixtures-intellij
+ versioning:
+  latest: 1.0.4
+  release: 1.0.4
+  versions:
+   version:
+   - 1.0.2
+   - 1.0.3
+   - 1.0.4
+  lastUpdated: '20140124153251'
+

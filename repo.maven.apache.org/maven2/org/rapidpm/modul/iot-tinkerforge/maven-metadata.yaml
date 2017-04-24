@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.rapidpm.modul
+ artifactId: iot-tinkerforge
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version: 2.0.1
+  lastUpdated: '20140428063838'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: ch.viascom.groundwork
+ artifactId: restclient
+ versioning:
+  latest: '2.2'
+  release: '2.2'
+  versions:
+   version:
+   - '2.1'
+   - '2.2'
+  lastUpdated: '20161206172516'
+

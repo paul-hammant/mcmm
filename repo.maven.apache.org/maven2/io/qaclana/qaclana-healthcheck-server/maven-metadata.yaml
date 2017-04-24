@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.qaclana
+ artifactId: qaclana-healthcheck-server
+ versioning:
+  latest: 0.1.6001103
+  release: 0.1.6001103
+  versions:
+   version: 0.1.6001103
+  lastUpdated: '20170124183317'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ParfCake Maven Plugin
+   prefix: perfcake
+   artifactId: perfcake-maven-plugin
+

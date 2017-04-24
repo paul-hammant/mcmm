@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-closure-compiler-plugin
+   prefix: closure-compiler
+   artifactId: maven-closure-compiler-plugin
+

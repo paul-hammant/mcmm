@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.openurp.edu
+ artifactId: openurp-edu-evaluation
+ versioning:
+  latest: 0.0.8
+  release: 0.0.8
+  versions:
+   version:
+   - 0.0.7
+   - 0.0.8
+  lastUpdated: '20160411114826'
+

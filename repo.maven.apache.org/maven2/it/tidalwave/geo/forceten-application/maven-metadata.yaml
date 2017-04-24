@@ -1,0 +1,15 @@
+metadata:
+ groupId: it.tidalwave.geo
+ artifactId: forceten-application
+ versioning:
+  latest: 1.0-ALPHA-1
+  release: 1.0-ALPHA-1
+  versions:
+   version:
+   - 0.5.9
+   - 0.5.10
+   - 0.5.11
+   - 0.5.12
+   - 1.0-ALPHA-1
+  lastUpdated: '20120925163756'
+

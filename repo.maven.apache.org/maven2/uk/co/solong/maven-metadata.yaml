@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Gemfury Maven Mojo
+   prefix: gemfury
+   artifactId: gemfury-maven-plugin
+  - name: rest2java Maven Mojo
+   prefix: rest2java
+   artifactId: rest2java-maven-plugin
+

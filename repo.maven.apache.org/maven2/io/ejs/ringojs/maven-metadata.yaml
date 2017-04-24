@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.ejs
+ artifactId: ringojs
+ versioning:
+  latest: 0.12.0
+  release: 0.12.0
+  versions:
+   version:
+   - 0.11.0
+   - 0.12.0
+  lastUpdated: '20161109030013'
+

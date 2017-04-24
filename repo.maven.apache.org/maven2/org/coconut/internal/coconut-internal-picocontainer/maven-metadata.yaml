@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.coconut.internal
+ artifactId: coconut-internal-picocontainer
+ version: '1.3'
+ versioning:
+  versions:
+   version: '1.3'
+  lastUpdated: '20071114142140'
+

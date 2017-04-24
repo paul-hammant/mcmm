@@ -1,0 +1,14 @@
+metadata:
+ groupId: se.skltp.mb
+ artifactId: mb-modules-intsvc
+ versioning:
+  latest: 1.0.0-RC9
+  release: 1.0.0-RC9
+  versions:
+   version:
+   - 1.0.0-RC6
+   - 1.0.0-RC7
+   - 1.0.0-RC8
+   - 1.0.0-RC9
+  lastUpdated: '20131218134130'
+

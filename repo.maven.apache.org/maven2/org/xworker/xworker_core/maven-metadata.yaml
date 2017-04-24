@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.xworker
+ artifactId: xworker_core
+ versioning:
+  latest: 1.4.1
+  release: 1.4.1
+  versions:
+   version: 1.4.1
+  lastUpdated: '20160111100924'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: TalendRoutine Maven Plugin
+   prefix: talendroutine
+   artifactId: talendroutine-maven-plugin
+

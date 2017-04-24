@@ -1,0 +1,17 @@
+metadata:
+ groupId: io.github.gitbucket
+ artifactId: gitbucket_2.11
+ versioning:
+  latest: 4.9.0
+  release: 4.9.0
+  versions:
+   version:
+   - 4.3.0
+   - 4.4.0
+   - 4.5.0
+   - 4.6.0
+   - 4.7.0
+   - '4.8'
+   - 4.9.0
+  lastUpdated: '20170128172222'
+

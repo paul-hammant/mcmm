@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JSHint Maven Plugin
+   prefix: jshint
+   artifactId: jshint-maven-plugin
+

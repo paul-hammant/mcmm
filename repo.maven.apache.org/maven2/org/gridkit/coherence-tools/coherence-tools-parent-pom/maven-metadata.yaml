@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.gridkit.coherence-tools
+ artifactId: coherence-tools-parent-pom
+ versioning:
+  latest: '2'
+  release: '2'
+  versions:
+   version:
+   - '1'
+   - '2'
+  lastUpdated: '20130714190910'
+

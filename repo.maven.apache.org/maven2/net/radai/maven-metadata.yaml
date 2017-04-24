@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: grep-maven-plugin
+   prefix: grep
+   artifactId: grep-maven-plugin
+

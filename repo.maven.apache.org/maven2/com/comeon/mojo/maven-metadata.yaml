@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: git-changelog-maven-plugin
+   prefix: git-changelog
+   artifactId: git-changelog-maven-plugin
+  - name: project-info-maven-plugin
+   prefix: project-info
+   artifactId: project-info-maven-plugin
+

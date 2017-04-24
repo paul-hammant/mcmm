@@ -1,0 +1,9 @@
+metadata:
+ groupId: cactus
+ artifactId: cactus-integration-ant
+ versioning:
+  versions:
+   version:
+   - 1.5dev-20030322
+   - 1.5dev-20030407
+

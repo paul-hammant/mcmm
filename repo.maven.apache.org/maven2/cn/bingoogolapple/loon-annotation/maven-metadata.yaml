@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.bingoogolapple
+ artifactId: loon-annotation
+ versioning:
+  latest: 1.0.7
+  release: 1.0.7
+  versions:
+   version: 1.0.7
+  lastUpdated: '20150204160053'
+

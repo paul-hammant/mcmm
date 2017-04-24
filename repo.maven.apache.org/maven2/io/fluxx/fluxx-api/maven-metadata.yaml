@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.fluxx
+ artifactId: fluxx-api
+ versioning:
+  latest: 0.5.1
+  release: 0.5.1
+  versions:
+   version:
+   - '0.5'
+   - 0.5.1
+  lastUpdated: '20140528213307'
+

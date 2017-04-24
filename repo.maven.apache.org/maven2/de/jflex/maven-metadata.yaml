@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JFlex Maven Plugin
+   prefix: jflex
+   artifactId: jflex-maven-plugin
+

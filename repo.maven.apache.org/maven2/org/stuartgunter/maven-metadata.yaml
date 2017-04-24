@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Couchbase Maven Plugin
+   prefix: couchbase
+   artifactId: couchbase-maven-plugin
+

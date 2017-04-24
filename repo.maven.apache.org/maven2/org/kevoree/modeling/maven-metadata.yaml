@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'KMF :: Generator :: MavenPlugin'
+   prefix: generator.
+   artifactId: generator.mavenplugin
+  - name: 'Kevoree :: Modeling :: Generator :: MavenPlugin'
+   prefix: org.kevoree.modeling.generator.
+   artifactId: org.kevoree.modeling.generator.mavenplugin
+  - name: 'Kevoree :: Modeling :: Java2TypeScript :: MavenPlugin'
+   prefix: org.kevoree.modeling.java2typescript.
+   artifactId: org.kevoree.modeling.java2typescript.mavenplugin
+  - name: 'Kevoree :: Modeling :: Kotlin :: Generator :: MavenPlugin'
+   prefix: org.kevoree.modeling.kotlin.generator.
+   artifactId: org.kevoree.modeling.kotlin.generator.mavenplugin
+

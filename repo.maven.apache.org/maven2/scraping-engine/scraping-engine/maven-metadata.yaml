@@ -1,0 +1,13 @@
+metadata:
+ groupId: scraping-engine
+ artifactId: scraping-engine
+ version: '0.1'
+ versioning:
+  versions:
+   version:
+   - '0.1'
+   - '0.2'
+   - '0.3'
+   - '0.4'
+   - '0.5'
+

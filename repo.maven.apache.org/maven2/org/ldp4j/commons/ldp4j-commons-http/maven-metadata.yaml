@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ldp4j.commons
+ artifactId: ldp4j-commons-http
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version: 0.2.1
+  lastUpdated: '20160706170422'
+

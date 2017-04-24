@@ -1,0 +1,11 @@
+metadata:
+ groupId: net.sf.jt400
+ artifactId: jt400-full
+ version: 4.7.0
+ versioning:
+  versions:
+   version:
+   - 4.7.0
+   - 4.8.0
+   - 4.9.0
+

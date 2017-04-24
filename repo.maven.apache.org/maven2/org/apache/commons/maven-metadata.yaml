@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Apache Commons Build Plugin Maven Mojo
+   prefix: commons-build
+   artifactId: commons-build-plugin
+  - name: Apache Commons Weaver Maven Plugin
+   prefix: commons-weaver
+   artifactId: commons-weaver-maven-plugin
+

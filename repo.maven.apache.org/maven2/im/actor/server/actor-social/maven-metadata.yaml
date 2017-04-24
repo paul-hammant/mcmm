@@ -1,0 +1,10 @@
+metadata:
+ groupId: im.actor.server
+ artifactId: actor-social
+ versioning:
+  latest: 1.0.3
+  release: 1.0.3
+  versions:
+   version: 1.0.3
+  lastUpdated: '20151127183023'
+

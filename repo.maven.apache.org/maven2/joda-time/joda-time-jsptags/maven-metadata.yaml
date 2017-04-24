@@ -1,0 +1,12 @@
+metadata:
+ groupId: joda-time
+ artifactId: joda-time-jsptags
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - '1.1'
+   - 1.1.1
+  lastUpdated: '20111124160405'
+

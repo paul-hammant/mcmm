@@ -1,0 +1,10 @@
+metadata:
+ groupId: co.bitcode.utils
+ artifactId: InterpolatedProperties
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20110218170858'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.sourceforge.rapidprops
+ artifactId: rapidprops
+ versioning:
+  latest: 2.0.java8
+  release: 2.0.java8
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - 2.0.java5
+   - 2.0.java8
+  lastUpdated: '20140720115437'
+

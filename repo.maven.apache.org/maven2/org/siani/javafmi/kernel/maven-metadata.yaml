@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.siani.javafmi
+ artifactId: kernel
+ versioning:
+  latest: 2.16.7
+  release: 2.16.7
+  versions:
+   version:
+   - 2.16.6
+   - 2.16.7
+  lastUpdated: '20160309131900'
+

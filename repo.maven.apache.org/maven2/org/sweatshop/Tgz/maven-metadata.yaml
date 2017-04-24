@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.sweatshop
+ artifactId: Tgz
+ versioning:
+  latest: 1.0.0-rc1
+  release: 1.0.0-rc1
+  versions:
+   version: 1.0.0-rc1
+  lastUpdated: '20160521020017'
+

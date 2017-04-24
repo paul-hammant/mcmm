@@ -1,0 +1,8 @@
+metadata:
+ groupId: xfire
+ artifactId: xfire-demo
+ version: '0.1'
+ versioning:
+  versions:
+   version: '0.1'
+

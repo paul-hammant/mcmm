@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.openbouquet
+ artifactId: HikariCP
+ versioning:
+  latest: 2.4.2-RC2+SquidSolutions
+  release: 2.4.2-RC2+SquidSolutions
+  versions:
+   version: 2.4.2-RC2+SquidSolutions
+  lastUpdated: '20160205134919'
+

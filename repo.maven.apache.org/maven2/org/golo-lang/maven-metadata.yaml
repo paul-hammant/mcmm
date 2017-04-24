@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Golo Maven Plugin
+   prefix: golo
+   artifactId: golo-maven-plugin
+

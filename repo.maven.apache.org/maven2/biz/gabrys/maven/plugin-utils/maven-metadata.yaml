@@ -1,0 +1,15 @@
+metadata:
+ groupId: biz.gabrys.maven
+ artifactId: plugin-utils
+ versioning:
+  latest: 1.4.0
+  release: 1.4.0
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - 1.3.0
+   - 1.4.0
+  lastUpdated: '20161104163322'
+

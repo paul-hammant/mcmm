@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven Artifact Plugin
+   prefix: artifact
+   artifactId: artifact-maven-plugin
+  - name: H2 Maven Plugin
+   prefix: h2
+   artifactId: h2-maven-plugin
+  - name: JPA Maven Plugin
+   prefix: jpa
+   artifactId: jpa-maven-plugin
+  - name: Liquibase Maven Plugin
+   prefix: liquibase
+   artifactId: liquibase-maven-plugin
+

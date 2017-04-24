@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.englishtown
+ artifactId: jmx-bean-management
+ versioning:
+  latest: 1.1.0-final
+  release: 1.1.0-final
+  versions:
+   version: 1.1.0-final
+  lastUpdated: '20130924182404'
+

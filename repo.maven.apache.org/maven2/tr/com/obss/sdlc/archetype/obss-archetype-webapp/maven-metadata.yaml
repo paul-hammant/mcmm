@@ -1,0 +1,10 @@
+metadata:
+ groupId: tr.com.obss.sdlc.archetype
+ artifactId: obss-archetype-webapp
+ versioning:
+  latest: 3.1.0
+  release: 3.1.0
+  versions:
+   version: 3.1.0
+  lastUpdated: '20160228204047'
+

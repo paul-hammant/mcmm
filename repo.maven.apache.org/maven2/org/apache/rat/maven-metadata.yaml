@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Apache Creadur Rat::Plugin4Maven
+   prefix: apache-rat
+   artifactId: apache-rat-plugin
+  - name: Rat::Plugin4Maven
+   prefix: apache-rat
+   artifactId: apache-rat-plugin
+  - name: Apache Creadur Rat::Plugin4Maven
+   prefix: apache-rat
+   artifactId: apache-rat-plugin
+

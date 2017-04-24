@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.android.prefs
+ artifactId: androidprefs
+ versioning:
+  latest: r16
+  release: r16
+  versions:
+   version: r16
+  lastUpdated: '20120119185708'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ow2.fractal.distribution.distributions.ant
+ artifactId: fractal-distribution-ant
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20090203171856'
+

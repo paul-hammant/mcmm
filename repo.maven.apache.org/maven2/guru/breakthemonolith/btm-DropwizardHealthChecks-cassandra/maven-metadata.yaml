@@ -1,0 +1,13 @@
+metadata:
+ groupId: guru.breakthemonolith
+ artifactId: btm-DropwizardHealthChecks-cassandra
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version:
+   - 0.1.0-rc3
+   - 0.1.0-rc4
+   - 0.1.0
+  lastUpdated: '20161223125506'
+

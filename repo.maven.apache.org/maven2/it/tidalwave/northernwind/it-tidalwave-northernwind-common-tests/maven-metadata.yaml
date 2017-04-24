@@ -1,0 +1,12 @@
+metadata:
+ groupId: it.tidalwave.northernwind
+ artifactId: it-tidalwave-northernwind-common-tests
+ versioning:
+  latest: 1.1-ALPHA-38
+  release: 1.1-ALPHA-38
+  versions:
+   version:
+   - 1.1-ALPHA-37
+   - 1.1-ALPHA-38
+  lastUpdated: '20160110160341'
+

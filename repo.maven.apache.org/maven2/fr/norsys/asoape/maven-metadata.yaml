@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Android SOAP Enabler Maven Plugin
+   prefix: asoape
+   artifactId: asoape-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Schema2template Maven2 Plugin
+   prefix: schema2template
+   artifactId: schema2template-maven-plugin
+

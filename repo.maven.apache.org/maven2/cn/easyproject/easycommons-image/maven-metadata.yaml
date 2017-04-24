@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.easyproject
+ artifactId: easycommons-image
+ versioning:
+  latest: 1.4.2-RELEASE
+  release: 1.4.2-RELEASE
+  versions:
+   version: 1.4.2-RELEASE
+  lastUpdated: '20150929051147'
+

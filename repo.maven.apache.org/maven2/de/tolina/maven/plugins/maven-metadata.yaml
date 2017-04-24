@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Plugin for Jsign
+   prefix: jsign
+   artifactId: jsign-maven-plugin
+

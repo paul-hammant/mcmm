@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.atmosphere.org.timepedia.exporter
+ artifactId: gwtexporter
+ versioning:
+  latest: 0.7.1
+  release: 0.7.1
+  versions:
+   version: 0.7.1
+  lastUpdated: '20110405202221'
+

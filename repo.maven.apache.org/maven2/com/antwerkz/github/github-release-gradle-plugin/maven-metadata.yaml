@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.antwerkz.github
+ artifactId: github-release-gradle-plugin
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0-RC1
+   - 1.0.0-RC2
+   - 1.0.0-RC3
+   - 1.0.0
+   - 1.1.0
+  lastUpdated: '20140304041304'
+

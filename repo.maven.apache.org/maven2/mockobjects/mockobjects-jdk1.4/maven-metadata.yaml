@@ -1,0 +1,10 @@
+metadata:
+ groupId: mockobjects
+ artifactId: mockobjects-jdk1.4
+ version: '0.07'
+ versioning:
+  versions:
+   version:
+   - '0.07'
+   - '0.09'
+

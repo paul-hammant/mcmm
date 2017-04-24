@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.kuujo
+ artifactId: vertigo-utils
+ versioning:
+  latest: 0.7.0-beta1
+  release: 0.7.0-beta1
+  versions:
+   version: 0.7.0-beta1
+  lastUpdated: '20140501040438'
+

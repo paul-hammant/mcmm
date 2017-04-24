@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.testifyproject.external
+ artifactId: external-snakeyaml
+ versioning:
+  latest: 0.9.5
+  release: 0.9.5
+  versions:
+   version: 0.9.5
+  lastUpdated: '20170421183624'
+

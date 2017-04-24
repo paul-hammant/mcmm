@@ -1,0 +1,13 @@
+metadata:
+ groupId: fr.iscpif.gridscale
+ artifactId: glitesrmexample_2.10
+ versioning:
+  latest: '1.84'
+  release: '1.84'
+  versions:
+   version:
+   - '1.81'
+   - '1.83'
+   - '1.84'
+  lastUpdated: '20150303192834'
+

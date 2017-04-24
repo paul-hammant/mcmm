@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.chameleon.commons.junit
+ artifactId: junit-dep
+ versioning:
+  latest: 4.8.2-0000
+  release: 4.8.2-0000
+  versions:
+   version: 4.8.2-0000
+  lastUpdated: '20120206100733'
+

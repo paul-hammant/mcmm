@@ -1,0 +1,10 @@
+metadata:
+ groupId: suiterunner
+ artifactId: suiterunner
+ version: 1.0-beta-5
+ versioning:
+  versions:
+   version:
+   - 1.0-beta-5
+   - 1.0beta6
+

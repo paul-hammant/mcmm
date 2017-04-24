@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Apache James :: Mailetdocs Maven Plugin'
+   prefix: mailetdocs
+   artifactId: mailetdocs-maven-plugin
+  - name: Mailetdocs Maven Plugin
+   prefix: mailetdocs
+   artifactId: maven-mailetdocs-plugin
+  - name: Apache James MPT Maven2 Plugin
+   prefix: mpt
+   artifactId: maven-mpt-plugin
+

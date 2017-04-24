@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.bonita
+ artifactId: bonita-build
+ version: '4.1'
+ versioning:
+  versions:
+   version: '4.1'
+  lastUpdated: '20090304172802'
+

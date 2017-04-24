@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.akquinet.gomobile.android.rindirect
+ artifactId: rindirect-generator
+ versioning:
+  latest: 0.4.1
+  release: 0.4.1
+  versions:
+   version:
+   - 0.4.0
+   - 0.4.1
+  lastUpdated: '20110210081713'
+

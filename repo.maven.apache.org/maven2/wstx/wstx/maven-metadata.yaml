@@ -1,0 +1,12 @@
+metadata:
+ groupId: wstx
+ artifactId: wstx
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0-RC3
+   - 1.0-RC4
+   - 1.0-RC6
+

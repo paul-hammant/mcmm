@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.apache.beehive
+ artifactId: beehive-control-ejb
+ versioning:
+  versions:
+   version: 1.0.1
+

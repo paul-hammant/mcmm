@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: CKPackager Maven plugin
+   prefix: ckpackager
+   artifactId: ckpackager-maven-plugin
+  - name: Rhino jsc Maven plugin
+   prefix: jsc
+   artifactId: jsc-maven-plugin
+

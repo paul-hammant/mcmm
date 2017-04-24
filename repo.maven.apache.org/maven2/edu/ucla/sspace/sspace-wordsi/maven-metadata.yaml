@@ -1,0 +1,10 @@
+metadata:
+ groupId: edu.ucla.sspace
+ artifactId: sspace-wordsi
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version: '2.0'
+  lastUpdated: '20120523213535'
+

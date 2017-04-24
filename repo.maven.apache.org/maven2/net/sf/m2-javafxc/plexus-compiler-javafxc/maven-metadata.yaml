@@ -1,0 +1,11 @@
+metadata:
+ groupId: net.sf.m2-javafxc
+ artifactId: plexus-compiler-javafxc
+ version: '0.2'
+ versioning:
+  versions:
+   version:
+   - '0.2'
+   - '0.3'
+  lastUpdated: '20090721205033'
+

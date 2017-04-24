@@ -1,0 +1,10 @@
+metadata:
+ groupId: jface
+ artifactId: mavenzilla
+ version: '0.1'
+ versioning:
+  versions:
+   version:
+   - '0.1'
+   - '0.3'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.dericbourg.daily-utils
+ artifactId: scala-lib_2.12
+ versioning:
+  latest: 0.1.8
+  release: 0.1.8
+  versions:
+   version: 0.1.8
+  lastUpdated: '20170411123936'
+

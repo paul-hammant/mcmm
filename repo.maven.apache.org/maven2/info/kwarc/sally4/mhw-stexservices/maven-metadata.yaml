@@ -1,0 +1,10 @@
+metadata:
+ groupId: info.kwarc.sally4
+ artifactId: mhw-stexservices
+ versioning:
+  latest: 0.0.3
+  release: 0.0.3
+  versions:
+   version: 0.0.3
+  lastUpdated: '20140611123847'
+

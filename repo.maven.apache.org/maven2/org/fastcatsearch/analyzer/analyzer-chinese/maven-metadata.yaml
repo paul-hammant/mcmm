@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.fastcatsearch.analyzer
+ artifactId: analyzer-chinese
+ versioning:
+  latest: 2.13.7
+  release: 2.13.7
+  versions:
+   version: 2.13.7
+  lastUpdated: '20150709015024'
+

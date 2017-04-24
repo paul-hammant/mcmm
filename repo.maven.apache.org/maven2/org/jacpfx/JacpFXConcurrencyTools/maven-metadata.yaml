@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jacpfx
+ artifactId: JacpFXConcurrencyTools
+ versioning:
+  latest: 3.0-RC1
+  release: 3.0-RC1
+  versions:
+   version: 3.0-RC1
+  lastUpdated: '20151012212614'
+

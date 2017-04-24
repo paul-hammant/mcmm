@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Flamingo Application Generator Maven Plugin
+   prefix: flamingoapp
+   artifactId: flamingoapp
+

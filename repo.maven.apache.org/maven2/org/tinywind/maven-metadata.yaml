@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: BABEL-CODEGEN Maven
+   prefix: babel-codegen
+   artifactId: babel-codegen-maven
+  - name: SCHEME-REPORTER Maven
+   prefix: scheme-reporter
+   artifactId: scheme-reporter-maven
+  - name: SPRING-I18N-CONVERTER Maven
+   prefix: spring-i18n-converter
+   artifactId: spring-i18n-converter-maven
+  - name: TOMCAT-EMBED Maven
+   prefix: tomcat-embed
+   artifactId: tomcat-embed-maven
+

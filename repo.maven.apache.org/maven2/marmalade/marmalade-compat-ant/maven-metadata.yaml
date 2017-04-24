@@ -1,0 +1,11 @@
+metadata:
+ groupId: marmalade
+ artifactId: marmalade-compat-ant
+ version: 1.0-alpha2
+ versioning:
+  versions:
+   version:
+   - 1.0-alpha2
+   - 1.0-alpha-2
+   - 1.0-alpha-3
+

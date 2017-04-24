@@ -1,0 +1,12 @@
+metadata:
+ groupId: uk.co.caeldev
+ artifactId: spring-morphia
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+  lastUpdated: '20161205000734'
+

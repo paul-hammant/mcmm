@@ -1,0 +1,26 @@
+metadata:
+ groupId: org.jinq
+ artifactId: jinq-asm-rebased
+ versioning:
+  latest: 1.8.19
+  release: 1.8.19
+  versions:
+   version:
+   - 1.8.4
+   - 1.8.5
+   - 1.8.6
+   - 1.8.7
+   - 1.8.8
+   - 1.8.9
+   - 1.8.10
+   - 1.8.11
+   - 1.8.12
+   - 1.8.13
+   - 1.8.14
+   - 1.8.15
+   - 1.8.16
+   - 1.8.17
+   - 1.8.18
+   - 1.8.19
+  lastUpdated: '20170418200918'
+

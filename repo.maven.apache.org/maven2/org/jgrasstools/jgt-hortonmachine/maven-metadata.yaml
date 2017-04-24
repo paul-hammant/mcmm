@@ -1,0 +1,21 @@
+metadata:
+ groupId: org.jgrasstools
+ artifactId: jgt-hortonmachine
+ versioning:
+  latest: 0.8.1
+  release: 0.8.1
+  versions:
+   version:
+   - 0.7.0
+   - 0.7.1
+   - 0.7.2
+   - 0.7.3
+   - 0.7.4
+   - 0.7.5
+   - 0.7.6
+   - 0.7.7
+   - 0.7.8
+   - 0.8.0
+   - 0.8.1
+  lastUpdated: '20170228140850'
+

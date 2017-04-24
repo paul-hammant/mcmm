@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.seam.xml
+ artifactId: seam-xml-config-parent
+ versioning:
+  latest: 3.0.0.Alpha2
+  release: 3.0.0.Alpha2
+  versions:
+   version: 3.0.0.Alpha2
+  lastUpdated: '20100525105109'
+

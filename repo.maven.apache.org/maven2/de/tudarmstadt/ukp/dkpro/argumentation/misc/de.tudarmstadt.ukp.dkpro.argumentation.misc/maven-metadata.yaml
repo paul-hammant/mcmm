@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.tudarmstadt.ukp.dkpro.argumentation.misc
+ artifactId: de.tudarmstadt.ukp.dkpro.argumentation.misc
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version: 0.0.2
+  lastUpdated: '20150824060900'
+

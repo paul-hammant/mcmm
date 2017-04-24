@@ -1,0 +1,15 @@
+metadata:
+ groupId: in.coinn
+ artifactId: coinn_delivery_sdk
+ versioning:
+  latest: 0.1.6
+  release: 0.1.6
+  versions:
+   version:
+   - 0.1.1
+   - 0.1.3
+   - 0.1.4
+   - 0.1.5
+   - 0.1.6
+  lastUpdated: '20160203145723'
+

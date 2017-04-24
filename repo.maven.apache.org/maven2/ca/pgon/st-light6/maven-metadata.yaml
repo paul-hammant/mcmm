@@ -1,0 +1,10 @@
+metadata:
+ groupId: ca.pgon
+ artifactId: st-light6
+ versioning:
+  latest: 4.0.0
+  release: 4.0.0
+  versions:
+   version: 4.0.0
+  lastUpdated: '20140129210608'
+

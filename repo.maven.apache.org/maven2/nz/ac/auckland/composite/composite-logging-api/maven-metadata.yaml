@@ -1,0 +1,12 @@
+metadata:
+ groupId: nz.ac.auckland.composite
+ artifactId: composite-logging-api
+ versioning:
+  latest: '3.3'
+  release: '3.3'
+  versions:
+   version:
+   - '3.2'
+   - '3.3'
+  lastUpdated: '20131015002527'
+

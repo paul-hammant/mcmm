@@ -1,0 +1,12 @@
+metadata:
+ groupId: edu.berkeley.cs.amplab.adam
+ artifactId: adam-cli
+ versioning:
+  latest: 0.7.2
+  release: 0.7.2
+  versions:
+   version:
+   - 0.7.1
+   - 0.7.2
+  lastUpdated: '20140328003143'
+

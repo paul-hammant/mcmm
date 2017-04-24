@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Erlang Plug-In
+   prefix: erlang
+   artifactId: maven-erlang-plugin
+

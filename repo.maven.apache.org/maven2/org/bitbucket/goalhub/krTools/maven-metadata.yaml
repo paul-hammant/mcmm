@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bitbucket.goalhub
+ artifactId: krTools
+ versioning:
+  latest: 1.2.3
+  release: 1.2.3
+  versions:
+   version: 1.2.3
+  lastUpdated: '20161228153205'
+

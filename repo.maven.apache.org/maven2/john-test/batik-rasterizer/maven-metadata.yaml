@@ -1,0 +1,10 @@
+metadata:
+ groupId: john-test
+ artifactId: batik-rasterizer
+ versioning:
+  versions:
+   version:
+   - ext
+   - '1.6'
+   - '1.5'
+

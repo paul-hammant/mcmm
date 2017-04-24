@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.geojsf
+ artifactId: geojsf-ejb
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version: 0.1.1
+  lastUpdated: '20160804183405'
+

@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'OW2 Util :: Maven :: Plugin :: RMIC'
+   prefix: utilantrmic
+   artifactId: util-maven-plugin-antrmic
+  - name: 'OW2 Util :: Maven :: Plugin :: Property Editor'
+   prefix: utilpropertyeditor
+   artifactId: util-maven-plugin-propertyeditor
+  - name: 'OW2 Util :: Maven :: Plugin :: XML Editor'
+   prefix: utilxmleditor
+   artifactId: util-maven-plugin-xmleditor
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: tv.cntt
+ artifactId: xitrum_2.12
+ versioning:
+  latest: 3.28.3
+  release: 3.28.3
+  versions:
+   version:
+   - 3.28.2
+   - 3.28.3
+  lastUpdated: '20170327061444'
+

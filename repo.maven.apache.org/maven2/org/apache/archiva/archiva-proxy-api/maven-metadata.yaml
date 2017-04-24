@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.archiva
+ artifactId: archiva-proxy-api
+ versioning:
+  latest: 2.2.1
+  release: 2.2.1
+  versions:
+   version:
+   - 2.2.0
+   - 2.2.1
+  lastUpdated: '20150224231012'
+

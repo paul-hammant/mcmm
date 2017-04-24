@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: CareWeb Framework Help Converter Maven Plugin
+   prefix: help-extensions
+   artifactId: org.carewebframework.mvn.plugin.helpconverter
+  - name: CareWeb Framework Help Converter Maven Plugin
+   prefix: org.carewebframework.mvn..helpconverter
+   artifactId: org.carewebframework.mvn.plugin.helpconverter
+  - name: CareWeb Framework ZK Theme Generator Maven Plugin
+   prefix: theme-extensions
+   artifactId: org.carewebframework.mvn.plugin.themegenerator
+  - name: CareWeb Framework Theme Generator Maven Plugin
+   prefix: org.carewebframework.mvn..themegenerator
+   artifactId: org.carewebframework.mvn.plugin.themegenerator
+

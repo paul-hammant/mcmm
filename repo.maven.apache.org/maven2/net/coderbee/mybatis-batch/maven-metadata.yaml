@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.coderbee
+ artifactId: mybatis-batch
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+  lastUpdated: '20161230004413'
+

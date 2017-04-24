@@ -1,0 +1,12 @@
+metadata:
+ groupId: asia.ivity
+ artifactId: tiledscrollview
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - '1.0'
+   - 1.1.1
+  lastUpdated: '20121012172405'
+

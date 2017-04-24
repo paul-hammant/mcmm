@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.saxsys
+ artifactId: mvvmfx-validation
+ versioning:
+  latest: 1.6.0
+  release: 1.6.0
+  versions:
+   version: 1.6.0
+  lastUpdated: '20170206123933'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: OSGi Bundle Status Maven Plugin
+   prefix: osgi-bundle-status
+   artifactId: osgi-bundle-status-maven-plugin
+

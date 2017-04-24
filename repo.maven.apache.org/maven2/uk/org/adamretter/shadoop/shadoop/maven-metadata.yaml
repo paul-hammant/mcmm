@@ -1,0 +1,10 @@
+metadata:
+ groupId: uk.org.adamretter.shadoop
+ artifactId: shadoop
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20131118132700'
+

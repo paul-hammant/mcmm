@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.jbpm
+ artifactId: jbpm-persistence-api
+ versioning:
+  latest: 7.0.0.CR1
+  release: 7.0.0.CR1
+  versions:
+   version:
+   - 7.0.0.Beta8
+   - 7.0.0.CR1
+  lastUpdated: '20170407141948'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: enterprises.orbital
+ artifactId: db-manager
+ versioning:
+  latest: 2.1.0
+  release: 2.1.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.2
+   - 2.0.0
+   - 2.1.0
+  lastUpdated: '20161002221631'
+

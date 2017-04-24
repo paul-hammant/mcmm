@@ -1,0 +1,28 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Apache UIMA Maven: ${project.artifactId}'
+   prefix: PearPackagingMavenPlugin
+   artifactId: PearPackagingMavenPlugin
+  - name: Apache UIMA Maven Plugin ${project.artifactId}
+   prefix: PearPackagingMavenPlugin
+   artifactId: PearPackagingMavenPlugin
+  - name: 'Apache UIMA Maven: ${project.artifactId}'
+   prefix: PearPackagingMavenPlugin
+   artifactId: PearPackagingMavenPlugin
+  - name: 'Apache UIMA Maven: ${project.artifactId}'
+   prefix: jcasgen
+   artifactId: jcasgen-maven-plugin
+  - name: 'Apache UIMA Maven: ${project.artifactId}'
+   prefix: ruta
+   artifactId: ruta-maven-plugin
+  - name: UIMA ${project.artifactId}
+   prefix: uima-build-helper
+   artifactId: uima-build-helper-maven-plugin
+  - name: Apache UIMA ${project.artifactId}
+   prefix: uima-build-helper
+   artifactId: uima-build-helper-maven-plugin
+  - name: Apache UIMA uimaFIT - Maven Plugin
+   prefix: uimafit
+   artifactId: uimafit-maven-plugin
+

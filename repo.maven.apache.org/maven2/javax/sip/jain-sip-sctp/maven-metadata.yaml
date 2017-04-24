@@ -1,0 +1,10 @@
+metadata:
+ groupId: javax.sip
+ artifactId: jain-sip-sctp
+ versioning:
+  latest: 1.2.164
+  release: 1.2.164
+  versions:
+   version: 1.2.164
+  lastUpdated: '20110811095252'
+

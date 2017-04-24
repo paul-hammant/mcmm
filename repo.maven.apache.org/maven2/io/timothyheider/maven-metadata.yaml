@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Spring REST Documentation
+   prefix: springrestdoc
+   artifactId: springrestdoc-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jopendocument
+ artifactId: rhino
+ versioning:
+  latest: 1.7R1
+  release: 1.7R1
+  versions:
+   version: 1.7R1
+  lastUpdated: '20120430022626'
+

@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.vectomatic
+ artifactId: svgreal
+ versioning:
+  latest: 0.2.8
+  release: 0.2.8
+  versions:
+   version:
+   - 0.2.3
+   - 0.2.6
+   - 0.2.7
+   - 0.2.8
+  lastUpdated: '20160127183658'
+

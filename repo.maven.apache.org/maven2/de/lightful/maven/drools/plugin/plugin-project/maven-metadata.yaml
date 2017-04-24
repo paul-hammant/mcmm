@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.lightful.maven.drools.plugin
+ artifactId: plugin-project
+ versioning:
+  latest: 0.3.1
+  release: 0.3.1
+  versions:
+   version: 0.3.1
+  lastUpdated: '20120605003356'
+

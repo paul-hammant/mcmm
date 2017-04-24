@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.eu.acolyte
+ artifactId: play-jdbc_2.10
+ versioning:
+  latest: 1.0.43-j7p
+  release: 1.0.43-j7p
+  versions:
+   version:
+   - 1.0.37-j7p
+   - 1.0.38-j7p
+   - 1.0.39-j7p
+   - 1.0.42-j7p
+   - 1.0.43-j7p
+  lastUpdated: '20161223205609'
+

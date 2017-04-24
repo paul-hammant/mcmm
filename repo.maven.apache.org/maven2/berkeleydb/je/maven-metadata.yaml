@@ -1,0 +1,11 @@
+metadata:
+ groupId: berkeleydb
+ artifactId: je
+ version: 1.7.1
+ versioning:
+  versions:
+   version:
+   - 1.7.1
+   - 2.0.83
+   - 2.1.30
+

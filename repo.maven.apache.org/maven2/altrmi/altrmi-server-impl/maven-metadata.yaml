@@ -1,0 +1,8 @@
+metadata:
+ groupId: altrmi
+ artifactId: altrmi-server-impl
+ version: 0.9.6
+ versioning:
+  versions:
+   version: 0.9.6
+

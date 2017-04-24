@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.formix
+ artifactId: dsx
+ versioning:
+  latest: 0.10.0
+  release: 0.10.0
+  versions:
+   version: 0.10.0
+  lastUpdated: '20150820200838'
+

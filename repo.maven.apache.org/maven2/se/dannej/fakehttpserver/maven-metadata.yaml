@@ -1,0 +1,13 @@
+metadata:
+ groupId: se.dannej
+ artifactId: fakehttpserver
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+   - 0.3.0
+  lastUpdated: '20121216091557'
+

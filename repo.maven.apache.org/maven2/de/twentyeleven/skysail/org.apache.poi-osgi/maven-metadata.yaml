@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.twentyeleven.skysail
+ artifactId: org.apache.poi-osgi
+ versioning:
+  latest: '3.8'
+  release: '3.8'
+  versions:
+   version: '3.8'
+  lastUpdated: '20120825085154'
+

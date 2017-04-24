@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.locationtech.geotrellis
+ artifactId: geotrellis-macros_2.11
+ versioning:
+  latest: 1.1.0-RC4
+  release: 1.1.0-RC4
+  versions:
+   version:
+   - 1.0.0-RC3
+   - 1.0.0
+   - 1.1.0-RC1
+   - 1.1.0-RC2
+   - 1.1.0-RC3
+   - 1.1.0-RC4
+  lastUpdated: '20170420212409'
+

@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.jinterop
+ artifactId: j-interop
+ versioning:
+  latest: 2.0.4
+  release: 2.0.4
+  versions:
+   version: 2.0.4
+  lastUpdated: '20110815133234'
+

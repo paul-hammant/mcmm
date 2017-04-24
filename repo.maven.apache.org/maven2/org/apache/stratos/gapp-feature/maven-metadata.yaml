@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.stratos
+ artifactId: gapp-feature
+ versioning:
+  latest: 4.0.0
+  release: 4.0.0
+  versions:
+   version:
+   - 3.0.0-incubating
+   - 4.0.0
+  lastUpdated: '20140618100822'
+

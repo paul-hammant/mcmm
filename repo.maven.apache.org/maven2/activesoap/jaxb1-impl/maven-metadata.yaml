@@ -1,0 +1,8 @@
+metadata:
+ groupId: activesoap
+ artifactId: jaxb1-impl
+ version: '20050407'
+ versioning:
+  versions:
+   version: '20050407'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.codehaus.wadi
+ artifactId: wadi-openejb
+ version: 2.0M2
+ versioning:
+  versions:
+   version: 2.0M2
+  lastUpdated: '20061116113410'
+

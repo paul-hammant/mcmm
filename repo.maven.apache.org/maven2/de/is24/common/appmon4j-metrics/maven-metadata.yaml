@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.is24.common
+ artifactId: appmon4j-metrics
+ versioning:
+  latest: '1.59'
+  release: '1.59'
+  versions:
+   version: '1.59'
+  lastUpdated: '20150624094818'
+

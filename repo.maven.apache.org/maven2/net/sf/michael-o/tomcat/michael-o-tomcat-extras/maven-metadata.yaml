@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.sf.michael-o.tomcat
+ artifactId: michael-o-tomcat-extras
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '0.9'
+   - 0.9.1
+   - '1.0'
+   - '1.1'
+   - '2.0'
+  lastUpdated: '20170305123324'
+

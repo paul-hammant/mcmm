@@ -1,0 +1,9 @@
+metadata:
+ groupId: net.java
+ artifactId: quickcheck-core
+ version: 0.5-SNAPSHOT
+ versioning:
+  versions:
+   version: 0.5-SNAPSHOT
+  lastUpdated: '20091004135821'
+

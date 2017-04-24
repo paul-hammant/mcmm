@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.chameleon.fuchsia.examples
+ artifactId: proto-client
+ versioning:
+  latest: 0.0.2
+  release: 0.0.2
+  versions:
+   version: 0.0.2
+  lastUpdated: '20140410083804'
+

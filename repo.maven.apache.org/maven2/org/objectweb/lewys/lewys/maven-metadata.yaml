@@ -1,0 +1,11 @@
+metadata:
+ groupId: org.objectweb.lewys
+ artifactId: lewys
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 2.0.0
+  lastUpdated: '20081218150335'
+

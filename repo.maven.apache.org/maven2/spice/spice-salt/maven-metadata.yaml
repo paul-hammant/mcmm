@@ -1,0 +1,10 @@
+metadata:
+ groupId: spice
+ artifactId: spice-salt
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.1-dev
+

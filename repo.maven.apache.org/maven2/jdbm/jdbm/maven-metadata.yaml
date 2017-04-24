@@ -1,0 +1,12 @@
+metadata:
+ groupId: jdbm
+ artifactId: jdbm
+ version: '0.12'
+ versioning:
+  versions:
+   version:
+   - '0.12'
+   - 0.20-dev
+   - '0.30'
+   - '1.0'
+

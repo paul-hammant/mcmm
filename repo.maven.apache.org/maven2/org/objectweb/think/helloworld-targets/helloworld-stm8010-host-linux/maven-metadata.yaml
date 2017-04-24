@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.objectweb.think.helloworld-targets
+ artifactId: helloworld-stm8010-host-linux
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20071105151609'
+

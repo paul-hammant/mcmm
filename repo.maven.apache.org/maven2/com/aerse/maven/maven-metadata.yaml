@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: deploy to apt
+   prefix: apt
+   artifactId: apt-maven-plugin
+  - name: .deb packages
+   prefix: deb
+   artifactId: deb-maven-plugin
+  - name: fingerprint-plugin
+   prefix: fingerprint
+   artifactId: fingerprint-maven-plugin
+

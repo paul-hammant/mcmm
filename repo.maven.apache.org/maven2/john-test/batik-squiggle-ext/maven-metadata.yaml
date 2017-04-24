@@ -1,0 +1,7 @@
+metadata:
+ groupId: john-test
+ artifactId: batik-squiggle-ext
+ versioning:
+  versions:
+   version: '1.6'
+

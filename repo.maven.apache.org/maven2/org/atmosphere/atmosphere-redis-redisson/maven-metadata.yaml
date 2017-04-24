@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.atmosphere
+ artifactId: atmosphere-redis-redisson
+ versioning:
+  latest: 2.4.3
+  release: 2.4.3
+  versions:
+   version:
+   - 2.4.1
+   - 2.4.2
+   - 2.4.3
+  lastUpdated: '20160905070215'
+

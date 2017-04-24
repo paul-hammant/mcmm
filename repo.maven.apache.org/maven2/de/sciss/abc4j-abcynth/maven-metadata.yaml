@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.sciss
+ artifactId: abc4j-abcynth
+ versioning:
+  latest: 0.6.0
+  release: 0.6.0
+  versions:
+   version: 0.6.0
+  lastUpdated: '20130909213518'
+

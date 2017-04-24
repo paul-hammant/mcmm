@@ -1,0 +1,15 @@
+metadata:
+ groupId: net.sf.seaf
+ artifactId: seaf-parent
+ versioning:
+  latest: '12'
+  release: '12'
+  versions:
+   version:
+   - '8'
+   - '9'
+   - '10'
+   - '11'
+   - '12'
+  lastUpdated: '20140828143835'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: pl.ais.tools
+ artifactId: ais-tools-apivisitor
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20161030233200'
+

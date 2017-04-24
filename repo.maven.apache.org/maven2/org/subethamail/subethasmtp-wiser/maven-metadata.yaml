@@ -1,0 +1,7 @@
+metadata:
+ groupId: org.subethamail
+ artifactId: subethasmtp-wiser
+ versioning:
+  versions:
+   version: '1.2'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.gnu.gettext
+ artifactId: libintl
+ versioning:
+  latest: 0.18.3
+  release: 0.18.3
+  versions:
+   version:
+   - 0.18.2
+   - 0.18.3
+  lastUpdated: '20160119061944'
+

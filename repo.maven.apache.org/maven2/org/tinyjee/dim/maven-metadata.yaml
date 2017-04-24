@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Doxia :: Include - Macro'
+   prefix: doxia-include-macro
+   artifactId: doxia-include-macro
+  - name: 'Doxia :: Include Macro'
+   prefix: doxia-include-macro
+   artifactId: doxia-include-macro
+

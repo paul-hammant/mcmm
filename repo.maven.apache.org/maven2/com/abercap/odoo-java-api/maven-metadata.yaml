@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.abercap
+ artifactId: odoo-java-api
+ versioning:
+  latest: 1.1.0.RELEASE
+  release: 1.1.0.RELEASE
+  versions:
+   version:
+   - 1.0.0.RELEASE
+   - 1.1.0.RELEASE
+  lastUpdated: '20160413215335'
+

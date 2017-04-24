@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: org.xhtmlrenderer
+ artifactId: core-renderer
+ versioning:
+  latest: R8
+  release: R8
+  versions:
+   version: R8
+  lastUpdated: '20110815134300'
+

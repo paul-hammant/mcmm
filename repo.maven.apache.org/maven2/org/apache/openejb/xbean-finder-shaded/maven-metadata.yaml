@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.openejb
+ artifactId: xbean-finder-shaded
+ versioning:
+  latest: 3.6-r779512
+  release: 3.6-r779512
+  versions:
+   version: 3.6-r779512
+  lastUpdated: '20090604011220'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.firebirdsql.jdbc
+ artifactId: jaybird
+ versioning:
+  latest: 2.2.5
+  release: 2.2.5
+  versions:
+   version: 2.2.5
+  lastUpdated: '20140427132539'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.simplericity.datadirlocator
+ artifactId: datadirlocator
+ versioning:
+  latest: '1.10'
+  release: '1.10'
+  versions:
+   version: '1.10'
+  lastUpdated: '20110505092709'
+

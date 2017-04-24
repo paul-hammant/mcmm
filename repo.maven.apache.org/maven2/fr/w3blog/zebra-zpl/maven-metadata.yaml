@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.w3blog
+ artifactId: zebra-zpl
+ versioning:
+  latest: 0.0.3
+  release: 0.0.3
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.3
+  lastUpdated: '20151024001030'
+

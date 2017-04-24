@@ -1,0 +1,7 @@
+metadata:
+ groupId: plexus
+ plugins:
+  plugin:
+   prefix: plexus
+   artifactId: plexus-maven-plugin
+

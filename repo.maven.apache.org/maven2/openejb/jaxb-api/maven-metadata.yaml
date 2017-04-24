@@ -1,0 +1,8 @@
+metadata:
+ groupId: openejb
+ artifactId: jaxb-api
+ version: 2.0EA3
+ versioning:
+  versions:
+   version: 2.0EA3
+

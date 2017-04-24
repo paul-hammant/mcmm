@@ -1,0 +1,12 @@
+metadata:
+ groupId: net.nikore.etcd
+ artifactId: scala-etcd_2.10
+ versioning:
+  latest: '0.8'
+  release: '0.8'
+  versions:
+   version:
+   - '0.7'
+   - '0.8'
+  lastUpdated: '20150513014603'
+

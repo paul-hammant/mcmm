@@ -1,0 +1,10 @@
+metadata:
+ groupId: tk.foundationdriven
+ artifactId: foundation
+ versioning:
+  latest: MAJOR-1.0
+  release: MAJOR-1.0
+  versions:
+   version: MAJOR-1.0
+  lastUpdated: '20141231150458'
+

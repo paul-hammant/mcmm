@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Overture AstCreator Maven Plugin
+   prefix: astcreator
+   artifactId: astcreator-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: saagie-maven-plugin
+   prefix: saagie
+   artifactId: saagie-maven-plugin
+

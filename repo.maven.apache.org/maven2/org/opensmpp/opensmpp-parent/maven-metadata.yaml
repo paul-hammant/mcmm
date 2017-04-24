@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.opensmpp
+ artifactId: opensmpp-parent
+ versioning:
+  latest: 3.0.1
+  release: 3.0.1
+  versions:
+   version:
+   - 3.0.0
+   - 3.0.1
+  lastUpdated: '20161025101810'
+

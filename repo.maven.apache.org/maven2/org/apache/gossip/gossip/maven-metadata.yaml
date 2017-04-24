@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.gossip
+ artifactId: gossip
+ versioning:
+  latest: 0.1.2-incubating
+  release: 0.1.2-incubating
+  versions:
+   version:
+   - 0.1.1-incubating
+   - 0.1.2-incubating
+  lastUpdated: '20170402182114'
+

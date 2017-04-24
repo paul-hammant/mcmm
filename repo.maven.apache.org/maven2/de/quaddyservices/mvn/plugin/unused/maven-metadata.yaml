@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: mvn-remove-unused-dependencies
+   prefix: mvn-remove-unused-dependencies
+   artifactId: mvn-remove-unused-dependencies
+

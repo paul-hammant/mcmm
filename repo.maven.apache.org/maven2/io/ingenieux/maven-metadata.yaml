@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ngrok maven plugin
+   prefix: ngrok
+   artifactId: ngrok-maven-plugin
+

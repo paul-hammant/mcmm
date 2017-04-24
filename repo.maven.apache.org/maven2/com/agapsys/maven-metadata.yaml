@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: JPA Class Scanner Maven Plugin
+   prefix: jpa-scanner
+   artifactId: jpa-scanner-maven-plugin
+  - name: REST Controller Framework (Scanner Maven Plugin)
+   prefix: rcf-scanner
+   artifactId: rcf-scanner-maven-plugin
+

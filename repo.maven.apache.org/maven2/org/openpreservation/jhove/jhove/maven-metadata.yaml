@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.openpreservation.jhove
+ artifactId: jhove
+ versioning:
+  latest: 1.16.5
+  release: 1.16.5
+  versions:
+   version: 1.16.5
+  lastUpdated: '20170320181845'
+

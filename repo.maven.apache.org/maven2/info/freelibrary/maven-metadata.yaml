@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: FreeLibrary Utilities
+   prefix: freelib-utils
+   artifactId: freelib-utils
+  - name: llp2jlp Maven Plugin
+   prefix: llp2jlp
+   artifactId: llp2jlp-maven-plugin
+

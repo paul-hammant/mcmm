@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.backuity.clit
+ artifactId: clit-core_2.11
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.0.0
+   - 2.0.0
+  lastUpdated: '20160112151158'
+

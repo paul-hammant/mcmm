@@ -1,0 +1,10 @@
+metadata:
+ groupId: ai.h2o
+ artifactId: h2o-classic
+ versioning:
+  latest: '2.8'
+  release: '2.8'
+  versions:
+   version: '2.8'
+  lastUpdated: '20141104214238'
+

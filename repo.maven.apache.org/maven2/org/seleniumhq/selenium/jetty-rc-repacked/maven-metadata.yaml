@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.seleniumhq.selenium
+ artifactId: jetty-rc-repacked
+ versioning:
+  latest: '5'
+  release: '5'
+  versions:
+   version: '5'
+  lastUpdated: '20140825181432'
+

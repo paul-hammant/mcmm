@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.calcite
+ artifactId: calcite-pig
+ versioning:
+  latest: 1.12.0
+  release: 1.12.0
+  versions:
+   version: 1.12.0
+  lastUpdated: '20170324030243'
+

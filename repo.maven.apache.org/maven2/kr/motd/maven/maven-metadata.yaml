@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: exec-maven-plugin
+   prefix: exec
+   artifactId: exec-maven-plugin
+  - name: os-maven-plugin
+   prefix: os
+   artifactId: os-maven-plugin
+  - name: sphinx-maven-plugin
+   prefix: sphinx
+   artifactId: sphinx-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.codis.jodis
+ artifactId: jodis
+ versioning:
+  latest: 0.3.1
+  release: 0.3.1
+  versions:
+   version:
+   - 0.3.0
+   - 0.3.1
+  lastUpdated: '20160429075912'
+

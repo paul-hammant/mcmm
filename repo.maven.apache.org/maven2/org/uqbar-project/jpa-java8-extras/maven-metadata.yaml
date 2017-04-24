@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.uqbar-project
+ artifactId: jpa-java8-extras
+ versioning:
+  latest: 1.0-alpha-1
+  release: 1.0-alpha-1
+  versions:
+   version: 1.0-alpha-1
+  lastUpdated: '20141027195634'
+

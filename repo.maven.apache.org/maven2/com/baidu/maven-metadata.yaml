@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jprotobuf-precompile-plugin
+   prefix: jprotobuf-precompile
+   artifactId: jprotobuf-precompile-plugin
+

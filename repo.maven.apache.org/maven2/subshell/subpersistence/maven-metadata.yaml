@@ -1,0 +1,8 @@
+metadata:
+ groupId: subshell
+ artifactId: subpersistence
+ version: 0.8.2
+ versioning:
+  versions:
+   version: 0.8.2
+

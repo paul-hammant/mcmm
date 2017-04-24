@@ -1,0 +1,10 @@
+metadata:
+ groupId: name.mjw
+ artifactId: fortranformat
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version: 1.1.1
+  lastUpdated: '20150806123047'
+

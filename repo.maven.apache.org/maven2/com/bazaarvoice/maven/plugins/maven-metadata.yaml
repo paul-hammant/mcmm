@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: BV Customized Version of Mojo's Cassandra Maven Plugin
+   prefix: cassandra
+   artifactId: cassandra-maven-plugin
+  - name: Process execution maven plugin
+   prefix: process-exec
+   artifactId: process-exec-maven-plugin
+  - name: S3 upload maven plugin
+   prefix: s3-upload
+   artifactId: s3-upload-maven-plugin
+  - name: s3repo-maven-plugin
+   prefix: s3repo
+   artifactId: s3repo-maven-plugin
+

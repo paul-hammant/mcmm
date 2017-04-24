@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Getdown Maven Plugin
+   prefix: getdown
+   artifactId: getdown-maven-plugin
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.eclipse.equinox.jsp
+ artifactId: jasper
+ version: 1.0.0-v20070607
+ versioning:
+  versions:
+   version: 1.0.0-v20070607
+  lastUpdated: '20071127071550'
+

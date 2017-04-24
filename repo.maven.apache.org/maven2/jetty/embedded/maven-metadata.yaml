@@ -1,0 +1,10 @@
+metadata:
+ groupId: jetty
+ artifactId: embedded
+ version: 6.0.0beta15
+ versioning:
+  versions:
+   version:
+   - 6.0.0beta15
+   - 6.0.0beta16
+

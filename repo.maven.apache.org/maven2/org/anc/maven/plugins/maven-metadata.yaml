@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ANC Maven Plugin
+   prefix: anc
+   artifactId: anc-maven-plugin
+

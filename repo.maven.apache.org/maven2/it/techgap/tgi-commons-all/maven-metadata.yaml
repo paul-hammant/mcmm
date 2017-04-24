@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.techgap
+ artifactId: tgi-commons-all
+ versioning:
+  latest: 1.2.1
+  release: 1.2.1
+  versions:
+   version: 1.2.1
+  lastUpdated: '20160526072318'
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.airavata
+ artifactId: airavata-gfac-gram
+ versioning:
+  latest: '0.13'
+  release: '0.13'
+  versions:
+   version:
+   - '0.12'
+   - '0.13'
+  lastUpdated: '20140808221159'
+

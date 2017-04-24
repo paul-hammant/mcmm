@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven XP-Framework plugin
+   prefix: xpframework
+   artifactId: maven-xpframework-plugin
+  - name: Maven plugin for XP-Framework
+   prefix: xp
+   artifactId: xp-maven-plugin
+

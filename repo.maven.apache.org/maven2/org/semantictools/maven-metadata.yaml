@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: semantictools gwt generator
+   prefix: semantictools-gwt-generator
+   artifactId: semantictools-gwt-generator
+  - name: semantictools maven plugin
+   prefix: semantictools
+   artifactId: semantictools-maven-plugin
+

@@ -1,0 +1,12 @@
+metadata:
+ groupId: info.schleichardt
+ artifactId: play-embed-mongo_2.10
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version:
+   - '0.2'
+   - 0.2.1
+  lastUpdated: '20130603221837'
+

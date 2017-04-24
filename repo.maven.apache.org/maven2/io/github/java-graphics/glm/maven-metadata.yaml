@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.github.java-graphics
+ artifactId: glm
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - '1.0'
+   - 1.0.1
+  lastUpdated: '20161009063029'
+

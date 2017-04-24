@@ -1,0 +1,19 @@
+metadata:
+ groupId: gov.nasa.gsfc.heasarc
+ artifactId: nom-tam-fits
+ versioning:
+  latest: 1.15.1
+  release: 1.15.1
+  versions:
+   version:
+   - 1.12.0
+   - 1.13.0
+   - 1.13.1
+   - 1.14.0
+   - 1.14.1
+   - 1.14.2
+   - 1.14.3
+   - 1.15.0
+   - 1.15.1
+  lastUpdated: '20160819120955'
+

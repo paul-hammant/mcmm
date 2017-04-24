@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.javastack
+ artifactId: standalone-preferences
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version:
+   - 1.0.4
+   - 1.2.1
+   - 2.0.1
+  lastUpdated: '20150422055209'
+

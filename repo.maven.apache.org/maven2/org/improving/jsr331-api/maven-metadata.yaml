@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.improving
+ artifactId: jsr331-api
+ versioning:
+  latest: 2.7.0-1
+  release: 2.7.0-1
+  versions:
+   version: 2.7.0-1
+  lastUpdated: '20150210181251'
+

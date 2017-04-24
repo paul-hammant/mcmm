@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Resource Aggregator Plugin
+   prefix: resource-aggregator
+   artifactId: resource-aggregator-plugin
+

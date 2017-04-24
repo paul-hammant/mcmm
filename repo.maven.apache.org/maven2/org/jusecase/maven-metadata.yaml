@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JUsecase Builders Generator
+   prefix: builders-generator
+   artifactId: builders-generator
+

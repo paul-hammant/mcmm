@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Tesla Plugin Plugin
+   prefix: tesla
+   artifactId: tesla-plugin-plugin
+

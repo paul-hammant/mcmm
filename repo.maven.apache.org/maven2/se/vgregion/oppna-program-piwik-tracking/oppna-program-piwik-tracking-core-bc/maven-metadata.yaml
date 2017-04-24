@@ -1,0 +1,10 @@
+metadata:
+ groupId: se.vgregion.oppna-program-piwik-tracking
+ artifactId: oppna-program-piwik-tracking-core-bc
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20121212110312'
+

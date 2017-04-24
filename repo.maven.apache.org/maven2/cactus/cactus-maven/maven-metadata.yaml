@@ -1,0 +1,12 @@
+metadata:
+ groupId: cactus
+ artifactId: cactus-maven
+ version: '1.6'
+ versioning:
+  versions:
+   version:
+   - '1.6'
+   - 1.6.1
+   - '1.7'
+   - 1.7.1
+

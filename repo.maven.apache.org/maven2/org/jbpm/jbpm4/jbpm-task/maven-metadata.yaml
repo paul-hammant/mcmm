@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jbpm.jbpm4
+ artifactId: jbpm-task
+ versioning:
+  latest: 4.0.0-Alpha1
+  release: 4.0.0-Alpha1
+  versions:
+   version: 4.0.0-Alpha1
+  lastUpdated: '20100426075910'
+

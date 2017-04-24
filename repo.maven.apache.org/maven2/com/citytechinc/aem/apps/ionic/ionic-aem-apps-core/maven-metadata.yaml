@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.citytechinc.aem.apps.ionic
+ artifactId: ionic-aem-apps-core
+ versioning:
+  latest: 0.7.0
+  release: 0.7.0
+  versions:
+   version:
+   - 0.5.0
+   - 0.7.0
+  lastUpdated: '20160926190334'
+

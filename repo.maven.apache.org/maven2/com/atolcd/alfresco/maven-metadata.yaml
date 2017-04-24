@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: AMP Plugin
+   prefix: amp
+   artifactId: amp-maven-plugin
+

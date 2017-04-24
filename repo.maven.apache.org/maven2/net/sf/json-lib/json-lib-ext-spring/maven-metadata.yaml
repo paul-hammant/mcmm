@@ -1,0 +1,11 @@
+metadata:
+ groupId: net.sf.json-lib
+ artifactId: json-lib-ext-spring
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0.2
+  lastUpdated: '20080611052219'
+

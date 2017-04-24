@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: AndroidGenDrawable Maven Plugin
+   prefix: gendrawable
+   artifactId: androidgendrawable-maven-plugin
+  - name: Maven HSQLDB Plugin
+   prefix: hsqldb
+   artifactId: hsqldb-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Symqle compiler plugin
+   prefix: symqle-compiler
+   artifactId: symqle-compiler-plugin
+

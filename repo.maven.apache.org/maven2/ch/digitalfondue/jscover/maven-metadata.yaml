@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jscoverproxy-maven-plugin Maven Plugin
+   prefix: jscoverproxy
+   artifactId: jscoverproxy-maven-plugin
+

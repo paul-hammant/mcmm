@@ -1,0 +1,9 @@
+metadata:
+ groupId: echo3
+ artifactId: echo3
+ version: 3.0.0-SNAPSHOT
+ versioning:
+  versions:
+   version: 3.0.0-SNAPSHOT
+  lastUpdated: '20091102070046'
+

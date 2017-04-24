@@ -1,0 +1,13 @@
+metadata:
+ groupId: uk.gov.gchq.gaffer
+ artifactId: schema-builder
+ versioning:
+  latest: 0.6.6
+  release: 0.6.6
+  versions:
+   version:
+   - 0.6.2
+   - 0.6.3
+   - 0.6.6
+  lastUpdated: '20170406114055'
+

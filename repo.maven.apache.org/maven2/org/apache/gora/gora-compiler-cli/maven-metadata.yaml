@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.apache.gora
+ artifactId: gora-compiler-cli
+ versioning:
+  latest: '0.7'
+  release: '0.7'
+  versions:
+   version:
+   - '0.4'
+   - '0.5'
+   - '0.6'
+   - 0.6.1
+   - '0.7'
+  lastUpdated: '20170323191134'
+

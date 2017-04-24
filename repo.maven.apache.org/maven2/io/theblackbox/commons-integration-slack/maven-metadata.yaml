@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.theblackbox
+ artifactId: commons-integration-slack
+ versioning:
+  latest: 0.1.2
+  release: 0.1.2
+  versions:
+   version: 0.1.2
+  lastUpdated: '20170220085053'
+

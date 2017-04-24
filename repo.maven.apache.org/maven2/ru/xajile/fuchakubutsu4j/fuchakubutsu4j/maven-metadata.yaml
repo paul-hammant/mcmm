@@ -1,0 +1,12 @@
+metadata:
+ groupId: ru.xajile.fuchakubutsu4j
+ artifactId: fuchakubutsu4j
+ version: '0.9'
+ versioning:
+  release: '0.10'
+  versions:
+   version:
+   - '0.9'
+   - '0.10'
+  lastUpdated: '20090803094603'
+

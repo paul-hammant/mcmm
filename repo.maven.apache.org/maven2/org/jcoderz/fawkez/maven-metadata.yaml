@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: fawkez-codegen
+   prefix: fawkez-codegen
+   artifactId: fawkez-codegen
+

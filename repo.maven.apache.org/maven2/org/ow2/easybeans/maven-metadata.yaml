@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'EasyBeans: Plugin :: Write Artifact FileName'
+   prefix: easybeanswrite-artifact-filename
+   artifactId: easybeans-plugin-write-artifact-filename
+  - name: 'EasyBeans: Plugin :: OSGi Plugin'
+   prefix: easybeans-osgi
+   artifactId: maven-easybeans-osgi
+  - name: 'EasyBeans: Plugin :: Maven EasyBeans Plugin :: Plugin'
+   prefix: easybeans
+   artifactId: maven-easybeans-plugin
+  - name: 'EasyBeans: Plugin :: Launcher Plugin'
+   prefix: easybeans
+   artifactId: maven-easybeans-plugin
+

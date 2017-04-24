@@ -1,0 +1,10 @@
+metadata:
+ groupId: maven-plugins
+ artifactId: maven-izpack-plugin
+ version: 0.3.0
+ versioning:
+  versions:
+   version:
+   - 0.3.0
+   - 0.3.1
+

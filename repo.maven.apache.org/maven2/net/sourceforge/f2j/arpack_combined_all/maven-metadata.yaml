@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sourceforge.f2j
+ artifactId: arpack_combined_all
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20110830034240'
+

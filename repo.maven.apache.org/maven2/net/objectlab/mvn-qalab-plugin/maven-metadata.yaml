@@ -1,0 +1,7 @@
+metadata:
+ groupId: net.objectlab
+ artifactId: mvn-qalab-plugin
+ versioning:
+  versions:
+   version: '2.2'
+

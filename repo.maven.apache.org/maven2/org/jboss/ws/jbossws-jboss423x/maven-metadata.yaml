@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.ws
+ artifactId: jbossws-jboss423x
+ versioning:
+  latest: 3.0.2.GA
+  release: 3.0.2.GA
+  versions:
+   version: 3.0.2.GA
+  lastUpdated: '20100426034459'
+

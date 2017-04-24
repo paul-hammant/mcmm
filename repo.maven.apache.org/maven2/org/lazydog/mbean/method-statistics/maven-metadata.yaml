@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.lazydog.mbean
+ artifactId: method-statistics
+ versioning:
+  latest: '1.4'
+  release: '1.4'
+  versions:
+   version: '1.4'
+  lastUpdated: '20130727040206'
+

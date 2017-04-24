@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Doxygen Plugin for Maven
+   prefix: doxygen
+   artifactId: doxygen-maven-plugin
+

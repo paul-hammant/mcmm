@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.neuro4j
+ artifactId: netflix-hystrix-adapter
+ versioning:
+  latest: 3.4.1
+  release: 3.4.1
+  versions:
+   version: 3.4.1
+  lastUpdated: '20170220021658'
+

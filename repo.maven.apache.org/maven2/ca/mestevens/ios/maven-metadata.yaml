@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: xcode-maven-plugin
+   prefix: xcode
+   artifactId: xcode-maven-plugin
+

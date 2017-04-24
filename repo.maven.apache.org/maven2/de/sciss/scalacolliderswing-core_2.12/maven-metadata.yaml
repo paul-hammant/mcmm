@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.sciss
+ artifactId: scalacolliderswing-core_2.12
+ versioning:
+  latest: 1.32.2
+  release: 1.32.2
+  versions:
+   version: 1.32.2
+  lastUpdated: '20161229200247'
+

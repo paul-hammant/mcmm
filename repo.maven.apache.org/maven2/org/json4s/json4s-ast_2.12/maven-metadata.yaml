@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.json4s
+ artifactId: json4s-ast_2.12
+ versioning:
+  latest: 3.5.1
+  release: 3.5.1
+  versions:
+   version:
+   - 3.4.2
+   - 3.5.0.RC1
+   - 3.5.0
+   - 3.5.1
+  lastUpdated: '20170318042949'
+

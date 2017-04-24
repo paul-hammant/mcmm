@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.kill-bill.billing.plugin.ruby
+ artifactId: helloworld-plugin
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version:
+   - 0.1.0
+   - 1.0.0
+   - 2.0.0
+   - 3.0.0
+  lastUpdated: '20161123181141'
+

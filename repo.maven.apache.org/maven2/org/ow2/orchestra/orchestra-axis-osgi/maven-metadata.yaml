@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.ow2.orchestra
+ artifactId: orchestra-axis-osgi
+ version: 4.1.0
+ versioning:
+  release: 4.3.0
+  versions:
+   version:
+   - 4.1.0
+   - 4.2.0
+   - 4.2.1
+   - 4.3.0
+  lastUpdated: '20100218123110'
+

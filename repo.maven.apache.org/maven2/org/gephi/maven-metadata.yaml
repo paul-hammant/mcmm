@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Gephi Maven Plugin
+   prefix: gephi
+   artifactId: gephi-maven-plugin
+

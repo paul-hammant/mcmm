@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.mabboud.gfxassert
+ artifactId: GfxAssert
+ versioning:
+  latest: 1.0.4
+  release: 1.0.4
+  versions:
+   version: 1.0.4
+  lastUpdated: '20160718212534'
+

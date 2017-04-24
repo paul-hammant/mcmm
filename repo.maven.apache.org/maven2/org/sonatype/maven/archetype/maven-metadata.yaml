@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Sonatype Archetype :: Plugin'
+   prefix: archetype
+   artifactId: archetype-plugin
+

@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.latestbit
+ artifactId: scaletty_2.12
+ versioning:
+  latest: '1.10'
+  release: '1.10'
+  versions:
+   version:
+   - '1.5'
+   - '1.6'
+   - '1.7'
+   - '1.8'
+   - '1.9'
+   - '1.10'
+  lastUpdated: '20170422205650'
+

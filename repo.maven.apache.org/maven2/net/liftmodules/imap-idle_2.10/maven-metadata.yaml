@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.liftmodules
+ artifactId: imap-idle_2.10
+ versioning:
+  latest: 2.5-RC4-1.0
+  release: 2.5-RC4-1.0
+  versions:
+   version:
+   - 2.5-RC1-1.0
+   - 2.5-RC2-1.0
+   - 2.5-RC4-1.0
+  lastUpdated: '20130406092541'
+

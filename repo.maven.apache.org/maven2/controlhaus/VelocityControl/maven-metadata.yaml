@@ -1,0 +1,7 @@
+metadata:
+ groupId: controlhaus
+ artifactId: VelocityControl
+ versioning:
+  versions:
+   version: 1.0-beta-1
+

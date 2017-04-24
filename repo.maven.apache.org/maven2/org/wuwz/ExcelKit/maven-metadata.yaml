@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.wuwz
+ artifactId: ExcelKit
+ versioning:
+  latest: '2.0'
+  release: '2.0'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '2.0'
+  lastUpdated: '20170410174534'
+

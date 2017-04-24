@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Eclipselink Maven Plugin
+   prefix: eclipselink
+   artifactId: eclipselink-maven-plugin
+

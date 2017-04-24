@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.peachjean.guice
+ artifactId: peachguice-resteasy
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20111025221318'
+

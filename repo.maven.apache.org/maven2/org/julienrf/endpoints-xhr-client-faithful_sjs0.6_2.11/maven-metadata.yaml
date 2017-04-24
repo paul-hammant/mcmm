@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.julienrf
+ artifactId: endpoints-xhr-client-faithful_sjs0.6_2.11
+ versioning:
+  latest: 0.2.0-09602e4
+  release: 0.2.0-09602e4
+  versions:
+   version:
+   - '0.1'
+   - 0.2.0
+   - 0.2.0-09602e4
+  lastUpdated: '20170312170854'
+

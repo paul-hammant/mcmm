@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.amygdalum
+ artifactId: xrayinterface
+ versioning:
+  latest: 0.3.0
+  release: 0.3.0
+  versions:
+   version: 0.3.0
+  lastUpdated: '20160903060220'
+

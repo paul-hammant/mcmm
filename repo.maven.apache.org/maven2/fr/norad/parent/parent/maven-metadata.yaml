@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.norad.parent
+ artifactId: parent
+ versioning:
+  latest: '1.19'
+  release: '1.19'
+  versions:
+   version:
+   - '1.18'
+   - '1.19'
+  lastUpdated: '20141127125334'
+

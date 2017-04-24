@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: JRuby Rake Plugin
+   prefix: jruby-rake
+   artifactId: jruby-rake-plugin
+

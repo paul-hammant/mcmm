@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.hedspc
+ artifactId: org.hedspc.modules.main
+ versioning:
+  latest: 1.5.0
+  release: 1.5.0
+  versions:
+   version: 1.5.0
+  lastUpdated: '20131211234049'
+

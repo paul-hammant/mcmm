@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: XSite Maven Plugin
+   prefix: xsite
+   artifactId: xsite-maven-plugin
+

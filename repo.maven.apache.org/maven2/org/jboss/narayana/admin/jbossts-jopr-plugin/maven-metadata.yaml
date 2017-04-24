@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.narayana.admin
+ artifactId: jbossts-jopr-plugin
+ versioning:
+  latest: 5.0.0.M1
+  release: 5.0.0.M1
+  versions:
+   version: 5.0.0.M1
+  lastUpdated: '20110826144323'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: javax.inject
+ artifactId: javax.inject-tck
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20100611113919'
+

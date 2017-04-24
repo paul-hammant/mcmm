@@ -1,0 +1,15 @@
+metadata:
+ groupId: com.eclipsesource.j2v8
+ artifactId: j2v8_android_x86
+ versioning:
+  latest: 3.0.1
+  release: 3.0.1
+  versions:
+   version:
+   - '2.0'
+   - '2.1'
+   - 2.2.0
+   - 2.2.1
+   - 3.0.1
+  lastUpdated: '20150825005139'
+

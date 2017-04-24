@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache
+ artifactId: apache-resource-bundles
+ version: '1'
+ versioning:
+  release: '2'
+  versions:
+   version:
+   - '1'
+   - '2'
+  lastUpdated: '20070308215620'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: me.shib.java.lib
+ artifactId: jbotstats
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version:
+   - '0.1'
+   - 0.1.1
+   - 0.1.2
+   - 0.2.0
+   - 0.2.1
+  lastUpdated: '20160819042258'
+

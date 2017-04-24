@@ -1,0 +1,12 @@
+metadata:
+ groupId: jp.co.recruit_mp
+ artifactId: android-RMP-AppiraterKit
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20170106050850'
+

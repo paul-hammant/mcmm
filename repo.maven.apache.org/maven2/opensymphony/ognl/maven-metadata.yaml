@@ -1,0 +1,7 @@
+metadata:
+ groupId: opensymphony
+ artifactId: ognl
+ versioning:
+  versions:
+   version: 2.6.10
+

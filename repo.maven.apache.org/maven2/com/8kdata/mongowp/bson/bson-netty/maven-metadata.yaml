@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.8kdata.mongowp.bson
+ artifactId: bson-netty
+ versioning:
+  latest: 0.50.0
+  release: 0.50.0
+  versions:
+   version:
+   - 0.40-alpha2
+   - 0.40-alpha3
+   - '0.40'
+   - 0.50.0
+  lastUpdated: '20161129205620'
+

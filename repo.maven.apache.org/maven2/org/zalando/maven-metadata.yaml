@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Mojo's Cassandra Maven Plugin
+   prefix: cassandra
+   artifactId: cassandra-maven-plugin
+

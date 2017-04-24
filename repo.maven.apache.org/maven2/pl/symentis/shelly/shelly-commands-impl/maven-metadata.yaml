@@ -1,0 +1,12 @@
+metadata:
+ groupId: pl.symentis.shelly
+ artifactId: shelly-commands-impl
+ versioning:
+  latest: 0.1.3
+  release: 0.1.3
+  versions:
+   version:
+   - 0.1.1
+   - 0.1.3
+  lastUpdated: '20150131184218'
+

@@ -1,0 +1,9 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: artemis-fluid
+   artifactId: artemis-fluid-maven-plugin
+  - name: artemis-odb-maven-plugin
+   prefix: artemis-odb
+   artifactId: artemis-odb-maven-plugin
+

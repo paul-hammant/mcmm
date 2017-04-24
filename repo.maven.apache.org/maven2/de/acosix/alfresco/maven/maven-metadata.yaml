@@ -1,0 +1,6 @@
+metadata:
+ plugins:
+  plugin:
+   prefix: de.acosix.alfresco..s
+   artifactId: de.acosix.alfresco.maven.plugins
+

@@ -1,0 +1,7 @@
+metadata:
+ groupId: tomcat
+ artifactId: tomcat-jkstatus-ant
+ versioning:
+  versions:
+   version: 5.5.23
+

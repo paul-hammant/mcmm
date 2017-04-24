@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Cognifide's SecureCQ Apache Maven plugin
+   prefix: securecq
+   artifactId: securecq-maven-plugin
+

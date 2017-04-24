@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.jboss.resteasy
+ artifactId: RESTEASY-800-AS71
+ versioning:
+  latest: 2.3.7.Final
+  release: 2.3.7.Final
+  versions:
+   version:
+   - 2.3.6.Final
+   - 2.3.7.Final
+  lastUpdated: '20130717233130'
+

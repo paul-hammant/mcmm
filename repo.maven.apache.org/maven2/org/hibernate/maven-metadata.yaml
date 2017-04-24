@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Hibernate Maven Plugin
+   prefix: hibernate
+   artifactId: hibernate-maven-plugin
+

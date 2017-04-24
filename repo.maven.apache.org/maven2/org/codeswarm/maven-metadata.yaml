@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven NAR Plugin
+   prefix: nar
+   artifactId: maven-nar-plugin
+

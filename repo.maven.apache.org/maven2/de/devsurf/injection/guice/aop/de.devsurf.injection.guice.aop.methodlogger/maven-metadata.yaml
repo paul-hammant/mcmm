@@ -1,0 +1,13 @@
+metadata:
+ groupId: de.devsurf.injection.guice.aop
+ artifactId: de.devsurf.injection.guice.aop.methodlogger
+ versioning:
+  latest: 0.8.1
+  release: 0.8.1
+  versions:
+   version:
+   - 0.7.0
+   - 0.8.0
+   - 0.8.1
+  lastUpdated: '20101103233920'
+

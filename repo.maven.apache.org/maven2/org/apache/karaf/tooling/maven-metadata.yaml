@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Apache Karaf :: Tooling :: Maven2 Command Help plugin'
+   prefix: cmdhelp
+   artifactId: cmdhelp-maven-plugin
+  - name: 'Apache Karaf :: Tooling :: Maven2 Command Help plugin'
+   prefix: cmdhelp
+   artifactId: cmdhelp-maven-plugin
+  - name: 'Apache Karaf :: Tooling :: Maven2 Features plugin'
+   prefix: features
+   artifactId: features-maven-plugin
+  - name: 'Apache Karaf :: Tooling :: Maven2 Features plugin'
+   prefix: features
+   artifactId: features-maven-plugin
+  - name: 'Apache Karaf :: Tooling :: Maven Karaf Plugin'
+   prefix: karaf
+   artifactId: karaf-maven-plugin
+  - name: 'Apache Karaf :: Tooling :: Maven Karaf Plugin for Services Metadata'
+   prefix: karaf-services
+   artifactId: karaf-services-maven-plugin
+

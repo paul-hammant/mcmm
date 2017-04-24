@@ -1,0 +1,13 @@
+metadata:
+ groupId: xtc
+ artifactId: rats-runtime
+ versioning:
+  latest: 2.4.0
+  release: 2.4.0
+  versions:
+   version:
+   - 1.15.0
+   - 2.3.1
+   - 2.4.0
+  lastUpdated: '20141114150128'
+

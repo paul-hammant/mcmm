@@ -1,0 +1,11 @@
+metadata:
+ groupId: avalon-logkit
+ artifactId: avalon-logkit
+ version: '2.0'
+ versioning:
+  versions:
+   version:
+   - '2.0'
+   - 2.0.0
+   - '2.1'
+

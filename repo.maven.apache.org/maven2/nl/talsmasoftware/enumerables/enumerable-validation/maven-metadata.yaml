@@ -1,0 +1,10 @@
+metadata:
+ groupId: nl.talsmasoftware.enumerables
+ artifactId: enumerable-validation
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20170224120542'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.fluentlenium
+ artifactId: fluentlenium-spock
+ versioning:
+  latest: 3.2.0
+  release: 3.2.0
+  versions:
+   version: 3.2.0
+  lastUpdated: '20170418102525'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven Cloud Front Plugin
+   prefix: cloudfront
+   artifactId: maven-cloudfront-plugin
+

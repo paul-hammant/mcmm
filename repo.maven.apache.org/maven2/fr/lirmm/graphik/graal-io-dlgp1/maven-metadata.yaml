@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.lirmm.graphik
+ artifactId: graal-io-dlgp1
+ versioning:
+  latest: 0.8.7
+  release: 0.8.7
+  versions:
+   version: 0.8.7
+  lastUpdated: '20150903141030'
+

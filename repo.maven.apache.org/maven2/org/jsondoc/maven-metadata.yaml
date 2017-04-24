@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: jsondoc-maven-plugin
+   prefix: jsondoc
+   artifactId: jsondoc-maven-plugin
+

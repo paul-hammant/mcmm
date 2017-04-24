@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.testifyproject.examples
+ artifactId: example-junit-jersey-systemtest
+ versioning:
+  latest: 0.9.1
+  release: 0.9.1
+  versions:
+   version:
+   - 0.9.0
+   - 0.9.1
+  lastUpdated: '20170321234117'
+

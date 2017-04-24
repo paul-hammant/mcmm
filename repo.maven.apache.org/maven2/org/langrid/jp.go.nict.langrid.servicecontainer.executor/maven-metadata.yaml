@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.langrid
+ artifactId: jp.go.nict.langrid.servicecontainer.executor
+ versioning:
+  latest: 1.0.11
+  release: 1.0.11
+  versions:
+   version:
+   - 1.0.10
+   - 1.0.11
+  lastUpdated: '20170417074719'
+

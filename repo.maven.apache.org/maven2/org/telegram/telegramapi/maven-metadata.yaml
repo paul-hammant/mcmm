@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.telegram
+ artifactId: telegramapi
+ versioning:
+  latest: '57.3'
+  release: '57.3'
+  versions:
+   version:
+   - '57.0'
+   - '57.1'
+   - '57.2'
+   - '57.3'
+  lastUpdated: '20170127205718'
+

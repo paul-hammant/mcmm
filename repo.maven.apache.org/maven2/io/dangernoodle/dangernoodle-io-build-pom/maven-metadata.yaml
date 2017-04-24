@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.dangernoodle
+ artifactId: dangernoodle-io-build-pom
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20160922181434'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.seaclouds-project
+ artifactId: installer
+ versioning:
+  latest: 0.7.0-M19
+  release: 0.7.0-M19
+  versions:
+   version: 0.7.0-M19
+  lastUpdated: '20150626140441'
+

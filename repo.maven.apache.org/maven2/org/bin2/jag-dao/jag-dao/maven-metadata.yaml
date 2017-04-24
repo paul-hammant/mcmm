@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bin2.jag-dao
+ artifactId: jag-dao
+ versioning:
+  latest: '0.13'
+  release: '0.13'
+  versions:
+   version: '0.13'
+  lastUpdated: '20150212124314'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Golo Maven Plugin (Incubation)
+   prefix: golo
+   artifactId: golo-maven-plugin
+

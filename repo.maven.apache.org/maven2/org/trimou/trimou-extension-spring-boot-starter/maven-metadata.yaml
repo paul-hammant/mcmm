@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.trimou
+ artifactId: trimou-extension-spring-boot-starter
+ versioning:
+  latest: 2.2.0.Final
+  release: 2.2.0.Final
+  versions:
+   version: 2.2.0.Final
+  lastUpdated: '20170311092116'
+

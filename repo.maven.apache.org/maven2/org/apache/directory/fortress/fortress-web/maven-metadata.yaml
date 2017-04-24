@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.apache.directory.fortress
+ artifactId: fortress-web
+ versioning:
+  latest: 2.0.0-RC1
+  release: 2.0.0-RC1
+  versions:
+   version:
+   - 1.0-RC42
+   - 1.0.0
+   - 1.0.1
+   - 2.0.0-RC1
+  lastUpdated: '20161107020401'
+

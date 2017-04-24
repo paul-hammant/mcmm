@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.elogiclab.guardbee
+ artifactId: guardbee-core_2.10
+ versioning:
+  latest: 0.1.0-M2
+  release: 0.1.0-M2
+  versions:
+   version:
+   - 0.1.0-M1
+   - 0.1.0-M2
+  lastUpdated: '20140406141618'
+

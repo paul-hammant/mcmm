@@ -1,0 +1,12 @@
+metadata:
+ groupId: fr.iscpif.gridscale
+ artifactId: dirac_2.10
+ versioning:
+  latest: '1.86'
+  release: '1.86'
+  versions:
+   version:
+   - '1.85'
+   - '1.86'
+  lastUpdated: '20150816111014'
+

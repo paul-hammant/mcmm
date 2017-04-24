@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Crux Maven Plugin
+   prefix: crux
+   artifactId: crux-maven-plugin
+

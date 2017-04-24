@@ -1,0 +1,11 @@
+metadata:
+ groupId: taglibs
+ artifactId: string-examples
+ version: 1.0.1
+ versioning:
+  versions:
+   version:
+   - 1.0.1
+   - '1.0'
+   - 1.1.0
+

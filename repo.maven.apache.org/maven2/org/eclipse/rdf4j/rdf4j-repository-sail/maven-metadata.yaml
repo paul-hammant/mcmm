@@ -1,0 +1,33 @@
+metadata:
+ groupId: org.eclipse.rdf4j
+ artifactId: rdf4j-repository-sail
+ versioning:
+  latest: '2.2'
+  release: '2.2'
+  versions:
+   version:
+   - 1.0M1
+   - 1.0M2
+   - 1.0M3
+   - '1.0'
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+   - 2.0M1
+   - 2.0M2
+   - 2.0M3
+   - 2.0M4
+   - '2.0'
+   - 2.0.1
+   - 2.0.2
+   - 2.0.3
+   - '2.1'
+   - 2.1.1
+   - 2.1.2
+   - 2.1.3
+   - 2.1.4
+   - 2.1.5
+   - 2.1.6
+   - '2.2'
+  lastUpdated: '20170202014601'
+

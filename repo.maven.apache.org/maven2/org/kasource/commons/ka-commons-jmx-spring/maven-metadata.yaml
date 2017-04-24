@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.kasource.commons
+ artifactId: ka-commons-jmx-spring
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20140819184336'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-scala-plugin
+   prefix: scala
+   artifactId: maven-scala-plugin
+

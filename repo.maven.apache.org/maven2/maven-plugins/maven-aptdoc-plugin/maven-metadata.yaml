@@ -1,0 +1,8 @@
+metadata:
+ groupId: maven-plugins
+ artifactId: maven-aptdoc-plugin
+ version: '20030413.030249'
+ versioning:
+  versions:
+   version: '20030413.030249'
+

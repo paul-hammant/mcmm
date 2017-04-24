@@ -1,0 +1,14 @@
+metadata:
+ groupId: uk.co.omega-prime
+ artifactId: btreemap
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.0-5+g5d6f07c
+   - 1.0.1
+   - 1.1.0
+  lastUpdated: '20161227000815'
+

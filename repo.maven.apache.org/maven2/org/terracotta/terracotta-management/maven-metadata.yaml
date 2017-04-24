@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.terracotta
+ artifactId: terracotta-management
+ versioning:
+  latest: 2.3.0
+  release: 2.3.0
+  versions:
+   version:
+   - 0.1.0
+   - 0.2.0
+   - 1.0.0
+   - 2.0.0
+   - 2.1.0
+   - 2.2.0
+   - 2.3.0
+  lastUpdated: '20160314191111'
+

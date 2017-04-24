@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Minify Polymer
+   prefix: polymer-minifier
+   artifactId: polymer-minifier
+

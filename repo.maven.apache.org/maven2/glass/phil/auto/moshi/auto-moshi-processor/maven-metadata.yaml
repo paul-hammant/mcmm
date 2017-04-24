@@ -1,0 +1,10 @@
+metadata:
+ groupId: glass.phil.auto.moshi
+ artifactId: auto-moshi-processor
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20170109214059'
+

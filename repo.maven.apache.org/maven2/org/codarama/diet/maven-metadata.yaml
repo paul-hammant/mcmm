@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Diet Maven Mojo
+   prefix: dietmojo
+   artifactId: diet-maven-mojo
+

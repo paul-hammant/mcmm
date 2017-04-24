@@ -1,0 +1,10 @@
+metadata:
+ groupId: marmalade
+ artifactId: marmalade-tags-io
+ version: 1.0-alpha-2
+ versioning:
+  versions:
+   version:
+   - 1.0-alpha-2
+   - 1.0-alpha-3
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.deeplearning4j
+ artifactId: dl4j-spark-nlp-java8_2.10
+ versioning:
+  latest: 0.8.0_spark_1
+  release: 0.8.0_spark_1
+  versions:
+   version: 0.8.0_spark_1
+  lastUpdated: '20170313051437'
+

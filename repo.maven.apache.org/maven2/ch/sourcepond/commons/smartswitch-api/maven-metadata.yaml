@@ -1,0 +1,15 @@
+metadata:
+ groupId: ch.sourcepond.commons
+ artifactId: smartswitch-api
+ versioning:
+  latest: 4.0.1
+  release: 4.0.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 1.0.2
+   - 4.0.0
+   - 4.0.1
+  lastUpdated: '20170327094117'
+

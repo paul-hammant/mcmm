@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Spock Framework - Maven Module
+   prefix: spock
+   artifactId: spock-maven
+

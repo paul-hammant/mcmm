@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: JBehave Maven Plugin
+   prefix: jbehave
+   artifactId: jbehave-maven-plugin
+  - name: JBehave REST
+   prefix: jbehave-rest
+   artifactId: jbehave-rest
+

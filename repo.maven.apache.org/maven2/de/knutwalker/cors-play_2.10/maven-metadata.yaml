@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.knutwalker
+ artifactId: cors-play_2.10
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+  lastUpdated: '20140223141654'
+

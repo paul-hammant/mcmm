@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.jbundle.util.calendarpanel
+ artifactId: jbundle-util-calendarpanel-sample-site-jnlp
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version:
+   - 0.8.1
+   - 0.8.2
+   - 1.0.0
+  lastUpdated: '20110914202209'
+

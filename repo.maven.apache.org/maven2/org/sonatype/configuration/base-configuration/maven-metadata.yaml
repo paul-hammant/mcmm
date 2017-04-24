@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.sonatype.configuration
+ artifactId: base-configuration
+ versioning:
+  latest: 1.1.1
+  release: 1.1.1
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - 1.1.1
+  lastUpdated: '20120206160919'
+

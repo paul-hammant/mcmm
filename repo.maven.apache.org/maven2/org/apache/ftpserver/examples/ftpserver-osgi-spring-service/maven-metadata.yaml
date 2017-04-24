@@ -1,0 +1,21 @@
+metadata:
+ groupId: org.apache.ftpserver.examples
+ artifactId: ftpserver-osgi-spring-service
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0-M4
+   - 1.0.0-RC1
+   - 1.0.0-RC2
+   - 1.0.0
+   - 1.0.1
+   - 1.0.2
+   - 1.0.3
+   - 1.0.4
+   - 1.0.5
+   - 1.0.6
+   - 1.1.0
+  lastUpdated: '20161031141223'
+

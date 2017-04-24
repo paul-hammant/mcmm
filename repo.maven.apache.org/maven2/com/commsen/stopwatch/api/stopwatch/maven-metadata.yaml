@@ -1,0 +1,8 @@
+metadata:
+ groupId: com.commsen.stopwatch.api
+ artifactId: stopwatch
+ version: '0.3'
+ versioning:
+  versions:
+   version: '0.3'
+

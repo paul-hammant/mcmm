@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ClashInspector
+   prefix: clashinspector
+   artifactId: clashinspector-maven-plugin
+

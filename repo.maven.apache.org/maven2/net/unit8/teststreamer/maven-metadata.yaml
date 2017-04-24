@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: test-streamer-maven-plugin Maven Mojo
+   prefix: test-streamer
+   artifactId: test-streamer-maven-plugin
+

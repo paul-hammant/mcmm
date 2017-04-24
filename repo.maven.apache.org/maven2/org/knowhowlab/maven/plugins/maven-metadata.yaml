@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: KeePass Maven Plugin
+   prefix: keepass
+   artifactId: keepass-maven-plugin
+

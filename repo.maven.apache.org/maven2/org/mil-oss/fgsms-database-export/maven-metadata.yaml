@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.mil-oss
+ artifactId: fgsms-database-export
+ versioning:
+  latest: 7.0.0
+  release: 7.0.0
+  versions:
+   version: 7.0.0
+  lastUpdated: '20170312041952'
+

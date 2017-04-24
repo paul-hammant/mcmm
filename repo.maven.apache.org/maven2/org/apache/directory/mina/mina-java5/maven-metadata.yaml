@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.directory.mina
+ artifactId: mina-java5
+ version: 0.9.5
+ versioning:
+  versions:
+   version: 0.9.5
+  lastUpdated: '20060905143036'
+

@@ -1,0 +1,8 @@
+metadata:
+ groupId: jackcess
+ artifactId: jackcess
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+

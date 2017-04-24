@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.sf.dozer
+ artifactId: dozer-spring
+ versioning:
+  latest: 5.5.1
+  release: 5.5.1
+  versions:
+   version: 5.5.1
+  lastUpdated: '20140422200343'
+

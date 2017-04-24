@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.codehaus.sonar-ide
+ artifactId: idea-sonar-plugin
+ version: '0.1'
+ versioning:
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20100501003719'
+

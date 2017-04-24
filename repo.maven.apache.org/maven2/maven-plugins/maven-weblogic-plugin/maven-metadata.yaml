@@ -1,0 +1,7 @@
+metadata:
+ groupId: maven-plugins
+ artifactId: maven-weblogic-plugin
+ versioning:
+  versions:
+   version: 1.0.0
+

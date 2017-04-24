@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven JDBC Plugin
+   prefix: jdbc-8
+   artifactId: jdbc-8-maven-plugin
+

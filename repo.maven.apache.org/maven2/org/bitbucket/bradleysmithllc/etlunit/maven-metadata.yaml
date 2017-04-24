@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: etlunit-feature-compiler Maven Mojo
+   prefix: etlunit-feature-compiler
+   artifactId: etlunit-feature-compiler
+  - name: etlunit-maven
+   prefix: etlunit
+   artifactId: etlunit-maven
+  - name: etlunit-feature-compiler Maven Mojo
+   prefix: feature-compiler
+   artifactId: feature-compiler
+  - name: etlunit-maven
+   prefix: null
+   artifactId: maven
+  - name: etlunit-module-mojo Maven Mojo
+   prefix: module-mojo
+   artifactId: module-mojo
+  - name: etlunit-module-mojo Maven Mojo
+   prefix: module-signer
+   artifactId: module-signer
+

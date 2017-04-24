@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Cargo Maven 2 Plugin
+   prefix: cargo2
+   artifactId: cargo-maven2-plugin
+

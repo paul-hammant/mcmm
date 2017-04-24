@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: soitoolkit-generator-maven-plugin Maven Mojo
+   prefix: soitoolkit-generator
+   artifactId: soitoolkit-generator-maven-plugin
+

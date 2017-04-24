@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.foundweekends.giter8
+ artifactId: giter8_2.10
+ versioning:
+  latest: 0.8.0
+  release: 0.8.0
+  versions:
+   version:
+   - 0.7.0
+   - 0.7.1
+   - 0.7.2
+   - 0.8.0
+  lastUpdated: '20170417015853'
+

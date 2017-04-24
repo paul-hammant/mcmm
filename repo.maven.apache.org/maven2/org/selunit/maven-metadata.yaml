@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: selunit-maven-plugin
+   prefix: selunit
+   artifactId: selunit-maven-plugin
+

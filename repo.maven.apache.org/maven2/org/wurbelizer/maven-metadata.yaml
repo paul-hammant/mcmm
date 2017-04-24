@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Wurbelizer Maven Plugin
+   prefix: wurbelizer
+   artifactId: wurbelizer-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.johnmurray
+ artifactId: etcd4j-lock
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20160318185521'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'Tensor Project-Relationship Database :: Maven Plugin'
+   prefix: tensor
+   artifactId: tensor-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.coralogix.sdk
+ artifactId: log4j-appender
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version: 2.0.0
+  lastUpdated: '20170109162834'
+

@@ -1,0 +1,16 @@
+metadata:
+ groupId: io.fastjson
+ artifactId: etcd-client
+ versioning:
+  latest: '0.34'
+  release: '0.34'
+  versions:
+   version:
+   - '0.29'
+   - '0.30'
+   - '0.31'
+   - '0.32'
+   - '0.33'
+   - '0.34'
+  lastUpdated: '20160831214644'
+

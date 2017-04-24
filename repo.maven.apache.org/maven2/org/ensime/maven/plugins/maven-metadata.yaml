@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ensime-maven
+   prefix: ensime
+   artifactId: ensime-maven
+

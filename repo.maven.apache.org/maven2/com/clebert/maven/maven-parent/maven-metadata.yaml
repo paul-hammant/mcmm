@@ -1,0 +1,14 @@
+metadata:
+ groupId: com.clebert.maven
+ artifactId: maven-parent
+ versioning:
+  latest: '4'
+  release: '4'
+  versions:
+   version:
+   - '1'
+   - '2'
+   - '3'
+   - '4'
+  lastUpdated: '20121209134930'
+

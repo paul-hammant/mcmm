@@ -1,0 +1,15 @@
+metadata:
+ groupId: de.alpharogroup
+ artifactId: events.system
+ versioning:
+  latest: 3.0.0
+  release: 3.0.0
+  versions:
+   version:
+   - 1.0.0
+   - 2.0.0
+   - 2.1.0
+   - 2.2.0
+   - 3.0.0
+  lastUpdated: '20150913163314'
+

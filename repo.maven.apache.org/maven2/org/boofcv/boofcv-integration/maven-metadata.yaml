@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.boofcv
+ artifactId: boofcv-integration
+ versioning:
+  latest: '0.16'
+  release: '0.16'
+  versions:
+   version: '0.16'
+  lastUpdated: '20131229193222'
+

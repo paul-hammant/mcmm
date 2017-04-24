@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.brightify.torch
+ artifactId: torch-testing-utils
+ versioning:
+  latest: 1.0.0-alpha.3
+  release: 1.0.0-alpha.3
+  versions:
+   version: 1.0.0-alpha.3
+  lastUpdated: '20141124223850'
+

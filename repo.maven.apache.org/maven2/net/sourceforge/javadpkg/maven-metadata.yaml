@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Debian Package Maven Plugin
+   prefix: dpkg
+   artifactId: dpkg-maven-plugin
+

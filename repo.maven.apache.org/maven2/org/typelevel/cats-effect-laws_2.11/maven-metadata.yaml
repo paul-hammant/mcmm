@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.typelevel
+ artifactId: cats-effect-laws_2.11
+ versioning:
+  latest: 0.1-d1b5231
+  release: 0.1-d1b5231
+  versions:
+   version: 0.1-d1b5231
+  lastUpdated: '20170421210315'
+

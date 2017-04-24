@@ -1,0 +1,10 @@
+metadata:
+ groupId: be.fluid-it.guice.extensions
+ artifactId: guice-multi-shiro-realms
+ versioning:
+  latest: 0.1-1
+  release: 0.1-1
+  versions:
+   version: 0.1-1
+  lastUpdated: '20150520042803'
+

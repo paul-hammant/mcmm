@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.jboss.jbossas
+ artifactId: jboss-as-jbossmq
+ versioning:
+  latest: 5.0.0.CR2
+  release: 5.0.0.CR2
+  versions:
+   version:
+   - 5.0.0.Beta4
+   - 5.0.0.CR1
+   - 5.0.0.CR2
+  lastUpdated: '20100425071111'
+

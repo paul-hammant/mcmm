@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: 'BatchEE :: Tools :: Maven Plugin'
+   prefix: batchee
+   artifactId: batchee-maven-plugin
+

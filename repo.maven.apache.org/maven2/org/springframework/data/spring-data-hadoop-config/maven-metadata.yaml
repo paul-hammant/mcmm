@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.springframework.data
+ artifactId: spring-data-hadoop-config
+ versioning:
+  latest: 2.4.0.RELEASE
+  release: 2.4.0.RELEASE
+  versions:
+   version:
+   - 2.3.0.RELEASE
+   - 2.3.0.RELEASE-hadoop26
+   - 2.4.0.RELEASE
+  lastUpdated: '20160629115559'
+

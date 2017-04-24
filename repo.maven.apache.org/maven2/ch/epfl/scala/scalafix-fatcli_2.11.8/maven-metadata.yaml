@@ -1,0 +1,10 @@
+metadata:
+ groupId: ch.epfl.scala
+ artifactId: scalafix-fatcli_2.11.8
+ versioning:
+  latest: 0.3.3
+  release: 0.3.3
+  versions:
+   version: 0.3.3
+  lastUpdated: '20170403182227'
+

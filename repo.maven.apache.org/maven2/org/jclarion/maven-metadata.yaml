@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven plugin for Java/Clarion Compiler
+   prefix: clarion
+   artifactId: clarion-maven-plugin
+

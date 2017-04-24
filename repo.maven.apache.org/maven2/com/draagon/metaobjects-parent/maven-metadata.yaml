@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.draagon
+ artifactId: metaobjects-parent
+ versioning:
+  latest: 3.5.1
+  release: 3.5.1
+  versions:
+   version: 3.5.1
+  lastUpdated: '20120831141354'
+

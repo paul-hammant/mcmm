@@ -1,0 +1,16 @@
+metadata:
+ groupId: it.tidalwave.northernwind
+ artifactId: simple-site1-step1-archetype
+ versioning:
+  latest: '1.10'
+  release: '1.10'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - '1.8'
+   - '1.9'
+   - '1.10'
+  lastUpdated: '20150805205119'
+

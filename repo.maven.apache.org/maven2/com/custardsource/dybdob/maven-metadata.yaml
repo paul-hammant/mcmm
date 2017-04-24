@@ -1,0 +1,18 @@
+metadata:
+ versioning:
+  latest: 1.0.1
+  release: 1.0.1
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+  lastUpdated: '20100831042803'
+ plugins:
+  plugin:
+  - name: dybdob Maven Mojo
+   prefix: dybdob-mojo
+   artifactId: dybdob-mojo
+  - name: dybdob Maven Utility Mojos
+   prefix: dybdob-util-mojos
+   artifactId: dybdob-util-mojos
+

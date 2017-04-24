@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.apache.beehive
+ artifactId: beehive-netui-core
+ version: 1.0.2
+ versioning:
+  versions:
+   version: 1.0.2
+  lastUpdated: '20070106214339'
+

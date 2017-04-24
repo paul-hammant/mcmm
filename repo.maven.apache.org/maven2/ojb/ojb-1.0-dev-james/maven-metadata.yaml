@@ -1,0 +1,8 @@
+metadata:
+ groupId: ojb
+ artifactId: ojb-1.0-dev-james
+ version: '1'
+ versioning:
+  versions:
+   version: '1'
+

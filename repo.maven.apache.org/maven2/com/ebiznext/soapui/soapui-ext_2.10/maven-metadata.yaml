@@ -1,0 +1,12 @@
+metadata:
+ groupId: com.ebiznext.soapui
+ artifactId: soapui-ext_2.10
+ versioning:
+  latest: 4.5.1
+  release: 4.5.1
+  versions:
+   version:
+   - 4.5.0
+   - 4.5.1
+  lastUpdated: '20131017185346'
+

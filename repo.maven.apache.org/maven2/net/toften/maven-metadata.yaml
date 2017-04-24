@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: docmaker
+   prefix: docmaker
+   artifactId: docmaker
+

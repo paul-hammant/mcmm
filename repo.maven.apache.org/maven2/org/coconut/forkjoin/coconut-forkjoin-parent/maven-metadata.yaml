@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.coconut.forkjoin
+ artifactId: coconut-forkjoin-parent
+ version: '0.1'
+ versioning:
+  versions:
+   version: '0.1'
+  lastUpdated: '20080107212636'
+

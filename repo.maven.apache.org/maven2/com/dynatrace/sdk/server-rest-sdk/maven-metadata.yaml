@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.dynatrace.sdk
+ artifactId: server-rest-sdk
+ versioning:
+  latest: 7.0.0
+  release: 7.0.0
+  versions:
+   version: 7.0.0
+  lastUpdated: '20170412153304'
+

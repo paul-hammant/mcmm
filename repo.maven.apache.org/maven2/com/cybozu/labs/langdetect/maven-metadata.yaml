@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.cybozu.labs
+ artifactId: langdetect
+ versioning:
+  latest: 1.1-20120112
+  release: 1.1-20120112
+  versions:
+   version: 1.1-20120112
+  lastUpdated: '20120403134551'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.jetbrains.spek
+ artifactId: spek-api
+ versioning:
+  latest: 1.1.0
+  release: 1.1.0
+  versions:
+   version:
+   - 1.0.0-test-deploy
+   - 1.0.77
+   - 1.0.89
+   - 1.1.0-beta2
+   - 1.1.0
+  lastUpdated: '20170326121908'
+

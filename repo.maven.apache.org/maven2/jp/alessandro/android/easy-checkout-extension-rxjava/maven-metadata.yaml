@@ -1,0 +1,10 @@
+metadata:
+ groupId: jp.alessandro.android
+ artifactId: easy-checkout-extension-rxjava
+ versioning:
+  latest: v1.0.1
+  release: v1.0.1
+  versions:
+   version: v1.0.1
+  lastUpdated: '20170220040755'
+

@@ -1,0 +1,39 @@
+metadata:
+ groupId: org.jboss.ws.native
+ artifactId: jbossws-native-saaj
+ versioning:
+  latest: 3.2.2.GA
+  release: 3.2.2.GA
+  versions:
+   version:
+   - 3.0.2.GA
+   - 3.0.3.GA
+   - 3.0.4.CR1
+   - 3.0.4.GA
+   - 3.0.4.SP1
+   - 3.0.5.GA
+   - 3.1.0.CR1
+   - 3.1.0.CR2
+   - 3.1.0.CR3
+   - 3.1.0.GA
+   - 3.1.1.CR1
+   - 3.1.1.GA
+   - 3.1.2.CR1
+   - 3.1.2.CR2
+   - 3.1.2.GA
+   - 3.1.2.SP1
+   - 3.1.2.SP2
+   - 3.1.2.SP3
+   - 3.1.2.SP3_CP01
+   - 3.1.2.SP4
+   - 3.1.2.SP5
+   - 3.1.2.SP6
+   - 3.2.0.Beta1
+   - 3.2.0.Beta2
+   - 3.2.0.GA
+   - 3.2.1.Beta1
+   - 3.2.1.Beta2
+   - 3.2.1.GA
+   - 3.2.2.GA
+  lastUpdated: '20100526101151'
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.ow2.orchestra.distrib
+ artifactId: orchestra
+ version: 4.0.RC2
+ versioning:
+  versions:
+   version: 4.0.RC2
+  lastUpdated: '20080916090447'
+

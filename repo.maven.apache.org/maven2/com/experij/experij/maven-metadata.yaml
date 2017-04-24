@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.experij
+ artifactId: experij
+ versioning:
+  latest: 0.4.1
+  release: 0.4.1
+  versions:
+   version: 0.4.1
+  lastUpdated: '20170214231722'
+

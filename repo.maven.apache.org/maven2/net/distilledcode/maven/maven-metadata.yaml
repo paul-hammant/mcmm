@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Baselining Maven Plugin
+   prefix: baselining
+   artifactId: baselining-maven-plugin
+

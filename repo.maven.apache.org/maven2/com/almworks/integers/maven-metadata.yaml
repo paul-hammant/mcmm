@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Generate integers
+   prefix: generator
+   artifactId: generator-maven-plugin
+

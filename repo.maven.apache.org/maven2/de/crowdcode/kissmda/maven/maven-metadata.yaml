@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: kissmda-maven-plugin
+   prefix: kissmda
+   artifactId: kissmda-maven-plugin
+

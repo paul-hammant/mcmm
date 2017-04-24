@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Merge Jmockit Maven Plugin
+   prefix: merge-jmockit-maven-plugin
+   artifactId: merge-jmockit-maven-plugin
+

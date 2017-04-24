@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Graphviz Maven Plugin
+   prefix: graphviz
+   artifactId: graphviz-maven-plugin
+  - name: RelaxNG Maven Plugin
+   prefix: relaxng
+   artifactId: relaxng-maven-plugin
+

@@ -1,0 +1,11 @@
+metadata:
+ groupId: geronimo
+ artifactId: geronimo-xmlbeans-plugin
+ version: 1.0-M2
+ versioning:
+  versions:
+   version:
+   - 1.0-M2
+   - 1.0-20040908
+   - 1.0-M4
+

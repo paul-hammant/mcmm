@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.parceler
+ artifactId: parceler-test
+ versioning:
+  latest: 0.2.15
+  release: 0.2.15
+  versions:
+   version: 0.2.15
+  lastUpdated: '20141203030634'
+

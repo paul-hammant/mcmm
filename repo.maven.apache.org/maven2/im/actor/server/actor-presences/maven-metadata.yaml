@@ -1,0 +1,12 @@
+metadata:
+ groupId: im.actor.server
+ artifactId: actor-presences
+ versioning:
+  latest: 1.0.8
+  release: 1.0.8
+  versions:
+   version:
+   - 1.0.3
+   - 1.0.8
+  lastUpdated: '20151202224552'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.amazon.emr
+ artifactId: hive2-shims
+ versioning:
+  latest: 4.2.0
+  release: 4.2.0
+  versions:
+   version: 4.2.0
+  lastUpdated: '20160923235932'
+

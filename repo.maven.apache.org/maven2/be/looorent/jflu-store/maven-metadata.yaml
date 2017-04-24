@@ -1,0 +1,10 @@
+metadata:
+ groupId: be.looorent
+ artifactId: jflu-store
+ versioning:
+  latest: '0.1'
+  release: '0.1'
+  versions:
+   version: '0.1'
+  lastUpdated: '20161213212632'
+

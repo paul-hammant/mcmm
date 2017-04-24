@@ -1,0 +1,12 @@
+metadata:
+ groupId: de.hhu.stups
+ artifactId: tla2bAST
+ versioning:
+  latest: 1.0.8
+  release: 1.0.8
+  versions:
+   version:
+   - 1.0.7
+   - 1.0.8
+  lastUpdated: '20160224135848'
+

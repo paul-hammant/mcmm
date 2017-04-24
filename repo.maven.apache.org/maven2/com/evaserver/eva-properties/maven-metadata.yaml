@@ -1,0 +1,7 @@
+metadata:
+ groupId: com.evaserver
+ artifactId: eva-properties
+ versioning:
+  versions:
+   version: 0.2.1
+

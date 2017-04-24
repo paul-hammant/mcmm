@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.jboss.jbossas
+ artifactId: jboss-as-messaging
+ versioning:
+  latest: 6.0.0.20100216-M2
+  release: 6.0.0.20100216-M2
+  versions:
+   version:
+   - 5.0.0.Beta4
+   - 5.0.0.CR1
+   - 5.0.0.CR2
+   - 5.0.0.GA
+   - 5.0.1.GA
+   - 5.1.0.CR1
+   - 5.1.0.GA
+   - 6.0.0.M1
+   - 6.0.0.20100216-M2
+  lastUpdated: '20100425072930'
+

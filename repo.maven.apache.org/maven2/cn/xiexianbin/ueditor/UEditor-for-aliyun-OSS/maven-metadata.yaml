@@ -1,0 +1,10 @@
+metadata:
+ groupId: cn.xiexianbin.ueditor
+ artifactId: UEditor-for-aliyun-OSS
+ versioning:
+  latest: 1.4.3
+  release: 1.4.3
+  versions:
+   version: 1.4.3
+  lastUpdated: '20160821033921'
+

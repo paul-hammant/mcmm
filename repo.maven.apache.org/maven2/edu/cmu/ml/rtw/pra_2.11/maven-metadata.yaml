@@ -1,0 +1,18 @@
+metadata:
+ groupId: edu.cmu.ml.rtw
+ artifactId: pra_2.11
+ versioning:
+  latest: '3.4'
+  release: '3.4'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '2.0'
+   - '3.0'
+   - '3.1'
+   - '3.2'
+   - '3.3'
+   - '3.4'
+  lastUpdated: '20160826174413'
+

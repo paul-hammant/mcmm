@@ -1,0 +1,20 @@
+metadata:
+ groupId: org.uma.jmetal
+ artifactId: jmetal-exec
+ versioning:
+  latest: '5.2'
+  release: '5.2'
+  versions:
+   version:
+   - 5.0-Beta-24
+   - 5.0-Beta-25
+   - 5.0-Beta-26
+   - 5.0-Beta-28
+   - 5.0-Beta-29
+   - 5.0-Beta-33
+   - 5.0-Beta-34
+   - '5.0'
+   - '5.1'
+   - '5.2'
+  lastUpdated: '20170112092505'
+

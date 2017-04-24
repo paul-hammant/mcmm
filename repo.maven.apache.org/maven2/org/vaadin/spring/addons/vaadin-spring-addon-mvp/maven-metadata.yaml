@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.vaadin.spring.addons
+ artifactId: vaadin-spring-addon-mvp
+ versioning:
+  latest: 2.0.0.RELEASE
+  release: 2.0.0.RELEASE
+  versions:
+   version:
+   - 0.0.6.RELEASE
+   - 0.0.7.RELEASE
+   - 2.0.0.RELEASE
+  lastUpdated: '20170324064229'
+

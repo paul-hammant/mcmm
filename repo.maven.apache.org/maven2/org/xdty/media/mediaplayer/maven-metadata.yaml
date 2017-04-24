@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.xdty.media
+ artifactId: mediaplayer
+ versioning:
+  latest: 0.0.1
+  release: 0.0.1
+  versions:
+   version: 0.0.1
+  lastUpdated: '20151222015006'
+

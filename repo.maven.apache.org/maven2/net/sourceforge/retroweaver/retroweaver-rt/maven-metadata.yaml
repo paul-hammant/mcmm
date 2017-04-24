@@ -1,0 +1,14 @@
+metadata:
+ groupId: net.sourceforge.retroweaver
+ artifactId: retroweaver-rt
+ version: 2.0.3
+ versioning:
+  versions:
+   version:
+   - 2.0.3
+   - 2.0.4
+   - 2.0.5
+   - 2.0.6
+   - 2.0.7
+  lastUpdated: '20081014223031'
+

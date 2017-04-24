@@ -1,0 +1,13 @@
+metadata:
+ groupId: axion
+ artifactId: axion
+ version: 1.0-M1
+ versioning:
+  versions:
+   version:
+   - 1.0-M1
+   - 1.0-M2-dev
+   - 1.0-M3-dev
+   - 1.0-dev.20020822.054820
+   - 1.0-dev.20020830.060007
+

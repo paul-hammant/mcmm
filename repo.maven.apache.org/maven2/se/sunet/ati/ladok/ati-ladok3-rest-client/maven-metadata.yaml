@@ -1,0 +1,10 @@
+metadata:
+ groupId: se.sunet.ati.ladok
+ artifactId: ati-ladok3-rest-client
+ versioning:
+  latest: '0.72'
+  release: '0.72'
+  versions:
+   version: '0.72'
+  lastUpdated: '20170309202033'
+

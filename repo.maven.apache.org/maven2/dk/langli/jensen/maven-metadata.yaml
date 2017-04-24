@@ -1,0 +1,13 @@
+metadata:
+ groupId: dk.langli
+ artifactId: jensen
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20161205115100'
+

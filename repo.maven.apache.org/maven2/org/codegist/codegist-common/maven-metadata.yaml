@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.codegist
+ artifactId: codegist-common
+ versioning:
+  latest: 2.0.0-RC1
+  release: 2.0.0-RC1
+  versions:
+   version:
+   - 1.0.0
+   - 1.0.1
+   - 2.0.0-RC1
+  lastUpdated: '20111013224556'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: us.codecraft
+ artifactId: webmagic-samples
+ versioning:
+  latest: 0.6.1
+  release: 0.6.1
+  versions:
+   version:
+   - 0.5.2
+   - 0.6.0
+   - 0.6.1
+  lastUpdated: '20170121072620'
+

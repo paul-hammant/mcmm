@@ -1,0 +1,13 @@
+metadata:
+ groupId: au.id.ajlane
+ artifactId: checkstyle-config
+ versioning:
+  latest: 0.0.3
+  release: 0.0.3
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.2
+   - 0.0.3
+  lastUpdated: '20160405063842'
+

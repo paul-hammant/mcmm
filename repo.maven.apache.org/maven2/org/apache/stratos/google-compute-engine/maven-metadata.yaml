@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.stratos
+ artifactId: google-compute-engine
+ versioning:
+  latest: 1.9.1
+  release: 1.9.1
+  versions:
+   version: 1.9.1
+  lastUpdated: '20150906060143'
+

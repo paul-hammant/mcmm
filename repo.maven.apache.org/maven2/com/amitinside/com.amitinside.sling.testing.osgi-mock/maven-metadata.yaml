@@ -1,0 +1,13 @@
+metadata:
+ groupId: com.amitinside
+ artifactId: com.amitinside.sling.testing.osgi-mock
+ versioning:
+  latest: 1.2.0
+  release: 1.2.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 1.2.0
+  lastUpdated: '20160523020000'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: ru.vyukov
+ artifactId: another-live-refresh-spring-boot-starter
+ versioning:
+  latest: 0.2.1
+  release: 0.2.1
+  versions:
+   version:
+   - '0.1'
+   - 0.1.1
+   - 0.1.2
+   - '0.2'
+   - 0.2.1
+  lastUpdated: '20170403174057'
+

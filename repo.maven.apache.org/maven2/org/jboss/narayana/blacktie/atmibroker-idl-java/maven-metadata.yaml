@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.narayana.blacktie
+ artifactId: atmibroker-idl-java
+ versioning:
+  latest: 3.0.0.Final
+  release: 3.0.0.Final
+  versions:
+   version: 3.0.0.Final
+  lastUpdated: '20110726100827'
+

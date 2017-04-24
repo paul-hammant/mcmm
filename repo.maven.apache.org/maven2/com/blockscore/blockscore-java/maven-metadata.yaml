@@ -1,0 +1,10 @@
+metadata:
+ groupId: com.blockscore
+ artifactId: blockscore-java
+ versioning:
+  latest: 4.0.0
+  release: 4.0.0
+  versions:
+   version: 4.0.0
+  lastUpdated: '20150605205946'
+

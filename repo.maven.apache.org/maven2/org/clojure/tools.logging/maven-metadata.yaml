@@ -1,0 +1,20 @@
+metadata:
+ groupId: org.clojure
+ artifactId: tools.logging
+ versioning:
+  latest: 0.3.1
+  release: 0.3.1
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 0.1.2
+   - 0.2.0
+   - 0.2.2
+   - 0.2.3
+   - 0.2.4
+   - 0.2.6
+   - 0.3.0
+   - 0.3.1
+  lastUpdated: '20140920184339'
+

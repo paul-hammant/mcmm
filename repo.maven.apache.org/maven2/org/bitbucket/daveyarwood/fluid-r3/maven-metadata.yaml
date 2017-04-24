@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.bitbucket.daveyarwood
+ artifactId: fluid-r3
+ versioning:
+  latest: 0.1.1
+  release: 0.1.1
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+  lastUpdated: '20150619183602'
+

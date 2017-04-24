@@ -1,0 +1,10 @@
+metadata:
+ groupId: us.codecraft
+ artifactId: express.java
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version: 0.1.0
+  lastUpdated: '20131117091109'
+

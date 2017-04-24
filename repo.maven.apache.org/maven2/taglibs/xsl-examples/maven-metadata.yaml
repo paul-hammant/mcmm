@@ -1,0 +1,8 @@
+metadata:
+ groupId: taglibs
+ artifactId: xsl-examples
+ version: 1.0.1
+ versioning:
+  versions:
+   version: 1.0.1
+

@@ -1,0 +1,9 @@
+metadata:
+ groupId: maven
+ artifactId: maven-modello-plugin
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - 1.0.javadoc
+

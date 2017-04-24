@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.julienrf
+ artifactId: play-products_2.11
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20160229152006'
+

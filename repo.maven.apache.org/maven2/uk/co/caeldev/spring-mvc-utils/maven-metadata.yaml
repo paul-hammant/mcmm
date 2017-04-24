@@ -1,0 +1,15 @@
+metadata:
+ groupId: uk.co.caeldev
+ artifactId: spring-mvc-utils
+ versioning:
+  latest: 0.1.9
+  release: 0.1.9
+  versions:
+   version:
+   - 0.1.0
+   - 0.1.1
+   - 0.1.3
+   - 0.1.4
+   - 0.1.9
+  lastUpdated: '20160303194947'
+

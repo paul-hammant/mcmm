@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.bitbucket.abdysamat
+ artifactId: springcore
+ versioning:
+  latest: 1.2.3-RELEASE
+  release: 1.2.3-RELEASE
+  versions:
+   version: 1.2.3-RELEASE
+  lastUpdated: '20160918155814'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.findify
+ artifactId: s3mock_2.12
+ versioning:
+  latest: 0.1.10
+  release: 0.1.10
+  versions:
+   version:
+   - 0.1.8
+   - 0.1.9
+   - 0.1.10
+  lastUpdated: '20170316102750'
+

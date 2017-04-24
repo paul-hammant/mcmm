@@ -1,0 +1,8 @@
+metadata:
+ groupId: cryptix
+ artifactId: cryptix
+ version: 3.2.0
+ versioning:
+  versions:
+   version: 3.2.0
+

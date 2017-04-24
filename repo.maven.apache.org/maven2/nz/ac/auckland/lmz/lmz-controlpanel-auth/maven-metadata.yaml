@@ -1,0 +1,10 @@
+metadata:
+ groupId: nz.ac.auckland.lmz
+ artifactId: lmz-controlpanel-auth
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version: '1.1'
+  lastUpdated: '20140604220339'
+

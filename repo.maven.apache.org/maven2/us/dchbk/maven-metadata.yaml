@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: diag-maven-plugin Maven Plugin
+   prefix: diag
+   artifactId: diag-maven-plugin
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: plugin
+   prefix: grains
+   artifactId: grains-plugin
+

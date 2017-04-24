@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.sglahn
+ artifactId: gradle-dockerfile-plugin
+ versioning:
+  latest: '0.3'
+  release: '0.3'
+  versions:
+   version:
+   - '0.2'
+   - '0.3'
+  lastUpdated: '20170404190657'
+

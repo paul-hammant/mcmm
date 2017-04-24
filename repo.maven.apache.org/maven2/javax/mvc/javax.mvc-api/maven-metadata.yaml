@@ -1,0 +1,13 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: javax.mvc
+ artifactId: javax.mvc-api
+ versioning:
+  latest: 1.0-edr2
+  release: 1.0-edr2
+  versions:
+   version:
+   - 1.0-edr1
+   - 1.0-edr2
+  lastUpdated: '20150929163510'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: be.olsson.bencoder
+ artifactId: bencoder
+ versioning:
+  latest: '0.14'
+  release: '0.14'
+  versions:
+   version: '0.14'
+  lastUpdated: '20140905143339'
+

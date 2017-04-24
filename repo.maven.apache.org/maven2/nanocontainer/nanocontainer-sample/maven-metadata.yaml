@@ -1,0 +1,9 @@
+metadata:
+ groupId: nanocontainer
+ artifactId: nanocontainer-sample
+ versioning:
+  versions:
+   version:
+   - webwork
+   - nanoweb
+

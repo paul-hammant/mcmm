@@ -1,0 +1,8 @@
+metadata:
+ groupId: spring
+ artifactId: spring-mock
+ version: 1.0.2
+ versioning:
+  versions:
+   version: 1.0.2
+

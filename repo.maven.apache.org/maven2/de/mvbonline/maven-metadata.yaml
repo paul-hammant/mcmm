@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: RESTful API Doc Generator
+   prefix: restapi-doc
+   artifactId: restapi-doc
+

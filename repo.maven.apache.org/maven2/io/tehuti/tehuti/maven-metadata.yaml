@@ -1,0 +1,14 @@
+metadata:
+ groupId: io.tehuti
+ artifactId: tehuti
+ versioning:
+  latest: 0.7.1
+  release: 0.7.1
+  versions:
+   version:
+   - '0.6'
+   - 0.6.1
+   - 0.7.0
+   - 0.7.1
+  lastUpdated: '20160721001923'
+

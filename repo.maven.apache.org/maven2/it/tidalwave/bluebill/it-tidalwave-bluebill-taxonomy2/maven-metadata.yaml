@@ -1,0 +1,18 @@
+metadata:
+ groupId: it.tidalwave.bluebill
+ artifactId: it-tidalwave-bluebill-taxonomy2
+ versioning:
+  latest: 1.3.16
+  release: 1.3.16
+  versions:
+   version:
+   - 0.14.1.RC1
+   - 1.3.10
+   - 1.3.11
+   - 1.3.12
+   - 1.3.13
+   - 1.3.14
+   - 1.3.15
+   - 1.3.16
+  lastUpdated: '20100903112556'
+

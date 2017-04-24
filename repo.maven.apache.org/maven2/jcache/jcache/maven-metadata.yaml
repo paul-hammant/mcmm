@@ -1,0 +1,10 @@
+metadata:
+ groupId: jcache
+ artifactId: jcache
+ version: 1.0-dev-1
+ versioning:
+  versions:
+   version:
+   - 1.0-dev-1
+   - 1.0-dev-2
+

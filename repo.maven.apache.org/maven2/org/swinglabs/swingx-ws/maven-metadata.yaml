@@ -1,0 +1,9 @@
+metadata:
+ groupId: org.swinglabs
+ artifactId: swingx-ws
+ version: '1.0'
+ versioning:
+  versions:
+   version: '1.0'
+  lastUpdated: '20091202195738'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.weblab.webservices
+ artifactId: sphinx-transcription
+ version: 1.0-RC1
+ versioning:
+  release: 1.0-RC1
+  versions:
+   version: 1.0-RC1
+  lastUpdated: '20111012152309'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.geronimo.ext.aries.blueprint
+ artifactId: org.apache.aries.blueprint.annotation.api
+ versioning:
+  latest: 0.3.0.1
+  release: 0.3.0.1
+  versions:
+   version: 0.3.0.1
+  lastUpdated: '20111008010542'
+

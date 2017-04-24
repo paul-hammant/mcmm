@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Apache Directory Daemon Plugin (Maven 2)
+   prefix: daemon
+   artifactId: daemon-plugin
+

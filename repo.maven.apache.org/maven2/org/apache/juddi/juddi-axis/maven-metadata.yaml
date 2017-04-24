@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.juddi
+ artifactId: juddi-axis
+ versioning:
+  latest: 3.0.0.beta
+  release: 3.0.0.beta
+  versions:
+   version:
+   - 3.0.0.alpha
+   - 3.0.0.beta
+  lastUpdated: '20101014123758'
+

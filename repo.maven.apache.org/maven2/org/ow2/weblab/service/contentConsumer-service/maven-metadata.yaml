@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.ow2.weblab.service
+ artifactId: contentConsumer-service
+ version: '1.6'
+ versioning:
+  release: 1.6.1
+  versions:
+   version:
+   - '1.6'
+   - 1.6.1
+  lastUpdated: '20100309153303'
+

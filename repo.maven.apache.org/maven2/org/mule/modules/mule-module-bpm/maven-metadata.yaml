@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.mule.modules
+ artifactId: mule-module-bpm
+ versioning:
+  latest: 3.8.1
+  release: 3.8.1
+  versions:
+   version:
+   - 3.5.0
+   - 3.6.0
+   - 3.7.0
+   - 3.8.0
+   - 3.8.1
+  lastUpdated: '20160822031857'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: DotPropMavenPlugin
+   prefix: dotprop
+   artifactId: dotprop-maven-plugin
+

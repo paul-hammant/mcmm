@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.orbisgis
+ artifactId: java-network-analyzer
+ versioning:
+  latest: 0.1.6
+  release: 0.1.6
+  versions:
+   version: 0.1.6
+  lastUpdated: '20140417123021'
+

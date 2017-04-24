@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Spring ME Maven Plugin
+   prefix: spring-me
+   artifactId: spring-me-maven-plugin
+

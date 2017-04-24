@@ -1,0 +1,10 @@
+metadata:
+ groupId: me.chyxion.summer
+ artifactId: summer-redis
+ versioning:
+  latest: 0.0.1-RELEASE
+  release: 0.0.1-RELEASE
+  versions:
+   version: 0.0.1-RELEASE
+  lastUpdated: '20161130094638'
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: maven
+ artifactId: maven-struts-plugin
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '1.3'
+

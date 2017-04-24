@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.taig.android
+ artifactId: core_2.11
+ versioning:
+  latest: 3.0.0-BETA2
+  release: 3.0.0-BETA2
+  versions:
+   version: 3.0.0-BETA2
+  lastUpdated: '20160225095549'
+

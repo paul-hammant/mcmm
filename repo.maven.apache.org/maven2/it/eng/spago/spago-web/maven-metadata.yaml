@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.eng.spago
+ artifactId: spago-web
+ versioning:
+  latest: 2.3.0
+  release: 2.3.0
+  versions:
+   version: 2.3.0
+  lastUpdated: '20150925073108'
+

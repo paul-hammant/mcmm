@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.apache.openejb
+ artifactId: commons-dbcp-all
+ versioning:
+  latest: 1.3-r699049
+  release: 1.3-r699049
+  versions:
+   version:
+   - '1.3'
+   - 1.3-r699049
+  lastUpdated: '20090322140255'
+

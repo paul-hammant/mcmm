@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: JBoss Web Services - JAX-WS Tools Maven Plugin
+   prefix: jaxws-tools
+   artifactId: jaxws-tools-maven-plugin
+  - name: JBoss Web Services - JAX-WS Tools Maven Plugin
+   prefix: jaxws-tools
+   artifactId: maven-jaxws-tools-plugin
+

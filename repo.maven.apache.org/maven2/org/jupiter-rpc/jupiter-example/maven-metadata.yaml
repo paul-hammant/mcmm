@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.jupiter-rpc
+ artifactId: jupiter-example
+ versioning:
+  latest: 1.2.4
+  release: 1.2.4
+  versions:
+   version:
+   - 1.2.0
+   - 1.2.1
+   - 1.2.2
+   - 1.2.3
+   - 1.2.4
+  lastUpdated: '20170419022714'
+

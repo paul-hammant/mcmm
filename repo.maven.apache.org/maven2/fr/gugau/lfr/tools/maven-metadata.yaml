@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Liferay Theme Live-deploy
+   prefix: lfr-theme-livedeploy
+   artifactId: lfr-theme-livedeploy
+

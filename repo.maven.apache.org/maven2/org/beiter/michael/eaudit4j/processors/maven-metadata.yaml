@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.beiter.michael.eaudit4j
+ artifactId: processors
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20160720174004'
+

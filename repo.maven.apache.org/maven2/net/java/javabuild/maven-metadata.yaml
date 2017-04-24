@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: builder-maven-plugin
+   prefix: builder
+   artifactId: builder-maven-plugin
+

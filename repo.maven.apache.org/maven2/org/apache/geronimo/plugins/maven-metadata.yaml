@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Geronimo Maven2 Plugins :: CAR'
+   prefix: car
+   artifactId: car-maven-plugin
+  - name: 'Geronimo Maven2 Plugins :: Geronimo'
+   prefix: geronimo
+   artifactId: geronimo-maven-plugin
+  - name: 'Geronimo Maven2 Plugins :: Selenium'
+   prefix: selenium
+   artifactId: selenium-maven-plugin
+  - name: 'Geronimo Maven2 Plugins :: Testsuite Plugin'
+   prefix: testsuite
+   artifactId: testsuite-maven-plugin
+  - name: 'Geronimo Maven2 Plugins :: Testsuite Archetype'
+   prefix: geronimo-archetype-testsuite
+   artifactId: geronimo-archetype-testsuite
+

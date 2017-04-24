@@ -1,0 +1,10 @@
+metadata:
+ groupId: eu.future-earth
+ artifactId: ftr-gwt-date-extra-gwt
+ versioning:
+  latest: '3.1'
+  release: '3.1'
+  versions:
+   version: '3.1'
+  lastUpdated: '20150712093630'
+

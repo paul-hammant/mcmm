@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.ow2.weblab.service
+ artifactId: moses-translation
+ version: 1.0-SNAPSHOT
+ versioning:
+  release: 1.0-SNAPSHOT
+  versions:
+   version: 1.0-SNAPSHOT
+  lastUpdated: '20110503093438'
+

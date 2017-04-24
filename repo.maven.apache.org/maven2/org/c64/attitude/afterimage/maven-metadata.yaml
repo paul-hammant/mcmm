@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.c64.attitude
+ artifactId: afterimage
+ versioning:
+  latest: '0.04'
+  release: '0.04'
+  versions:
+   version:
+   - '0.01'
+   - '0.02'
+   - '0.03'
+   - '0.04'
+  lastUpdated: '20161231170053'
+

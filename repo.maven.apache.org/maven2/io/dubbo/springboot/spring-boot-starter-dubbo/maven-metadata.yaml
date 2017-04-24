@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.dubbo.springboot
+ artifactId: spring-boot-starter-dubbo
+ versioning:
+  latest: 1.0.0
+  release: 1.0.0
+  versions:
+   version: 1.0.0
+  lastUpdated: '20170116061804'
+

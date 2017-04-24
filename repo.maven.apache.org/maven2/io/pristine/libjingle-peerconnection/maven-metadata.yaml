@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.pristine
+ artifactId: libjingle-peerconnection
+ versioning:
+  latest: '6896'
+  release: '6896'
+  versions:
+   version:
+   - '6888'
+   - '6896'
+  lastUpdated: '20140813231335'
+

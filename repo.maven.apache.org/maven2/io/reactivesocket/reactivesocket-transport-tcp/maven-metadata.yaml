@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.reactivesocket
+ artifactId: reactivesocket-transport-tcp
+ versioning:
+  latest: 0.5.2
+  release: 0.5.2
+  versions:
+   version:
+   - 0.5.1
+   - 0.5.2
+  lastUpdated: '20170109230453'
+

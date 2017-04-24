@@ -1,0 +1,17 @@
+metadata:
+ groupId: se.skltp.adapterservices.se.apotekensservice
+ artifactId: ApotekensServiceAdapterService-teststub
+ versioning:
+  latest: 2.0.4
+  release: 2.0.4
+  versions:
+   version:
+   - 1.0.0-RC1
+   - 1.0.0-RC2
+   - 1.0.0-RC3
+   - 1.0.0
+   - 2.0.2
+   - 2.0.4-RC1
+   - 2.0.4
+  lastUpdated: '20160415190443'
+

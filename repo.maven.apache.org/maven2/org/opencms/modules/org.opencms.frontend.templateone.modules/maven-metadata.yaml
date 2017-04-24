@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.opencms.modules
+ artifactId: org.opencms.frontend.templateone.modules
+ versioning:
+  latest: 8.0.1
+  release: 8.0.1
+  versions:
+   version: 8.0.1
+  lastUpdated: '20120106190025'
+

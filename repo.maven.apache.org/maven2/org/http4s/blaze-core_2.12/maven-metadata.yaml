@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.http4s
+ artifactId: blaze-core_2.12
+ versioning:
+  latest: 0.13.0
+  release: 0.13.0
+  versions:
+   version:
+   - 0.12.4
+   - 0.13.0
+  lastUpdated: '20170123025744'
+

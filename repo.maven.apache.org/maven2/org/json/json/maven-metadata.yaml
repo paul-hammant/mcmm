@@ -1,0 +1,16 @@
+metadata:
+ groupId: org.json
+ artifactId: json
+ versioning:
+  latest: '20160810'
+  release: '20160810'
+  versions:
+   version:
+   - '20141113'
+   - '20150729'
+   - '20151123'
+   - '20160212'
+   - '20160807'
+   - '20160810'
+  lastUpdated: '20160810202845'
+

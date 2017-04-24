@@ -1,0 +1,9 @@
+metadata:
+ groupId: javax.xml
+ artifactId: namespace
+ version: 1.0.1
+ versioning:
+  versions:
+   version: 1.0.1
+  lastUpdated: '20061005194936'
+

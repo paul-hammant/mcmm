@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.stickycode.deploy.sample
+ artifactId: sticky-deployer-sample-helloworld
+ versioning:
+  latest: '1.4'
+  release: '1.4'
+  versions:
+   version: '1.4'
+  lastUpdated: '20121126100739'
+

@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Apache Empire-db Maven Plugin
+   prefix: empire-db
+   artifactId: empire-db-maven-plugin
+

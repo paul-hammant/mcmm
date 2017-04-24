@@ -1,0 +1,8 @@
+metadata:
+ groupId: ldapsdk
+ artifactId: ldapsdk
+ version: '4.1'
+ versioning:
+  versions:
+   version: '4.1'
+

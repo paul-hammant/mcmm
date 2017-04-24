@@ -1,0 +1,15 @@
+metadata:
+ groupId: se.vgregion.innovationsslussen-theme
+ artifactId: innovationsslussen-theme-core-bc
+ versioning:
+  latest: '1.4'
+  release: '1.4'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+   - '1.3'
+   - '1.4'
+  lastUpdated: '20131105102734'
+

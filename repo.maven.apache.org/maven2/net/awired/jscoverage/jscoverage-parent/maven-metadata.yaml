@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.awired.jscoverage
+ artifactId: jscoverage-parent
+ versioning:
+  latest: '0.2'
+  release: '0.2'
+  versions:
+   version: '0.2'
+  lastUpdated: '20120227152651'
+

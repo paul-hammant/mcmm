@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Executable Jar Maven Plugin
+   prefix: exec-jar
+   artifactId: exec-jar-plugin
+

@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: HoloEverywhere Builder
+   prefix: builder
+   artifactId: builder
+  - name: HoloEverywhere ResBuilder
+   prefix: resbuilder
+   artifactId: resbuilder
+  - name: HoloEverywhere Translator
+   prefix: translator
+   artifactId: translator
+

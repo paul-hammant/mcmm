@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'JOnAS :: Tools :: Maven :: GenIC plugin'
+   prefix: genic
+   artifactId: maven-genic-plugin
+  - name: 'JOnAS :: Tools :: Maven :: Packaging plugin'
+   prefix: packaging
+   artifactId: maven-packaging-plugin
+  - name: 'JOnAS :: Tools :: Maven :: WSGen plugin'
+   prefix: wsgen
+   artifactId: maven-wsgen-plugin
+

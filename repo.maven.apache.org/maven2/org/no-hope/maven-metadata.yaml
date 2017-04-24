@@ -1,0 +1,15 @@
+metadata:
+ plugins:
+  plugin:
+  - name: coveralls-extensions-maven-plugin
+   prefix: coveralls-extensions
+   artifactId: coveralls-extensions-maven-plugin
+  - prefix: jacoco-aggregator
+   artifactId: jacoco-aggregator-maven-plugin
+  - name: protoc-jar-maven-plugin
+   prefix: protoc-jar
+   artifactId: protoc-jar-maven-plugin
+  - name: Maven Protoc Plugin
+   prefix: protoc
+   artifactId: protoc-maven-plugin
+

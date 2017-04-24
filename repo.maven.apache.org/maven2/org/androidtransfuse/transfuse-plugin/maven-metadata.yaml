@@ -1,0 +1,19 @@
+metadata:
+ groupId: org.androidtransfuse
+ artifactId: transfuse-plugin
+ versioning:
+  latest: 0.3.0-beta-9
+  release: 0.3.0-beta-9
+  versions:
+   version:
+   - 0.3.0-beta-1
+   - 0.3.0-beta-2
+   - 0.3.0-beta-3
+   - 0.3.0-beta-4
+   - 0.3.0-beta-5
+   - 0.3.0-beta-6
+   - 0.3.0-beta-7
+   - 0.3.0-beta-8
+   - 0.3.0-beta-9
+  lastUpdated: '20160405030613'
+

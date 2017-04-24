@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.apache.giraph
+ artifactId: giraph-hcatalog
+ versioning:
+  latest: 1.2.0-hadoop2
+  release: 1.2.0-hadoop2
+  versions:
+   version:
+   - 1.1.0
+   - 1.1.0-hadoop2
+   - 1.2.0
+   - 1.2.0-hadoop2
+  lastUpdated: '20161022042116'
+

@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.apache.jclouds.provider
+ artifactId: rackspace-cloudfiles-uk
+ versioning:
+  latest: 2.0.1
+  release: 2.0.1
+  versions:
+   version:
+   - 1.9.1
+   - 1.9.2
+   - 1.9.3
+   - 2.0.0
+   - 2.0.1
+  lastUpdated: '20170227150715'
+

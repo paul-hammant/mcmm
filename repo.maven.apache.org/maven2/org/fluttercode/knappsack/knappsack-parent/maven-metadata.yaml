@@ -1,0 +1,14 @@
+metadata:
+ groupId: org.fluttercode.knappsack
+ artifactId: knappsack-parent
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - 1.0.8
+   - 1.0.9
+   - 1.0.10
+   - '1.1'
+  lastUpdated: '20110406024413'
+

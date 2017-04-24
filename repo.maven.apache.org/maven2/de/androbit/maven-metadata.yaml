@@ -1,0 +1,19 @@
+metadata:
+ plugins:
+  plugin:
+  - name: brainslug-maven-bpmn-plugin
+   prefix: brainslug
+   artifactId: brainslug-maven-bpmn
+  - name: brainslug-maven-bpmn-plugin
+   prefix: brainslugbpmn
+   artifactId: brainslug-maven-bpmn
+  - name: brainslug-maven-renderer-plugin
+   prefix: brainslug
+   artifactId: brainslug-maven-renderer
+  - name: brainslug-maven-renderer-plugin
+   prefix: brainslugrenderer
+   artifactId: brainslug-maven-renderer
+  - name: raml converter maven plugin
+   prefix: raml-converter
+   artifactId: raml-converter-maven-plugin
+

@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.jboss.pressgang.ccms
+ artifactId: jcommander-pressgang
+ versioning:
+  latest: '1.24'
+  release: '1.24'
+  versions:
+   version: '1.24'
+  lastUpdated: '20140223230742'
+

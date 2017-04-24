@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: APT Repository Generator
+   prefix: apt-repo
+   artifactId: apt-repo
+  - name: Release Version Build Helper
+   prefix: release-version
+   artifactId: release-version
+

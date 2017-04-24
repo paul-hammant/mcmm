@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.uni-passau.fim.seibt
+ artifactId: kvconfig
+ versioning:
+  latest: '1.0'
+  release: '1.0'
+  versions:
+   version: '1.0'
+  lastUpdated: '20151003132946'
+

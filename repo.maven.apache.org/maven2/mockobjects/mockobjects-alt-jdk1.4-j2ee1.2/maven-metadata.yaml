@@ -1,0 +1,8 @@
+metadata:
+ groupId: mockobjects
+ artifactId: mockobjects-alt-jdk1.4-j2ee1.2
+ version: '0.09'
+ versioning:
+  versions:
+   version: '0.09'
+

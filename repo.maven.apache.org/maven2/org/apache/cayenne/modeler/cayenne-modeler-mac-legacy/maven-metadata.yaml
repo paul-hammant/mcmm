@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.apache.cayenne.modeler
+ artifactId: cayenne-modeler-mac-legacy
+ versioning:
+  latest: 4.0.M2
+  release: 4.0.M2
+  versions:
+   version: 4.0.M2
+  lastUpdated: '20150316101905'
+

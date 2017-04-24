@@ -1,0 +1,11 @@
+metadata:
+ groupId: dentaku
+ artifactId: gentaku-summit-cartridge
+ version: '20050208.175344'
+ versioning:
+  versions:
+   version:
+   - '20050208.175344'
+   - '20050208.175843'
+   - '20050708.211103'
+

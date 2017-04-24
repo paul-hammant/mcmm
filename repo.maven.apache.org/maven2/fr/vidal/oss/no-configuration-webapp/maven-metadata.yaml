@@ -1,0 +1,10 @@
+metadata:
+ groupId: fr.vidal.oss
+ artifactId: no-configuration-webapp
+ versioning:
+  latest: 0.4.1
+  release: 0.4.1
+  versions:
+   version: 0.4.1
+  lastUpdated: '20151110102429'
+

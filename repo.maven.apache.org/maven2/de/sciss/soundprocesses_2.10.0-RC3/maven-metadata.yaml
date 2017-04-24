@@ -1,0 +1,10 @@
+metadata:
+ groupId: de.sciss
+ artifactId: soundprocesses_2.10.0-RC3
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version: 1.1.2
+  lastUpdated: '20121202142602'
+

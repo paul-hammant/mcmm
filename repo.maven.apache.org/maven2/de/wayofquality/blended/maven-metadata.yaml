@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: ${project.artifactId}
+   prefix: blended-updater
+   artifactId: blended-updater-maven-plugin
+

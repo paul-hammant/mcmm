@@ -1,0 +1,15 @@
+metadata:
+ groupId: org.seleniumhq.selenium
+ artifactId: selenium-remote-client
+ versioning:
+  latest: 2.0b1
+  release: 2.0b1
+  versions:
+   version:
+   - 2.0a4
+   - 2.0a5
+   - 2.0a6
+   - 2.0a7
+   - 2.0b1
+  lastUpdated: '20110101212954'
+

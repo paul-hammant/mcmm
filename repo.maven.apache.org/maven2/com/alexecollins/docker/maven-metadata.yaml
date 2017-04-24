@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Docker Maven Plugin
+   prefix: docker
+   artifactId: docker-maven-plugin
+

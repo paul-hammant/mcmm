@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.jspwiki.it
+ artifactId: jspwiki-it-test-custom-absolute-urls
+ versioning:
+  latest: 2.10.2
+  release: 2.10.2
+  versions:
+   version:
+   - 2.10.0
+   - 2.10.1
+   - 2.10.2
+  lastUpdated: '20160220171309'
+

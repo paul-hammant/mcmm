@@ -1,0 +1,12 @@
+metadata:
+ groupId: io.onetapbeyond
+ artifactId: opencpu-r-executor
+ versioning:
+  latest: '1.1'
+  release: '1.1'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+  lastUpdated: '20160101214700'
+

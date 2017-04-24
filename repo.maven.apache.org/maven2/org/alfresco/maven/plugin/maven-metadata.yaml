@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Alfresco Maven Plugin
+   prefix: alfresco
+   artifactId: alfresco-maven-plugin
+

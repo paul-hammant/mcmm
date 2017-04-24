@@ -1,0 +1,8 @@
+metadata:
+ plugins:
+  plugin:
+  - prefix: kdoc
+   artifactId: kdoc-maven-plugin
+  - prefix: kotlin
+   artifactId: kotlin-maven-plugin
+

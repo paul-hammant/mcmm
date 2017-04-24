@@ -1,0 +1,10 @@
+metadata:
+ groupId: net.disy.jquery
+ artifactId: jquery-ui-custom
+ versioning:
+  latest: 1.8.2
+  release: 1.8.2
+  versions:
+   version: 1.8.2
+  lastUpdated: '20110315080123'
+

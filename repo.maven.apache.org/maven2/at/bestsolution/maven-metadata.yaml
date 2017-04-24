@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: bindex2 maven plugin
+   prefix: bindex
+   artifactId: bindex-maven-plugin
+

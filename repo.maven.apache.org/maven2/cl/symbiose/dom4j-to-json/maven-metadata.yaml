@@ -1,0 +1,14 @@
+metadata:
+ groupId: cl.symbiose
+ artifactId: dom4j-to-json
+ versioning:
+  latest: 1.1.2
+  release: 1.1.2
+  versions:
+   version:
+   - 1.0.1
+   - 1.1.0
+   - 1.1.1
+   - 1.1.2
+  lastUpdated: '20150731185250'
+

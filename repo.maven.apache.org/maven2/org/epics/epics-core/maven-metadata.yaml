@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.epics
+ artifactId: epics-core
+ versioning:
+  latest: 4.6.0-pre1
+  release: 4.6.0-pre1
+  versions:
+   version:
+   - 4.6.0-rc1
+   - 4.6.0
+   - 4.6.0-pre1
+  lastUpdated: '20160918205029'
+

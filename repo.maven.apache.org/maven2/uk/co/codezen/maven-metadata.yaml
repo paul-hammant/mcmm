@@ -1,0 +1,16 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven composer plugin
+   prefix: composer
+   artifactId: composer-maven-plugin
+  - name: MVEL templating Maven Mojo
+   prefix: mvel
+   artifactId: mvel-maven-plugin
+  - name: React JSX Transformer Maven Mojo
+   prefix: react-jsxtransformer
+   artifactId: react-jsxtransformer-maven-plugin
+  - name: maven-redlinerpm-plugin Maven Mojo
+   prefix: redlinerpm
+   artifactId: redlinerpm-maven-plugin
+

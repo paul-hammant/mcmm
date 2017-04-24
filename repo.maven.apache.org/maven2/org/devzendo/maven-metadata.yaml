@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: CrossPlatformLauncherPlugin
+   prefix: CrossPlatformLauncherPlugin
+   artifactId: CrossPlatformLauncherPlugin
+

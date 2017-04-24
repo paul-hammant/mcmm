@@ -1,0 +1,8 @@
+metadata:
+ groupId: jarjar
+ artifactId: jarjar
+ version: '0.2'
+ versioning:
+  versions:
+   version: '0.2'
+

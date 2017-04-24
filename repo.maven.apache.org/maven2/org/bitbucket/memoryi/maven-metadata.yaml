@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: maven-framework-plugin Maven Mojo
+   prefix: framework
+   artifactId: maven-framework-plugin
+

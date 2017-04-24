@@ -1,0 +1,34 @@
+metadata:
+ plugins:
+  plugin:
+  - name: 'Camel :: Maven Plugins :: BOM Generator'
+   prefix: bom-generator
+   artifactId: bom-generator-maven-plugin
+  - name: 'Camel :: Maven Plugins :: Camel API Component Plugin'
+   prefix: camel-api-component
+   artifactId: camel-api-component-maven-plugin
+  - name: 'Camel :: Maven Plugins :: Camel EIP Documentation Enricher Plugin'
+   prefix: camel-eip-documentation-enricher
+   artifactId: camel-eip-documentation-enricher-maven-plugin
+  - name: 'Camel :: Maven Plugins :: Camel Maven Run'
+   prefix: camel
+   artifactId: camel-maven-plugin
+  - name: 'Camel :: Maven Plugins :: Camel Maven Run'
+   prefix: camel
+   artifactId: camel-maven-plugin
+  - name: 'Camel :: Maven Plugins :: Camel Maven Package'
+   prefix: camel-package
+   artifactId: camel-package-maven-plugin
+  - name: 'Camel :: Maven Plugins :: Camel Maven Guice'
+   prefix: guice
+   artifactId: guice-maven-plugin
+  - name: 'Camel :: Maven Plugins :: Camel Maven Guice'
+   prefix: guice
+   artifactId: guice-maven-plugin
+  - name: 'Camel :: Html to Pdf Plugin'
+   prefix: html-to-pdf
+   artifactId: maven-html-to-pdf
+  - name: 'Camel :: Maven Plugins :: Camel Manual'
+   prefix: html-to-pdf
+   artifactId: maven-html-to-pdf
+

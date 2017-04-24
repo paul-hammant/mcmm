@@ -1,0 +1,8 @@
+metadata:
+ groupId: activemq
+ artifactId: jaxb-api
+ version: '20050407'
+ versioning:
+  versions:
+   version: '20050407'
+

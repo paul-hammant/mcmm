@@ -1,0 +1,12 @@
+metadata:
+ groupId: it.unibo.alchemist
+ artifactId: alchemist-executionhelpers
+ versioning:
+  latest: 0.1.0
+  release: 0.1.0
+  versions:
+   version:
+   - 0.0.0
+   - 0.1.0
+  lastUpdated: '20150204143459'
+

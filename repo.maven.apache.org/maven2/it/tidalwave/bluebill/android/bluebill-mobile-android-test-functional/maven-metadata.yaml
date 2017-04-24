@@ -1,0 +1,18 @@
+metadata:
+ groupId: it.tidalwave.bluebill.android
+ artifactId: bluebill-mobile-android-test-functional
+ versioning:
+  latest: '0.15'
+  release: '0.15'
+  versions:
+   version:
+   - 0.14.RC1
+   - '0.14'
+   - 0.14.1.RC1
+   - 0.14.1.RC2
+   - 0.14.1.RC3
+   - 0.14.1
+   - 0.15.RC1
+   - '0.15'
+  lastUpdated: '20100903112520'
+

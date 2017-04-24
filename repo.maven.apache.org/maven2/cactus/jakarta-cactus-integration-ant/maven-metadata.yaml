@@ -1,0 +1,11 @@
+metadata:
+ groupId: cactus
+ artifactId: jakarta-cactus-integration-ant
+ versioning:
+  versions:
+   version:
+   - 13-1.5dev-20030426
+   - 13-1.5dev-20030407
+   - 13-1.5dev-20030325
+   - 13-1.5dev-20030329
+

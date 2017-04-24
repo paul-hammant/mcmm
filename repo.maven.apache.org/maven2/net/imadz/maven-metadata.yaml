@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Lifecycle Weaver
+   prefix: lifecycle-static-weaving
+   artifactId: lifecycle-static-weaving-maven-plugin
+

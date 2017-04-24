@@ -1,0 +1,17 @@
+metadata:
+ groupId: org.primefaces
+ artifactId: primefaces
+ versioning:
+  latest: '6.1'
+  release: '6.1'
+  versions:
+   version:
+   - '4.0'
+   - '5.0'
+   - '5.1'
+   - '5.2'
+   - '5.3'
+   - '6.0'
+   - '6.1'
+  lastUpdated: '20170419103726'
+

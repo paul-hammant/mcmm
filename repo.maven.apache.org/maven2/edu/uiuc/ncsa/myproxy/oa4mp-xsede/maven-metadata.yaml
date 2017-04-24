@@ -1,0 +1,10 @@
+metadata:
+ groupId: edu.uiuc.ncsa.myproxy
+ artifactId: oa4mp-xsede
+ versioning:
+  latest: '7'
+  release: '7'
+  versions:
+   version: '7'
+  lastUpdated: '20141002175256'
+

@@ -1,0 +1,13 @@
+metadata:
+ groupId: net.sf.beaver
+ artifactId: beaver-rt
+ versioning:
+  latest: 0.9.11
+  release: 0.9.11
+  versions:
+   version:
+   - 0.9.9
+   - 0.9.10
+   - 0.9.11
+  lastUpdated: '20121218231017'
+

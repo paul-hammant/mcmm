@@ -1,0 +1,9 @@
+metadata:
+ groupId: com.atlassian.pom
+ artifactId: atlassian-public-pom
+ version: '16'
+ versioning:
+  versions:
+   version: '16'
+  lastUpdated: '20080827055413'
+

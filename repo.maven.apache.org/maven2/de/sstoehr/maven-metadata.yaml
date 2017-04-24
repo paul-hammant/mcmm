@@ -1,0 +1,13 @@
+metadata:
+ plugins:
+  plugin:
+  - name: handlebars-maven-plugin
+   prefix: handlebars
+   artifactId: handlebars-maven-plugin
+  - name: image-optimizer-maven-plugin
+   prefix: image-optimizer
+   artifactId: image-optimizer-maven-plugin
+  - name: pustefix-i18n-maven-plugin
+   prefix: pustefix-i18n
+   artifactId: pustefix-i18n-maven-plugin
+

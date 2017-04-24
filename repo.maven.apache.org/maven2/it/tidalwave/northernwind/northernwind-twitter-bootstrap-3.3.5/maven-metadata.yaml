@@ -1,0 +1,10 @@
+metadata:
+ groupId: it.tidalwave.northernwind
+ artifactId: northernwind-twitter-bootstrap-3.3.5
+ versioning:
+  latest: '1'
+  release: '1'
+  versions:
+   version: '1'
+  lastUpdated: '20150731212048'
+

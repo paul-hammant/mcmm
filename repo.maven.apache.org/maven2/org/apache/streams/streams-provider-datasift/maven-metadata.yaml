@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.apache.streams
+ artifactId: streams-provider-datasift
+ versioning:
+  latest: 0.3-incubating
+  release: 0.3-incubating
+  versions:
+   version:
+   - 0.1-incubating
+   - 0.2-incubating
+   - 0.3-incubating
+  lastUpdated: '20160929152107'
+

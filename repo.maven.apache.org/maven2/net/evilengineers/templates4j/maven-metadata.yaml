@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Templates4J maven plugin
+   prefix: templates4j
+   artifactId: templates4j-maven-plugin
+

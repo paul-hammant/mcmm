@@ -1,0 +1,13 @@
+metadata:
+ groupId: org.daisy.pipeline.modules
+ artifactId: nlp-break-detection
+ versioning:
+  latest: 2.0.0
+  release: 2.0.0
+  versions:
+   version:
+   - 1.0.0
+   - 1.1.0
+   - 2.0.0
+  lastUpdated: '20160919075912'
+

@@ -1,0 +1,22 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Maven Changes Plugin
+   prefix: changes
+   artifactId: changes-maven-plugin
+  - name: Clirr Maven Plugin
+   prefix: clirr
+   artifactId: clirr-maven-plugin
+  - name: Neo4j documentation assembler
+   prefix: docs
+   artifactId: docs-maven-plugin
+  - name: Ease Maven Plugin
+   prefix: ease
+   artifactId: ease-maven-plugin
+  - name: ${project.artifactId}
+   prefix: license
+   artifactId: license-maven-plugin
+  - name: Licensing Maven Mojo
+   prefix: licensing
+   artifactId: licensing-maven-plugin
+

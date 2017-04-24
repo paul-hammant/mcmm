@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: humpty-maven-plugin
+   prefix: humpty
+   artifactId: humpty-maven-plugin
+

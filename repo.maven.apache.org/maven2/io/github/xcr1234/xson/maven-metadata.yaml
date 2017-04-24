@@ -1,0 +1,13 @@
+metadata:
+ groupId: io.github.xcr1234
+ artifactId: xson
+ versioning:
+  latest: '1.2'
+  release: '1.2'
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+   - '1.2'
+  lastUpdated: '20161127151630'
+

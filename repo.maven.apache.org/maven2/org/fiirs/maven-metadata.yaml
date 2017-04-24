@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Drools Knowledge Packager Maven Plugin
+   prefix: drools-knowledge-packager
+   artifactId: drools-knowledge-packager
+

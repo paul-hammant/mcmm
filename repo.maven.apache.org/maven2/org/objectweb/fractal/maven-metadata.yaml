@@ -1,0 +1,7 @@
+metadata:
+ plugins:
+  plugin:
+   name: Maven bootstrap cecilia plugin
+   prefix: bootstrap-cecilia
+   artifactId: maven-bootstrap-cecilia-plugin
+

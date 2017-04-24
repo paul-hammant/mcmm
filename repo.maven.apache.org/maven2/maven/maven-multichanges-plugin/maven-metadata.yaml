@@ -1,0 +1,10 @@
+metadata:
+ groupId: maven
+ artifactId: maven-multichanges-plugin
+ version: '1.0'
+ versioning:
+  versions:
+   version:
+   - '1.0'
+   - '1.1'
+

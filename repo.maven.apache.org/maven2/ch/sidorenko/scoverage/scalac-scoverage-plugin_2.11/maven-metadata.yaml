@@ -1,0 +1,11 @@
+metadata:
+ '@modelVersion': 1.1.0
+ groupId: ch.sidorenko.scoverage
+ artifactId: scalac-scoverage-plugin_2.11
+ versioning:
+  latest: 1.1.0-JS
+  release: 1.1.0-JS
+  versions:
+   version: 1.1.0-JS
+  lastUpdated: '20150615213454'
+

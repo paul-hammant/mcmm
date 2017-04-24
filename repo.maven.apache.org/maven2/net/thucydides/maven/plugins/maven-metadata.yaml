@@ -1,0 +1,10 @@
+metadata:
+ plugins:
+  plugin:
+  - name: Thucydides Maven Plugin
+   prefix: thucydides
+   artifactId: maven-thucydides-plugin
+  - name: thucydides-dashboard Maven Mojo
+   prefix: thucydides-dashboard
+   artifactId: thucydides-dashboard-maven-plugin
+

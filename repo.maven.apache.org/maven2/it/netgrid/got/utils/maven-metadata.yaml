@@ -1,0 +1,12 @@
+metadata:
+ groupId: it.netgrid.got
+ artifactId: utils
+ versioning:
+  latest: 0.0.4
+  release: 0.0.4
+  versions:
+   version:
+   - 0.0.1
+   - 0.0.4
+  lastUpdated: '20170401145521'
+

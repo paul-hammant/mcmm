@@ -1,0 +1,10 @@
+metadata:
+ groupId: org.andromda.timetracker
+ artifactId: timetracker-common
+ versioning:
+  latest: '3.4'
+  release: '3.4'
+  versions:
+   version: '3.4'
+  lastUpdated: '20120908162306'
+

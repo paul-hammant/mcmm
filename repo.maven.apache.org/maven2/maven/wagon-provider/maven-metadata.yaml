@@ -1,0 +1,8 @@
+metadata:
+ groupId: maven
+ artifactId: wagon-provider
+ version: test-1.0-alpha-3
+ versioning:
+  versions:
+   version: test-1.0-alpha-3
+

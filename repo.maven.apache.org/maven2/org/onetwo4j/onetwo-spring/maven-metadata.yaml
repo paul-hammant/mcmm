@@ -1,0 +1,12 @@
+metadata:
+ groupId: org.onetwo4j
+ artifactId: onetwo-spring
+ versioning:
+  latest: 4.3.7
+  release: 4.3.7
+  versions:
+   version:
+   - 4.3.6
+   - 4.3.7
+  lastUpdated: '20161227065502'
+

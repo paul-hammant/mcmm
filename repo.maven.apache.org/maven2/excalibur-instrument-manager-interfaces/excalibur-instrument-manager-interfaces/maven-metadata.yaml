@@ -1,0 +1,11 @@
+metadata:
+ groupId: excalibur-instrument-manager-interfaces
+ artifactId: excalibur-instrument-manager-interfaces
+ version: '0.1'
+ versioning:
+  versions:
+   version:
+   - '0.1'
+   - '1.0'
+   - '20021108'
+

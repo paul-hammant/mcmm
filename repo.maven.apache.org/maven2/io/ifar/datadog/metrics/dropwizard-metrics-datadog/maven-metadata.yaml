@@ -1,0 +1,10 @@
+metadata:
+ groupId: io.ifar.datadog.metrics
+ artifactId: dropwizard-metrics-datadog
+ versioning:
+  latest: '0'
+  release: '0'
+  versions:
+   version: '0'
+  lastUpdated: '20141029010957'
+
